@@ -208,26 +208,39 @@ def build_central_banks(cb_data: dict, today: date) -> list[dict]:
 def main(use_sample: bool = False) -> None:
     today = date.today()
 
-    if use_sample:
+    real = load_all_data()
+    have_real = bool(real["bloomberg"]) or bool(real["fred"]) or bool(real["calendar"])
+
+    if use_sample or not have_real:
         data = sample_data()
-        print("[build] Using sample data (--sample flag)")
+        print("[build] Using sample data" + (" (--sample flag)" if use_sample else ""))
     else:
-        data = load_all_data()
-        if not data["bloomberg"] and not data["fred"]:
-            print("[build] No real data found; falling back to sample data")
-            data = sample_data()
-        else:
-            print("[build] Loaded real data from data/")
+        # 샘플을 베이스로 깔고 실데이터로 덮어쓰기 (MVP 단계: 다른 fetcher 미구현 슬롯은 샘플 유지)
+        data = sample_data()
+        bbg = real.get("bloomberg", {})
+        for k, v in bbg.get("indicators", {}).items():
+            data["bloomberg"]["indicators"][k] = v
+        for k, v in bbg.get("central_banks", {}).items():
+            data["bloomberg"]["central_banks"][k] = v
+        if real.get("calendar", {}).get("events"):
+            data["calendar"] = real["calendar"]
+        print("[build] Loaded real data (sample fallback for missing slots)")
 
-    indicators_data = data.get("bloomberg", {}).get("indicators", {})
-    cb_data = data.get("bloomberg", {}).get("central_banks", {})
-    events = data.get("calendar", {}).get("events", [])
+    indicators_data = data["bloomberg"]["indicators"]
+    cb_data = data["bloomberg"]["central_banks"]
+    events = data["calendar"]["events"]
 
-    # FRED fallback for US indicators
-    fred_inds = data.get("fred", {}).get("indicators", {})
+    # FRED는 항상 마지막에 덮어쓰기 (US 우선)
+    fred_inds = real.get("fred", {}).get("indicators", {})
     for k, v in fred_inds.items():
-        if k not in indicators_data or indicators_data[k].get("actual") is None:
+        if v.get("actual") is not None:
             indicators_data[k] = v
+
+    fred_cb = real.get("fred", {}).get("central_banks", {})
+    for k, v in fred_cb.items():
+        if v.get("rate") is not None:
+            # FRED은 rate만 덮어씀 — next_meeting은 샘플/캘린더에서 유지
+            cb_data[k] = {**cb_data.get(k, {}), "rate": v["rate"], "source": "fred"}
 
     ctx = {
         "build_time": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
