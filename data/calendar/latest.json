@@ -1,0 +1,246 @@
+{
+  "fetched_at": "2026-05-26T04:08:37.255009+00:00",
+  "window_start": "2026-05-19",
+  "window_end": "2026-06-23",
+  "source": "schedule.yml",
+  "events": [
+    {
+      "date": "2026-05-19",
+      "country": "EU",
+      "indicator_id": "eu_hicp_yoy",
+      "time_kst": "18:00",
+      "note": "Apr final"
+    },
+    {
+      "date": "2026-05-19",
+      "country": "EU",
+      "indicator_id": "eu_core_hicp_yoy",
+      "time_kst": "18:00",
+      "note": ""
+    },
+    {
+      "date": "2026-05-20",
+      "country": "CA",
+      "indicator_id": "ca_cpi_yoy",
+      "time_kst": "21:30",
+      "note": "Apr data"
+    },
+    {
+      "date": "2026-05-20",
+      "country": "CA",
+      "indicator_id": "ca_core_trim",
+      "time_kst": "21:30",
+      "note": ""
+    },
+    {
+      "date": "2026-05-21",
+      "country": "UK",
+      "indicator_id": "uk_cpi_yoy",
+      "time_kst": "15:00",
+      "note": "Apr data"
+    },
+    {
+      "date": "2026-05-21",
+      "country": "UK",
+      "indicator_id": "uk_core_cpi_yoy",
+      "time_kst": "15:00",
+      "note": ""
+    },
+    {
+      "date": "2026-05-22",
+      "country": "JP",
+      "indicator_id": "jp_cpi_yoy",
+      "time_kst": "08:30",
+      "note": "Apr data"
+    },
+    {
+      "date": "2026-05-22",
+      "country": "JP",
+      "indicator_id": "jp_core_cpi",
+      "time_kst": "08:30",
+      "note": ""
+    },
+    {
+      "date": "2026-05-25",
+      "country": "SG",
+      "indicator_id": "sg_cpi_yoy",
+      "time_kst": "14:00",
+      "note": "Apr data"
+    },
+    {
+      "date": "2026-05-25",
+      "country": "SG",
+      "indicator_id": "sg_core_cpi",
+      "time_kst": "14:00",
+      "note": ""
+    },
+    {
+      "date": "2026-05-28",
+      "country": "AU",
+      "indicator_id": "au_cpi_yoy_m",
+      "time_kst": "10:30",
+      "note": "Apr (est)"
+    },
+    {
+      "date": "2026-05-29",
+      "country": "JP",
+      "indicator_id": "jp_tokyo_cpi",
+      "time_kst": "08:30",
+      "note": "May data"
+    },
+    {
+      "date": "2026-05-29",
+      "country": "EU",
+      "indicator_id": "eu_hicp_yoy",
+      "time_kst": "18:00",
+      "note": "May flash"
+    },
+    {
+      "date": "2026-05-29",
+      "country": "EU",
+      "indicator_id": "eu_core_hicp_yoy",
+      "time_kst": "18:00",
+      "note": ""
+    },
+    {
+      "date": "2026-05-29",
+      "country": "US",
+      "indicator_id": "us_pce_yoy",
+      "time_kst": "21:30",
+      "note": "Apr data"
+    },
+    {
+      "date": "2026-05-29",
+      "country": "US",
+      "indicator_id": "us_core_pce_yoy",
+      "time_kst": "21:30",
+      "note": ""
+    },
+    {
+      "date": "2026-06-10",
+      "country": "CA",
+      "indicator_id": "boc",
+      "time_kst": "22:45",
+      "note": ""
+    },
+    {
+      "date": "2026-06-11",
+      "country": "EU",
+      "indicator_id": "ecb",
+      "time_kst": "21:15",
+      "note": "라가르드 회견 21:45"
+    },
+    {
+      "date": "2026-06-11",
+      "country": "US",
+      "indicator_id": "us_cpi_yoy",
+      "time_kst": "21:30",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-11",
+      "country": "US",
+      "indicator_id": "us_core_cpi_yoy",
+      "time_kst": "21:30",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-16",
+      "country": "JP",
+      "indicator_id": "boj",
+      "time_kst": "12:00",
+      "note": ""
+    },
+    {
+      "date": "2026-06-16",
+      "country": "AU",
+      "indicator_id": "rba",
+      "time_kst": "13:30",
+      "note": ""
+    },
+    {
+      "date": "2026-06-17",
+      "country": "UK",
+      "indicator_id": "uk_cpi_yoy",
+      "time_kst": "15:00",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-17",
+      "country": "UK",
+      "indicator_id": "uk_core_cpi_yoy",
+      "time_kst": "15:00",
+      "note": ""
+    },
+    {
+      "date": "2026-06-18",
+      "country": "US",
+      "indicator_id": "fomc",
+      "time_kst": "03:00",
+      "note": "SEP + 회견 03:30"
+    },
+    {
+      "date": "2026-06-18",
+      "country": "EU",
+      "indicator_id": "eu_hicp_yoy",
+      "time_kst": "18:00",
+      "note": "May final"
+    },
+    {
+      "date": "2026-06-18",
+      "country": "EU",
+      "indicator_id": "eu_core_hicp_yoy",
+      "time_kst": "18:00",
+      "note": ""
+    },
+    {
+      "date": "2026-06-18",
+      "country": "UK",
+      "indicator_id": "boe",
+      "time_kst": "20:00",
+      "note": ""
+    },
+    {
+      "date": "2026-06-19",
+      "country": "JP",
+      "indicator_id": "jp_cpi_yoy",
+      "time_kst": "08:30",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-19",
+      "country": "JP",
+      "indicator_id": "jp_core_cpi",
+      "time_kst": "08:30",
+      "note": ""
+    },
+    {
+      "date": "2026-06-23",
+      "country": "SG",
+      "indicator_id": "sg_cpi_yoy",
+      "time_kst": "14:00",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-23",
+      "country": "SG",
+      "indicator_id": "sg_core_cpi",
+      "time_kst": "14:00",
+      "note": ""
+    },
+    {
+      "date": "2026-06-23",
+      "country": "CA",
+      "indicator_id": "ca_cpi_yoy",
+      "time_kst": "21:30",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-23",
+      "country": "CA",
+      "indicator_id": "ca_core_trim",
+      "time_kst": "21:30",
+      "note": ""
+    }
+  ]
+}

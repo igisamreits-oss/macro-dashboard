@@ -1,0 +1,118 @@
+# Macro Calendar Schedule
+#
+# 모든 날짜·시각은 KST 기준 (대시보드 표시 시점).
+# 중앙은행 회의: 공식 사이트에서 확인된 일정.
+# CPI 발표일: 통계청별 사전공지 패턴 기반 추정 (Bloomberg ECO 연동 시 정확값으로 덮어쓰기).
+#
+# 매월 갱신 필요: CPI 추정 일정은 통계청 공식 캘린더 확인 후 보정.
+
+events:
+
+  # ─────────────────────────────────────────────────────────────
+  # 중앙은행 정책결정 (공식 일정, KST 변환)
+  # ─────────────────────────────────────────────────────────────
+
+  # FOMC (미국) — 14:00 ET 결정, 14:30 ET 파월 회견
+  - {indicator_id: "fomc", date: "2026-06-18", time_kst: "03:00", note: "SEP + 회견 03:30"}
+  - {indicator_id: "fomc", date: "2026-07-30", time_kst: "03:00"}
+  - {indicator_id: "fomc", date: "2026-09-17", time_kst: "03:00", note: "SEP"}
+  - {indicator_id: "fomc", date: "2026-10-29", time_kst: "03:00"}
+  - {indicator_id: "fomc", date: "2026-12-10", time_kst: "04:00", note: "SEP (EST)"}
+
+  # ECB (유럽) — 13:15 CET 결정, 13:45 라가르드 회견
+  - {indicator_id: "ecb", date: "2026-06-11", time_kst: "21:15", note: "라가르드 회견 21:45"}
+  - {indicator_id: "ecb", date: "2026-07-23", time_kst: "21:15"}
+  - {indicator_id: "ecb", date: "2026-09-10", time_kst: "21:15"}
+  - {indicator_id: "ecb", date: "2026-10-29", time_kst: "22:15", note: "CET (DST 종료 후)"}
+  - {indicator_id: "ecb", date: "2026-12-17", time_kst: "22:15"}
+
+  # BoE (영국) — 12:00 BST/GMT
+  - {indicator_id: "boe", date: "2026-06-18", time_kst: "20:00"}
+  - {indicator_id: "boe", date: "2026-07-30", time_kst: "20:00"}
+  - {indicator_id: "boe", date: "2026-09-17", time_kst: "20:00"}
+  - {indicator_id: "boe", date: "2026-11-05", time_kst: "21:00", note: "GMT"}
+  - {indicator_id: "boe", date: "2026-12-17", time_kst: "21:00"}
+
+  # BoJ (일본) — 12:00 JST 발표 (회의 마지막 날)
+  - {indicator_id: "boj", date: "2026-06-16", time_kst: "12:00"}
+  - {indicator_id: "boj", date: "2026-07-31", time_kst: "12:00"}
+  - {indicator_id: "boj", date: "2026-09-18", time_kst: "12:00"}
+  - {indicator_id: "boj", date: "2026-10-30", time_kst: "12:00"}
+  - {indicator_id: "boj", date: "2026-12-18", time_kst: "12:00"}
+
+  # RBA (호주) — 14:30 Sydney (회의 둘째날)
+  - {indicator_id: "rba", date: "2026-06-16", time_kst: "13:30"}
+  - {indicator_id: "rba", date: "2026-08-11", time_kst: "13:30"}
+  - {indicator_id: "rba", date: "2026-09-29", time_kst: "13:30"}
+  - {indicator_id: "rba", date: "2026-11-03", time_kst: "12:30", note: "AEDT"}
+  - {indicator_id: "rba", date: "2026-12-08", time_kst: "12:30"}
+
+  # BoC (캐나다) — 09:45 ET
+  - {indicator_id: "boc", date: "2026-06-10", time_kst: "22:45"}
+  - {indicator_id: "boc", date: "2026-07-15", time_kst: "22:45"}
+  - {indicator_id: "boc", date: "2026-09-02", time_kst: "22:45"}
+  - {indicator_id: "boc", date: "2026-10-28", time_kst: "22:45"}
+  - {indicator_id: "boc", date: "2026-12-09", time_kst: "23:45", note: "EST"}
+
+  # MAS (싱가포르) — 반기 (4월, 10월) MPS
+  - {indicator_id: "mas", date: "2026-10-14", time_kst: "08:00", note: "추정; mas.gov.sg 확인 필요"}
+
+  # ─────────────────────────────────────────────────────────────
+  # CPI / 물가 (통계청별 사전공지 패턴 기반 추정)
+  # ─────────────────────────────────────────────────────────────
+
+  # US CPI / Core CPI — 08:30 ET, 다음달 중순
+  - {indicator_id: "us_cpi_yoy",      date: "2026-05-13", time_kst: "21:30", note: "Apr data"}
+  - {indicator_id: "us_core_cpi_yoy", date: "2026-05-13", time_kst: "21:30", note: "Apr data"}
+  - {indicator_id: "us_cpi_yoy",      date: "2026-06-11", time_kst: "21:30", note: "May (est)"}
+  - {indicator_id: "us_core_cpi_yoy", date: "2026-06-11", time_kst: "21:30", note: "May (est)"}
+
+  # US PCE / Core PCE — 08:30 ET, 월말
+  - {indicator_id: "us_pce_yoy",      date: "2026-05-29", time_kst: "21:30", note: "Apr data"}
+  - {indicator_id: "us_core_pce_yoy", date: "2026-05-29", time_kst: "21:30"}
+  - {indicator_id: "us_pce_yoy",      date: "2026-06-26", time_kst: "21:30", note: "May (est)"}
+  - {indicator_id: "us_core_pce_yoy", date: "2026-06-26", time_kst: "21:30"}
+
+  # Eurozone HICP (Flash 월말 + Final 다음달 중순)
+  - {indicator_id: "eu_hicp_yoy",      date: "2026-05-19", time_kst: "18:00", note: "Apr final"}
+  - {indicator_id: "eu_core_hicp_yoy", date: "2026-05-19", time_kst: "18:00"}
+  - {indicator_id: "eu_hicp_yoy",      date: "2026-05-29", time_kst: "18:00", note: "May flash"}
+  - {indicator_id: "eu_core_hicp_yoy", date: "2026-05-29", time_kst: "18:00"}
+  - {indicator_id: "eu_hicp_yoy",      date: "2026-06-18", time_kst: "18:00", note: "May final"}
+  - {indicator_id: "eu_core_hicp_yoy", date: "2026-06-18", time_kst: "18:00"}
+
+  # UK CPI / Core — 07:00 BST, Wed
+  - {indicator_id: "uk_cpi_yoy",      date: "2026-05-21", time_kst: "15:00", note: "Apr data"}
+  - {indicator_id: "uk_core_cpi_yoy", date: "2026-05-21", time_kst: "15:00"}
+  - {indicator_id: "uk_cpi_yoy",      date: "2026-06-17", time_kst: "15:00", note: "May (est)"}
+  - {indicator_id: "uk_core_cpi_yoy", date: "2026-06-17", time_kst: "15:00"}
+
+  # Japan National CPI — 08:30 JST, ~26일
+  - {indicator_id: "jp_cpi_yoy",      date: "2026-05-22", time_kst: "08:30", note: "Apr data"}
+  - {indicator_id: "jp_core_cpi",     date: "2026-05-22", time_kst: "08:30"}
+  - {indicator_id: "jp_cpi_yoy",      date: "2026-06-19", time_kst: "08:30", note: "May (est)"}
+  - {indicator_id: "jp_core_cpi",     date: "2026-06-19", time_kst: "08:30"}
+
+  # Japan Tokyo CPI (선행, 월말 금요일)
+  - {indicator_id: "jp_tokyo_cpi",    date: "2026-05-29", time_kst: "08:30", note: "May data"}
+  - {indicator_id: "jp_tokyo_cpi",    date: "2026-06-26", time_kst: "08:30", note: "Jun (est)"}
+
+  # Canada CPI / Trim — 08:30 ET, Tue
+  - {indicator_id: "ca_cpi_yoy",      date: "2026-05-20", time_kst: "21:30", note: "Apr data"}
+  - {indicator_id: "ca_core_trim",    date: "2026-05-20", time_kst: "21:30"}
+  - {indicator_id: "ca_cpi_yoy",      date: "2026-06-23", time_kst: "21:30", note: "May (est)"}
+  - {indicator_id: "ca_core_trim",    date: "2026-06-23", time_kst: "21:30"}
+
+  # Singapore CPI — 13:00 SGT, ~23일
+  - {indicator_id: "sg_cpi_yoy",      date: "2026-05-25", time_kst: "14:00", note: "Apr data"}
+  - {indicator_id: "sg_core_cpi",     date: "2026-05-25", time_kst: "14:00"}
+  - {indicator_id: "sg_cpi_yoy",      date: "2026-06-23", time_kst: "14:00", note: "May (est)"}
+  - {indicator_id: "sg_core_cpi",     date: "2026-06-23", time_kst: "14:00"}
+
+  # Australia Monthly CPI Indicator — 11:30 AEST, ~월말
+  - {indicator_id: "au_cpi_yoy_m",    date: "2026-05-28", time_kst: "10:30", note: "Apr (est)"}
+  - {indicator_id: "au_cpi_yoy_m",    date: "2026-06-25", time_kst: "10:30", note: "May (est)"}
+
+  # Australia Quarterly CPI (Q1 late Apr, Q2 late Jul, Q3 late Oct, Q4 late Jan)
+  - {indicator_id: "au_cpi_yoy_q",    date: "2026-07-29", time_kst: "10:30", note: "Q2 2026 (est)"}
+  - {indicator_id: "au_trimmed_mean", date: "2026-07-29", time_kst: "10:30"}

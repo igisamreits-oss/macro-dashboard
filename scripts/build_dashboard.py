@@ -175,13 +175,25 @@ def build_inflation_snapshot(indicators_data: dict) -> dict[str, list[dict]]:
 
 
 # ── Central bank cards ───────────────────────────────────────────────
-def build_central_banks(cb_data: dict, today: date) -> list[dict]:
+def build_central_banks(cb_data: dict, today: date, events: list[dict]) -> list[dict]:
+    # 캘린더 이벤트에서 각 CB의 다음 회의일 도출
+    next_meeting_by_cb: dict[str, str] = {}
+    for ev in sorted(events, key=lambda e: e["date"]):
+        if date.fromisoformat(ev["date"]) < today:
+            continue
+        cb_id = ev["indicator_id"]
+        if cb_id not in next_meeting_by_cb:
+            ind = config.get_indicator(cb_id)
+            if ind and ind["category"] == "central_bank":
+                next_meeting_by_cb[cb_id] = ev["date"]
+
     cards = []
     for ind in config.INDICATORS:
         if ind["category"] != "central_bank":
             continue
         d = cb_data.get(ind["id"], {})
-        next_meeting = d.get("next_meeting")
+        # 캘린더가 우선, 없으면 cb_data의 next_meeting
+        next_meeting = next_meeting_by_cb.get(ind["id"]) or d.get("next_meeting")
         is_imminent = False
         if next_meeting:
             try:
@@ -248,7 +260,7 @@ def main(use_sample: bool = False) -> None:
         "categories": config.CATEGORIES,
         "calendar": build_calendar(events, today),
         "inflation_by_country": build_inflation_snapshot(indicators_data),
-        "central_banks": build_central_banks(cb_data, today),
+        "central_banks": build_central_banks(cb_data, today, events),
     }
 
     env = Environment(
