@@ -18,6 +18,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import io
 import json
 import sys
 import warnings
@@ -25,6 +26,12 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 warnings.filterwarnings("ignore")
+
+# Windows 한국어 환경(cp949)에서 unicode 글자 출력 깨짐 방지
+if hasattr(sys.stdout, "buffer"):
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "buffer"):
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
 import pandas as pd
 from xbbg import blp
@@ -81,21 +88,45 @@ def fetch_snapshot(ticker: str) -> dict:
 
 
 def fetch_event(ticker: str) -> dict:
-    """Monthly/Quarterly 이벤트: 최신 actual + prior + 관측일."""
+    """Monthly/Quarterly 이벤트: 최신 actual + prior + consensus + 관측일.
+
+    PX_LAST와 BN_SURVEY_MEDIAN을 같이 받아서 같은 release period로 align.
+    """
     end = date.today()
     start = end - timedelta(days=540)
-    raw = blp.bdh(ticker, "PX_LAST", start_date=start, end_date=end)
-    df = _extract_long(_to_pandas(raw))
-    if df.empty:
+    raw = blp.bdh(ticker, ["PX_LAST", "BN_SURVEY_MEDIAN"], start_date=start, end_date=end)
+    df_raw = _to_pandas(raw)
+    if df_raw is None or df_raw.empty:
         return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "empty"}
 
-    actual = float(df["value"].iloc[-1])
-    prior = float(df["value"].iloc[-2]) if len(df) >= 2 else None
+    if not {"date", "field", "value"}.issubset(df_raw.columns):
+        return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "bad schema"}
+
+    # field별로 피벗: date × {PX_LAST, BN_SURVEY_MEDIAN}
+    pv = df_raw.pivot_table(index="date", columns="field", values="value", aggfunc="last")
+    pv = pv.sort_index()
+    if "PX_LAST" not in pv.columns:
+        return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "no PX_LAST"}
+
+    actuals = pv["PX_LAST"].dropna()
+    if actuals.empty:
+        return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "no actuals"}
+
+    latest_date = actuals.index[-1]
+    actual = float(actuals.iloc[-1])
+    prior = float(actuals.iloc[-2]) if len(actuals) >= 2 else None
+
+    consensus = None
+    if "BN_SURVEY_MEDIAN" in pv.columns:
+        c = pv.loc[latest_date, "BN_SURVEY_MEDIAN"]
+        if pd.notna(c):
+            consensus = round(float(c), 4)
+
     return {
         "actual": round(actual, 4),
         "prior": round(prior, 4) if prior is not None else None,
-        "consensus": None,  # v2에서 ECO_SURVEY_MEDIAN 추가 예정
-        "release_date": df["date"].iloc[-1].strftime("%Y-%m-%d"),
+        "consensus": consensus,
+        "release_date": pd.Timestamp(latest_date).strftime("%Y-%m-%d"),
     }
 
 
@@ -169,7 +200,9 @@ def main(ticker_filter: list[str] | None = None) -> None:
                 result = fetch_event(ticker)
                 if result.get("actual") is not None:
                     indicators_out[ind["id"]] = result
-                    print(f"actual={result['actual']} prior={result['prior']} ({result['release_date']})")
+                    cons = result.get("consensus")
+                    cons_str = f"cons={cons}" if cons is not None else "cons=-"
+                    print(f"act={result['actual']} {cons_str} prior={result['prior']} ({result['release_date']})")
                     success += 1
                 else:
                     print(f"FAIL: {result.get('error', 'no actual')}")
