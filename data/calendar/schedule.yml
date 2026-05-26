@@ -93,9 +93,9 @@ events:
   - {indicator_id: "jp_cpi_yoy",      date: "2026-06-19", time_kst: "08:30", note: "May (est)"}
   - {indicator_id: "jp_core_cpi",     date: "2026-06-19", time_kst: "08:30"}
 
-  # Japan Tokyo CPI (선행, 월말 금요일)
-  - {indicator_id: "jp_tokyo_cpi",    date: "2026-05-29", time_kst: "08:30", note: "May data"}
-  - {indicator_id: "jp_tokyo_cpi",    date: "2026-06-26", time_kst: "08:30", note: "Jun (est)"}
+  # Japan Core-Core CPI (전국 CPI와 동시 발표)
+  - {indicator_id: "jp_core_core",    date: "2026-05-22", time_kst: "08:30", note: "Apr data"}
+  - {indicator_id: "jp_core_core",    date: "2026-06-19", time_kst: "08:30", note: "May (est)"}
 
   # Canada CPI / Trim — 08:30 ET, Tue
   - {indicator_id: "ca_cpi_yoy",      date: "2026-05-20", time_kst: "21:30", note: "Apr data"}
@@ -109,10 +109,6 @@ events:
   - {indicator_id: "sg_cpi_yoy",      date: "2026-06-23", time_kst: "14:00", note: "May (est)"}
   - {indicator_id: "sg_core_cpi",     date: "2026-06-23", time_kst: "14:00"}
 
-  # Australia Monthly CPI Indicator — 11:30 AEST, ~월말
-  - {indicator_id: "au_cpi_yoy_m",    date: "2026-05-28", time_kst: "10:30", note: "Apr (est)"}
-  - {indicator_id: "au_cpi_yoy_m",    date: "2026-06-25", time_kst: "10:30", note: "May (est)"}
-
   # Australia Quarterly CPI (Q1 late Apr, Q2 late Jul, Q3 late Oct, Q4 late Jan)
   - {indicator_id: "au_cpi_yoy_q",    date: "2026-07-29", time_kst: "10:30", note: "Q2 2026 (est)"}
-  - {indicator_id: "au_trimmed_mean", date: "2026-07-29", time_kst: "10:30"}
+  - {indicator_id: "au_core_yoy",     date: "2026-07-29", time_kst: "10:30"}

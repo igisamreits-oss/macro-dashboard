@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-26T08:19:54.380346+00:00",
+  "fetched_at": "2026-05-26T08:35:13.623380+00:00",
   "stats": {
-    "total": 94,
-    "success": 70,
-    "failed": 24
+    "total": 80,
+    "success": 78,
+    "failed": 2
   },
   "indicators": {
     "us_cpi_yoy": {
@@ -54,6 +54,18 @@
       "consensus": null,
       "release_date": "2026-04-30"
     },
+    "sg_cpi_yoy": {
+      "actual": 1.8,
+      "prior": 1.8,
+      "consensus": 2.1,
+      "release_date": "2026-04-30"
+    },
+    "sg_core_cpi": {
+      "actual": 1.4,
+      "prior": 1.7,
+      "consensus": 1.8,
+      "release_date": "2026-04-30"
+    },
     "au_cpi_yoy_q": {
       "actual": 3.2,
       "prior": 2.1,
@@ -72,10 +84,22 @@
       "consensus": 1.7,
       "release_date": "2026-04-30"
     },
+    "jp_core_core": {
+      "actual": 1.9,
+      "prior": 2.4,
+      "consensus": 2.2,
+      "release_date": "2026-04-30"
+    },
     "ca_cpi_yoy": {
       "actual": 2.8,
       "prior": 2.4,
       "consensus": 3.1,
+      "release_date": "2026-04-30"
+    },
+    "ca_core_trim": {
+      "actual": 2.0,
+      "prior": 2.2,
+      "consensus": 2.2,
       "release_date": "2026-04-30"
     },
     "us_unemp": {
@@ -126,6 +150,12 @@
       "consensus": 3.7,
       "release_date": "2026-04-30"
     },
+    "sg_unemp": {
+      "actual": 2.1,
+      "prior": 2.0,
+      "consensus": null,
+      "release_date": "2026-03-31"
+    },
     "se_unemp": {
       "actual": 8.7,
       "prior": 9.7,
@@ -166,6 +196,18 @@
       "actual": 0.4,
       "prior": 0.9,
       "consensus": -0.3,
+      "release_date": "2026-04-30"
+    },
+    "de_construction_pmi": {
+      "actual": 42.1,
+      "prior": 48.0,
+      "consensus": null,
+      "release_date": "2026-04-30"
+    },
+    "fr_construction_pmi": {
+      "actual": 38.1,
+      "prior": 38.4,
+      "consensus": null,
       "release_date": "2026-04-30"
     },
     "jp_housing_starts_yoy": {
@@ -210,6 +252,12 @@
       "consensus": 89.0,
       "release_date": "2026-04-30"
     },
+    "ca_nanos": {
+      "actual": 51.7301,
+      "prior": 51.8801,
+      "consensus": null,
+      "release_date": "2026-05-22"
+    },
     "uk_gfk": {
       "actual": -25.0,
       "prior": -21.0,
@@ -219,6 +267,12 @@
     "eu_consumer_conf": {
       "actual": -20.6,
       "prior": -16.4,
+      "consensus": null,
+      "release_date": "2026-04-30"
+    },
+    "se_consumer_conf": {
+      "actual": 91.5,
+      "prior": 95.2,
       "consensus": null,
       "release_date": "2026-04-30"
     },
@@ -324,11 +378,6 @@
       "change_1d": -0.004,
       "as_of": "2026-05-22"
     },
-    "kr_cs_aa_3y": {
-      "value": 4.338,
-      "change_1d": -0.03,
-      "as_of": "2026-05-22"
-    },
     "us_be_10y": {
       "value": 2.4055,
       "change_1d": -0.004,
@@ -340,13 +389,13 @@
       "as_of": "2026-05-26"
     },
     "eu_be_10y": {
-      "value": 0.782,
-      "change_1d": 0.013,
+      "value": 0.783,
+      "change_1d": 0.014,
       "as_of": "2026-05-26"
     },
     "de_be_10y": {
-      "value": 2.1018,
-      "change_1d": 0.0076,
+      "value": 2.1028,
+      "change_1d": 0.0086,
       "as_of": "2026-05-26"
     },
     "fr_be_10y": {
@@ -360,8 +409,8 @@
       "as_of": "2026-05-26"
     },
     "jp_be_10y": {
-      "value": 2.288,
-      "change_1d": 0.059,
+      "value": 2.286,
+      "change_1d": 0.057,
       "as_of": "2026-05-26"
     },
     "se_be_10y": {

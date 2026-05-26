@@ -34,7 +34,6 @@ COUNTRIES = {
 # is_snapshot=False → 카테고리별 패널 + 캘린더 (이벤트형)
 CATEGORIES = {
     "policy_rate":         {"name_ko": "단기 정책금리",       "is_snapshot": True,  "order": 1, "emoji": "💵"},
-    "credit_spread":       {"name_ko": "크레딧 스프레드",      "is_snapshot": True,  "order": 2, "emoji": "📉"},
     "breakeven":           {"name_ko": "Breakeven 10Y",      "is_snapshot": True,  "order": 3, "emoji": "📈"},
     "mortgage_rate":       {"name_ko": "모기지금리",          "is_snapshot": True,  "order": 4, "emoji": "🏠"},
     "inflation":           {"name_ko": "물가",               "is_snapshot": False, "order": 5, "emoji": "📊"},
@@ -61,21 +60,12 @@ INDICATORS = [
     _ind(id="ca_pol_corra",    country="CA", category="policy_rate", name="CORRA",       name_ko="CORRA",      bbg="CAONREPO Index",  frequency="D", importance=2, decimals=2),
     _ind(id="uk_pol_sonia",    country="UK", category="policy_rate", name="SONIA",       name_ko="SONIA",      bbg="SONIO/N Index",   frequency="D", importance=2, decimals=2),
     _ind(id="eu_pol_estr",     country="EU", category="policy_rate", name="€STR",        name_ko="€STR",       bbg="ESTRON Index",    frequency="D", importance=2, decimals=2),
-    _ind(id="au_pol_3m",       country="AU", category="policy_rate", name="AUD 3M BBSW", name_ko="AUD 3M",     bbg="AU0003M Index",   frequency="D", importance=1, decimals=2, note="AU0003M discontinued — BBSW3M으로 교체 필요"),
-    _ind(id="jp_pol_1m",       country="JP", category="policy_rate", name="JPY 1M LIBOR",name_ko="JPY 1M",     bbg="JY0001M Index",   frequency="D", importance=1, decimals=2),
     _ind(id="kr_pol_cd91",     country="KR", category="policy_rate", name="KRW 91D CD",  name_ko="CD91",       bbg="KWCDC Curncy",    frequency="D", importance=2, decimals=2),
     _ind(id="sg_pol_sora",     country="SG", category="policy_rate", name="SORA",        name_ko="SORA",       bbg="SIBCSORA Index",  frequency="D", importance=2, decimals=2),
     _ind(id="hk_pol_hibor3m",  country="HK", category="policy_rate", name="HIBOR 3M",    name_ko="HIBOR 3M",   bbg="HIHD03M Index",   frequency="D", importance=2, decimals=2),
     _ind(id="se_pol_stib3m",   country="SE", category="policy_rate", name="STIBOR 3M",   name_ko="STIBOR 3M",  bbg="STIB3M Index",    frequency="D", importance=1, decimals=2),
 
-    # ═══════════════════════════════════════════════════════════════════
-    # 스냅샷형 — 크레딧 스프레드 (IG OAS proxy, 3Y)
-    # ═══════════════════════════════════════════════════════════════════
-    _ind(id="us_cs_bbb_3y",  country="US", category="credit_spread", name="USD BBB+ 3Y", name_ko="USD BBB+ 3Y", bbg="F2OP003Y FICV Index", frequency="D", importance=2, decimals=2, note="IG OAS proxy"),
-    _ind(id="uk_cs_bbb_3y",  country="UK", category="credit_spread", name="GBP BBB 3Y",  name_ko="GBP BBB 3Y",  bbg="F2P3303Y FICV Index", frequency="D", importance=1, decimals=2),
-    _ind(id="eu_cs_a_3y",    country="EU", category="credit_spread", name="EUR A- 3Y",   name_ko="EUR A- 3Y",   bbg="F4A5J03Y FICV Index", frequency="D", importance=1, decimals=2),
-    _ind(id="au_cs_a_3y",    country="AU", category="credit_spread", name="AUD A 3Y",    name_ko="AUD A 3Y",    bbg="F4PU803Y FICV Index", frequency="D", importance=1, decimals=2, note="호주 IG 시장은 A등급이 대표"),
-    _ind(id="kr_cs_aa_3y",   country="KR", category="credit_spread", name="KRW AA- 3Y",  name_ko="회사채AA- 3Y", bbg="KCP1-3Y Index",       frequency="D", importance=2, decimals=2, note="AA- vs 국고3년"),
+    # (크레딧 스프레드 카테고리 제거 — FICV 티커 분리되어 통일 어려움)
 
     # ═══════════════════════════════════════════════════════════════════
     # 스냅샷형 — Breakeven Inflation 10Y
@@ -105,16 +95,15 @@ INDICATORS = [
     _ind(id="eu_core_hicp_yoy", country="EU", category="inflation", name="Core HICP YoY",   name_ko="Core HICP",    bbg="CPEXEMUY Index",  frequency="M", importance=3),
     _ind(id="uk_cpi_yoy",       country="UK", category="inflation", name="CPI YoY",         name_ko="CPI",          bbg="UKRPCJYR Index",  frequency="M", importance=3),
     _ind(id="uk_core_cpi_yoy",  country="UK", category="inflation", name="Core CPI YoY",    name_ko="Core CPI",     bbg="UKHCA9IY Index",  frequency="M", importance=2),
-    _ind(id="sg_cpi_yoy",       country="SG", category="inflation", name="CPI YoY",         name_ko="CPI",          bbg="SICPIYY Index",   frequency="M", importance=2),
-    _ind(id="sg_core_cpi",      country="SG", category="inflation", name="MAS Core CPI",    name_ko="Core CPI",     bbg="SICCYOY Index",   frequency="M", importance=2),
-    _ind(id="au_cpi_yoy_q",     country="AU", category="inflation", name="CPI YoY (Q)",     name_ko="CPI 분기",     bbg="AUCPIYOY Index",  frequency="Q", importance=3),
-    _ind(id="au_cpi_yoy_m",     country="AU", category="inflation", name="Monthly CPI YoY", name_ko="월간 CPI",     bbg="AUCPMYOY Index",  frequency="M", importance=2),
-    _ind(id="au_trimmed_mean",  country="AU", category="inflation", name="Trimmed Mean",    name_ko="Trimmed Mean", bbg="AUCPTMYY Index",  frequency="Q", importance=3),
-    _ind(id="jp_cpi_yoy",       country="JP", category="inflation", name="National CPI YoY",name_ko="전국 CPI",     bbg="JNCPIYOY Index",  frequency="M", importance=3),
-    _ind(id="jp_core_cpi",      country="JP", category="inflation", name="Core CPI",        name_ko="Core CPI",     bbg="JNCPIXFF Index",  frequency="M", importance=3),
-    _ind(id="jp_tokyo_cpi",     country="JP", category="inflation", name="Tokyo CPI YoY",   name_ko="도쿄 CPI",     bbg="JCPNTOKY Index",  frequency="M", importance=2),
-    _ind(id="ca_cpi_yoy",       country="CA", category="inflation", name="CPI YoY",         name_ko="CPI",          bbg="CACPIYOY Index",  frequency="M", importance=3),
-    _ind(id="ca_core_trim",     country="CA", category="inflation", name="BoC Core Trim",   name_ko="Core Trim",    bbg="CPTRYOY Index",   frequency="M", importance=2),
+    _ind(id="sg_cpi_yoy",       country="SG", category="inflation", name="CPI YoY",             name_ko="CPI",          bbg="SICPIYOY Index",  frequency="M", importance=2),
+    _ind(id="sg_core_cpi",      country="SG", category="inflation", name="MAS Core CPI",        name_ko="MAS Core",     bbg="SMASCORE Index",  frequency="M", importance=2),
+    _ind(id="au_cpi_yoy_q",     country="AU", category="inflation", name="CPI YoY (Q)",         name_ko="CPI 분기",     bbg="AUCPIYOY Index",  frequency="Q", importance=3),
+    _ind(id="au_core_yoy",      country="AU", category="inflation", name="Underlying Core CPI", name_ko="Core CPI",     bbg="AUUIR Index",     frequency="Q", importance=3),
+    _ind(id="jp_cpi_yoy",       country="JP", category="inflation", name="National CPI YoY",    name_ko="전국 CPI",     bbg="JNCPIYOY Index",  frequency="M", importance=3),
+    _ind(id="jp_core_cpi",      country="JP", category="inflation", name="Core CPI ex Fresh",   name_ko="Core CPI",     bbg="JNCPIXFF Index",  frequency="M", importance=3),
+    _ind(id="jp_core_core",     country="JP", category="inflation", name="Core-Core (ex F&E)",  name_ko="Core-Core",    bbg="JCPNEFFE Index",  frequency="M", importance=2),
+    _ind(id="ca_cpi_yoy",       country="CA", category="inflation", name="CPI YoY",             name_ko="CPI",          bbg="CACPIYOY Index",  frequency="M", importance=3),
+    _ind(id="ca_core_trim",     country="CA", category="inflation", name="BoC Core Trim",       name_ko="Core Trim",    bbg="CACPTYOY Index",  frequency="M", importance=2),
 
     # ═══════════════════════════════════════════════════════════════════
     # 이벤트형 — 중앙은행 정책결정 (기존 유지)
@@ -138,7 +127,7 @@ INDICATORS = [
     _ind(id="jp_unemp",     country="JP", category="unemployment", name="Unemployment Rate",       name_ko="실업률",                  bbg="JNUE Index",     frequency="M", importance=2),
     _ind(id="kr_unemp",     country="KR", category="unemployment", name="Unemployment Rate",       name_ko="실업률",                  bbg="KOEAUERS Index", frequency="M", importance=2),
     _ind(id="hk_unemp",     country="HK", category="unemployment", name="Unemployment Rate (3MMA)",name_ko="실업률 (3M MA)",          bbg="HKUERATE Index", frequency="M", importance=2),
-    _ind(id="sg_unemp",     country="SG", category="unemployment", name="Unemployment Rate (Q)",   name_ko="실업률 분기",              bbg="SIQUITOTA Index",frequency="Q", importance=2),
+    _ind(id="sg_unemp",     country="SG", category="unemployment", name="Unemployment Rate Overall SA", name_ko="실업률 SA",          bbg="SIQUTOTA Index", frequency="Q", importance=2),
     _ind(id="se_unemp",     country="SE", category="unemployment", name="Unemployment Rate",       name_ko="실업률",                  bbg="SWUERATE Index", frequency="M", importance=1),
 
     # ═══════════════════════════════════════════════════════════════════
@@ -150,31 +139,25 @@ INDICATORS = [
     _ind(id="us_case_shiller_yoy",     country="US", category="housing", name="Case-Shiller 20-City YoY",         name_ko="Case-Shiller 20",            bbg="SPCS20Y% Index", fred="SPCS20RSA", frequency="M", importance=3, note="2개월 시차"),
     _ind(id="ca_housing_starts",        country="CA", category="housing", name="Housing Starts",                   name_ko="주택착공",                   bbg="EHHUCA Index",   frequency="M", importance=2, unit="k", decimals=0),
     _ind(id="uk_nationwide_mom",        country="UK", category="housing", name="Nationwide House Price MoM",       name_ko="Nationwide HPI MoM",         bbg="UKNBAAMM Index", frequency="M", importance=2),
-    _ind(id="uk_rics_balance",          country="UK", category="housing", name="RICS House Price Balance",         name_ko="RICS 심리",                  bbg="UKRICSBA Index", frequency="M", importance=2, unit="net", decimals=0),
-    _ind(id="de_construction_pmi",      country="DE", category="housing", name="Construction PMI",                 name_ko="건설 PMI (50)",              bbg="PMIDGC Index",   frequency="M", importance=2, unit="index", decimals=1),
-    _ind(id="fr_construction_pmi",      country="FR", category="housing", name="Construction PMI",                 name_ko="건설 PMI (50)",              bbg="PMIDFCN Index",  frequency="M", importance=2, unit="index", decimals=1),
+    _ind(id="de_construction_pmi",      country="DE", category="housing", name="Construction PMI SA",              name_ko="건설 PMI (50)",              bbg="MPMIDEXA Index", frequency="M", importance=2, unit="index", decimals=1),
+    _ind(id="fr_construction_pmi",      country="FR", category="housing", name="Construction PMI SA",              name_ko="건설 PMI (50)",              bbg="MPMIFRXA Index", frequency="M", importance=2, unit="index", decimals=1),
     _ind(id="jp_housing_starts_yoy",    country="JP", category="housing", name="Housing Starts YoY",               name_ko="주택착공 YoY",               bbg="JNHSYOY Index",  frequency="M", importance=2),
     _ind(id="kr_kb_hpi_yoy",            country="KR", category="housing", name="KB House Price Index YoY",         name_ko="KB 전국 YoY",                bbg="KOHPTYOY Index", frequency="M", importance=3),
     _ind(id="kr_kb_hpi_seoul_yoy",      country="KR", category="housing", name="KB Seoul Price YoY",               name_ko="KB 서울 YoY",                bbg="KOHPSYOY Index", frequency="M", importance=3),
     _ind(id="hk_rvd_hpi",               country="HK", category="housing", name="RVD HK Property Price Index",      name_ko="RVD 주택가격지수",           bbg="HKRLPDAP Index", frequency="W", importance=2, unit="index", decimals=1),
     _ind(id="hk_property_transactions", country="HK", category="housing", name="HK Property Transactions",         name_ko="부동산 거래량",              bbg="HKLRTRBU Index", frequency="M", importance=2, unit="cnt", decimals=0),
     _ind(id="sg_ura_ppi",               country="SG", category="housing", name="URA Private Residential PPI",      name_ko="URA 주택가격지수",           bbg=None,             frequency="Q", importance=3, unit="index", decimals=1, note="티커 확인 필요"),
-    _ind(id="se_valueguard_apt",        country="SE", category="housing", name="Valueguard Sweden Apt Index",      name_ko="아파트 가격지수",            bbg="HOXFLTSE Index", frequency="M", importance=2, unit="index", decimals=1),
 
     # ═══════════════════════════════════════════════════════════════════
     # 이벤트형 — 소비자심리
     # ═══════════════════════════════════════════════════════════════════
     _ind(id="us_michigan",        country="US", category="consumer_confidence", name="U-Michigan Sentiment",        name_ko="미시간 (월2회)", bbg="CONSSENT Index", fred="UMCSENT", frequency="M", importance=3, unit="index", decimals=1),
     _ind(id="us_cb_confidence",   country="US", category="consumer_confidence", name="Conference Board Confidence", name_ko="Conf Board",     bbg="CONCCONF Index", frequency="M", importance=3, unit="index", decimals=1),
-    _ind(id="ca_cb_confidence",   country="CA", category="consumer_confidence", name="Conference Board Confidence", name_ko="Conf Board",     bbg="CACNCONF Index", frequency="M", importance=2, unit="index", decimals=1),
+    _ind(id="ca_nanos",           country="CA", category="consumer_confidence", name="Bloomberg Nanos BNCCI",       name_ko="Nanos 신뢰",     bbg="BNCCINDX Index", frequency="W", importance=2, unit="index", decimals=1),
     _ind(id="uk_gfk",             country="UK", category="consumer_confidence", name="GfK Consumer Confidence",     name_ko="GfK",            bbg="UKCCI Index",    frequency="M", importance=2, unit="net", decimals=0),
     _ind(id="eu_consumer_conf",   country="EU", category="consumer_confidence", name="EC Consumer Confidence",      name_ko="EU 소비자신뢰",  bbg="EUCCEMU Index",  frequency="M", importance=2, unit="net", decimals=1),
-    _ind(id="au_westpac",         country="AU", category="consumer_confidence", name="Westpac Consumer Conf",       name_ko="Westpac",        bbg="ECO6AUCC Index", frequency="M", importance=2, unit="index", decimals=1),
     _ind(id="jp_consumer_conf",   country="JP", category="consumer_confidence", name="Consumer Confidence",         name_ko="소비자신뢰",     bbg="JCONSENT Index", frequency="M", importance=2, unit="index", decimals=1),
-    _ind(id="kr_consumer_conf",   country="KR", category="consumer_confidence", name="Consumer Confidence Index",   name_ko="CCSI",           bbg="SKCOEXPC Index", frequency="M", importance=2, unit="index", decimals=1),
-    _ind(id="hk_anz_conf",        country="HK", category="consumer_confidence", name="ANZ Roy Morgan Conf",         name_ko="ANZ Roy Morgan", bbg="HKANCCT Index",  frequency="M", importance=1, unit="index", decimals=1),
-    _ind(id="sg_anz_conf",        country="SG", category="consumer_confidence", name="ANZ Roy Morgan Conf",         name_ko="ANZ Roy Morgan", bbg="SIANCCT Index",  frequency="M", importance=1, unit="index", decimals=1),
-    _ind(id="se_consumer_conf",   country="SE", category="consumer_confidence", name="Consumer Confidence",         name_ko="소비자신뢰",     bbg="SWECCI Index",   frequency="M", importance=1, unit="net", decimals=1),
+    _ind(id="se_consumer_conf",   country="SE", category="consumer_confidence", name="Consumer Confidence SA",      name_ko="소비자신뢰",     bbg="SWETCI Index",   frequency="M", importance=1, unit="index", decimals=1),
 
     # ═══════════════════════════════════════════════════════════════════
     # 이벤트형 — 소매판매

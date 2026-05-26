@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T08:23:14.325980+00:00",
+  "fetched_at": "2026-05-26T08:36:09.352304+00:00",
   "window_start": "2026-05-19",
   "window_end": "2026-06-23",
   "source": "schedule.yml",
@@ -61,6 +61,13 @@
       "note": ""
     },
     {
+      "date": "2026-05-22",
+      "country": "JP",
+      "indicator_id": "jp_core_core",
+      "time_kst": "08:30",
+      "note": "Apr data"
+    },
+    {
       "date": "2026-05-25",
       "country": "SG",
       "indicator_id": "sg_cpi_yoy",
@@ -73,20 +80,6 @@
       "indicator_id": "sg_core_cpi",
       "time_kst": "14:00",
       "note": ""
-    },
-    {
-      "date": "2026-05-28",
-      "country": "AU",
-      "indicator_id": "au_cpi_yoy_m",
-      "time_kst": "10:30",
-      "note": "Apr (est)"
-    },
-    {
-      "date": "2026-05-29",
-      "country": "JP",
-      "indicator_id": "jp_tokyo_cpi",
-      "time_kst": "08:30",
-      "note": "May data"
     },
     {
       "date": "2026-05-29",
@@ -213,6 +206,13 @@
       "indicator_id": "jp_core_cpi",
       "time_kst": "08:30",
       "note": ""
+    },
+    {
+      "date": "2026-06-19",
+      "country": "JP",
+      "indicator_id": "jp_core_core",
+      "time_kst": "08:30",
+      "note": "May (est)"
     },
     {
       "date": "2026-06-23",
