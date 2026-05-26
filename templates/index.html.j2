@@ -145,6 +145,11 @@ section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; ma
 .cb-card .cb-rate { font-size: 24px; font-weight: 700; margin: 6px 0 2px 0; letter-spacing: -0.02em; }
 .cb-card .cb-next { font-size: 11px; color: var(--text-dim); }
 .cb-card .cb-next strong { color: var(--accent); }
+.cb-card .cb-implied { font-size: 11px; color: var(--text-dim); margin-top: 6px; padding-top: 6px; border-top: 1px dashed var(--border); }
+.cb-card .cb-implied strong { color: var(--text); }
+.cb-card .implied-delta.hike { color: var(--bad); font-weight: 600; }
+.cb-card .implied-delta.cut  { color: var(--good); font-weight: 600; }
+.cb-card .implied-delta.flat { color: var(--text-dim); }
 .cb-card.imminent { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 
 footer {
@@ -208,9 +213,19 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cb-next">
         Next: <strong>{{ cb.next_meeting or "TBD" }}</strong>
         {% if cb.consensus_rate is not none %}
-        <br>Consensus: {{ "%.2f"|format(cb.consensus_rate) }}%
+        &middot; cons {{ "%.2f"|format(cb.consensus_rate) }}%
         {% endif %}
       </div>
+      {% if cb.implied_1y is not none %}
+      <div class="cb-implied">
+        1Y OIS: <strong>{{ "%.2f"|format(cb.implied_1y) }}%</strong>
+        {% if cb.implied_delta_bp is not none %}
+        <span class="implied-delta {% if cb.implied_delta_bp > 5 %}hike{% elif cb.implied_delta_bp < -5 %}cut{% else %}flat{% endif %}">
+          ({{ "%+d"|format(cb.implied_delta_bp) }} bp)
+        </span>
+        {% endif %}
+      </div>
+      {% endif %}
     </div>
     {% endfor %}
   </div>

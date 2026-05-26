@@ -47,7 +47,7 @@ CATEGORIES = {
 
 # 각 indicator 디폴트: decimals=1, unit="%"
 def _ind(**kwargs):
-    defaults = {"unit": "%", "decimals": 1, "fred": None, "note": ""}
+    defaults = {"unit": "%", "decimals": 1, "fred": None, "ois_1y_bbg": None, "note": ""}
     defaults.update(kwargs)
     return defaults
 
@@ -108,13 +108,13 @@ INDICATORS = [
     # ═══════════════════════════════════════════════════════════════════
     # 이벤트형 — 중앙은행 정책결정 (기존 유지)
     # ═══════════════════════════════════════════════════════════════════
-    _ind(id="fomc", country="US", category="central_bank", name="FOMC Rate Decision",   name_ko="FOMC", bbg="FDTR Index",     fred="DFEDTARU", frequency="E", importance=3, decimals=2),
-    _ind(id="ecb",  country="EU", category="central_bank", name="ECB Deposit Rate",     name_ko="ECB",  bbg="EUORDEPO Index", frequency="E", importance=3, decimals=2),
-    _ind(id="boe",  country="UK", category="central_bank", name="BoE Bank Rate",        name_ko="BoE",  bbg="UKBRBASE Index", frequency="E", importance=3, decimals=2),
+    _ind(id="fomc", country="US", category="central_bank", name="FOMC Rate Decision",   name_ko="FOMC", bbg="FDTR Index",     fred="DFEDTARU", ois_1y_bbg="USSO1 Curncy",  frequency="E", importance=3, decimals=2),
+    _ind(id="ecb",  country="EU", category="central_bank", name="ECB Deposit Rate",     name_ko="ECB",  bbg="EUORDEPO Index", ois_1y_bbg="EESWE1 Curncy", frequency="E", importance=3, decimals=2),
+    _ind(id="boe",  country="UK", category="central_bank", name="BoE Bank Rate",        name_ko="BoE",  bbg="UKBRBASE Index", ois_1y_bbg="BPSWS1 Curncy", frequency="E", importance=3, decimals=2),
     _ind(id="mas",  country="SG", category="central_bank", name="MAS Policy Statement", name_ko="MAS",  bbg=None,             frequency="E", importance=2, decimals=2),
-    _ind(id="rba",  country="AU", category="central_bank", name="RBA Cash Rate",        name_ko="RBA",  bbg="RBATCTR Index",  frequency="E", importance=3, decimals=2),
-    _ind(id="boj",  country="JP", category="central_bank", name="BoJ Policy Rate",      name_ko="BoJ",  bbg="BOJDPBAL Index", frequency="E", importance=3, decimals=2),
-    _ind(id="boc",  country="CA", category="central_bank", name="BoC Overnight Rate",   name_ko="BoC",  bbg="CABROVER Index", frequency="E", importance=3, decimals=2),
+    _ind(id="rba",  country="AU", category="central_bank", name="RBA Cash Rate",        name_ko="RBA",  bbg="RBATCTR Index",  ois_1y_bbg="ADSO1 Curncy",  frequency="E", importance=3, decimals=2),
+    _ind(id="boj",  country="JP", category="central_bank", name="BoJ Policy Rate",      name_ko="BoJ",  bbg="BOJDPBAL Index", ois_1y_bbg="JYSO1 Curncy",  frequency="E", importance=3, decimals=2),
+    _ind(id="boc",  country="CA", category="central_bank", name="BoC Overnight Rate",   name_ko="BoC",  bbg="CABROVER Index", ois_1y_bbg="CDSO1 Curncy",  frequency="E", importance=3, decimals=2),
 
     # ═══════════════════════════════════════════════════════════════════
     # 이벤트형 — 실업률

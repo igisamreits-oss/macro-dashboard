@@ -162,26 +162,55 @@ def fetch_event(ticker: str) -> dict:
     }
 
 
-def fetch_cb_rate(ticker: str) -> dict:
-    """중앙은행 정책금리: PX_LAST."""
-    raw = blp.bdp(ticker, "PX_LAST")
+def _bdp_value(ticker: str, field: str) -> float | None:
+    """단일 ticker × field 값 추출 헬퍼."""
+    try:
+        raw = blp.bdp(ticker, field)
+        df = _to_pandas(raw)
+        if df is None or df.empty:
+            return None
+        if "field" in df.columns and "value" in df.columns:
+            v = df.set_index("field")["value"].get(field)
+        elif "value" in df.columns:
+            v = df["value"].iloc[0]
+        elif field in df.columns:
+            v = df[field].iloc[0]
+        else:
+            v = df.iloc[0, 0]
+        return float(v) if v is not None and pd.notna(v) else None
+    except Exception:
+        return None
+
+
+def fetch_cb_rate(ticker: str, ois_ticker: str | None = None) -> dict:
+    """중앙은행 정책금리:
+       - rate           : PX_LAST 현재 정책금리
+       - consensus_rate : BN_SURVEY_MEDIAN 다음 회의 애널리스트 컨센서스
+       - implied_1y     : 1Y OIS 평균금리 (12개월 implied path proxy)
+    """
+    raw = blp.bdp(ticker, ["PX_LAST", "BN_SURVEY_MEDIAN"])
     df = _to_pandas(raw)
     if df is None or df.empty:
-        return {"rate": None, "next_meeting": None, "consensus_rate": None, "error": "empty"}
+        return {"rate": None, "consensus_rate": None, "implied_1y": None, "next_meeting": None, "error": "empty"}
 
-    if "value" in df.columns:
-        val = df["value"].iloc[0]
-    elif "PX_LAST" in df.columns:
-        val = df["PX_LAST"].iloc[0]
+    if "field" in df.columns and "value" in df.columns:
+        pv = df.set_index("field")["value"]
+        rate = pv.get("PX_LAST")
+        cons = pv.get("BN_SURVEY_MEDIAN")
     else:
-        val = df.iloc[0, 0]
-    if pd.isna(val):
-        return {"rate": None, "next_meeting": None, "consensus_rate": None, "error": "no data"}
+        rate = df.get("PX_LAST", pd.Series([None])).iloc[0]
+        cons = df.get("BN_SURVEY_MEDIAN", pd.Series([None])).iloc[0]
+
+    if pd.isna(rate):
+        return {"rate": None, "consensus_rate": None, "implied_1y": None, "next_meeting": None, "error": "no rate"}
+
+    implied = _bdp_value(ois_ticker, "PX_LAST") if ois_ticker else None
 
     return {
-        "rate": round(float(val), 4),
-        "next_meeting": None,
-        "consensus_rate": None,
+        "rate": round(float(rate), 4),
+        "consensus_rate": round(float(cons), 4) if cons is not None and pd.notna(cons) else None,
+        "implied_1y": round(implied, 4) if implied is not None else None,
+        "next_meeting": None,  # 캘린더에서 채움
     }
 
 
@@ -209,10 +238,16 @@ def main(ticker_filter: list[str] | None = None) -> None:
         try:
             print(f"  [{ind['id']:30s}] {ticker:24s} ...", end=" ", flush=True)
             if cat == "central_bank":
-                result = fetch_cb_rate(ticker)
+                result = fetch_cb_rate(ticker, ind.get("ois_1y_bbg"))
                 if result.get("rate") is not None:
                     cb_out[ind["id"]] = result
-                    print(f"rate={result['rate']}%")
+                    cons = result.get("consensus_rate")
+                    imp = result.get("implied_1y")
+                    extras = []
+                    if cons is not None: extras.append(f"cons={cons}")
+                    if imp is not None:  extras.append(f"1Y OIS={imp}")
+                    extra_str = " " + " ".join(extras) if extras else ""
+                    print(f"rate={result['rate']}%{extra_str}")
                     success += 1
                 else:
                     print(f"FAIL: {result.get('error', 'no rate')}")

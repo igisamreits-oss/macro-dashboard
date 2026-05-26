@@ -256,14 +256,22 @@ def build_central_banks(cb_data: dict, today: date, events: list[dict]) -> list[
                 is_imminent = 0 <= days_to <= 7
             except ValueError:
                 pass
+        rate = d_.get("rate")
+        implied = d_.get("implied_1y")
+        delta_bp = None
+        if rate is not None and implied is not None:
+            delta_bp = round((implied - rate) * 100)  # %p → bp
+
         cards.append({
             "id": ind["id"],
             "name": ind["name"],
             "name_ko": ind["name_ko"],
             "country": ind["country"],
             "flag": config.COUNTRIES[ind["country"]]["flag"],
-            "rate": d_.get("rate"),
+            "rate": rate,
             "consensus_rate": d_.get("consensus_rate"),
+            "implied_1y": implied,
+            "implied_delta_bp": delta_bp,
             "next_meeting": next_meeting,
             "is_imminent": is_imminent,
         })

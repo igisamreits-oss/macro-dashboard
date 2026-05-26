@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T08:38:39.457007+00:00",
+  "fetched_at": "2026-05-26T08:45:45.367601+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -393,23 +393,23 @@
       "as_of": "2026-05-22"
     },
     "us_be_10y": {
-      "value": 2.4055,
-      "change_1d": -0.004,
+      "value": 2.406,
+      "change_1d": -0.0035,
       "as_of": "2026-05-26"
     },
     "uk_be_10y": {
-      "value": 3.426,
-      "change_1d": -0.035,
+      "value": 3.425,
+      "change_1d": -0.036,
       "as_of": "2026-05-26"
     },
     "eu_be_10y": {
-      "value": 0.783,
-      "change_1d": 0.014,
+      "value": 0.787,
+      "change_1d": 0.018,
       "as_of": "2026-05-26"
     },
     "de_be_10y": {
-      "value": 2.1022,
-      "change_1d": 0.008,
+      "value": 2.1016,
+      "change_1d": 0.0074,
       "as_of": "2026-05-26"
     },
     "fr_be_10y": {
@@ -441,33 +441,39 @@
   "central_banks": {
     "fomc": {
       "rate": 3.75,
-      "next_meeting": null,
-      "consensus_rate": null
+      "consensus_rate": 3.75,
+      "implied_1y": 3.8428,
+      "next_meeting": null
     },
     "ecb": {
       "rate": 2.0,
-      "next_meeting": null,
-      "consensus_rate": null
+      "consensus_rate": null,
+      "implied_1y": 2.419,
+      "next_meeting": null
     },
     "boe": {
       "rate": 3.75,
-      "next_meeting": null,
-      "consensus_rate": null
+      "consensus_rate": null,
+      "implied_1y": 4.1202,
+      "next_meeting": null
     },
     "rba": {
       "rate": 4.35,
-      "next_meeting": null,
-      "consensus_rate": null
+      "consensus_rate": null,
+      "implied_1y": 4.6331,
+      "next_meeting": null
     },
     "boj": {
       "rate": 0.75,
-      "next_meeting": null,
-      "consensus_rate": null
+      "consensus_rate": null,
+      "implied_1y": 1.1013,
+      "next_meeting": null
     },
     "boc": {
       "rate": 2.25,
-      "next_meeting": null,
-      "consensus_rate": null
+      "consensus_rate": 2.25,
+      "implied_1y": 2.559,
+      "next_meeting": null
     }
   }
 }
