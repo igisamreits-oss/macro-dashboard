@@ -1,0 +1,1246 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Global REIT Macro Dashboard</title>
+<style>
+:root {
+  --bg: #0f172a;
+  --panel: #1e293b;
+  --panel-2: #334155;
+  --border: #475569;
+  --text: #f1f5f9;
+  --text-dim: #94a3b8;
+  --accent: #38bdf8;
+  --good: #4ade80;
+  --bad: #f87171;
+  --warn: #fbbf24;
+  --neutral: #cbd5e1;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Segoe UI", Roboto, sans-serif;
+  background: var(--bg); color: var(--text);
+  font-size: 14px; line-height: 1.5;
+}
+.container { max-width: 1600px; margin: 0 auto; padding: 24px; }
+header {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding-bottom: 16px; margin-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+header h1 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
+header .meta { color: var(--text-dim); font-size: 13px; }
+header .meta strong { color: var(--accent); }
+
+section { margin-bottom: 32px; }
+section h2 {
+  font-size: 16px; font-weight: 600; margin: 0 0 12px 0;
+  color: var(--text); letter-spacing: -0.01em;
+  display: flex; align-items: center; gap: 8px;
+}
+section h2::before {
+  content: ""; width: 3px; height: 16px; background: var(--accent); border-radius: 2px;
+}
+
+/* ── Calendar ────────────────────────────────────────────────── */
+.calendar {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; overflow: hidden;
+}
+.calendar-grid {
+  display: grid;
+  grid-template-columns: 100px repeat(36, minmax(60px, 1fr));
+  font-size: 11px;
+}
+.cal-cell {
+  padding: 6px 4px;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  min-height: 32px;
+}
+.cal-header { background: var(--panel-2); font-weight: 600; text-align: center; color: var(--text-dim); }
+.cal-header.today { color: var(--accent); }
+.cal-header.weekend { color: #64748b; }
+.cal-country { background: var(--panel-2); font-weight: 600; display: flex; align-items: center; gap: 6px; }
+.cal-country .flag { font-size: 16px; }
+.cal-event {
+  display: block;
+  padding: 2px 4px; margin: 1px 0;
+  border-radius: 3px;
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--accent);
+  font-size: 10px; line-height: 1.3;
+  border-left: 2px solid var(--accent);
+}
+.cal-event.imp-3 { background: rgba(248, 113, 113, 0.15); color: var(--bad); border-left-color: var(--bad); }
+.cal-event.imp-2 { background: rgba(251, 191, 36, 0.15); color: var(--warn); border-left-color: var(--warn); }
+.cal-event.past { opacity: 0.55; }
+
+/* ── Snapshot panels ─────────────────────────────────────────── */
+.panels {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 16px;
+}
+.panel {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; padding: 16px;
+}
+.panel h3 {
+  margin: 0 0 12px 0; font-size: 14px; font-weight: 600;
+  display: flex; align-items: center; gap: 8px;
+  color: var(--text);
+}
+.panel h3 .flag { font-size: 20px; }
+.panel-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+.panel-table th, .panel-table td {
+  text-align: right; padding: 6px 4px;
+  border-bottom: 1px solid var(--border);
+}
+.panel-table th { color: var(--text-dim); font-weight: 500; font-size: 11px; }
+.panel-table td.name { text-align: left; color: var(--text); font-weight: 500; }
+.panel-table td.name small { color: var(--text-dim); font-weight: 400; display: block; font-size: 10px; }
+.surprise-pos { color: var(--good); font-weight: 600; }
+.surprise-neg { color: var(--bad); font-weight: 600; }
+.surprise-zero { color: var(--neutral); }
+.no-data { color: var(--text-dim); font-style: italic; }
+
+/* ── Central bank box ────────────────────────────────────────── */
+.cb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+}
+.cb-card {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; padding: 14px;
+  position: relative;
+}
+.cb-card .cb-flag { font-size: 24px; }
+.cb-card .cb-name { font-size: 12px; color: var(--text-dim); margin-top: 4px; }
+.cb-card .cb-rate { font-size: 28px; font-weight: 700; margin: 8px 0 4px 0; letter-spacing: -0.02em; }
+.cb-card .cb-next { font-size: 11px; color: var(--text-dim); }
+.cb-card .cb-next strong { color: var(--accent); }
+.cb-card.imminent { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+
+footer {
+  margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--border);
+  font-size: 11px; color: var(--text-dim); text-align: center;
+}
+footer a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>Global REIT Macro Dashboard</h1>
+  <div class="meta">
+    Last update: <strong>2026-05-26 11:01</strong> KST &nbsp;|&nbsp;
+    Calendar: 2026-05-19 ~ 2026-06-23
+  </div>
+</header>
+
+<!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
+<section>
+  <h2>📅 Economic Calendar &nbsp;<small style="color:var(--text-dim);font-weight:400">2026-05-19 ~ 2026-06-23</small></h2>
+  <div class="calendar">
+    <div class="calendar-grid">
+      <!-- header row -->
+      <div class="cal-cell cal-header">Country</div>
+      <div class="cal-cell cal-header  ">
+        05/19<br>화
+      </div>
+      <div class="cal-cell cal-header  ">
+        05/20<br>수
+      </div>
+      <div class="cal-cell cal-header  ">
+        05/21<br>목
+      </div>
+      <div class="cal-cell cal-header  ">
+        05/22<br>금
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        05/23<br>토
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        05/24<br>일
+      </div>
+      <div class="cal-cell cal-header  ">
+        05/25<br>월
+      </div>
+      <div class="cal-cell cal-header today ">
+        05/26<br>화
+      </div>
+      <div class="cal-cell cal-header  ">
+        05/27<br>수
+      </div>
+      <div class="cal-cell cal-header  ">
+        05/28<br>목
+      </div>
+      <div class="cal-cell cal-header  ">
+        05/29<br>금
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        05/30<br>토
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        05/31<br>일
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/01<br>월
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/02<br>화
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/03<br>수
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/04<br>목
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/05<br>금
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        06/06<br>토
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        06/07<br>일
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/08<br>월
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/09<br>화
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/10<br>수
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/11<br>목
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/12<br>금
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        06/13<br>토
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        06/14<br>일
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/15<br>월
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/16<br>화
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/17<br>수
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/18<br>목
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/19<br>금
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        06/20<br>토
+      </div>
+      <div class="cal-cell cal-header  weekend">
+        06/21<br>일
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/22<br>월
+      </div>
+      <div class="cal-cell cal-header  ">
+        06/23<br>화
+      </div>
+
+      <!-- country rows -->
+      <div class="cal-cell cal-country">
+        <span class="flag">🇺🇸</span> US
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 past" title="CPI YoY (21:30)">
+          CPI
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 past" title="PCE YoY (21:30)">
+          PCE
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="FOMC Rate Decision (03:00)">
+          FOMC
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="CPI YoY (21:30)">
+          CPI
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇪🇺</span> EU
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 past" title="HICP YoY (18:00)">
+          HICP
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="ECB Deposit Rate (22:15)">
+          ECB
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇬🇧</span> UK
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="BoE Bank Rate (20:00)">
+          BoE
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇸🇬</span> SG
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-2 " title="MAS Policy Statement (08:00)">
+          MAS
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇦🇺</span> AU
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="RBA Cash Rate (13:30)">
+          RBA
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-2 " title="Monthly CPI YoY (10:30)">
+          월간 CPI
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇯🇵</span> JP
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-2 " title="Tokyo CPI YoY (08:30)">
+          도쿄 CPI
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="National CPI YoY (08:30)">
+          전국 CPI
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="BoJ Policy Rate (12:00)">
+          BoJ
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇨🇦</span> CA
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 past" title="CPI YoY (21:30)">
+          CPI
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 " title="BoC Overnight Rate (22:45)">
+          BoC
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── 중앙은행 정책금리 박스 ──────────────────────────────── -->
+<section>
+  <h2>🏦 Central Bank Policy Rates</h2>
+  <div class="cb-grid">
+    <div class="cb-card ">
+      <span class="cb-flag">🇺🇸</span>
+      <div class="cb-name">FOMC Rate Decision</div>
+      <div class="cb-rate">
+5.50%      </div>
+      <div class="cb-next">
+        Next: <strong>2026-06-03</strong>
+        <br>Consensus: 5.25%
+      </div>
+    </div>
+    <div class="cb-card ">
+      <span class="cb-flag">🇪🇺</span>
+      <div class="cb-name">ECB Deposit Rate</div>
+      <div class="cb-rate">
+3.50%      </div>
+      <div class="cb-next">
+        Next: <strong>2026-06-10</strong>
+        <br>Consensus: 3.25%
+      </div>
+    </div>
+    <div class="cb-card ">
+      <span class="cb-flag">🇬🇧</span>
+      <div class="cb-name">BoE Bank Rate</div>
+      <div class="cb-rate">
+5.00%      </div>
+      <div class="cb-next">
+        Next: <strong>2026-06-06</strong>
+        <br>Consensus: 4.75%
+      </div>
+    </div>
+    <div class="cb-card ">
+      <span class="cb-flag">🇸🇬</span>
+      <div class="cb-name">MAS Policy Statement</div>
+      <div class="cb-rate">
+—      </div>
+      <div class="cb-next">
+        Next: <strong>2026-06-20</strong>
+      </div>
+    </div>
+    <div class="cb-card imminent">
+      <span class="cb-flag">🇦🇺</span>
+      <div class="cb-name">RBA Cash Rate</div>
+      <div class="cb-rate">
+4.35%      </div>
+      <div class="cb-next">
+        Next: <strong>2026-06-01</strong>
+        <br>Consensus: 4.10%
+      </div>
+    </div>
+    <div class="cb-card ">
+      <span class="cb-flag">🇯🇵</span>
+      <div class="cb-name">BoJ Policy Rate</div>
+      <div class="cb-rate">
+0.25%      </div>
+      <div class="cb-next">
+        Next: <strong>2026-06-15</strong>
+        <br>Consensus: 0.25%
+      </div>
+    </div>
+    <div class="cb-card imminent">
+      <span class="cb-flag">🇨🇦</span>
+      <div class="cb-name">BoC Overnight Rate</div>
+      <div class="cb-rate">
+4.25%      </div>
+      <div class="cb-next">
+        Next: <strong>2026-05-28</strong>
+        <br>Consensus: 4.00%
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── 물가 스냅샷 (국가별 패널) ─────────────────────────── -->
+<section>
+  <h2>📊 Inflation Snapshot</h2>
+  <div class="panels">
+    <div class="panel">
+      <h3><span class="flag">🇺🇸</span> United States</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              CPI YoY
+<small>CPI</small>            </td>
+            <td>3.2%</td>
+            <td>3.4%</td>
+            <td>3.3%</td>
+            <td class="surprise-neg">
+-0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-23</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Core CPI YoY
+<small>Core CPI</small>            </td>
+            <td>3.8%</td>
+            <td>4.0%</td>
+            <td>3.9%</td>
+            <td class="surprise-neg">
+-0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-23</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              PCE YoY
+<small>PCE</small>            </td>
+            <td>2.6%</td>
+            <td>2.7%</td>
+            <td>2.6%</td>
+            <td class="surprise-zero">
++0.0            </td>
+            <td><small style="color:var(--text-dim)">2026-05-25</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Core PCE YoY
+<small>Core PCE</small>            </td>
+            <td>2.8%</td>
+            <td>2.9%</td>
+            <td>2.8%</td>
+            <td class="surprise-zero">
++0.0            </td>
+            <td><small style="color:var(--text-dim)">2026-05-25</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇪🇺</span> Eurozone</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              HICP YoY
+<small>HICP</small>            </td>
+            <td>2.4%</td>
+            <td>2.6%</td>
+            <td>2.5%</td>
+            <td class="surprise-neg">
+-0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Core HICP YoY
+<small>Core HICP</small>            </td>
+            <td>2.9%</td>
+            <td>3.1%</td>
+            <td>2.9%</td>
+            <td class="surprise-zero">
++0.0            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇬🇧</span> United Kingdom</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              CPI YoY
+<small>CPI</small>            </td>
+            <td>3.4%</td>
+            <td>3.2%</td>
+            <td>3.5%</td>
+            <td class="surprise-neg">
+-0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Core CPI YoY
+<small>Core CPI</small>            </td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td class="surprise-zero">
+—            </td>
+            <td><small style="color:var(--text-dim)">—</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇬</span> Singapore</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              CPI YoY
+<small>CPI</small>            </td>
+            <td>2.7%</td>
+            <td>2.9%</td>
+            <td>2.8%</td>
+            <td class="surprise-neg">
+-0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-19</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              MAS Core CPI
+<small>Core CPI</small>            </td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td class="surprise-zero">
+—            </td>
+            <td><small style="color:var(--text-dim)">—</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇦🇺</span> Australia</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              CPI YoY (Q)
+<small>CPI 분기</small>            </td>
+            <td>3.4%</td>
+            <td>3.6%</td>
+            <td>3.5%</td>
+            <td class="surprise-neg">
+-0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-20</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Monthly CPI YoY
+<small>월간 CPI</small>            </td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td class="surprise-zero">
+—            </td>
+            <td><small style="color:var(--text-dim)">—</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Trimmed Mean
+<small>Trimmed Mean</small>            </td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td class="surprise-zero">
+—            </td>
+            <td><small style="color:var(--text-dim)">—</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇯🇵</span> Japan</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              National CPI YoY
+<small>전국 CPI</small>            </td>
+            <td>2.5%</td>
+            <td>2.3%</td>
+            <td>2.4%</td>
+            <td class="surprise-pos">
++0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Core CPI (ex-fresh food)
+<small>Core CPI</small>            </td>
+            <td>2.2%</td>
+            <td>2.0%</td>
+            <td>2.2%</td>
+            <td class="surprise-zero">
++0.0            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Tokyo CPI YoY
+<small>도쿄 CPI</small>            </td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td class="surprise-zero">
+—            </td>
+            <td><small style="color:var(--text-dim)">—</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇨🇦</span> Canada</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              CPI YoY
+<small>CPI</small>            </td>
+            <td>2.0%</td>
+            <td>2.4%</td>
+            <td>2.1%</td>
+            <td class="surprise-neg">
+-0.1            </td>
+            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              BoC Core Trim
+<small>Core Trim</small>            </td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td><span class="no-data">—</span></td>
+            <td class="surprise-zero">
+—            </td>
+            <td><small style="color:var(--text-dim)">—</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<footer>
+  Data sources: Bloomberg (xbbg) · FRED · Central Bank official calendars<br>
+  Built with Python + Jinja2 · Hosted on GitHub Pages · Updated 2026-05-26 11:01 KST
+</footer>
+
+</div>
+</body>
+</html>

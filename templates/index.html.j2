@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Global REIT Macro Dashboard</title>
+<style>
+:root {
+  --bg: #0f172a;
+  --panel: #1e293b;
+  --panel-2: #334155;
+  --border: #475569;
+  --text: #f1f5f9;
+  --text-dim: #94a3b8;
+  --accent: #38bdf8;
+  --good: #4ade80;
+  --bad: #f87171;
+  --warn: #fbbf24;
+  --neutral: #cbd5e1;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Segoe UI", Roboto, sans-serif;
+  background: var(--bg); color: var(--text);
+  font-size: 14px; line-height: 1.5;
+}
+.container { max-width: 1600px; margin: 0 auto; padding: 24px; }
+header {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding-bottom: 16px; margin-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+header h1 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
+header .meta { color: var(--text-dim); font-size: 13px; }
+header .meta strong { color: var(--accent); }
+
+section { margin-bottom: 32px; }
+section h2 {
+  font-size: 16px; font-weight: 600; margin: 0 0 12px 0;
+  color: var(--text); letter-spacing: -0.01em;
+  display: flex; align-items: center; gap: 8px;
+}
+section h2::before {
+  content: ""; width: 3px; height: 16px; background: var(--accent); border-radius: 2px;
+}
+
+/* ── Calendar ────────────────────────────────────────────────── */
+.calendar {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; overflow: hidden;
+}
+.calendar-grid {
+  display: grid;
+  grid-template-columns: 100px repeat({{ calendar.days|length }}, minmax(60px, 1fr));
+  font-size: 11px;
+}
+.cal-cell {
+  padding: 6px 4px;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  min-height: 32px;
+}
+.cal-header { background: var(--panel-2); font-weight: 600; text-align: center; color: var(--text-dim); }
+.cal-header.today { color: var(--accent); }
+.cal-header.weekend { color: #64748b; }
+.cal-country { background: var(--panel-2); font-weight: 600; display: flex; align-items: center; gap: 6px; }
+.cal-country .flag { font-size: 16px; }
+.cal-event {
+  display: block;
+  padding: 2px 4px; margin: 1px 0;
+  border-radius: 3px;
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--accent);
+  font-size: 10px; line-height: 1.3;
+  border-left: 2px solid var(--accent);
+}
+.cal-event.imp-3 { background: rgba(248, 113, 113, 0.15); color: var(--bad); border-left-color: var(--bad); }
+.cal-event.imp-2 { background: rgba(251, 191, 36, 0.15); color: var(--warn); border-left-color: var(--warn); }
+.cal-event.past { opacity: 0.55; }
+
+/* ── Snapshot panels ─────────────────────────────────────────── */
+.panels {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 16px;
+}
+.panel {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; padding: 16px;
+}
+.panel h3 {
+  margin: 0 0 12px 0; font-size: 14px; font-weight: 600;
+  display: flex; align-items: center; gap: 8px;
+  color: var(--text);
+}
+.panel h3 .flag { font-size: 20px; }
+.panel-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+.panel-table th, .panel-table td {
+  text-align: right; padding: 6px 4px;
+  border-bottom: 1px solid var(--border);
+}
+.panel-table th { color: var(--text-dim); font-weight: 500; font-size: 11px; }
+.panel-table td.name { text-align: left; color: var(--text); font-weight: 500; }
+.panel-table td.name small { color: var(--text-dim); font-weight: 400; display: block; font-size: 10px; }
+.surprise-pos { color: var(--good); font-weight: 600; }
+.surprise-neg { color: var(--bad); font-weight: 600; }
+.surprise-zero { color: var(--neutral); }
+.no-data { color: var(--text-dim); font-style: italic; }
+
+/* ── Central bank box ────────────────────────────────────────── */
+.cb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+}
+.cb-card {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; padding: 14px;
+  position: relative;
+}
+.cb-card .cb-flag { font-size: 24px; }
+.cb-card .cb-name { font-size: 12px; color: var(--text-dim); margin-top: 4px; }
+.cb-card .cb-rate { font-size: 28px; font-weight: 700; margin: 8px 0 4px 0; letter-spacing: -0.02em; }
+.cb-card .cb-next { font-size: 11px; color: var(--text-dim); }
+.cb-card .cb-next strong { color: var(--accent); }
+.cb-card.imminent { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+
+footer {
+  margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--border);
+  font-size: 11px; color: var(--text-dim); text-align: center;
+}
+footer a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>Global REIT Macro Dashboard</h1>
+  <div class="meta">
+    Last update: <strong>{{ build_time }}</strong> KST &nbsp;|&nbsp;
+    Calendar: {{ calendar.range_label }}
+  </div>
+</header>
+
+<!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
+<section>
+  <h2>📅 Economic Calendar &nbsp;<small style="color:var(--text-dim);font-weight:400">{{ calendar.range_label }}</small></h2>
+  <div class="calendar">
+    <div class="calendar-grid">
+      <!-- header row -->
+      <div class="cal-cell cal-header">Country</div>
+      {% for day in calendar.days %}
+      <div class="cal-cell cal-header {% if day.is_today %}today{% endif %} {% if day.is_weekend %}weekend{% endif %}">
+        {{ day.label }}<br>{{ day.weekday }}
+      </div>
+      {% endfor %}
+
+      <!-- country rows -->
+      {% for country_code, country in countries.items() %}
+      <div class="cal-cell cal-country">
+        <span class="flag">{{ country.flag }}</span> {{ country_code }}
+      </div>
+      {% for day in calendar.days %}
+      <div class="cal-cell">
+        {% for ev in calendar.events_by_country_day.get(country_code, {}).get(day.date, []) %}
+        <span class="cal-event imp-{{ ev.importance }} {% if ev.is_past %}past{% endif %}" title="{{ ev.name }} ({{ ev.time_kst }})">
+          {{ ev.short_name }}
+        </span>
+        {% endfor %}
+      </div>
+      {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- ─── 중앙은행 정책금리 박스 ──────────────────────────────── -->
+<section>
+  <h2>🏦 Central Bank Policy Rates</h2>
+  <div class="cb-grid">
+    {% for cb in central_banks %}
+    <div class="cb-card {% if cb.is_imminent %}imminent{% endif %}">
+      <span class="cb-flag">{{ cb.flag }}</span>
+      <div class="cb-name">{{ cb.name }}</div>
+      <div class="cb-rate">
+        {% if cb.rate is not none %}{{ "%.2f"|format(cb.rate) }}%{% else %}—{% endif %}
+      </div>
+      <div class="cb-next">
+        Next: <strong>{{ cb.next_meeting or "TBD" }}</strong>
+        {% if cb.consensus_rate is not none %}
+        <br>Consensus: {{ "%.2f"|format(cb.consensus_rate) }}%
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- ─── 물가 스냅샷 (국가별 패널) ─────────────────────────── -->
+<section>
+  <h2>📊 Inflation Snapshot</h2>
+  <div class="panels">
+    {% for country_code, country in countries.items() %}
+    {% set rows = inflation_by_country.get(country_code, []) %}
+    {% if rows %}
+    <div class="panel">
+      <h3><span class="flag">{{ country.flag }}</span> {{ country.name }}</h3>
+      <table class="panel-table">
+        <thead>
+          <tr>
+            <th style="text-align:left">Indicator</th>
+            <th>Latest</th>
+            <th>Prior</th>
+            <th>Consensus</th>
+            <th>Surprise</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for r in rows %}
+          <tr>
+            <td class="name">
+              {{ r.name }}
+              {% if r.name_ko %}<small>{{ r.name_ko }}</small>{% endif %}
+            </td>
+            <td>{% if r.actual is not none %}{{ "%.1f"|format(r.actual) }}%{% else %}<span class="no-data">—</span>{% endif %}</td>
+            <td>{% if r.prior is not none %}{{ "%.1f"|format(r.prior) }}%{% else %}<span class="no-data">—</span>{% endif %}</td>
+            <td>{% if r.consensus is not none %}{{ "%.1f"|format(r.consensus) }}%{% else %}<span class="no-data">—</span>{% endif %}</td>
+            <td class="{% if r.surprise and r.surprise > 0 %}surprise-pos{% elif r.surprise and r.surprise < 0 %}surprise-neg{% else %}surprise-zero{% endif %}">
+              {% if r.surprise is not none %}{{ "%+.1f"|format(r.surprise) }}{% else %}—{% endif %}
+            </td>
+            <td><small style="color:var(--text-dim)">{{ r.release_date or "—" }}</small></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<footer>
+  Data sources: Bloomberg (xbbg) · FRED · Central Bank official calendars<br>
+  Built with Python + Jinja2 · Hosted on GitHub Pages · Updated {{ build_time }} KST
+</footer>
+
+</div>
+</body>
+</html>
