@@ -87,20 +87,52 @@ def fetch_snapshot(ticker: str) -> dict:
     }
 
 
+def _bdp_fallback(ticker: str) -> dict:
+    """BDH가 빈 결과를 줄 때 BDP로 최신값만 가져오는 fallback.
+
+    historical 시계열을 못 받는 티커용. release_date는 BDP가 정확한 발표일을
+    제공 안하므로 fetch 당일을 기록한다 (∴ prior/surprise는 표시 안 됨)."""
+    try:
+        raw = blp.bdp(ticker, "PX_LAST")
+        df = _to_pandas(raw)
+        if df is None or df.empty:
+            return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "bdp empty"}
+        if "field" in df.columns and "value" in df.columns:
+            actual = df.set_index("field")["value"].get("PX_LAST")
+        elif "value" in df.columns:
+            actual = df["value"].iloc[0]
+        elif "PX_LAST" in df.columns:
+            actual = df["PX_LAST"].iloc[0]
+        else:
+            actual = df.iloc[0, 0]
+        if pd.isna(actual):
+            return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "bdp no value"}
+        return {
+            "actual": round(float(actual), 4),
+            "prior": None,
+            "consensus": None,
+            "release_date": date.today().isoformat(),
+            "source": "bdp",
+        }
+    except Exception as e:
+        return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": f"bdp exc: {e}"}
+
+
 def fetch_event(ticker: str) -> dict:
     """Monthly/Quarterly 이벤트: 최신 actual + prior + consensus + 관측일.
 
     PX_LAST와 BN_SURVEY_MEDIAN을 같이 받아서 같은 release period로 align.
+    BDH가 빈 결과를 주면 BDP로 fallback (일부 티커는 historical series 미지원).
     """
     end = date.today()
     start = end - timedelta(days=540)
     raw = blp.bdh(ticker, ["PX_LAST", "BN_SURVEY_MEDIAN"], start_date=start, end_date=end)
     df_raw = _to_pandas(raw)
     if df_raw is None or df_raw.empty:
-        return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "empty"}
+        return _bdp_fallback(ticker)
 
     if not {"date", "field", "value"}.issubset(df_raw.columns):
-        return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": "bad schema"}
+        return _bdp_fallback(ticker)
 
     # field별로 피벗: date × {PX_LAST, BN_SURVEY_MEDIAN}
     pv = df_raw.pivot_table(index="date", columns="field", values="value", aggfunc="last")

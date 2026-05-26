@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-26T08:35:13.623380+00:00",
+  "fetched_at": "2026-05-26T08:38:39.457007+00:00",
   "stats": {
     "total": 80,
-    "success": 78,
-    "failed": 2
+    "success": 80,
+    "failed": 0
   },
   "indicators": {
     "us_cpi_yoy": {
@@ -71,6 +71,13 @@
       "prior": 2.1,
       "consensus": null,
       "release_date": "2025-09-30"
+    },
+    "au_core_yoy": {
+      "actual": 2.2,
+      "prior": null,
+      "consensus": null,
+      "release_date": "2026-05-26",
+      "source": "bdp"
     },
     "jp_cpi_yoy": {
       "actual": 1.4,
@@ -270,6 +277,13 @@
       "consensus": null,
       "release_date": "2026-04-30"
     },
+    "jp_consumer_conf": {
+      "actual": 42.7,
+      "prior": null,
+      "consensus": null,
+      "release_date": "2026-05-26",
+      "source": "bdp"
+    },
     "se_consumer_conf": {
       "actual": 91.5,
       "prior": 95.2,
@@ -394,13 +408,13 @@
       "as_of": "2026-05-26"
     },
     "de_be_10y": {
-      "value": 2.1028,
-      "change_1d": 0.0086,
+      "value": 2.1022,
+      "change_1d": 0.008,
       "as_of": "2026-05-26"
     },
     "fr_be_10y": {
-      "value": 2.208,
-      "change_1d": 0.011,
+      "value": 2.207,
+      "change_1d": 0.01,
       "as_of": "2026-05-26"
     },
     "au_be_10y": {
