@@ -217,11 +217,14 @@ footer a { color: var(--accent); text-decoration: none; }
         {% endif %}
       </div>
       {% if cb.implied_1y is not none %}
-      <div class="cb-implied">
-        1Y OIS: <strong>{{ "%.2f"|format(cb.implied_1y) }}%</strong>
+      <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
+        12M 시장: <strong>{{ "%.2f"|format(cb.implied_1y) }}%</strong>
         {% if cb.implied_delta_bp is not none %}
         <span class="implied-delta {% if cb.implied_delta_bp > 5 %}hike{% elif cb.implied_delta_bp < -5 %}cut{% else %}flat{% endif %}">
-          ({{ "%+d"|format(cb.implied_delta_bp) }} bp)
+          {{ "%+d"|format(cb.implied_delta_bp) }}bp
+          {% if cb.implied_moves is not none and cb.implied_moves|abs >= 0.3 %}
+          (~{{ "%.1f"|format(cb.implied_moves|abs) }} {% if cb.implied_moves > 0 %}인상{% else %}인하{% endif %})
+          {% endif %}
         </span>
         {% endif %}
       </div>

@@ -259,8 +259,10 @@ def build_central_banks(cb_data: dict, today: date, events: list[dict]) -> list[
         rate = d_.get("rate")
         implied = d_.get("implied_1y")
         delta_bp = None
+        moves = None
         if rate is not None and implied is not None:
             delta_bp = round((implied - rate) * 100)  # %p → bp
+            moves = round(delta_bp / 25, 1)            # 25bp = 1 move
 
         cards.append({
             "id": ind["id"],
@@ -272,6 +274,7 @@ def build_central_banks(cb_data: dict, today: date, events: list[dict]) -> list[
             "consensus_rate": d_.get("consensus_rate"),
             "implied_1y": implied,
             "implied_delta_bp": delta_bp,
+            "implied_moves": moves,
             "next_meeting": next_meeting,
             "is_imminent": is_imminent,
         })
