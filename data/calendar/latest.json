@@ -1,23 +1,9 @@
 {
-  "fetched_at": "2026-05-26T09:02:55.803686+00:00",
-  "window_start": "2026-05-19",
-  "window_end": "2026-06-23",
+  "fetched_at": "2026-05-27T00:11:45.215817+00:00",
+  "window_start": "2026-05-20",
+  "window_end": "2026-06-24",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-05-19",
-      "country": "EU",
-      "indicator_id": "eu_hicp_yoy",
-      "time_kst": "18:00",
-      "note": "Apr final"
-    },
-    {
-      "date": "2026-05-19",
-      "country": "EU",
-      "indicator_id": "eu_core_hicp_yoy",
-      "time_kst": "18:00",
-      "note": ""
-    },
     {
       "date": "2026-05-20",
       "country": "CA",
