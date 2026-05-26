@@ -45,6 +45,7 @@ section h2 {
 section h2::before {
   content: ""; width: 3px; height: 16px; background: var(--accent); border-radius: 2px;
 }
+section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; margin-left: 8px; }
 
 /* ── Calendar ────────────────────────────────────────────────── */
 .calendar {
@@ -53,34 +54,34 @@ section h2::before {
 }
 .calendar-grid {
   display: grid;
-  grid-template-columns: 100px repeat({{ calendar.days|length }}, minmax(60px, 1fr));
+  grid-template-columns: 90px repeat({{ calendar.days|length }}, minmax(54px, 1fr));
   font-size: 11px;
 }
 .cal-cell {
-  padding: 6px 4px;
+  padding: 5px 3px;
   border-right: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
-  min-height: 32px;
+  min-height: 28px;
 }
 .cal-header { background: var(--panel-2); font-weight: 600; text-align: center; color: var(--text-dim); }
 .cal-header.today { color: var(--accent); }
 .cal-header.weekend { color: #64748b; }
-.cal-country { background: var(--panel-2); font-weight: 600; display: flex; align-items: center; gap: 6px; }
-.cal-country .flag { font-size: 16px; }
+.cal-country { background: var(--panel-2); font-weight: 600; display: flex; align-items: center; gap: 4px; font-size: 11px; }
+.cal-country .flag { font-size: 14px; }
 .cal-event {
   display: block;
-  padding: 2px 4px; margin: 1px 0;
+  padding: 2px 3px; margin: 1px 0;
   border-radius: 3px;
   background: rgba(56, 189, 248, 0.15);
   color: var(--accent);
-  font-size: 10px; line-height: 1.3;
+  font-size: 10px; line-height: 1.25;
   border-left: 2px solid var(--accent);
 }
 .cal-event.imp-3 { background: rgba(248, 113, 113, 0.15); color: var(--bad); border-left-color: var(--bad); }
 .cal-event.imp-2 { background: rgba(251, 191, 36, 0.15); color: var(--warn); border-left-color: var(--warn); }
-.cal-event.past { opacity: 0.55; }
+.cal-event.past { opacity: 0.45; }
 
-/* ── Snapshot panels ─────────────────────────────────────────── */
+/* ── Snapshot panels (existing + new) ─────────────────────────── */
 .panels {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
@@ -88,20 +89,20 @@ section h2::before {
 }
 .panel {
   background: var(--panel); border: 1px solid var(--border);
-  border-radius: 8px; padding: 16px;
+  border-radius: 8px; padding: 14px 16px;
 }
 .panel h3 {
-  margin: 0 0 12px 0; font-size: 14px; font-weight: 600;
-  display: flex; align-items: center; gap: 8px;
+  margin: 0 0 10px 0; font-size: 13px; font-weight: 600;
+  display: flex; align-items: center; gap: 6px;
   color: var(--text);
 }
-.panel h3 .flag { font-size: 20px; }
+.panel h3 .flag { font-size: 18px; }
 .panel-table { width: 100%; border-collapse: collapse; font-size: 12px; }
 .panel-table th, .panel-table td {
-  text-align: right; padding: 6px 4px;
+  text-align: right; padding: 5px 4px;
   border-bottom: 1px solid var(--border);
 }
-.panel-table th { color: var(--text-dim); font-weight: 500; font-size: 11px; }
+.panel-table th { color: var(--text-dim); font-weight: 500; font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; }
 .panel-table td.name { text-align: left; color: var(--text); font-weight: 500; }
 .panel-table td.name small { color: var(--text-dim); font-weight: 400; display: block; font-size: 10px; }
 .surprise-pos { color: var(--good); font-weight: 600; }
@@ -109,20 +110,39 @@ section h2::before {
 .surprise-zero { color: var(--neutral); }
 .no-data { color: var(--text-dim); font-style: italic; }
 
+/* ── Markets snapshot (new) ──────────────────────────────────── */
+.markets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 12px;
+}
+.markets .panel { padding: 12px 14px; }
+.markets .panel h3 {
+  font-size: 12px; color: var(--text-dim); text-transform: uppercase;
+  letter-spacing: 0.05em; margin-bottom: 8px;
+}
+.markets .panel-table td { padding: 4px 3px; }
+.markets .panel-table .name { font-size: 11px; }
+.markets .panel-table .name .flag { font-size: 13px; margin-right: 4px; }
+.markets .value-cell { font-variant-numeric: tabular-nums; font-weight: 600; }
+.markets .change-pos { color: var(--bad); font-size: 10px; }
+.markets .change-neg { color: var(--good); font-size: 10px; }
+.markets .change-zero { color: var(--text-dim); font-size: 10px; }
+
 /* ── Central bank box ────────────────────────────────────────── */
 .cb-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 12px;
 }
 .cb-card {
   background: var(--panel); border: 1px solid var(--border);
-  border-radius: 8px; padding: 14px;
+  border-radius: 8px; padding: 12px;
   position: relative;
 }
-.cb-card .cb-flag { font-size: 24px; }
-.cb-card .cb-name { font-size: 12px; color: var(--text-dim); margin-top: 4px; }
-.cb-card .cb-rate { font-size: 28px; font-weight: 700; margin: 8px 0 4px 0; letter-spacing: -0.02em; }
+.cb-card .cb-flag { font-size: 22px; }
+.cb-card .cb-name { font-size: 11px; color: var(--text-dim); margin-top: 2px; }
+.cb-card .cb-rate { font-size: 24px; font-weight: 700; margin: 6px 0 2px 0; letter-spacing: -0.02em; }
 .cb-card .cb-next { font-size: 11px; color: var(--text-dim); }
 .cb-card .cb-next strong { color: var(--accent); }
 .cb-card.imminent { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
@@ -147,18 +167,15 @@ footer a { color: var(--accent); text-decoration: none; }
 
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
-  <h2>📅 Economic Calendar &nbsp;<small style="color:var(--text-dim);font-weight:400">{{ calendar.range_label }}</small></h2>
+  <h2>📅 Economic Calendar <small>{{ calendar.range_label }}</small></h2>
   <div class="calendar">
     <div class="calendar-grid">
-      <!-- header row -->
       <div class="cal-cell cal-header">Country</div>
       {% for day in calendar.days %}
       <div class="cal-cell cal-header {% if day.is_today %}today{% endif %} {% if day.is_weekend %}weekend{% endif %}">
         {{ day.label }}<br>{{ day.weekday }}
       </div>
       {% endfor %}
-
-      <!-- country rows -->
       {% for country_code, country in countries.items() %}
       <div class="cal-cell cal-country">
         <span class="flag">{{ country.flag }}</span> {{ country_code }}
@@ -199,38 +216,63 @@ footer a { color: var(--accent); text-decoration: none; }
   </div>
 </section>
 
-<!-- ─── 물가 스냅샷 (국가별 패널) ─────────────────────────── -->
+<!-- ─── Markets Snapshot (Daily/Weekly) ───────────────────── -->
+{% if markets %}
 <section>
-  <h2>📊 Inflation Snapshot</h2>
+  <h2>💹 Markets Snapshot <small>매일 갱신</small></h2>
+  <div class="markets">
+    {% for cat_id, cat_data in markets.items() %}
+    <div class="panel">
+      <h3>{{ cat_data.emoji }} {{ cat_data.name_ko }}</h3>
+      <table class="panel-table">
+        <thead><tr><th style="text-align:left">지표</th><th>Latest</th><th>1D Δ</th><th>Date</th></tr></thead>
+        <tbody>
+          {% for row in cat_data.rows %}
+          <tr>
+            <td class="name"><span class="flag">{{ row.flag }}</span>{{ row.name_ko }}</td>
+            <td class="value-cell">
+              {% if row.value is not none %}{{ ("%%.%df" % row.decimals)|format(row.value) }}{% if row.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}
+            </td>
+            <td class="{% if row.change_1d and row.change_1d > 0 %}change-pos{% elif row.change_1d and row.change_1d < 0 %}change-neg{% else %}change-zero{% endif %}">
+              {% if row.change_1d is not none %}{{ "%+.2f"|format(row.change_1d) }}{% else %}—{% endif %}
+            </td>
+            <td><small style="color:var(--text-dim)">{{ row.as_of or "—" }}</small></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<!-- ─── 이벤트형 카테고리 패널 (Inflation / Unemployment / Housing / Consumer / Retail) ─── -->
+{% for cat_id, cat_block in event_categories.items() %}
+{% if cat_block.by_country %}
+<section>
+  <h2>{{ cat_block.emoji }} {{ cat_block.name_ko }} Snapshot</h2>
   <div class="panels">
-    {% for country_code, country in countries.items() %}
-    {% set rows = inflation_by_country.get(country_code, []) %}
+    {% for country_code, rows in cat_block.by_country.items() %}
     {% if rows %}
     <div class="panel">
-      <h3><span class="flag">{{ country.flag }}</span> {{ country.name }}</h3>
+      <h3><span class="flag">{{ countries[country_code].flag }}</span> {{ countries[country_code].name }}</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           {% for r in rows %}
           <tr>
             <td class="name">
               {{ r.name }}
-              {% if r.name_ko %}<small>{{ r.name_ko }}</small>{% endif %}
+              {% if r.name_ko and r.name_ko != r.name %}<small>{{ r.name_ko }}</small>{% endif %}
             </td>
-            <td>{% if r.actual is not none %}{{ "%.1f"|format(r.actual) }}%{% else %}<span class="no-data">—</span>{% endif %}</td>
-            <td>{% if r.prior is not none %}{{ "%.1f"|format(r.prior) }}%{% else %}<span class="no-data">—</span>{% endif %}</td>
-            <td>{% if r.consensus is not none %}{{ "%.1f"|format(r.consensus) }}%{% else %}<span class="no-data">—</span>{% endif %}</td>
+            <td>{% if r.actual is not none %}{{ ("%%.%df" % r.decimals)|format(r.actual) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
+            <td>{% if r.prior is not none %}{{ ("%%.%df" % r.decimals)|format(r.prior) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
+            <td>{% if r.consensus is not none %}{{ ("%%.%df" % r.decimals)|format(r.consensus) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
             <td class="{% if r.surprise and r.surprise > 0 %}surprise-pos{% elif r.surprise and r.surprise < 0 %}surprise-neg{% else %}surprise-zero{% endif %}">
-              {% if r.surprise is not none %}{{ "%+.1f"|format(r.surprise) }}{% else %}—{% endif %}
+              {% if r.surprise is not none %}{{ "%+.2f"|format(r.surprise) }}{% else %}—{% endif %}
             </td>
             <td><small style="color:var(--text-dim)">{{ r.release_date or "—" }}</small></td>
           </tr>
@@ -242,6 +284,8 @@ footer a { color: var(--accent); text-decoration: none; }
     {% endfor %}
   </div>
 </section>
+{% endif %}
+{% endfor %}
 
 <footer>
   Data sources: Bloomberg (xbbg) · FRED · Central Bank official calendars<br>

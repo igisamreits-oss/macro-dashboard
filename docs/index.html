@@ -45,6 +45,7 @@ section h2 {
 section h2::before {
   content: ""; width: 3px; height: 16px; background: var(--accent); border-radius: 2px;
 }
+section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; margin-left: 8px; }
 
 /* ── Calendar ────────────────────────────────────────────────── */
 .calendar {
@@ -53,34 +54,34 @@ section h2::before {
 }
 .calendar-grid {
   display: grid;
-  grid-template-columns: 100px repeat(36, minmax(60px, 1fr));
+  grid-template-columns: 90px repeat(36, minmax(54px, 1fr));
   font-size: 11px;
 }
 .cal-cell {
-  padding: 6px 4px;
+  padding: 5px 3px;
   border-right: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
-  min-height: 32px;
+  min-height: 28px;
 }
 .cal-header { background: var(--panel-2); font-weight: 600; text-align: center; color: var(--text-dim); }
 .cal-header.today { color: var(--accent); }
 .cal-header.weekend { color: #64748b; }
-.cal-country { background: var(--panel-2); font-weight: 600; display: flex; align-items: center; gap: 6px; }
-.cal-country .flag { font-size: 16px; }
+.cal-country { background: var(--panel-2); font-weight: 600; display: flex; align-items: center; gap: 4px; font-size: 11px; }
+.cal-country .flag { font-size: 14px; }
 .cal-event {
   display: block;
-  padding: 2px 4px; margin: 1px 0;
+  padding: 2px 3px; margin: 1px 0;
   border-radius: 3px;
   background: rgba(56, 189, 248, 0.15);
   color: var(--accent);
-  font-size: 10px; line-height: 1.3;
+  font-size: 10px; line-height: 1.25;
   border-left: 2px solid var(--accent);
 }
 .cal-event.imp-3 { background: rgba(248, 113, 113, 0.15); color: var(--bad); border-left-color: var(--bad); }
 .cal-event.imp-2 { background: rgba(251, 191, 36, 0.15); color: var(--warn); border-left-color: var(--warn); }
-.cal-event.past { opacity: 0.55; }
+.cal-event.past { opacity: 0.45; }
 
-/* ── Snapshot panels ─────────────────────────────────────────── */
+/* ── Snapshot panels (existing + new) ─────────────────────────── */
 .panels {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
@@ -88,20 +89,20 @@ section h2::before {
 }
 .panel {
   background: var(--panel); border: 1px solid var(--border);
-  border-radius: 8px; padding: 16px;
+  border-radius: 8px; padding: 14px 16px;
 }
 .panel h3 {
-  margin: 0 0 12px 0; font-size: 14px; font-weight: 600;
-  display: flex; align-items: center; gap: 8px;
+  margin: 0 0 10px 0; font-size: 13px; font-weight: 600;
+  display: flex; align-items: center; gap: 6px;
   color: var(--text);
 }
-.panel h3 .flag { font-size: 20px; }
+.panel h3 .flag { font-size: 18px; }
 .panel-table { width: 100%; border-collapse: collapse; font-size: 12px; }
 .panel-table th, .panel-table td {
-  text-align: right; padding: 6px 4px;
+  text-align: right; padding: 5px 4px;
   border-bottom: 1px solid var(--border);
 }
-.panel-table th { color: var(--text-dim); font-weight: 500; font-size: 11px; }
+.panel-table th { color: var(--text-dim); font-weight: 500; font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; }
 .panel-table td.name { text-align: left; color: var(--text); font-weight: 500; }
 .panel-table td.name small { color: var(--text-dim); font-weight: 400; display: block; font-size: 10px; }
 .surprise-pos { color: var(--good); font-weight: 600; }
@@ -109,20 +110,39 @@ section h2::before {
 .surprise-zero { color: var(--neutral); }
 .no-data { color: var(--text-dim); font-style: italic; }
 
+/* ── Markets snapshot (new) ──────────────────────────────────── */
+.markets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 12px;
+}
+.markets .panel { padding: 12px 14px; }
+.markets .panel h3 {
+  font-size: 12px; color: var(--text-dim); text-transform: uppercase;
+  letter-spacing: 0.05em; margin-bottom: 8px;
+}
+.markets .panel-table td { padding: 4px 3px; }
+.markets .panel-table .name { font-size: 11px; }
+.markets .panel-table .name .flag { font-size: 13px; margin-right: 4px; }
+.markets .value-cell { font-variant-numeric: tabular-nums; font-weight: 600; }
+.markets .change-pos { color: var(--bad); font-size: 10px; }
+.markets .change-neg { color: var(--good); font-size: 10px; }
+.markets .change-zero { color: var(--text-dim); font-size: 10px; }
+
 /* ── Central bank box ────────────────────────────────────────── */
 .cb-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 12px;
 }
 .cb-card {
   background: var(--panel); border: 1px solid var(--border);
-  border-radius: 8px; padding: 14px;
+  border-radius: 8px; padding: 12px;
   position: relative;
 }
-.cb-card .cb-flag { font-size: 24px; }
-.cb-card .cb-name { font-size: 12px; color: var(--text-dim); margin-top: 4px; }
-.cb-card .cb-rate { font-size: 28px; font-weight: 700; margin: 8px 0 4px 0; letter-spacing: -0.02em; }
+.cb-card .cb-flag { font-size: 22px; }
+.cb-card .cb-name { font-size: 11px; color: var(--text-dim); margin-top: 2px; }
+.cb-card .cb-rate { font-size: 24px; font-weight: 700; margin: 6px 0 2px 0; letter-spacing: -0.02em; }
 .cb-card .cb-next { font-size: 11px; color: var(--text-dim); }
 .cb-card .cb-next strong { color: var(--accent); }
 .cb-card.imminent { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
@@ -140,17 +160,16 @@ footer a { color: var(--accent); text-decoration: none; }
 <header>
   <h1>Global REIT Macro Dashboard</h1>
   <div class="meta">
-    Last update: <strong>2026-05-26 13:14</strong> KST &nbsp;|&nbsp;
+    Last update: <strong>2026-05-26 15:27</strong> KST &nbsp;|&nbsp;
     Calendar: 2026-05-19 ~ 2026-06-23
   </div>
 </header>
 
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
-  <h2>📅 Economic Calendar &nbsp;<small style="color:var(--text-dim);font-weight:400">2026-05-19 ~ 2026-06-23</small></h2>
+  <h2>📅 Economic Calendar <small>2026-05-19 ~ 2026-06-23</small></h2>
   <div class="calendar">
     <div class="calendar-grid">
-      <!-- header row -->
       <div class="cal-cell cal-header">Country</div>
       <div class="cal-cell cal-header  ">
         05/19<br>화
@@ -260,8 +279,6 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         06/23<br>화
       </div>
-
-      <!-- country rows -->
       <div class="cal-cell cal-country">
         <span class="flag">🇺🇸</span> US
       </div>
@@ -539,6 +556,231 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell cal-country">
+        <span class="flag">🇩🇪</span> DE
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇫🇷</span> FR
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇸🇪</span> SE
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
         <span class="flag">🇸🇬</span> SG
       </div>
       <div class="cal-cell">
@@ -624,6 +866,81 @@ footer a { color: var(--accent); text-decoration: none; }
         <span class="cal-event imp-2 " title="MAS Core CPI (14:00)">
           Core CPI
         </span>
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇭🇰</span> HK
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇦🇺</span> AU
@@ -719,7 +1036,7 @@ footer a { color: var(--accent); text-decoration: none; }
         <span class="cal-event imp-3 past" title="National CPI YoY (08:30)">
           전국 CPI
         </span>
-        <span class="cal-event imp-3 past" title="Core CPI (ex-fresh food) (08:30)">
+        <span class="cal-event imp-3 past" title="Core CPI (08:30)">
           Core CPI
         </span>
       </div>
@@ -787,9 +1104,84 @@ footer a { color: var(--accent); text-decoration: none; }
         <span class="cal-event imp-3 " title="National CPI YoY (08:30)">
           전국 CPI
         </span>
-        <span class="cal-event imp-3 " title="Core CPI (ex-fresh food) (08:30)">
+        <span class="cal-event imp-3 " title="Core CPI (08:30)">
           Core CPI
         </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell cal-country">
+        <span class="flag">🇰🇷</span> KR
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -904,87 +1296,305 @@ footer a { color: var(--accent); text-decoration: none; }
 3.75%      </div>
       <div class="cb-next">
         Next: <strong>2026-06-18</strong>
-        <br>Consensus: 5.25%
       </div>
     </div>
     <div class="cb-card ">
       <span class="cb-flag">🇪🇺</span>
       <div class="cb-name">ECB Deposit Rate</div>
       <div class="cb-rate">
-3.50%      </div>
+1.64%      </div>
       <div class="cb-next">
         Next: <strong>2026-06-11</strong>
-        <br>Consensus: 3.25%
       </div>
     </div>
     <div class="cb-card ">
       <span class="cb-flag">🇬🇧</span>
       <div class="cb-name">BoE Bank Rate</div>
       <div class="cb-rate">
-5.00%      </div>
+4.87%      </div>
       <div class="cb-next">
         Next: <strong>2026-06-18</strong>
-        <br>Consensus: 4.75%
       </div>
     </div>
-    <div class="cb-card ">
+    <div class="cb-card imminent">
       <span class="cb-flag">🇸🇬</span>
       <div class="cb-name">MAS Policy Statement</div>
       <div class="cb-rate">
-—      </div>
+2.19%      </div>
       <div class="cb-next">
-        Next: <strong>2026-06-20</strong>
+        Next: <strong>2026-06-02</strong>
       </div>
     </div>
     <div class="cb-card ">
       <span class="cb-flag">🇦🇺</span>
       <div class="cb-name">RBA Cash Rate</div>
       <div class="cb-rate">
-4.35%      </div>
+2.55%      </div>
       <div class="cb-next">
         Next: <strong>2026-06-16</strong>
-        <br>Consensus: 4.10%
       </div>
     </div>
     <div class="cb-card ">
       <span class="cb-flag">🇯🇵</span>
       <div class="cb-name">BoJ Policy Rate</div>
       <div class="cb-rate">
-0.25%      </div>
+3.94%      </div>
       <div class="cb-next">
         Next: <strong>2026-06-16</strong>
-        <br>Consensus: 0.25%
       </div>
     </div>
     <div class="cb-card ">
       <span class="cb-flag">🇨🇦</span>
       <div class="cb-name">BoC Overnight Rate</div>
       <div class="cb-rate">
-4.25%      </div>
+5.42%      </div>
       <div class="cb-next">
         Next: <strong>2026-06-10</strong>
-        <br>Consensus: 4.00%
       </div>
     </div>
   </div>
 </section>
 
-<!-- ─── 물가 스냅샷 (국가별 패널) ─────────────────────────── -->
+<!-- ─── Markets Snapshot (Daily/Weekly) ───────────────────── -->
 <section>
-  <h2>📊 Inflation Snapshot</h2>
+  <h2>💹 Markets Snapshot <small>매일 갱신</small></h2>
+  <div class="markets">
+    <div class="panel">
+      <h3>💵 단기 정책금리</h3>
+      <table class="panel-table">
+        <thead><tr><th style="text-align:left">지표</th><th>Latest</th><th>1D Δ</th><th>Date</th></tr></thead>
+        <tbody>
+          <tr>
+            <td class="name"><span class="flag">🇺🇸</span>SOFR</td>
+            <td class="value-cell">
+3.70%            </td>
+            <td class="change-pos">
++0.02            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇨🇦</span>CORRA</td>
+            <td class="value-cell">
+3.88%            </td>
+            <td class="change-neg">
+-0.05            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇬🇧</span>SONIA</td>
+            <td class="value-cell">
+1.59%            </td>
+            <td class="change-pos">
++0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇪🇺</span>€STR</td>
+            <td class="value-cell">
+3.22%            </td>
+            <td class="change-neg">
+-0.05            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇦🇺</span>AUD 3M</td>
+            <td class="value-cell">
+4.53%            </td>
+            <td class="change-pos">
++0.05            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇯🇵</span>JPY 1M</td>
+            <td class="value-cell">
+2.18%            </td>
+            <td class="change-pos">
++0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇰🇷</span>CD91</td>
+            <td class="value-cell">
+4.54%            </td>
+            <td class="change-neg">
+-0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇸🇬</span>SORA</td>
+            <td class="value-cell">
+3.26%            </td>
+            <td class="change-pos">
++0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇭🇰</span>HIBOR 3M</td>
+            <td class="value-cell">
+4.02%            </td>
+            <td class="change-neg">
+-0.04            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇸🇪</span>STIBOR 3M</td>
+            <td class="value-cell">
+1.66%            </td>
+            <td class="change-neg">
+-0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3>📉 크레딧 스프레드</h3>
+      <table class="panel-table">
+        <thead><tr><th style="text-align:left">지표</th><th>Latest</th><th>1D Δ</th><th>Date</th></tr></thead>
+        <tbody>
+          <tr>
+            <td class="name"><span class="flag">🇺🇸</span>USD BBB+ 3Y</td>
+            <td class="value-cell">
+0.89%            </td>
+            <td class="change-pos">
++0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇬🇧</span>GBP BBB 3Y</td>
+            <td class="value-cell">
+0.84%            </td>
+            <td class="change-neg">
+-0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇪🇺</span>EUR A- 3Y</td>
+            <td class="value-cell">
+1.50%            </td>
+            <td class="change-pos">
++0.03            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇦🇺</span>AUD A 3Y</td>
+            <td class="value-cell">
+0.92%            </td>
+            <td class="change-neg">
+-0.02            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇰🇷</span>회사채AA- 3Y</td>
+            <td class="value-cell">
+1.92%            </td>
+            <td class="change-pos">
++0.02            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3>📈 Breakeven 10Y</h3>
+      <table class="panel-table">
+        <thead><tr><th style="text-align:left">지표</th><th>Latest</th><th>1D Δ</th><th>Date</th></tr></thead>
+        <tbody>
+          <tr>
+            <td class="name"><span class="flag">🇺🇸</span>US 10Y</td>
+            <td class="value-cell">
+2.19%            </td>
+            <td class="change-neg">
+-0.03            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇬🇧</span>UK 10Y</td>
+            <td class="value-cell">
+2.38%            </td>
+            <td class="change-neg">
+-0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇪🇺</span>EU 10Y</td>
+            <td class="value-cell">
+2.26%            </td>
+            <td class="change-neg">
+-0.05            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇩🇪</span>DE 10Y</td>
+            <td class="value-cell">
+2.69%            </td>
+            <td class="change-neg">
+-0.04            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇫🇷</span>FR 10Y</td>
+            <td class="value-cell">
+2.29%            </td>
+            <td class="change-pos">
++0.04            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇦🇺</span>AU 10Y</td>
+            <td class="value-cell">
+2.52%            </td>
+            <td class="change-neg">
+-0.02            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇯🇵</span>JP 10Y</td>
+            <td class="value-cell">
+2.15%            </td>
+            <td class="change-pos">
++0.05            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+          <tr>
+            <td class="name"><span class="flag">🇸🇪</span>SE 10Y</td>
+            <td class="value-cell">
+2.25%            </td>
+            <td class="change-pos">
++0.04            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3>🏠 모기지금리</h3>
+      <table class="panel-table">
+        <thead><tr><th style="text-align:left">지표</th><th>Latest</th><th>1D Δ</th><th>Date</th></tr></thead>
+        <tbody>
+          <tr>
+            <td class="name"><span class="flag">🇺🇸</span>US 30Y 모기지</td>
+            <td class="value-cell">
+6.91%            </td>
+            <td class="change-neg">
+-0.03            </td>
+            <td><small style="color:var(--text-dim)">2026-05-26</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ─── 이벤트형 카테고리 패널 (Inflation / Unemployment / Housing / Consumer / Retail) ─── -->
+<section>
+  <h2>📊 물가 Snapshot</h2>
   <div class="panels">
     <div class="panel">
       <h3><span class="flag">🇺🇸</span> United States</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           <tr>
@@ -1038,37 +1648,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <h3><span class="flag">🇪🇺</span> Eurozone</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           <tr>
             <td class="name">
               HICP YoY
 <small>HICP</small>            </td>
-            <td>2.4%</td>
-            <td>2.6%</td>
-            <td>2.5%</td>
-            <td class="surprise-neg">
--0.1            </td>
-            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+            <td>3.3%</td>
+            <td>3.4%</td>
+            <td>3.2%</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
           </tr>
           <tr>
             <td class="name">
               Core HICP YoY
 <small>Core HICP</small>            </td>
-            <td>2.9%</td>
+            <td>3.2%</td>
             <td>3.1%</td>
             <td>2.9%</td>
-            <td class="surprise-zero">
-+0.0            </td>
-            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+            <td class="surprise-pos">
++0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-17</small></td>
           </tr>
         </tbody>
       </table>
@@ -1077,37 +1680,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <h3><span class="flag">🇬🇧</span> United Kingdom</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           <tr>
             <td class="name">
               CPI YoY
 <small>CPI</small>            </td>
-            <td>3.4%</td>
-            <td>3.2%</td>
-            <td>3.5%</td>
-            <td class="surprise-neg">
--0.1            </td>
-            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+            <td>2.5%</td>
+            <td>2.5%</td>
+            <td>2.5%</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
           </tr>
           <tr>
             <td class="name">
               Core CPI YoY
 <small>Core CPI</small>            </td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
+            <td>2.9%</td>
+            <td>3.2%</td>
+            <td>2.9%</td>
             <td class="surprise-zero">
-—            </td>
-            <td><small style="color:var(--text-dim)">—</small></td>
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-25</small></td>
           </tr>
         </tbody>
       </table>
@@ -1116,37 +1712,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <h3><span class="flag">🇸🇬</span> Singapore</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           <tr>
             <td class="name">
               CPI YoY
 <small>CPI</small>            </td>
-            <td>2.7%</td>
-            <td>2.9%</td>
-            <td>2.8%</td>
+            <td>3.3%</td>
+            <td>3.2%</td>
+            <td>3.6%</td>
             <td class="surprise-neg">
--0.1            </td>
-            <td><small style="color:var(--text-dim)">2026-05-19</small></td>
+-0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
           </tr>
           <tr>
             <td class="name">
               MAS Core CPI
 <small>Core CPI</small>            </td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td class="surprise-zero">
-—            </td>
-            <td><small style="color:var(--text-dim)">—</small></td>
+            <td>3.1%</td>
+            <td>3.3%</td>
+            <td>2.8%</td>
+            <td class="surprise-pos">
++0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-12</small></td>
           </tr>
         </tbody>
       </table>
@@ -1155,48 +1744,41 @@ footer a { color: var(--accent); text-decoration: none; }
       <h3><span class="flag">🇦🇺</span> Australia</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           <tr>
             <td class="name">
               CPI YoY (Q)
 <small>CPI 분기</small>            </td>
+            <td>3.1%</td>
+            <td>3.3%</td>
             <td>3.4%</td>
-            <td>3.6%</td>
-            <td>3.5%</td>
             <td class="surprise-neg">
--0.1            </td>
-            <td><small style="color:var(--text-dim)">2026-05-20</small></td>
+-0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-23</small></td>
           </tr>
           <tr>
             <td class="name">
               Monthly CPI YoY
 <small>월간 CPI</small>            </td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td class="surprise-zero">
-—            </td>
-            <td><small style="color:var(--text-dim)">—</small></td>
+            <td>2.8%</td>
+            <td>2.7%</td>
+            <td>2.5%</td>
+            <td class="surprise-pos">
++0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
           </tr>
           <tr>
             <td class="name">
               Trimmed Mean
-<small>Trimmed Mean</small>            </td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td class="surprise-zero">
-—            </td>
-            <td><small style="color:var(--text-dim)">—</small></td>
+            </td>
+            <td>3.6%</td>
+            <td>3.6%</td>
+            <td>3.7%</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
           </tr>
         </tbody>
       </table>
@@ -1205,48 +1787,41 @@ footer a { color: var(--accent); text-decoration: none; }
       <h3><span class="flag">🇯🇵</span> Japan</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           <tr>
             <td class="name">
               National CPI YoY
 <small>전국 CPI</small>            </td>
-            <td>2.5%</td>
+            <td>2.6%</td>
+            <td>2.6%</td>
             <td>2.3%</td>
-            <td>2.4%</td>
             <td class="surprise-pos">
-+0.1            </td>
-            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
++0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-17</small></td>
           </tr>
           <tr>
             <td class="name">
-              Core CPI (ex-fresh food)
-<small>Core CPI</small>            </td>
-            <td>2.2%</td>
-            <td>2.0%</td>
-            <td>2.2%</td>
-            <td class="surprise-zero">
-+0.0            </td>
-            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
+              Core CPI
+            </td>
+            <td>3.8%</td>
+            <td>3.6%</td>
+            <td>3.6%</td>
+            <td class="surprise-pos">
++0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-12</small></td>
           </tr>
           <tr>
             <td class="name">
               Tokyo CPI YoY
 <small>도쿄 CPI</small>            </td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
+            <td>2.5%</td>
+            <td>2.4%</td>
+            <td>2.5%</td>
             <td class="surprise-zero">
-—            </td>
-            <td><small style="color:var(--text-dim)">—</small></td>
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-16</small></td>
           </tr>
         </tbody>
       </table>
@@ -1255,37 +1830,967 @@ footer a { color: var(--accent); text-decoration: none; }
       <h3><span class="flag">🇨🇦</span> Canada</h3>
       <table class="panel-table">
         <thead>
-          <tr>
-            <th style="text-align:left">Indicator</th>
-            <th>Latest</th>
-            <th>Prior</th>
-            <th>Consensus</th>
-            <th>Surprise</th>
-            <th>Date</th>
-          </tr>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
         </thead>
         <tbody>
           <tr>
             <td class="name">
               CPI YoY
 <small>CPI</small>            </td>
-            <td>2.0%</td>
-            <td>2.4%</td>
-            <td>2.1%</td>
-            <td class="surprise-neg">
--0.1            </td>
-            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+            <td>3.1%</td>
+            <td>2.9%</td>
+            <td>3.0%</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-15</small></td>
           </tr>
           <tr>
             <td class="name">
               BoC Core Trim
 <small>Core Trim</small>            </td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
-            <td><span class="no-data">—</span></td>
+            <td>2.6%</td>
+            <td>2.9%</td>
+            <td>2.9%</td>
+            <td class="surprise-neg">
+-0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+<section>
+  <h2>👥 실업률 Snapshot</h2>
+  <div class="panels">
+    <div class="panel">
+      <h3><span class="flag">🇺🇸</span> United States</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate
+<small>실업률</small>            </td>
+            <td>5.0%</td>
+            <td>4.9%</td>
+            <td>5.2%</td>
+            <td class="surprise-neg">
+-0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇨🇦</span> Canada</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate
+<small>실업률</small>            </td>
+            <td>3.5%</td>
+            <td>3.7%</td>
+            <td>3.6%</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-17</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇬🇧</span> United Kingdom</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              ILO Unemployment Rate
+<small>실업률 (3M MA)</small>            </td>
+            <td>5.7%</td>
+            <td>5.4%</td>
+            <td>5.6%</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇪🇺</span> Eurozone</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate
+<small>유로존 실업률</small>            </td>
+            <td>5.9%</td>
+            <td>5.7%</td>
+            <td>6.0%</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-14</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇦🇺</span> Australia</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate
+<small>실업률</small>            </td>
+            <td>4.6%</td>
+            <td>4.5%</td>
+            <td>4.4%</td>
+            <td class="surprise-pos">
++0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇯🇵</span> Japan</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate
+<small>실업률</small>            </td>
+            <td>3.1%</td>
+            <td>3.2%</td>
+            <td>3.0%</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-12</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇰🇷</span> Korea</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate
+<small>실업률</small>            </td>
+            <td>4.9%</td>
+            <td>5.0%</td>
+            <td>5.1%</td>
+            <td class="surprise-neg">
+-0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-19</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇭🇰</span> Hong Kong</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate (3MMA)
+<small>실업률 (3M MA)</small>            </td>
+            <td>5.2%</td>
+            <td>5.4%</td>
+            <td>5.4%</td>
+            <td class="surprise-neg">
+-0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇬</span> Singapore</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate (Q)
+<small>실업률 분기</small>            </td>
+            <td>5.1%</td>
+            <td>5.4%</td>
+            <td>4.9%</td>
+            <td class="surprise-pos">
++0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-20</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇪</span> Sweden</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Unemployment Rate
+<small>실업률</small>            </td>
+            <td>5.4%</td>
+            <td>5.6%</td>
+            <td>5.3%</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+<section>
+  <h2>🏘️ 주택지표 Snapshot</h2>
+  <div class="panels">
+    <div class="panel">
+      <h3><span class="flag">🇺🇸</span> United States</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              NAHB Housing Market Index
+<small>NAHB (50 기준)</small>            </td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
             <td class="surprise-zero">
-—            </td>
-            <td><small style="color:var(--text-dim)">—</small></td>
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Housing Starts (k)
+<small>주택착공 (천호)</small>            </td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-16</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Existing Home Sales (M)
+<small>기존주택매매 (백만호)</small>            </td>
+            <td>8.79</td>
+            <td>8.81</td>
+            <td>8.76</td>
+            <td class="surprise-pos">
++0.03            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Case-Shiller 20-City YoY
+<small>Case-Shiller 20</small>            </td>
+            <td>6.9%</td>
+            <td>7.0%</td>
+            <td>6.6%</td>
+            <td class="surprise-pos">
++0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-20</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇨🇦</span> Canada</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Housing Starts
+<small>주택착공</small>            </td>
+            <td>-1</td>
+            <td>-1</td>
+            <td>-0</td>
+            <td class="surprise-neg">
+-1.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-14</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇬🇧</span> United Kingdom</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Nationwide House Price MoM
+<small>Nationwide HPI MoM</small>            </td>
+            <td>3.0%</td>
+            <td>3.1%</td>
+            <td>3.3%</td>
+            <td class="surprise-neg">
+-0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              RICS House Price Balance
+<small>RICS 심리</small>            </td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-18</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇩🇪</span> Germany</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Construction PMI
+<small>건설 PMI (50)</small>            </td>
+            <td>3.7</td>
+            <td>3.4</td>
+            <td>3.5</td>
+            <td class="surprise-pos">
++0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-17</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇫🇷</span> France</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Construction PMI
+<small>건설 PMI (50)</small>            </td>
+            <td>-0.9</td>
+            <td>-0.7</td>
+            <td>-1.0</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-23</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇯🇵</span> Japan</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Housing Starts YoY
+<small>주택착공 YoY</small>            </td>
+            <td>3.7%</td>
+            <td>3.8%</td>
+            <td>3.7%</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇰🇷</span> Korea</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              KB House Price Index YoY
+<small>KB 전국 YoY</small>            </td>
+            <td>2.8%</td>
+            <td>3.0%</td>
+            <td>3.0%</td>
+            <td class="surprise-neg">
+-0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              KB Seoul Price YoY
+<small>KB 서울 YoY</small>            </td>
+            <td>7.6%</td>
+            <td>7.9%</td>
+            <td>7.7%</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇭🇰</span> Hong Kong</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              RVD HK Property Price Index
+<small>RVD 주택가격지수</small>            </td>
+            <td>6.0</td>
+            <td>6.2</td>
+            <td>6.3</td>
+            <td class="surprise-neg">
+-0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-16</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              HK Property Transactions
+<small>부동산 거래량</small>            </td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-18</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇬</span> Singapore</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              URA Private Residential PPI
+<small>URA 주택가격지수</small>            </td>
+            <td>5.7</td>
+            <td>5.5</td>
+            <td>5.7</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-24</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇪</span> Sweden</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Valueguard Sweden Apt Index
+<small>아파트 가격지수</small>            </td>
+            <td>2.0</td>
+            <td>2.0</td>
+            <td>1.8</td>
+            <td class="surprise-pos">
++0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-23</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+<section>
+  <h2>💭 소비자심리 Snapshot</h2>
+  <div class="panels">
+    <div class="panel">
+      <h3><span class="flag">🇺🇸</span> United States</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              U-Michigan Sentiment
+<small>미시간 (월2회)</small>            </td>
+            <td>78.0</td>
+            <td>77.9</td>
+            <td>77.8</td>
+            <td class="surprise-pos">
++0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
+          </tr>
+          <tr>
+            <td class="name">
+              Conference Board Confidence
+<small>Conf Board</small>            </td>
+            <td>93.6</td>
+            <td>93.5</td>
+            <td>93.3</td>
+            <td class="surprise-pos">
++0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-13</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇨🇦</span> Canada</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Conference Board Confidence
+<small>Conf Board</small>            </td>
+            <td>77.7</td>
+            <td>77.9</td>
+            <td>77.9</td>
+            <td class="surprise-neg">
+-0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-18</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇬🇧</span> United Kingdom</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              GfK Consumer Confidence
+<small>GfK</small>            </td>
+            <td>64</td>
+            <td>63</td>
+            <td>63</td>
+            <td class="surprise-pos">
++1.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-18</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇪🇺</span> Eurozone</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              EC Consumer Confidence
+<small>EU 소비자신뢰</small>            </td>
+            <td>103.5</td>
+            <td>103.2</td>
+            <td>103.6</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-19</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇦🇺</span> Australia</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Westpac Consumer Conf
+<small>Westpac</small>            </td>
+            <td>66.5</td>
+            <td>66.7</td>
+            <td>66.4</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-19</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇯🇵</span> Japan</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Consumer Confidence
+<small>소비자신뢰</small>            </td>
+            <td>98.4</td>
+            <td>98.2</td>
+            <td>98.6</td>
+            <td class="surprise-neg">
+-0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-20</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇰🇷</span> Korea</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Consumer Confidence Index
+<small>CCSI</small>            </td>
+            <td>42.8</td>
+            <td>43.0</td>
+            <td>42.7</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-16</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇭🇰</span> Hong Kong</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              ANZ Roy Morgan Conf
+<small>ANZ Roy Morgan</small>            </td>
+            <td>79.5</td>
+            <td>79.6</td>
+            <td>79.6</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-23</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇬</span> Singapore</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              ANZ Roy Morgan Conf
+<small>ANZ Roy Morgan</small>            </td>
+            <td>94.4</td>
+            <td>94.5</td>
+            <td>94.3</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇪</span> Sweden</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Consumer Confidence
+<small>소비자신뢰</small>            </td>
+            <td>105.9</td>
+            <td>106.1</td>
+            <td>106.0</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+<section>
+  <h2>🛒 소매판매 Snapshot</h2>
+  <div class="panels">
+    <div class="panel">
+      <h3><span class="flag">🇺🇸</span> United States</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales MoM SA
+<small>소매판매 MoM</small>            </td>
+            <td>-0.3%</td>
+            <td>-0.1%</td>
+            <td>0.0%</td>
+            <td class="surprise-neg">
+-0.30            </td>
+            <td><small style="color:var(--text-dim)">2026-05-20</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇨🇦</span> Canada</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales MoM SA
+<small>소매판매 MoM</small>            </td>
+            <td>-0.5%</td>
+            <td>-0.5%</td>
+            <td>-0.5%</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-19</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇬🇧</span> United Kingdom</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales ex Fuel MoM
+<small>소매판매(연료제외) MoM</small>            </td>
+            <td>0.4%</td>
+            <td>0.7%</td>
+            <td>0.5%</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇪🇺</span> Eurozone</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales Vol MoM SA
+<small>소매판매 MoM</small>            </td>
+            <td>1.2%</td>
+            <td>1.0%</td>
+            <td>1.2%</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇦🇺</span> Australia</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales MoM SA
+<small>소매판매 MoM</small>            </td>
+            <td>0.4%</td>
+            <td>0.4%</td>
+            <td>0.5%</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-25</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇯🇵</span> Japan</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Large-Scale Retail MoM SA
+<small>대형소매 MoM</small>            </td>
+            <td>0.0%</td>
+            <td>0.1%</td>
+            <td>-0.1%</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇰🇷</span> Korea</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales MoM SA
+<small>소매판매 MoM</small>            </td>
+            <td>0.3%</td>
+            <td>0.2%</td>
+            <td>0.3%</td>
+            <td class="surprise-zero">
++0.00            </td>
+            <td><small style="color:var(--text-dim)">2026-05-18</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇭🇰</span> Hong Kong</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales Value YoY
+<small>소매판매 YoY</small>            </td>
+            <td>-0.1%</td>
+            <td>-0.2%</td>
+            <td>0.1%</td>
+            <td class="surprise-neg">
+-0.20            </td>
+            <td><small style="color:var(--text-dim)">2026-05-16</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇬</span> Singapore</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales Total MoM SA
+<small>소매판매 MoM</small>            </td>
+            <td>0.6%</td>
+            <td>0.6%</td>
+            <td>0.5%</td>
+            <td class="surprise-pos">
++0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-21</small></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="panel">
+      <h3><span class="flag">🇸🇪</span> Sweden</h3>
+      <table class="panel-table">
+        <thead>
+          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="name">
+              Retail Sales ex Fuel MoM
+<small>소매판매 MoM</small>            </td>
+            <td>0.6%</td>
+            <td>0.4%</td>
+            <td>0.7%</td>
+            <td class="surprise-neg">
+-0.10            </td>
+            <td><small style="color:var(--text-dim)">2026-05-22</small></td>
           </tr>
         </tbody>
       </table>
@@ -1295,7 +2800,7 @@ footer a { color: var(--accent); text-decoration: none; }
 
 <footer>
   Data sources: Bloomberg (xbbg) · FRED · Central Bank official calendars<br>
-  Built with Python + Jinja2 · Hosted on GitHub Pages · Updated 2026-05-26 13:14 KST
+  Built with Python + Jinja2 · Hosted on GitHub Pages · Updated 2026-05-26 15:27 KST
 </footer>
 
 </div>
