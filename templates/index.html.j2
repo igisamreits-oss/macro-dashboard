@@ -417,7 +417,7 @@ function closeEvModal() {
       <h3><span class="flag">{{ countries[country_code].flag }}</span> {{ countries[country_code].name }}</h3>
       <table class="panel-table">
         <thead>
-          <tr><th style="text-align:left">Indicator</th><th>Period</th><th>Latest</th><th>Prior</th><th>Cons.</th><th>Surprise</th></tr>
+          <tr><th style="text-align:left">Indicator</th><th>Period<br><small style="font-size:9px;opacity:0.7;text-transform:none">(release date)</small></th><th>Latest</th><th>Prior</th><th>Cons.</th><th>Surprise</th></tr>
         </thead>
         <tbody>
           {% for r in rows %}
@@ -426,7 +426,10 @@ function closeEvModal() {
               {{ r.name }}<span class="freq-badge {{ r.frequency }}">{{ r.freq_label }}</span>
               {% if r.name_ko and r.name_ko != r.name %}<small>{{ r.name_ko }}</small>{% endif %}
             </td>
-            <td title="발표(관측) 일자: {{ r.release_date or 'TBD' }}"><small style="color:var(--text-dim)">{{ r.period or '—' }}</small></td>
+            <td>
+              <small style="color:var(--text-dim)">{{ r.period or '—' }}</small>
+              {% if r.released_on %}<small style="color:var(--text-dim); display:block; font-size:9px; opacity:0.65">({{ r.released_on }})</small>{% endif %}
+            </td>
             <td>{% if r.actual is not none %}{{ ("%%.%df" % r.decimals)|format(r.actual) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
             <td>{% if r.prior is not none %}{{ ("%%.%df" % r.decimals)|format(r.prior) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
             <td>{% if r.consensus is not none %}{{ ("%%.%df" % r.decimals)|format(r.consensus) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>

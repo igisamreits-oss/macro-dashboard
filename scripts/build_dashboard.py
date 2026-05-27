@@ -18,6 +18,7 @@ import random
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+import yaml
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import config
@@ -26,6 +27,47 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 TEMPLATE_DIR = ROOT / "templates"
 OUTPUT_DIR = ROOT / "docs"
+SCHEDULE_PATH = DATA_DIR / "calendar" / "schedule.yml"
+
+
+def load_schedule_all_events() -> list[dict]:
+    """schedule.yml 전체 이벤트 로드 (윈도우 필터링 전 원본)."""
+    if not SCHEDULE_PATH.exists():
+        return []
+    try:
+        return yaml.safe_load(SCHEDULE_PATH.read_text(encoding="utf-8")).get("events", [])
+    except Exception:
+        return []
+
+
+def find_release_date(indicator_id: str, period_end_str: str | None, schedule_events: list[dict]) -> str | None:
+    """schedule.yml에서 indicator의 release_date 찾기.
+
+    period_end보다 1~60일 후의 가장 가까운 일정을 매칭.
+    예: 2026-04-30 (April CPI) → 2026-05-13 (실제 시장 발표일).
+    """
+    if not period_end_str:
+        return None
+    try:
+        period_end = date.fromisoformat(period_end_str)
+    except (ValueError, TypeError):
+        return None
+
+    candidates = []
+    for ev in schedule_events:
+        if ev.get("indicator_id") != indicator_id:
+            continue
+        try:
+            ev_d = date.fromisoformat(ev["date"])
+        except Exception:
+            continue
+        days_after = (ev_d - period_end).days
+        if 0 < days_after <= 60:
+            candidates.append((days_after, ev_d))
+    if not candidates:
+        return None
+    candidates.sort()
+    return candidates[0][1].isoformat()
 
 KST = timezone(timedelta(hours=9))
 
@@ -196,7 +238,7 @@ def build_calendar(events: list[dict], today: date) -> dict:
 
 
 # ── Event-category panels (Inflation / Unemployment / Housing / Consumer / Retail) ──
-def build_event_categories(indicators_data: dict) -> dict[str, dict]:
+def build_event_categories(indicators_data: dict, schedule_events: list[dict]) -> dict[str, dict]:
     """이벤트형 카테고리별 { by_country: {country: [rows]} } 구조 생성."""
     result: dict[str, dict] = {}
     for cat_id in config.event_categories():
@@ -213,6 +255,8 @@ def build_event_categories(indicators_data: dict) -> dict[str, dict]:
             if actual is not None and consensus is not None:
                 surprise = round(actual - consensus, 2)
             freq = ind.get("frequency", "M")
+            period_end = d_.get("release_date")  # 실제론 period end. 명칭은 BBG 호환 위해 유지
+            released_on = find_release_date(ind["id"], period_end, schedule_events)
             row = {
                 "id": ind["id"],
                 "name": ind["name"],
@@ -221,8 +265,9 @@ def build_event_categories(indicators_data: dict) -> dict[str, dict]:
                 "consensus": consensus,
                 "prior": d_.get("prior"),
                 "surprise": surprise,
-                "release_date": d_.get("release_date"),
-                "period": period_label(d_.get("release_date"), freq),
+                "period_end": period_end,
+                "period": period_label(period_end, freq),
+                "released_on": released_on,  # 실제 시장 발표일 (schedule.yml에서 lookup)
                 "frequency": freq,
                 "freq_label": FREQ_LABEL.get(freq, freq),
                 "importance": ind["importance"],
@@ -362,13 +407,15 @@ def main(use_sample: bool = False) -> None:
         if v.get("rate") is not None:
             cb_data[k] = {**cb_data.get(k, {}), "rate": v["rate"], "source": "fred"}
 
+    schedule_events = load_schedule_all_events()
+
     ctx = {
         "build_time": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
         "countries": config.COUNTRIES,
         "categories": config.CATEGORIES,
         "calendar": build_calendar(events, today),
         "markets": build_markets(snapshot_data),
-        "event_categories": build_event_categories(indicators_data),
+        "event_categories": build_event_categories(indicators_data, schedule_events),
         "central_banks": build_central_banks(cb_data, today, events),
     }
 
