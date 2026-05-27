@@ -50,13 +50,23 @@ section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; ma
 /* ── Calendar ────────────────────────────────────────────────── */
 .calendar {
   background: var(--panel); border: 1px solid var(--border);
-  border-radius: 8px; overflow: hidden;
+  border-radius: 8px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-color: var(--accent) var(--panel-2);
 }
+.calendar::-webkit-scrollbar { height: 10px; }
+.calendar::-webkit-scrollbar-track { background: var(--panel-2); }
+.calendar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 5px; }
+.calendar::-webkit-scrollbar-thumb:hover { background: var(--accent); }
 .calendar-grid {
   display: grid;
-  grid-template-columns: 90px repeat({{ calendar.days|length }}, minmax(54px, 1fr));
+  grid-template-columns: 90px repeat({{ calendar.days|length }}, minmax(60px, 1fr));
   font-size: 11px;
+  min-width: max-content;
 }
+.cal-cell.cal-country { position: sticky; left: 0; z-index: 2; }
+.cal-cell.cal-header:first-child { position: sticky; left: 0; z-index: 3; }
 .cal-cell {
   padding: 5px 3px;
   border-right: 1px solid var(--border);
@@ -76,10 +86,62 @@ section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; ma
   color: var(--accent);
   font-size: 10px; line-height: 1.25;
   border-left: 2px solid var(--accent);
+  cursor: pointer;
+  transition: background 0.1s;
 }
+.cal-event:hover { background: rgba(56, 189, 248, 0.35); }
 .cal-event.imp-3 { background: rgba(248, 113, 113, 0.15); color: var(--bad); border-left-color: var(--bad); }
+.cal-event.imp-3:hover { background: rgba(248, 113, 113, 0.35); }
 .cal-event.imp-2 { background: rgba(251, 191, 36, 0.15); color: var(--warn); border-left-color: var(--warn); }
+.cal-event.imp-2:hover { background: rgba(251, 191, 36, 0.35); }
 .cal-event.past { opacity: 0.45; }
+
+/* Event detail modal */
+.modal-backdrop {
+  display: none;
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 100;
+  justify-content: center; align-items: center;
+}
+.modal-backdrop.open { display: flex; }
+.modal {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 24px;
+  min-width: 320px; max-width: 480px;
+  position: relative;
+}
+.modal .close {
+  position: absolute; top: 12px; right: 16px;
+  background: none; border: none; color: var(--text-dim);
+  font-size: 22px; cursor: pointer; line-height: 1;
+}
+.modal .close:hover { color: var(--text); }
+.modal h3 {
+  margin: 0 0 4px 0; font-size: 18px;
+  display: flex; align-items: center; gap: 10px;
+}
+.modal .m-meta { color: var(--text-dim); font-size: 13px; margin-bottom: 16px; }
+.modal .m-grid {
+  display: grid; grid-template-columns: 110px 1fr;
+  gap: 8px 16px; font-size: 13px;
+}
+.modal .m-grid .label { color: var(--text-dim); }
+.modal .m-grid .val { color: var(--text); font-weight: 500; }
+.modal .m-note {
+  margin-top: 14px; padding-top: 12px;
+  border-top: 1px dashed var(--border);
+  color: var(--text-dim); font-size: 12px; font-style: italic;
+}
+.imp-badge {
+  display: inline-block; font-size: 11px; padding: 2px 6px;
+  border-radius: 4px; font-weight: 600;
+}
+.imp-badge.imp-3 { background: rgba(248, 113, 113, 0.2); color: var(--bad); }
+.imp-badge.imp-2 { background: rgba(251, 191, 36, 0.2); color: var(--warn); }
+.imp-badge.imp-1 { background: rgba(56, 189, 248, 0.2); color: var(--accent); }
 
 /* ── Snapshot panels (existing + new) ─────────────────────────── */
 .panels {
@@ -188,7 +250,17 @@ footer a { color: var(--accent); text-decoration: none; }
       {% for day in calendar.days %}
       <div class="cal-cell">
         {% for ev in calendar.events_by_country_day.get(country_code, {}).get(day.date, []) %}
-        <span class="cal-event imp-{{ ev.importance }} {% if ev.is_past %}past{% endif %}" title="{{ ev.name }} ({{ ev.time_kst }})">
+        <span class="cal-event imp-{{ ev.importance }} {% if ev.is_past %}past{% endif %}"
+              data-name="{{ ev.name }}"
+              data-name-ko="{{ ev.name_ko }}"
+              data-flag="{{ ev.country_flag }}"
+              data-country="{{ ev.country_name }}"
+              data-date="{{ ev.date }}"
+              data-time="{{ ev.time_kst }}"
+              data-cat="{{ ev.category_emoji }} {{ ev.category_ko }}"
+              data-imp="{{ ev.importance }}"
+              data-note="{{ ev.note }}"
+              data-past="{{ ev.is_past|lower }}">
           {{ ev.short_name }}
         </span>
         {% endfor %}
@@ -198,6 +270,60 @@ footer a { color: var(--accent); text-decoration: none; }
     </div>
   </div>
 </section>
+
+<!-- Event Detail Modal -->
+<div class="modal-backdrop" id="evModalBackdrop">
+  <div class="modal">
+    <button class="close" onclick="closeEvModal()">&times;</button>
+    <h3 id="evModalTitle"></h3>
+    <div class="m-meta" id="evModalSubtitle"></div>
+    <div class="m-grid" id="evModalGrid"></div>
+    <div class="m-note" id="evModalNote" style="display:none"></div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const backdrop = document.getElementById('evModalBackdrop');
+  const title = document.getElementById('evModalTitle');
+  const subtitle = document.getElementById('evModalSubtitle');
+  const grid = document.getElementById('evModalGrid');
+  const note = document.getElementById('evModalNote');
+  const impLabels = {3: '★★★ High', 2: '★★ Medium', 1: '★ Low'};
+
+  document.querySelectorAll('.cal-event').forEach(el => {
+    el.addEventListener('click', () => {
+      const d = el.dataset;
+      title.innerHTML = `${d.flag} <span>${d.name}</span>`;
+      const past = d.past === 'true';
+      subtitle.textContent = `${d.country} · ${d.nameKo}${past ? ' · 발표 완료' : ' · 예정'}`;
+      grid.innerHTML = `
+        <div class="label">Date (KST)</div><div class="val">${d.date}${d.time ? ' ' + d.time : ''}</div>
+        <div class="label">Category</div><div class="val">${d.cat}</div>
+        <div class="label">Importance</div><div class="val"><span class="imp-badge imp-${d.imp}">${impLabels[d.imp] || d.imp}</span></div>
+      `;
+      if (d.note && d.note.trim()) {
+        note.textContent = '📝 ' + d.note;
+        note.style.display = '';
+      } else {
+        note.style.display = 'none';
+      }
+      backdrop.classList.add('open');
+    });
+  });
+
+  backdrop.addEventListener('click', (e) => {
+    if (e.target === backdrop) closeEvModal();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeEvModal();
+  });
+})();
+
+function closeEvModal() {
+  document.getElementById('evModalBackdrop').classList.remove('open');
+}
+</script>
 
 <!-- ─── 중앙은행 정책금리 박스 ──────────────────────────────── -->
 <section>

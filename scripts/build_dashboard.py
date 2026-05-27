@@ -146,11 +146,22 @@ def build_calendar(events: list[dict], today: date) -> dict:
             continue
         country = ev["country"]
         day = ev["date"]
+        country_meta = config.COUNTRIES.get(country, {})
+        cat_meta = config.CATEGORIES.get(ind["category"], {})
         events_by_country_day.setdefault(country, {}).setdefault(day, []).append({
             "name": ind["name"],
+            "name_ko": ind["name_ko"],
             "short_name": ind["name_ko"] or ind["name"],
             "importance": ind["importance"],
             "time_kst": ev.get("time_kst", ""),
+            "note": ev.get("note", ""),
+            "country_code": country,
+            "country_name": country_meta.get("name", country),
+            "country_flag": country_meta.get("flag", ""),
+            "category": ind["category"],
+            "category_ko": cat_meta.get("name_ko", ind["category"]),
+            "category_emoji": cat_meta.get("emoji", ""),
+            "date": day,
             "is_past": date.fromisoformat(day) < today,
         })
 
