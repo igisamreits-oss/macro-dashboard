@@ -29,6 +29,29 @@ OUTPUT_DIR = ROOT / "docs"
 
 KST = timezone(timedelta(hours=9))
 
+MONTH_SHORT = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+FREQ_LABEL = {"D": "Daily", "W": "Weekly", "M": "Monthly", "Q": "Quarterly", "E": "Event"}
+
+
+def period_label(date_str: str | None, frequency: str) -> str:
+    """발표일 → 데이터가 다루는 기간 라벨 ('Apr 2026', 'Q1 2026', 등)."""
+    if not date_str:
+        return ""
+    try:
+        d = date.fromisoformat(date_str)
+    except (ValueError, TypeError):
+        return date_str
+    if frequency == "M":
+        return f"{MONTH_SHORT[d.month]} {d.year}"
+    if frequency == "Q":
+        q = (d.month - 1) // 3 + 1
+        return f"Q{q} {d.year}"
+    if frequency == "W":
+        return f"Wk {d.strftime('%m/%d')}"
+    if frequency == "D":
+        return d.strftime("%m/%d")
+    return d.isoformat()
+
 
 # ── Data loading ─────────────────────────────────────────────────────
 def load_json(path: Path) -> dict | list | None:
@@ -189,6 +212,7 @@ def build_event_categories(indicators_data: dict) -> dict[str, dict]:
             surprise = None
             if actual is not None and consensus is not None:
                 surprise = round(actual - consensus, 2)
+            freq = ind.get("frequency", "M")
             row = {
                 "id": ind["id"],
                 "name": ind["name"],
@@ -198,6 +222,9 @@ def build_event_categories(indicators_data: dict) -> dict[str, dict]:
                 "prior": d_.get("prior"),
                 "surprise": surprise,
                 "release_date": d_.get("release_date"),
+                "period": period_label(d_.get("release_date"), freq),
+                "frequency": freq,
+                "freq_label": FREQ_LABEL.get(freq, freq),
                 "importance": ind["importance"],
                 "unit": ind.get("unit", "%"),
                 "decimals": ind.get("decimals", 1),
@@ -222,6 +249,7 @@ def build_markets(snapshot_data: dict) -> dict[str, dict]:
         for ind in config.by_category(cat_id):
             d_ = snapshot_data.get(ind["id"], {})
             country_meta = config.COUNTRIES.get(ind["country"], {})
+            freq = ind.get("frequency", "D")
             rows.append({
                 "id": ind["id"],
                 "name": ind["name"],
@@ -231,6 +259,8 @@ def build_markets(snapshot_data: dict) -> dict[str, dict]:
                 "value": d_.get("value"),
                 "change_1d": d_.get("change_1d"),
                 "as_of": d_.get("as_of"),
+                "frequency": freq,
+                "freq_label": FREQ_LABEL.get(freq, freq),
                 "unit": ind.get("unit", "%"),
                 "decimals": ind.get("decimals", 2),
             })

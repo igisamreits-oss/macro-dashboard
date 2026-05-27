@@ -167,6 +167,17 @@ section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; ma
 .panel-table th { color: var(--text-dim); font-weight: 500; font-size: 10px; text-transform: uppercase; letter-spacing: 0.04em; }
 .panel-table td.name { text-align: left; color: var(--text); font-weight: 500; }
 .panel-table td.name small { color: var(--text-dim); font-weight: 400; display: block; font-size: 10px; }
+.freq-badge {
+  display: inline-block; font-size: 9px; padding: 1px 5px;
+  border-radius: 3px; background: rgba(148, 163, 184, 0.15);
+  color: var(--text-dim); margin-left: 5px;
+  font-weight: 500; letter-spacing: 0.04em;
+  text-transform: uppercase; vertical-align: middle;
+}
+.freq-badge.D { background: rgba(56,189,248,0.15); color: var(--accent); }
+.freq-badge.W { background: rgba(74,222,128,0.15); color: var(--good); }
+.freq-badge.M { background: rgba(251,191,36,0.15); color: var(--warn); }
+.freq-badge.Q { background: rgba(248,113,113,0.15); color: var(--bad); }
 .surprise-pos { color: var(--good); font-weight: 600; }
 .surprise-neg { color: var(--bad); font-weight: 600; }
 .surprise-zero { color: var(--neutral); }
@@ -360,20 +371,23 @@ function closeEvModal() {
   </div>
 </section>
 
-<!-- ─── Markets Snapshot (Daily/Weekly) ───────────────────── -->
+<!-- ─── Markets (Daily/Weekly) ─────────────────────────────── -->
 {% if markets %}
 <section>
-  <h2>💹 Markets Snapshot <small>매일 갱신</small></h2>
+  <h2>💹 Markets <small>매일 갱신</small></h2>
   <div class="markets">
     {% for cat_id, cat_data in markets.items() %}
     <div class="panel">
       <h3>{{ cat_data.emoji }} {{ cat_data.name_ko }}</h3>
       <table class="panel-table">
-        <thead><tr><th style="text-align:left">지표</th><th>Latest</th><th>1D Δ</th><th>Date</th></tr></thead>
+        <thead><tr><th style="text-align:left">지표</th><th>Latest</th><th>1D Δ</th><th>As of</th></tr></thead>
         <tbody>
           {% for row in cat_data.rows %}
           <tr>
-            <td class="name"><span class="flag">{{ row.flag }}</span>{{ row.name_ko }}</td>
+            <td class="name">
+              <span class="flag">{{ row.flag }}</span>{{ row.name_ko }}
+              <span class="freq-badge {{ row.frequency }}">{{ row.freq_label }}</span>
+            </td>
             <td class="value-cell">
               {% if row.value is not none %}{{ ("%%.%df" % row.decimals)|format(row.value) }}{% if row.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}
             </td>
@@ -391,11 +405,11 @@ function closeEvModal() {
 </section>
 {% endif %}
 
-<!-- ─── 이벤트형 카테고리 패널 (Inflation / Unemployment / Housing / Consumer / Retail) ─── -->
+<!-- ─── 이벤트형 카테고리 패널 ─────────────────────────────── -->
 {% for cat_id, cat_block in event_categories.items() %}
 {% if cat_block.by_country %}
 <section>
-  <h2>{{ cat_block.emoji }} {{ cat_block.name_ko }} Snapshot</h2>
+  <h2>{{ cat_block.emoji }} {{ cat_block.name_ko }}</h2>
   <div class="panels">
     {% for country_code, rows in cat_block.by_country.items() %}
     {% if rows %}
@@ -403,22 +417,22 @@ function closeEvModal() {
       <h3><span class="flag">{{ countries[country_code].flag }}</span> {{ countries[country_code].name }}</h3>
       <table class="panel-table">
         <thead>
-          <tr><th style="text-align:left">Indicator</th><th>Latest</th><th>Prior</th><th>Consensus</th><th>Surprise</th><th>Date</th></tr>
+          <tr><th style="text-align:left">Indicator</th><th>Period</th><th>Latest</th><th>Prior</th><th>Cons.</th><th>Surprise</th></tr>
         </thead>
         <tbody>
           {% for r in rows %}
           <tr>
             <td class="name">
-              {{ r.name }}
+              {{ r.name }}<span class="freq-badge {{ r.frequency }}">{{ r.freq_label }}</span>
               {% if r.name_ko and r.name_ko != r.name %}<small>{{ r.name_ko }}</small>{% endif %}
             </td>
+            <td title="발표(관측) 일자: {{ r.release_date or 'TBD' }}"><small style="color:var(--text-dim)">{{ r.period or '—' }}</small></td>
             <td>{% if r.actual is not none %}{{ ("%%.%df" % r.decimals)|format(r.actual) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
             <td>{% if r.prior is not none %}{{ ("%%.%df" % r.decimals)|format(r.prior) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
             <td>{% if r.consensus is not none %}{{ ("%%.%df" % r.decimals)|format(r.consensus) }}{% if r.unit == "%" %}%{% endif %}{% else %}<span class="no-data">—</span>{% endif %}</td>
             <td class="{% if r.surprise and r.surprise > 0 %}surprise-pos{% elif r.surprise and r.surprise < 0 %}surprise-neg{% else %}surprise-zero{% endif %}">
               {% if r.surprise is not none %}{{ "%+.2f"|format(r.surprise) }}{% else %}—{% endif %}
             </td>
-            <td><small style="color:var(--text-dim)">{{ r.release_date or "—" }}</small></td>
           </tr>
           {% endfor %}
         </tbody>
