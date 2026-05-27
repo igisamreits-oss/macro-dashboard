@@ -50,13 +50,23 @@ section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; ma
 /* ── Calendar ────────────────────────────────────────────────── */
 .calendar {
   background: var(--panel); border: 1px solid var(--border);
-  border-radius: 8px; overflow: hidden;
+  border-radius: 8px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-color: var(--accent) var(--panel-2);
 }
+.calendar::-webkit-scrollbar { height: 10px; }
+.calendar::-webkit-scrollbar-track { background: var(--panel-2); }
+.calendar::-webkit-scrollbar-thumb { background: var(--border); border-radius: 5px; }
+.calendar::-webkit-scrollbar-thumb:hover { background: var(--accent); }
 .calendar-grid {
   display: grid;
-  grid-template-columns: 90px repeat(36, minmax(54px, 1fr));
+  grid-template-columns: 90px repeat(36, minmax(60px, 1fr));
   font-size: 11px;
+  min-width: max-content;
 }
+.cal-cell.cal-country { position: sticky; left: 0; z-index: 2; }
+.cal-cell.cal-header:first-child { position: sticky; left: 0; z-index: 3; }
 .cal-cell {
   padding: 5px 3px;
   border-right: 1px solid var(--border);
@@ -76,10 +86,62 @@ section h2 small { color: var(--text-dim); font-weight: 400; font-size: 12px; ma
   color: var(--accent);
   font-size: 10px; line-height: 1.25;
   border-left: 2px solid var(--accent);
+  cursor: pointer;
+  transition: background 0.1s;
 }
+.cal-event:hover { background: rgba(56, 189, 248, 0.35); }
 .cal-event.imp-3 { background: rgba(248, 113, 113, 0.15); color: var(--bad); border-left-color: var(--bad); }
+.cal-event.imp-3:hover { background: rgba(248, 113, 113, 0.35); }
 .cal-event.imp-2 { background: rgba(251, 191, 36, 0.15); color: var(--warn); border-left-color: var(--warn); }
+.cal-event.imp-2:hover { background: rgba(251, 191, 36, 0.35); }
 .cal-event.past { opacity: 0.45; }
+
+/* Event detail modal */
+.modal-backdrop {
+  display: none;
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 100;
+  justify-content: center; align-items: center;
+}
+.modal-backdrop.open { display: flex; }
+.modal {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 24px;
+  min-width: 320px; max-width: 480px;
+  position: relative;
+}
+.modal .close {
+  position: absolute; top: 12px; right: 16px;
+  background: none; border: none; color: var(--text-dim);
+  font-size: 22px; cursor: pointer; line-height: 1;
+}
+.modal .close:hover { color: var(--text); }
+.modal h3 {
+  margin: 0 0 4px 0; font-size: 18px;
+  display: flex; align-items: center; gap: 10px;
+}
+.modal .m-meta { color: var(--text-dim); font-size: 13px; margin-bottom: 16px; }
+.modal .m-grid {
+  display: grid; grid-template-columns: 110px 1fr;
+  gap: 8px 16px; font-size: 13px;
+}
+.modal .m-grid .label { color: var(--text-dim); }
+.modal .m-grid .val { color: var(--text); font-weight: 500; }
+.modal .m-note {
+  margin-top: 14px; padding-top: 12px;
+  border-top: 1px dashed var(--border);
+  color: var(--text-dim); font-size: 12px; font-style: italic;
+}
+.imp-badge {
+  display: inline-block; font-size: 11px; padding: 2px 6px;
+  border-radius: 4px; font-weight: 600;
+}
+.imp-badge.imp-3 { background: rgba(248, 113, 113, 0.2); color: var(--bad); }
+.imp-badge.imp-2 { background: rgba(251, 191, 36, 0.2); color: var(--warn); }
+.imp-badge.imp-1 { background: rgba(56, 189, 248, 0.2); color: var(--accent); }
 
 /* ── Snapshot panels (existing + new) ─────────────────────────── */
 .panels {
@@ -165,7 +227,7 @@ footer a { color: var(--accent); text-decoration: none; }
 <header>
   <h1>Global REIT Macro Dashboard</h1>
   <div class="meta">
-    Last update: <strong>2026-05-27 09:11</strong> KST &nbsp;|&nbsp;
+    Last update: <strong>2026-05-27 09:12</strong> KST &nbsp;|&nbsp;
     Calendar: 2026-05-20 ~ 2026-06-24
   </div>
 </header>
@@ -306,10 +368,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="PCE YoY (21:30)">
+        <span class="cal-event imp-3 "
+              data-name="PCE YoY"
+              data-name-ko="PCE"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-05-29"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Apr data"
+              data-past="false">
           PCE
         </span>
-        <span class="cal-event imp-3 " title="Core PCE YoY (21:30)">
+        <span class="cal-event imp-3 "
+              data-name="Core PCE YoY"
+              data-name-ko="Core PCE"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-05-29"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           Core PCE
         </span>
       </div>
@@ -338,10 +420,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="CPI YoY (21:30)">
+        <span class="cal-event imp-3 "
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-06-11"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="May (est)"
+              data-past="false">
           CPI
         </span>
-        <span class="cal-event imp-3 " title="Core CPI YoY (21:30)">
+        <span class="cal-event imp-3 "
+              data-name="Core CPI YoY"
+              data-name-ko="Core CPI"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-06-11"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="May (est)"
+              data-past="false">
           Core CPI
         </span>
       </div>
@@ -358,7 +460,17 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="FOMC Rate Decision (03:00)">
+        <span class="cal-event imp-3 "
+              data-name="FOMC Rate Decision"
+              data-name-ko="FOMC"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-06-18"
+              data-time="03:00"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note="SEP + 회견 03:30"
+              data-past="false">
           FOMC
         </span>
       </div>
@@ -396,10 +508,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="HICP YoY (18:00)">
+        <span class="cal-event imp-3 "
+              data-name="HICP YoY"
+              data-name-ko="HICP"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-05-29"
+              data-time="18:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="May flash"
+              data-past="false">
           HICP
         </span>
-        <span class="cal-event imp-3 " title="Core HICP YoY (18:00)">
+        <span class="cal-event imp-3 "
+              data-name="Core HICP YoY"
+              data-name-ko="Core HICP"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-05-29"
+              data-time="18:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           Core HICP
         </span>
       </div>
@@ -428,7 +560,17 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="ECB Deposit Rate (21:15)">
+        <span class="cal-event imp-3 "
+              data-name="ECB Deposit Rate"
+              data-name-ko="ECB"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-06-11"
+              data-time="21:15"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note="라가르드 회견 21:45"
+              data-past="false">
           ECB
         </span>
       </div>
@@ -445,10 +587,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="HICP YoY (18:00)">
+        <span class="cal-event imp-3 "
+              data-name="HICP YoY"
+              data-name-ko="HICP"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-06-18"
+              data-time="18:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="May final"
+              data-past="false">
           HICP
         </span>
-        <span class="cal-event imp-3 " title="Core HICP YoY (18:00)">
+        <span class="cal-event imp-3 "
+              data-name="Core HICP YoY"
+              data-name-ko="Core HICP"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-06-18"
+              data-time="18:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           Core HICP
         </span>
       </div>
@@ -470,10 +632,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 past" title="CPI YoY (15:00)">
+        <span class="cal-event imp-3 past"
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇬🇧"
+              data-country="United Kingdom"
+              data-date="2026-05-21"
+              data-time="15:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Apr data"
+              data-past="true">
           CPI
         </span>
-        <span class="cal-event imp-2 past" title="Core CPI YoY (15:00)">
+        <span class="cal-event imp-2 past"
+              data-name="Core CPI YoY"
+              data-name-ko="Core CPI"
+              data-flag="🇬🇧"
+              data-country="United Kingdom"
+              data-date="2026-05-21"
+              data-time="15:00"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note=""
+              data-past="true">
           Core CPI
         </span>
       </div>
@@ -530,15 +712,45 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="CPI YoY (15:00)">
+        <span class="cal-event imp-3 "
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇬🇧"
+              data-country="United Kingdom"
+              data-date="2026-06-17"
+              data-time="15:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="May (est)"
+              data-past="false">
           CPI
         </span>
-        <span class="cal-event imp-2 " title="Core CPI YoY (15:00)">
+        <span class="cal-event imp-2 "
+              data-name="Core CPI YoY"
+              data-name-ko="Core CPI"
+              data-flag="🇬🇧"
+              data-country="United Kingdom"
+              data-date="2026-06-17"
+              data-time="15:00"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note=""
+              data-past="false">
           Core CPI
         </span>
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="BoE Bank Rate (20:00)">
+        <span class="cal-event imp-3 "
+              data-name="BoE Bank Rate"
+              data-name-ko="BoE"
+              data-flag="🇬🇧"
+              data-country="United Kingdom"
+              data-date="2026-06-18"
+              data-time="20:00"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           BoE
         </span>
       </div>
@@ -793,10 +1005,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-2 past" title="CPI YoY (14:00)">
+        <span class="cal-event imp-2 past"
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇸🇬"
+              data-country="Singapore"
+              data-date="2026-05-25"
+              data-time="14:00"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note="Apr data"
+              data-past="true">
           CPI
         </span>
-        <span class="cal-event imp-2 past" title="MAS Core CPI (14:00)">
+        <span class="cal-event imp-2 past"
+              data-name="MAS Core CPI"
+              data-name-ko="MAS Core"
+              data-flag="🇸🇬"
+              data-country="Singapore"
+              data-date="2026-05-25"
+              data-time="14:00"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note=""
+              data-past="true">
           MAS Core
         </span>
       </div>
@@ -857,10 +1089,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-2 " title="CPI YoY (14:00)">
+        <span class="cal-event imp-2 "
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇸🇬"
+              data-country="Singapore"
+              data-date="2026-06-23"
+              data-time="14:00"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note="May (est)"
+              data-past="false">
           CPI
         </span>
-        <span class="cal-event imp-2 " title="MAS Core CPI (14:00)">
+        <span class="cal-event imp-2 "
+              data-name="MAS Core CPI"
+              data-name-ko="MAS Core"
+              data-flag="🇸🇬"
+              data-country="Singapore"
+              data-date="2026-06-23"
+              data-time="14:00"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note=""
+              data-past="false">
           MAS Core
         </span>
       </div>
@@ -999,7 +1251,17 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="RBA Cash Rate (13:30)">
+        <span class="cal-event imp-3 "
+              data-name="RBA Cash Rate"
+              data-name-ko="RBA"
+              data-flag="🇦🇺"
+              data-country="Australia"
+              data-date="2026-06-16"
+              data-time="13:30"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           RBA
         </span>
       </div>
@@ -1027,13 +1289,43 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 past" title="National CPI YoY (08:30)">
+        <span class="cal-event imp-3 past"
+              data-name="National CPI YoY"
+              data-name-ko="전국 CPI"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-05-22"
+              data-time="08:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Apr data"
+              data-past="true">
           전국 CPI
         </span>
-        <span class="cal-event imp-3 past" title="Core CPI ex Fresh (08:30)">
+        <span class="cal-event imp-3 past"
+              data-name="Core CPI ex Fresh"
+              data-name-ko="Core CPI"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-05-22"
+              data-time="08:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note=""
+              data-past="true">
           Core CPI
         </span>
-        <span class="cal-event imp-2 past" title="Core-Core (ex F&E) (08:30)">
+        <span class="cal-event imp-2 past"
+              data-name="Core-Core (ex F&E)"
+              data-name-ko="Core-Core"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-05-22"
+              data-time="08:30"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note="Apr data"
+              data-past="true">
           Core-Core
         </span>
       </div>
@@ -1086,7 +1378,17 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="BoJ Policy Rate (12:00)">
+        <span class="cal-event imp-3 "
+              data-name="BoJ Policy Rate"
+              data-name-ko="BoJ"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-06-16"
+              data-time="12:00"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           BoJ
         </span>
       </div>
@@ -1095,13 +1397,43 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="National CPI YoY (08:30)">
+        <span class="cal-event imp-3 "
+              data-name="National CPI YoY"
+              data-name-ko="전국 CPI"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-06-19"
+              data-time="08:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="May (est)"
+              data-past="false">
           전국 CPI
         </span>
-        <span class="cal-event imp-3 " title="Core CPI ex Fresh (08:30)">
+        <span class="cal-event imp-3 "
+              data-name="Core CPI ex Fresh"
+              data-name-ko="Core CPI"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-06-19"
+              data-time="08:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           Core CPI
         </span>
-        <span class="cal-event imp-2 " title="Core-Core (ex F&E) (08:30)">
+        <span class="cal-event imp-2 "
+              data-name="Core-Core (ex F&E)"
+              data-name-ko="Core-Core"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-06-19"
+              data-time="08:30"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note="May (est)"
+              data-past="false">
           Core-Core
         </span>
       </div>
@@ -1194,10 +1526,30 @@ footer a { color: var(--accent); text-decoration: none; }
         <span class="flag">🇨🇦</span> CA
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 past" title="CPI YoY (21:30)">
+        <span class="cal-event imp-3 past"
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇨🇦"
+              data-country="Canada"
+              data-date="2026-05-20"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Apr data"
+              data-past="true">
           CPI
         </span>
-        <span class="cal-event imp-2 past" title="BoC Core Trim (21:30)">
+        <span class="cal-event imp-2 past"
+              data-name="BoC Core Trim"
+              data-name-ko="Core Trim"
+              data-flag="🇨🇦"
+              data-country="Canada"
+              data-date="2026-05-20"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note=""
+              data-past="true">
           Core Trim
         </span>
       </div>
@@ -1242,7 +1594,17 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="BoC Overnight Rate (22:45)">
+        <span class="cal-event imp-3 "
+              data-name="BoC Overnight Rate"
+              data-name-ko="BoC"
+              data-flag="🇨🇦"
+              data-country="Canada"
+              data-date="2026-06-10"
+              data-time="22:45"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
           BoC
         </span>
       </div>
@@ -1271,10 +1633,30 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 " title="CPI YoY (21:30)">
+        <span class="cal-event imp-3 "
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇨🇦"
+              data-country="Canada"
+              data-date="2026-06-23"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="May (est)"
+              data-past="false">
           CPI
         </span>
-        <span class="cal-event imp-2 " title="BoC Core Trim (21:30)">
+        <span class="cal-event imp-2 "
+              data-name="BoC Core Trim"
+              data-name-ko="Core Trim"
+              data-flag="🇨🇦"
+              data-country="Canada"
+              data-date="2026-06-23"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="2"
+              data-note=""
+              data-past="false">
           Core Trim
         </span>
       </div>
@@ -1283,6 +1665,60 @@ footer a { color: var(--accent); text-decoration: none; }
     </div>
   </div>
 </section>
+
+<!-- Event Detail Modal -->
+<div class="modal-backdrop" id="evModalBackdrop">
+  <div class="modal">
+    <button class="close" onclick="closeEvModal()">&times;</button>
+    <h3 id="evModalTitle"></h3>
+    <div class="m-meta" id="evModalSubtitle"></div>
+    <div class="m-grid" id="evModalGrid"></div>
+    <div class="m-note" id="evModalNote" style="display:none"></div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const backdrop = document.getElementById('evModalBackdrop');
+  const title = document.getElementById('evModalTitle');
+  const subtitle = document.getElementById('evModalSubtitle');
+  const grid = document.getElementById('evModalGrid');
+  const note = document.getElementById('evModalNote');
+  const impLabels = {3: '★★★ High', 2: '★★ Medium', 1: '★ Low'};
+
+  document.querySelectorAll('.cal-event').forEach(el => {
+    el.addEventListener('click', () => {
+      const d = el.dataset;
+      title.innerHTML = `${d.flag} <span>${d.name}</span>`;
+      const past = d.past === 'true';
+      subtitle.textContent = `${d.country} · ${d.nameKo}${past ? ' · 발표 완료' : ' · 예정'}`;
+      grid.innerHTML = `
+        <div class="label">Date (KST)</div><div class="val">${d.date}${d.time ? ' ' + d.time : ''}</div>
+        <div class="label">Category</div><div class="val">${d.cat}</div>
+        <div class="label">Importance</div><div class="val"><span class="imp-badge imp-${d.imp}">${impLabels[d.imp] || d.imp}</span></div>
+      `;
+      if (d.note && d.note.trim()) {
+        note.textContent = '📝 ' + d.note;
+        note.style.display = '';
+      } else {
+        note.style.display = 'none';
+      }
+      backdrop.classList.add('open');
+    });
+  });
+
+  backdrop.addEventListener('click', (e) => {
+    if (e.target === backdrop) closeEvModal();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeEvModal();
+  });
+})();
+
+function closeEvModal() {
+  document.getElementById('evModalBackdrop').classList.remove('open');
+}
+</script>
 
 <!-- ─── 중앙은행 정책금리 박스 ──────────────────────────────── -->
 <section>
@@ -2652,7 +3088,7 @@ footer a { color: var(--accent); text-decoration: none; }
 
 <footer>
   Data sources: Bloomberg (xbbg) · FRED · Central Bank official calendars<br>
-  Built with Python + Jinja2 · Hosted on GitHub Pages · Updated 2026-05-27 09:11 KST
+  Built with Python + Jinja2 · Hosted on GitHub Pages · Updated 2026-05-27 09:12 KST
 </footer>
 
 </div>
