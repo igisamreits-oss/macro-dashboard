@@ -28,12 +28,19 @@ body {
 }
 .container { max-width: 1600px; margin: 0 auto; padding: 24px; }
 header {
-  display: flex; justify-content: space-between; align-items: baseline;
+  display: flex; justify-content: space-between; align-items: flex-end;
   padding-bottom: 16px; margin-bottom: 24px;
   border-bottom: 1px solid var(--border);
+  gap: 24px; flex-wrap: wrap;
+}
+header .title-block { flex: 1 1 auto; min-width: 0; }
+header .team {
+  font-size: 11px; color: var(--text-dim);
+  letter-spacing: 0.12em; text-transform: uppercase;
+  font-weight: 500; margin-bottom: 6px;
 }
 header h1 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
-header .meta { color: var(--text-dim); font-size: 13px; }
+header .meta { color: var(--text-dim); font-size: 13px; text-align: right; }
 header .meta strong { color: var(--accent); }
 
 section { margin-bottom: 32px; }
@@ -236,9 +243,12 @@ footer a { color: var(--accent); text-decoration: none; }
 <div class="container">
 
 <header>
-  <h1>Global REIT Macro Dashboard</h1>
+  <div class="title-block">
+    <div class="team">IGIS &middot; Alternative Securities Investment Team</div>
+    <h1>Global REIT Macro Dashboard</h1>
+  </div>
   <div class="meta">
-    Last update: <strong>{{ build_time }}</strong> KST &nbsp;|&nbsp;
+    Last update: <strong>{{ build_time }}</strong> KST<br>
     Calendar: {{ calendar.range_label }}
   </div>
 </header>
@@ -449,8 +459,8 @@ function closeEvModal() {
 {% endfor %}
 
 <footer>
-  Data sources: Bloomberg (xbbg) · FRED · Central Bank official calendars<br>
-  Built with Python + Jinja2 · Hosted on GitHub Pages · Updated {{ build_time }} KST
+  Data: Bloomberg &middot; FRED &middot; Central Bank official calendars<br>
+  Updated {{ build_time }} KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>
