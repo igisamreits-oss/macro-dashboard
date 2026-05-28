@@ -1,23 +1,9 @@
 {
-  "fetched_at": "2026-05-27T12:38:12.716094+00:00",
-  "window_start": "2026-05-20",
-  "window_end": "2026-06-24",
+  "fetched_at": "2026-05-28T06:52:04.223129+00:00",
+  "window_start": "2026-05-21",
+  "window_end": "2026-06-25",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-05-20",
-      "country": "CA",
-      "indicator_id": "ca_cpi_yoy",
-      "time_kst": "21:30",
-      "note": "Apr data"
-    },
-    {
-      "date": "2026-05-20",
-      "country": "CA",
-      "indicator_id": "ca_core_trim",
-      "time_kst": "21:30",
-      "note": ""
-    },
     {
       "date": "2026-05-21",
       "country": "UK",
