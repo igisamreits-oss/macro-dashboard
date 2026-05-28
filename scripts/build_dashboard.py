@@ -256,7 +256,8 @@ def build_event_categories(indicators_data: dict, schedule_events: list[dict]) -
                 surprise = round(actual - consensus, 2)
             freq = ind.get("frequency", "M")
             period_end = d_.get("release_date")  # 실제론 period end. 명칭은 BBG 호환 위해 유지
-            released_on = find_release_date(ind["id"], period_end, schedule_events)
+            # Bloomberg ECO_RELEASE_DT 우선, 없으면 schedule.yml에서 lookup
+            released_on = d_.get("actual_release_date") or find_release_date(ind["id"], period_end, schedule_events)
             row = {
                 "id": ind["id"],
                 "name": ind["name"],

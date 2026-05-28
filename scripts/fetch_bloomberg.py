@@ -118,15 +118,40 @@ def _bdp_fallback(ticker: str) -> dict:
         return {"actual": None, "prior": None, "consensus": None, "release_date": None, "error": f"bdp exc: {e}"}
 
 
-def fetch_event(ticker: str) -> dict:
-    """Monthly/Quarterly 이벤트: 최신 actual + prior + consensus + 관측일.
+def _parse_eco_release_dt(val) -> str | None:
+    """Bloomberg ECO_RELEASE_DT는 YYYYMMDD (xbbg는 문자열 '20260508.0'로 반환) → 'YYYY-MM-DD'."""
+    if val is None:
+        return None
+    try:
+        if pd.isna(val):
+            return None
+    except (TypeError, ValueError):
+        pass
+    try:
+        d = int(float(val))  # '20260508.0' → 20260508
+        if d < 19000101 or d > 21000101:
+            return None
+        return f"{d // 10000:04d}-{(d // 100) % 100:02d}-{d % 100:02d}"
+    except (ValueError, TypeError):
+        return None
 
-    PX_LAST와 BN_SURVEY_MEDIAN을 같이 받아서 같은 release period로 align.
-    BDH가 빈 결과를 주면 BDP로 fallback (일부 티커는 historical series 미지원).
+
+def fetch_event(ticker: str) -> dict:
+    """Monthly/Quarterly 이벤트: 최신 actual + prior + consensus + period end + 실제 발표일.
+
+    필드:
+      PX_LAST           : 관측값
+      BN_SURVEY_MEDIAN  : 애널리스트 컨센서스
+      ECO_RELEASE_DT    : 실제 시장 발표일 (YYYYMMDD)
+    BDH 빈 결과 시 BDP fallback (일부 티커는 historical series 미지원).
     """
     end = date.today()
     start = end - timedelta(days=540)
-    raw = blp.bdh(ticker, ["PX_LAST", "BN_SURVEY_MEDIAN"], start_date=start, end_date=end)
+    raw = blp.bdh(
+        ticker,
+        ["PX_LAST", "BN_SURVEY_MEDIAN", "ECO_RELEASE_DT"],
+        start_date=start, end_date=end,
+    )
     df_raw = _to_pandas(raw)
     if df_raw is None or df_raw.empty:
         return _bdp_fallback(ticker)
@@ -154,11 +179,16 @@ def fetch_event(ticker: str) -> dict:
         if pd.notna(c):
             consensus = round(float(c), 4)
 
+    actual_release = None
+    if "ECO_RELEASE_DT" in pv.columns:
+        actual_release = _parse_eco_release_dt(pv.loc[latest_date, "ECO_RELEASE_DT"])
+
     return {
         "actual": round(actual, 4),
         "prior": round(prior, 4) if prior is not None else None,
         "consensus": consensus,
-        "release_date": pd.Timestamp(latest_date).strftime("%Y-%m-%d"),
+        "release_date": pd.Timestamp(latest_date).strftime("%Y-%m-%d"),  # period end
+        "actual_release_date": actual_release,  # 실제 시장 발표일
     }
 
 
