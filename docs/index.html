@@ -248,7 +248,7 @@ footer a { color: var(--accent); text-decoration: none; }
     <h1>Global REIT Macro Dashboard</h1>
   </div>
   <div class="meta">
-    Last update: <strong>2026-05-28 16:28</strong> KST<br>
+    Last update: <strong>2026-05-28 16:29</strong> KST<br>
     Calendar: 2026-05-21 ~ 2026-06-25
   </div>
 </header>
@@ -1690,7 +1690,6 @@ footer a { color: var(--accent); text-decoration: none; }
       grid.innerHTML = `
         <div class="label">Date (KST)</div><div class="val">${d.date}${d.time ? ' ' + d.time : ''}</div>
         <div class="label">Category</div><div class="val">${d.cat}</div>
-        <div class="label">Importance</div><div class="val"><span class="imp-badge imp-${d.imp}">${impLabels[d.imp] || d.imp}</span></div>
       `;
       if (d.note && d.note.trim()) {
         note.textContent = '📝 ' + d.note;
@@ -3250,7 +3249,7 @@ function closeEvModal() {
 
 <footer>
   Data: Bloomberg &middot; FRED &middot; Central Bank official calendars<br>
-  Updated 2026-05-28 16:28 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
+  Updated 2026-05-28 16:29 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>
