@@ -183,12 +183,30 @@ def fetch_event(ticker: str) -> dict:
     if "ECO_RELEASE_DT" in pv.columns:
         actual_release = _parse_eco_release_dt(pv.loc[latest_date, "ECO_RELEASE_DT"])
 
+    # 다음 예정 발표일+시간 (BDP는 가장 최근 'next' 값을 반환)
+    next_date, next_time = None, None
+    try:
+        nx = blp.bdp(ticker, ["ECO_RELEASE_DT", "ECO_RELEASE_TIME"])
+        nx_df = _to_pandas(nx)
+        if nx_df is not None and not nx_df.empty and "field" in nx_df.columns and "value" in nx_df.columns:
+            npv = nx_df.set_index("field")["value"]
+            nd = npv.get("ECO_RELEASE_DT")
+            if nd is not None and not (isinstance(nd, float) and pd.isna(nd)):
+                next_date = str(nd)[:10]  # 'YYYY-MM-DD'
+            nt = npv.get("ECO_RELEASE_TIME")
+            if nt is not None and not (isinstance(nt, float) and pd.isna(nt)):
+                next_time = str(nt)[:5]   # 'HH:MM'
+    except Exception:
+        pass
+
     return {
         "actual": round(actual, 4),
         "prior": round(prior, 4) if prior is not None else None,
         "consensus": consensus,
         "release_date": pd.Timestamp(latest_date).strftime("%Y-%m-%d"),  # period end
-        "actual_release_date": actual_release,  # 실제 시장 발표일
+        "actual_release_date": actual_release,                            # 실제 시장 발표일
+        "next_release_date": next_date,                                   # 다음 발표 예정일 (KST)
+        "next_release_time": next_time,                                   # 다음 발표 예정 시간 (KST HH:MM)
     }
 
 

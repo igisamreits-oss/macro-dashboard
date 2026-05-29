@@ -395,7 +395,37 @@ def main(use_sample: bool = False) -> None:
     indicators_data = data["bloomberg"]["indicators"]
     snapshot_data = data["bloomberg"]["snapshots"]
     cb_data = data["bloomberg"]["central_banks"]
-    events = data["calendar"]["events"]
+    raw_schedule_events = data["calendar"]["events"]
+
+    # Calendar 이벤트 합성:
+    #  - 중앙은행 회의: schedule.yml 유지 (Bloomberg가 발표일을 정확히 안 줌)
+    #  - 그 외 event 지표 (물가/실업/주택/소비/소매): Bloomberg actual_release_date + next_release_date 사용
+    events = []
+    for ev in raw_schedule_events:
+        ind = config.get_indicator(ev.get("indicator_id", ""))
+        if ind and ind["category"] == "central_bank":
+            events.append(ev)
+    for ind in config.INDICATORS:
+        cat = ind["category"]
+        if cat == "central_bank" or config.CATEGORIES[cat]["is_snapshot"]:
+            continue
+        d_ = indicators_data.get(ind["id"], {})
+        if d_.get("actual_release_date"):
+            events.append({
+                "date": d_["actual_release_date"],
+                "country": ind["country"],
+                "indicator_id": ind["id"],
+                "time_kst": "",
+                "note": f"{period_label(d_.get('release_date'), ind.get('frequency','M'))} data",
+            })
+        if d_.get("next_release_date"):
+            events.append({
+                "date": d_["next_release_date"],
+                "country": ind["country"],
+                "indicator_id": ind["id"],
+                "time_kst": d_.get("next_release_time") or "",
+                "note": "next release",
+            })
 
     # FRED 덮어쓰기 (US 우선)
     fred_inds = real.get("fred", {}).get("indicators", {})
