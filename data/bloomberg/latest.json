@@ -1,11 +1,644 @@
 {
-  "fetched_at": "2026-05-31T01:05:04.758634+00:00",
+  "fetched_at": "2026-06-01T22:31:21.897819+00:00",
   "stats": {
     "total": 80,
-    "success": 0,
-    "failed": 80
+    "success": 80,
+    "failed": 0
   },
-  "indicators": {},
-  "snapshots": {},
-  "central_banks": {}
+  "indicators": {
+    "us_cpi_yoy": {
+      "actual": 3.8,
+      "prior": 3.3,
+      "consensus": 3.7,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-12",
+      "next_release_date": "2026-06-10",
+      "next_release_time": "21:30"
+    },
+    "us_core_cpi_yoy": {
+      "actual": 2.8,
+      "prior": 2.6,
+      "consensus": 2.7,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-12",
+      "next_release_date": "2026-06-10",
+      "next_release_time": "21:30"
+    },
+    "us_pce_yoy": {
+      "actual": 3.8,
+      "prior": 3.5,
+      "consensus": 3.8,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-28",
+      "next_release_date": "2026-06-25",
+      "next_release_time": "21:30"
+    },
+    "us_core_pce_yoy": {
+      "actual": 3.2892,
+      "prior": 3.2363,
+      "consensus": 3.3,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-28",
+      "next_release_date": "2026-06-25",
+      "next_release_time": "21:30"
+    },
+    "eu_hicp_yoy": {
+      "actual": 3.0,
+      "prior": 2.6,
+      "consensus": 3.0,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-20",
+      "next_release_date": "2026-06-02",
+      "next_release_time": "18:00"
+    },
+    "eu_core_hicp_yoy": {
+      "actual": 2.2,
+      "prior": 2.3,
+      "consensus": 2.2,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-20",
+      "next_release_date": "2026-06-02",
+      "next_release_time": "18:00"
+    },
+    "uk_cpi_yoy": {
+      "actual": 2.8,
+      "prior": 3.3,
+      "consensus": 3.0,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-20",
+      "next_release_date": "2026-06-17",
+      "next_release_time": "15:00"
+    },
+    "uk_core_cpi_yoy": {
+      "actual": 4.2,
+      "prior": 4.0,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": null,
+      "next_release_date": "2026-06-17",
+      "next_release_time": null
+    },
+    "sg_cpi_yoy": {
+      "actual": 1.8,
+      "prior": 1.8,
+      "consensus": 2.1,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-25",
+      "next_release_date": "2026-06-23",
+      "next_release_time": "14:00"
+    },
+    "sg_core_cpi": {
+      "actual": 1.4,
+      "prior": 1.7,
+      "consensus": 1.8,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-25",
+      "next_release_date": "2026-06-23",
+      "next_release_time": "14:00"
+    },
+    "au_cpi_yoy_q": {
+      "actual": 3.2,
+      "prior": 2.1,
+      "consensus": null,
+      "release_date": "2025-09-30",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "au_core_yoy": {
+      "actual": 2.2,
+      "prior": null,
+      "consensus": null,
+      "release_date": "2026-06-02",
+      "source": "bdp"
+    },
+    "jp_cpi_yoy": {
+      "actual": 1.4,
+      "prior": 1.5,
+      "consensus": 1.6,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-21",
+      "next_release_date": "2026-06-19",
+      "next_release_time": "08:30"
+    },
+    "jp_core_cpi": {
+      "actual": 1.4,
+      "prior": 1.8,
+      "consensus": 1.7,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-21",
+      "next_release_date": "2026-06-19",
+      "next_release_time": "08:30"
+    },
+    "jp_core_core": {
+      "actual": 1.9,
+      "prior": 2.4,
+      "consensus": 2.2,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-21",
+      "next_release_date": "2026-06-19",
+      "next_release_time": "08:30"
+    },
+    "ca_cpi_yoy": {
+      "actual": 2.8,
+      "prior": 2.4,
+      "consensus": 3.1,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-19",
+      "next_release_date": "2026-06-22",
+      "next_release_time": "21:30"
+    },
+    "ca_core_trim": {
+      "actual": 2.0,
+      "prior": 2.2,
+      "consensus": 2.2,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-19",
+      "next_release_date": "2026-06-22",
+      "next_release_time": "21:30"
+    },
+    "us_unemp": {
+      "actual": 4.3,
+      "prior": 4.3,
+      "consensus": 4.3,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-08",
+      "next_release_date": "2026-06-05",
+      "next_release_time": "21:30"
+    },
+    "ca_unemp": {
+      "actual": 6.9,
+      "prior": 6.7,
+      "consensus": 6.7,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-08",
+      "next_release_date": "2026-06-05",
+      "next_release_time": "21:30"
+    },
+    "uk_unemp_ilo": {
+      "actual": 5.0,
+      "prior": 4.9,
+      "consensus": 4.9,
+      "release_date": "2026-03-31",
+      "actual_release_date": "2026-05-19",
+      "next_release_date": "2026-06-18",
+      "next_release_time": "15:00"
+    },
+    "eu_unemp": {
+      "actual": 6.3,
+      "prior": 6.3,
+      "consensus": 6.2,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-06-01",
+      "next_release_date": "2026-07-02",
+      "next_release_time": "18:00"
+    },
+    "au_unemp": {
+      "actual": 4.5,
+      "prior": 4.3,
+      "consensus": 4.3,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-20",
+      "next_release_date": "2026-06-25",
+      "next_release_time": "10:30"
+    },
+    "jp_unemp": {
+      "actual": 2.5,
+      "prior": 2.7,
+      "consensus": 2.7,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-28",
+      "next_release_date": "2026-06-30",
+      "next_release_time": "08:30"
+    },
+    "kr_unemp": {
+      "actual": 2.8,
+      "prior": 2.7,
+      "consensus": 2.7,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-12",
+      "next_release_date": "2026-06-11",
+      "next_release_time": "08:00"
+    },
+    "hk_unemp": {
+      "actual": 3.7,
+      "prior": 3.7,
+      "consensus": 3.7,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-19",
+      "next_release_date": "2026-06-16",
+      "next_release_time": "17:30"
+    },
+    "sg_unemp": {
+      "actual": 2.1,
+      "prior": 2.0,
+      "consensus": null,
+      "release_date": "2026-03-31",
+      "actual_release_date": "2026-04-29",
+      "next_release_date": "2026-07-30",
+      "next_release_time": null
+    },
+    "se_unemp": {
+      "actual": 8.7,
+      "prior": 9.7,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "us_nahb": {
+      "actual": 37.0,
+      "prior": 34.0,
+      "consensus": 34.0,
+      "release_date": "2026-05-31",
+      "actual_release_date": "2026-05-18",
+      "next_release_date": "2026-06-15",
+      "next_release_time": "23:00"
+    },
+    "us_housing_starts": {
+      "actual": 1465.0,
+      "prior": 1507.0,
+      "consensus": 1410.0,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-21",
+      "next_release_date": "2026-06-16",
+      "next_release_time": "21:30"
+    },
+    "us_existing_home_sales": {
+      "actual": 4.02,
+      "prior": 4.01,
+      "consensus": 4.05,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-11",
+      "next_release_date": "2026-06-09",
+      "next_release_time": "23:00"
+    },
+    "us_case_shiller_yoy": {
+      "actual": 0.83,
+      "prior": 0.92,
+      "consensus": 0.9,
+      "release_date": "2026-03-31",
+      "actual_release_date": "2026-05-26",
+      "next_release_date": "2026-06-30",
+      "next_release_time": "22:00"
+    },
+    "ca_housing_starts": {
+      "actual": 242.04,
+      "prior": 255.48,
+      "consensus": null,
+      "release_date": "2026-03-31",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "uk_nationwide_mom": {
+      "actual": -0.6,
+      "prior": 0.4,
+      "consensus": -0.2,
+      "release_date": "2026-05-31",
+      "actual_release_date": "2026-06-01",
+      "next_release_date": "2026-06-01",
+      "next_release_time": "15:00"
+    },
+    "de_construction_pmi": {
+      "actual": 42.1,
+      "prior": 48.0,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-07",
+      "next_release_date": "2026-06-04",
+      "next_release_time": "16:30"
+    },
+    "fr_construction_pmi": {
+      "actual": 38.1,
+      "prior": 38.4,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "jp_housing_starts_yoy": {
+      "actual": 11.357,
+      "prior": -29.294,
+      "consensus": 14.8,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-29",
+      "next_release_date": "2026-06-30",
+      "next_release_time": "14:00"
+    },
+    "kr_kb_hpi_yoy": {
+      "actual": 2.5,
+      "prior": 2.4,
+      "consensus": null,
+      "release_date": "2026-05-31",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "kr_kb_hpi_seoul_yoy": {
+      "actual": 9.6,
+      "prior": 9.6,
+      "consensus": null,
+      "release_date": "2026-05-31",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "hk_rvd_hpi": {
+      "actual": 312.8,
+      "prior": 308.5,
+      "consensus": null,
+      "release_date": "2026-03-31",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "hk_property_transactions": {
+      "actual": 7368.0,
+      "prior": 6316.0,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "us_michigan": {
+      "actual": 44.8,
+      "prior": 49.8,
+      "consensus": 48.2,
+      "release_date": "2026-05-31",
+      "actual_release_date": "2026-05-22",
+      "next_release_date": "2026-06-12",
+      "next_release_time": "23:00"
+    },
+    "us_cb_confidence": {
+      "actual": 93.1,
+      "prior": 93.8,
+      "consensus": 92.0,
+      "release_date": "2026-05-31",
+      "actual_release_date": "2026-05-26",
+      "next_release_date": "2026-06-30",
+      "next_release_time": "23:00"
+    },
+    "ca_nanos": {
+      "actual": 50.7029,
+      "prior": 51.7301,
+      "consensus": null,
+      "release_date": "2026-05-29",
+      "actual_release_date": "2026-06-01",
+      "next_release_date": "2026-06-01",
+      "next_release_time": "21:00"
+    },
+    "uk_gfk": {
+      "actual": -23.0,
+      "prior": -25.0,
+      "consensus": -28.0,
+      "release_date": "2026-05-31",
+      "actual_release_date": "2026-05-21",
+      "next_release_date": "2026-06-19",
+      "next_release_time": "08:01"
+    },
+    "eu_consumer_conf": {
+      "actual": -19.0,
+      "prior": -20.6,
+      "consensus": -20.6,
+      "release_date": "2026-05-31",
+      "actual_release_date": "2026-05-28",
+      "next_release_date": "2026-06-22",
+      "next_release_time": "23:00"
+    },
+    "jp_consumer_conf": {
+      "actual": 42.7,
+      "prior": null,
+      "consensus": null,
+      "release_date": "2026-06-02",
+      "source": "bdp"
+    },
+    "se_consumer_conf": {
+      "actual": 92.4,
+      "prior": 91.7,
+      "consensus": null,
+      "release_date": "2026-05-31",
+      "actual_release_date": "2026-05-28",
+      "next_release_date": "2026-06-26",
+      "next_release_time": "16:00"
+    },
+    "us_retail_mom": {
+      "actual": 0.5,
+      "prior": 1.6,
+      "consensus": 0.5,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-14",
+      "next_release_date": "2026-06-17",
+      "next_release_time": "21:30"
+    },
+    "ca_retail_mom": {
+      "actual": 0.9,
+      "prior": 0.7,
+      "consensus": 0.6,
+      "release_date": "2026-03-31",
+      "actual_release_date": "2026-05-22",
+      "next_release_date": "2026-06-19",
+      "next_release_time": "21:30"
+    },
+    "uk_retail_ex_fuel_mom": {
+      "actual": -0.4,
+      "prior": 0.1,
+      "consensus": -0.3,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-22",
+      "next_release_date": "2026-06-19",
+      "next_release_time": "15:00"
+    },
+    "eu_retail_mom": {
+      "actual": -0.1,
+      "prior": -0.3,
+      "consensus": -0.3,
+      "release_date": "2026-03-31",
+      "actual_release_date": "2026-05-07",
+      "next_release_date": "2026-06-04",
+      "next_release_time": "18:00"
+    },
+    "au_retail_mom": {
+      "actual": 1.2,
+      "prior": 0.5,
+      "consensus": 0.4,
+      "release_date": "2025-06-30",
+      "actual_release_date": "2025-07-30",
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "jp_retail_mom": {
+      "actual": 0.3,
+      "prior": 0.0,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": null,
+      "next_release_date": "2026-06-29",
+      "next_release_time": null
+    },
+    "kr_retail_mom": {
+      "actual": -3.64,
+      "prior": 1.9,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": null,
+      "next_release_date": null,
+      "next_release_time": null
+    },
+    "hk_retail_yoy": {
+      "actual": 12.8,
+      "prior": 19.3,
+      "consensus": 9.4,
+      "release_date": "2026-03-31",
+      "actual_release_date": "2026-05-06",
+      "next_release_date": "2026-06-02",
+      "next_release_time": "17:30"
+    },
+    "sg_retail_mom": {
+      "actual": 3.7,
+      "prior": -4.3,
+      "consensus": null,
+      "release_date": "2026-03-31",
+      "actual_release_date": "2026-05-05",
+      "next_release_date": "2026-06-05",
+      "next_release_time": "14:00"
+    },
+    "se_retail_ex_fuel_mom": {
+      "actual": 0.0,
+      "prior": 2.9,
+      "consensus": null,
+      "release_date": "2026-04-30",
+      "actual_release_date": "2026-05-29",
+      "next_release_date": "2026-06-30",
+      "next_release_time": "15:00"
+    }
+  },
+  "snapshots": {
+    "us_pol_sofr": {
+      "value": 3.63,
+      "change_1d": 0.01,
+      "as_of": "2026-05-29"
+    },
+    "ca_pol_corra": {
+      "value": 2.25,
+      "change_1d": 0.0,
+      "as_of": "2026-05-29"
+    },
+    "uk_pol_sonia": {
+      "value": 3.7302,
+      "change_1d": 0.0007,
+      "as_of": "2026-05-29"
+    },
+    "eu_pol_estr": {
+      "value": 1.93,
+      "change_1d": -0.003,
+      "as_of": "2026-05-29"
+    },
+    "kr_pol_cd91": {
+      "value": 2.86,
+      "change_1d": 0.0,
+      "as_of": "2026-06-01"
+    },
+    "sg_pol_sora": {
+      "value": 0.7564,
+      "change_1d": -0.1305,
+      "as_of": "2026-05-28"
+    },
+    "hk_pol_hibor3m": {
+      "value": 2.8,
+      "change_1d": -0.0271,
+      "as_of": "2026-06-01"
+    },
+    "se_pol_stib3m": {
+      "value": 2.007,
+      "change_1d": 0.006,
+      "as_of": "2026-05-29"
+    },
+    "us_be_10y": {
+      "value": 2.4084,
+      "change_1d": 0.0079,
+      "as_of": "2026-06-01"
+    },
+    "uk_be_10y": {
+      "value": 3.387,
+      "change_1d": 0.062,
+      "as_of": "2026-06-01"
+    },
+    "eu_be_10y": {
+      "value": 0.835,
+      "change_1d": 0.068,
+      "as_of": "2026-06-01"
+    },
+    "de_be_10y": {
+      "value": 2.0792,
+      "change_1d": 0.0439,
+      "as_of": "2026-06-01"
+    },
+    "fr_be_10y": {
+      "value": 2.212,
+      "change_1d": 0.046,
+      "as_of": "2026-06-01"
+    },
+    "au_be_10y": {
+      "value": 2.376,
+      "change_1d": -0.006,
+      "as_of": "2026-06-01"
+    },
+    "jp_be_10y": {
+      "value": 2.21,
+      "change_1d": 0.02,
+      "as_of": "2026-06-01"
+    },
+    "se_be_10y": {
+      "value": 1.672,
+      "change_1d": 0.002,
+      "as_of": "2026-06-01"
+    },
+    "us_mort_30y": {
+      "value": 6.53,
+      "change_1d": 0.02,
+      "as_of": "2026-05-28"
+    }
+  },
+  "central_banks": {
+    "fomc": {
+      "rate": 3.75,
+      "consensus_rate": 3.75,
+      "implied_1y": 3.8247,
+      "next_meeting": null
+    },
+    "ecb": {
+      "rate": 2.0,
+      "consensus_rate": null,
+      "implied_1y": 2.4693,
+      "next_meeting": null
+    },
+    "boe": {
+      "rate": 3.75,
+      "consensus_rate": null,
+      "implied_1y": 4.132,
+      "next_meeting": null
+    },
+    "rba": {
+      "rate": 4.35,
+      "consensus_rate": null,
+      "implied_1y": 4.6037,
+      "next_meeting": null
+    },
+    "boj": {
+      "rate": 0.75,
+      "consensus_rate": null,
+      "implied_1y": 1.1062,
+      "next_meeting": null
+    },
+    "boc": {
+      "rate": 2.25,
+      "consensus_rate": 2.25,
+      "implied_1y": 2.521,
+      "next_meeting": null
+    }
+  }
 }
