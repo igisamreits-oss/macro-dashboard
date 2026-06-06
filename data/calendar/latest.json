@@ -1,37 +1,9 @@
 {
-  "fetched_at": "2026-06-05T22:31:34.599655+00:00",
-  "window_start": "2026-05-29",
-  "window_end": "2026-07-03",
+  "fetched_at": "2026-06-06T09:13:52.996177+00:00",
+  "window_start": "2026-05-30",
+  "window_end": "2026-07-04",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-05-29",
-      "country": "EU",
-      "indicator_id": "eu_hicp_yoy",
-      "time_kst": "18:00",
-      "note": "May flash"
-    },
-    {
-      "date": "2026-05-29",
-      "country": "EU",
-      "indicator_id": "eu_core_hicp_yoy",
-      "time_kst": "18:00",
-      "note": ""
-    },
-    {
-      "date": "2026-05-29",
-      "country": "US",
-      "indicator_id": "us_pce_yoy",
-      "time_kst": "21:30",
-      "note": "Apr data"
-    },
-    {
-      "date": "2026-05-29",
-      "country": "US",
-      "indicator_id": "us_core_pce_yoy",
-      "time_kst": "21:30",
-      "note": ""
-    },
     {
       "date": "2026-06-10",
       "country": "CA",
