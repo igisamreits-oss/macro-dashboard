@@ -110,8 +110,27 @@ def load_all_data() -> dict:
         "bloomberg": load_json(DATA_DIR / "bloomberg" / "latest.json") or {},
         "fred":      load_json(DATA_DIR / "fred" / "latest.json") or {},
         "calendar":  load_json(DATA_DIR / "calendar" / "latest.json") or {},
-        "research":  load_json(DATA_DIR / "research" / "latest.json") or {},
+        "research":  _merge_research(),
     }
+
+
+def _merge_research() -> dict:
+    """citi/gs/jpmm latest.json 머지, publish_time 내림차순 정렬."""
+    sources = [
+        DATA_DIR / "research" / "citi_latest.json",
+        DATA_DIR / "research" / "gs_latest.json",
+        DATA_DIR / "research" / "jpmm_latest.json",
+    ]
+    items: list[dict] = []
+    latest_fetched = None
+    for p in sources:
+        d = load_json(p) or {}
+        items.extend(d.get("items", []) or [])
+        ft = d.get("fetched_at")
+        if ft and (latest_fetched is None or ft > latest_fetched):
+            latest_fetched = ft
+    items.sort(key=lambda r: (r.get("publish_time") or ""), reverse=True)
+    return {"fetched_at": latest_fetched, "items": items}
 
 
 # ── Sample data (UI 검증용) ───────────────────────────────────────────

@@ -1,0 +1,457 @@
+{
+  "fetched_at": "2026-06-10T23:23:03.308656+00:00",
+  "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5316356-0",
+      "publication_id": "GPS-5317500-0",
+      "title": "Information Services Data Book",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5316356-0",
+      "authors": [
+        {
+          "name": "Andrew C. Steinerman",
+          "team": "Business & Information Services",
+          "email": "andrew.steinerman@jpmorgan.com"
+        },
+        {
+          "name": "Alexander E.M. Hess, CFA",
+          "team": "Business & Information Services",
+          "email": "alexander.hess@jpmorgan.com"
+        },
+        {
+          "name": "Rohan Kalra",
+          "team": "Business & Information Services",
+          "email": "rohan.kalra@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Business & Information Services"
+      ],
+      "publish_time": "2026-05-29"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5317412-0",
+      "publication_id": "KAL-1-78FLQZVI",
+      "title": "Internet SMID & Video Games",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5317412-0",
+      "authors": [
+        {
+          "name": "Cory A Carpenter",
+          "team": "Internet - Mid & Small Cap",
+          "email": "cory.carpenter@jpmorgan.com"
+        },
+        {
+          "name": "Daniel Pfeiffer",
+          "team": "Internet - Mid & Small Cap",
+          "email": "daniel.pfeiffer@jpmchase.com"
+        },
+        {
+          "name": "Andrew Watts",
+          "team": "Internet - Mid & Small Cap",
+          "email": "andrew.watts@jpmorgan.com"
+        },
+        {
+          "name": "Doug Anmuth",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "douglas.anmuth@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Internet - Mid & Small Cap",
+        "Internet - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-05-28"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5318329-0",
+      "publication_id": "GPS-5326152-0",
+      "title": "Economic Chartbooks - China",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5318329-0",
+      "authors": [
+        {
+          "name": "Feng Zhu",
+          "team": "Emerging Markets Asia, Economic and Policy Research",
+          "email": "feng.zhu@jpmorgan.com"
+        },
+        {
+          "name": "Tingting Ge",
+          "team": "Emerging Markets Asia, Economic and Policy Research",
+          "email": "tingting.ge@jpmorgan.com"
+        },
+        {
+          "name": "Jiayi Li",
+          "team": "Emerging Markets Asia, Economic and Policy Research",
+          "email": "jiayi.c.li@jpmorgan.com"
+        },
+        {
+          "name": "Tongfang Yuan",
+          "team": "Emerging Markets Asia, Economic and Policy Research",
+          "email": "tongfang.yuan@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Emerging Markets Asia, Economic and Policy Research"
+      ],
+      "publish_time": "2026-05-28"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5326769-0",
+      "publication_id": "KAL-1-1BK956JF",
+      "title": "Healthcare Services",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5326769-0",
+      "authors": [
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
+        },
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-06-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5325610-0",
+      "publication_id": "GPS-5326706-0",
+      "title": "North American Midstream",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5325610-0",
+      "authors": [
+        {
+          "name": "Jeremy Tonet, CFA",
+          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "jeremy.b.tonet@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5323371-0",
+      "publication_id": "KAL-1-FMTT4RFT",
+      "title": "Cytokinetics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5323371-0",
+      "authors": [
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Caroline Pocher",
+          "team": "SMid Biotechnology",
+          "email": "caroline.pocher@jpmchase.com"
+        },
+        {
+          "name": "Mariam Waggeh",
+          "team": "SMid Biotechnology",
+          "email": "mariam.waggeh@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology"
+      ],
+      "publish_time": "2026-06-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5320947-0",
+      "publication_id": "KAL-1-FMTT4RFT",
+      "title": "Edgewise Therapeutics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5320947-0",
+      "authors": [
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Caroline Pocher",
+          "team": "SMid Biotechnology",
+          "email": "caroline.pocher@jpmchase.com"
+        },
+        {
+          "name": "Mariam Waggeh",
+          "team": "SMid Biotechnology",
+          "email": "mariam.waggeh@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology"
+      ],
+      "publish_time": "2026-06-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5326534-0",
+      "publication_id": "KAL-1-FMTT4RFT",
+      "title": "Edgewise Therapeutics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5326534-0",
+      "authors": [
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Caroline Pocher",
+          "team": "SMid Biotechnology",
+          "email": "caroline.pocher@jpmchase.com"
+        },
+        {
+          "name": "Mariam Waggeh",
+          "team": "SMid Biotechnology",
+          "email": "mariam.waggeh@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology"
+      ],
+      "publish_time": "2026-06-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5318633-0",
+      "publication_id": "KAL-1-E8FY0XAZ",
+      "title": "J.P. Morgan 2026 Spring Series",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5318633-0",
+      "authors": [
+        {
+          "name": "Harlan Sur",
+          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
+          "email": "harlan.sur@jpmorgan.com"
+        },
+        {
+          "name": "Mayur Ramdhani",
+          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
+          "email": "mayur.ramdhani@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Semiconductors & Semiconductor Capital Equipment / IT Hardware"
+      ],
+      "publish_time": "2026-05-29"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5324996-0",
+      "publication_id": "KAL-1-4UHI9TT7",
+      "title": "JPM Healthcare Team",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5324996-0",
+      "authors": [
+        {
+          "name": "Chris Schott, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "christopher.t.schott@jpmorgan.com"
+        },
+        {
+          "name": "Jessica Fye",
+          "team": "Biotechnology - Large Cap",
+          "email": "jessica.m.fye@jpmorgan.com"
+        },
+        {
+          "name": "Robbie Marcus, CFA",
+          "team": "Medical Supplies & Devices",
+          "email": "robert.j.marcus@jpmorgan.com"
+        },
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "Anupam Rama",
+          "team": "SMid Biotechnology",
+          "email": "anupam.rama@jpmorgan.com"
+        },
+        {
+          "name": "Casey Woodring",
+          "team": "Life Science Tools & Diagnostics",
+          "email": "casey.woodring@jpmchase.com"
+        },
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Brian Cheng",
+          "team": "SMid Biotechnology",
+          "email": "brian.cheng@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities",
+        "Pharmaceuticals — Major & Specialty",
+        "SMid Biotechnology",
+        "Medical Supplies & Devices",
+        "Life Science Tools & Diagnostics",
+        "Biotechnology - Large Cap"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5324954-0",
+      "publication_id": "GPS-5328555-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5324954-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5322328-0",
+      "publication_id": "GPS-5323802-0",
+      "title": "North American Utilities June Jamboree",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5322328-0",
+      "authors": [
+        {
+          "name": "Jeremy Tonet, CFA",
+          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "jeremy.b.tonet@jpmorgan.com"
+        },
+        {
+          "name": "Aidan C Kelly",
+          "team": "Utilities and Midstream/Utilities and Power",
+          "email": "aidan.x.kelly@jpmchase.com"
+        },
+        {
+          "name": "Eli Jossen, CFA",
+          "team": "Utilities and Midstream",
+          "email": "eli.jossen@jpmchase.com"
+        },
+        {
+          "name": "Diana Niles",
+          "team": "North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "diana.niles@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power",
+        "Utilities and Midstream",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+      ],
+      "publish_time": "2026-06-02"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5323992-0",
+      "publication_id": "GPS-5328191-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5323992-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-06-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5319022-0",
+      "publication_id": "KAL-1-XQADLB6U",
+      "title": "Media, Entertainment, and Advertising",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5319022-0",
+      "authors": [
+        {
+          "name": "David Karnovsky, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "david.karnovsky@jpmorgan.com"
+        },
+        {
+          "name": "Alexey Philippov, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "alexey.philippov@jpmorgan.com"
+        },
+        {
+          "name": "Douglas Wardlaw",
+          "team": "Media, Entertainment and Advertising",
+          "email": "douglas.wardlaw@jpmchase.com"
+        },
+        {
+          "name": "Kiscada A Hastings",
+          "team": "Media, Entertainment and Advertising",
+          "email": "kiscada.hastings@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Media, Entertainment and Advertising"
+      ],
+      "publish_time": "2026-05-29"
+    }
+  ]
+}

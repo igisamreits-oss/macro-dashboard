@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 PROFILE_DIR = ROOT / "chrome-profile"
 OUT_DIR = ROOT / "data" / "research"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
-OUT_PATH = OUT_DIR / "latest.json"
+OUT_PATH = OUT_DIR / "citi_latest.json"
 
 CITI_API = "https://www.citivelocity.com/cvr/curationws/eppublic/V1/currentweekrecenthighlights.json?platformId=79"
 CITI_HOME = "https://www.citivelocity.com/cv2/go/RSCH_LANDING_PAGE"

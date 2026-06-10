@@ -59,9 +59,17 @@ if "%FRED_API_KEY%"=="" (
 call :log "[3/5] Calendar refresh"
 python scripts\fetch_calendar.py >> "%LOGFILE%" 2>&1
 
-call :log "[4/5] Citi research feed"
+call :log "[4a/5] Citi research feed"
 python scripts\research\scrape_citi.py >> "%LOGFILE%" 2>&1
 if errorlevel 1 call :log "  WARN: citi scrape had errors, continuing"
+
+call :log "[4b/5] GS Marquee research feed"
+python scripts\research\scrape_gs.py >> "%LOGFILE%" 2>&1
+if errorlevel 1 call :log "  WARN: gs scrape had errors, continuing"
+
+call :log "[4c/5] JPMM research feed"
+python scripts\research\scrape_jpmm.py >> "%LOGFILE%" 2>&1
+if errorlevel 1 call :log "  WARN: jpmm scrape had errors, continuing"
 
 call :log "[5/5] Build dashboard"
 python scripts\build_dashboard.py >> "%LOGFILE%" 2>&1
