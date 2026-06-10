@@ -1,0 +1,15 @@
+2026/04/23-23:11:42.388 5738 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/23-23:11:42.388 5738 Recovering log #16
+2026/04/23-23:11:42.394 5738 Reusing old log C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000016.log 
+2026/04/23-23:11:44.115 5738 Level-0 table #22: started
+2026/04/23-23:11:44.134 5738 Level-0 table #22: 3202152 bytes OK
+2026/04/23-23:11:44.137 5738 Delete type=0 #16
+2026/04/23-23:11:47.831 5738 Compacting 1@1 + 1@2 files
+2026/04/23-23:11:47.839 5738 Generated table #23@1: 126 keys, 224937 bytes
+2026/04/23-23:11:47.839 5738 Compacted 1@1 + 1@2 files => 224937 bytes
+2026/04/23-23:11:47.840 5738 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/23-23:11:47.840 5738 Delete type=2 #19
+2026/04/23-23:11:47.840 5738 Delete type=2 #22
+2026/04/23-23:21:44.658 5738 Level-0 table #25: started
+2026/04/23-23:21:44.687 5738 Level-0 table #25: 3242716 bytes OK
+2026/04/23-23:21:44.689 5738 Delete type=0 #21

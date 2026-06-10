@@ -1,0 +1,6 @@
+2026/01/28-14:45:46.772 6504 Creating DB C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.pionline.com_0.indexeddb.leveldb since it was missing.
+2026/01/28-14:45:46.777 6504 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.pionline.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-14:45:54.673 2668 Level-0 table #5: started
+2026/01/28-14:45:54.675 2668 Level-0 table #5: 11358 bytes OK
+2026/01/28-14:45:54.678 2668 Delete type=0 #3
+2026/01/28-14:45:54.678 2668 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

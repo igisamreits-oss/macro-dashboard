@@ -1,0 +1,15 @@
+2026/06/03-20:59:46.005 4a68 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/03-20:59:46.005 4a68 Recovering log #55
+2026/06/03-20:59:46.006 4a68 Reusing old log C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_docs.google.com_0.indexeddb.leveldb/000055.log 
+2026/06/03-21:00:07.979 98e0 Level-0 table #60: started
+2026/06/03-21:00:07.982 98e0 Level-0 table #60: 209 bytes OK
+2026/06/03-21:00:07.983 98e0 Delete type=0 #55
+2026/06/03-21:00:07.984 98e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/06/03-21:00:07.984 98e0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 1614 : 1
+2026/06/03-21:00:07.984 98e0 Compacting 1@1 + 1@2 files
+2026/06/03-21:00:07.986 98e0 Generated table #61@1: 266 keys, 60802 bytes
+2026/06/03-21:00:07.986 98e0 Compacted 1@1 + 1@2 files => 60802 bytes
+2026/06/03-21:00:07.987 98e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/03-21:00:07.987 98e0 Delete type=2 #57
+2026/06/03-21:00:07.987 98e0 Delete type=2 #60
+2026/06/03-21:00:07.988 98e0 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 1614 : 1 .. (end); will stop at (end)

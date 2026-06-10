@@ -1,0 +1,9 @@
+2026/05/23-00:50:49.266 6a1c Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/23-00:50:49.266 6a1c Recovering log #101
+2026/05/23-00:50:49.267 6a1c Reusing old log C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/000101.log 
+2026/05/23-00:51:26.392 4cd4 Compacting 1@1 + 1@2 files
+2026/05/23-00:51:26.397 4cd4 Generated table #104@1: 227 keys, 410903 bytes
+2026/05/23-00:51:26.397 4cd4 Compacted 1@1 + 1@2 files => 410903 bytes
+2026/05/23-00:51:26.399 4cd4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/23-00:51:26.399 4cd4 Delete type=2 #99
+2026/05/23-00:51:26.399 4cd4 Delete type=2 #102

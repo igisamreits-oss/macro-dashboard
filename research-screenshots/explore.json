@@ -1,0 +1,41 @@
+{
+  "home": {
+    "input_url": "https://markets.jpmorgan.com/jpmm",
+    "final_url": "https://markets.jpmorgan.com/jpmm/",
+    "title": "Homepage - J.P. Morgan Markets",
+    "h1": [],
+    "h2": [],
+    "body_preview": "Homepage  \nSectors Research\nSL\nTerms of Use\nDisclosures\nOpens in a new tab\nSecurity\nOpens in a new tab\nPrivacy\nOpens in a new tab\nCookies Policy\nOpens in a new tab\nContact Us\n© 2026 J.P.Morgan Chase & Co. All rights reserved.",
+    "has_login_form": false,
+    "links_sample": [
+      {
+        "text": "Sectors Research",
+        "href": "/jpmm/research.browse_sector_page"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "#"
+      },
+      {
+        "text": "Disclosures\nOpens in a new tab",
+        "href": "https://www.jpmorgan.com/disclosures/jpmorganmarkets"
+      },
+      {
+        "text": "Security\nOpens in a new tab",
+        "href": "https://www.jpmorgan.com/solutions/jpmm/jpmmsecurity"
+      },
+      {
+        "text": "Privacy\nOpens in a new tab",
+        "href": "https://www.jpmorgan.com/privacy"
+      },
+      {
+        "text": "Cookies Policy\nOpens in a new tab",
+        "href": "https://www.jpmorgan.com/cookies"
+      },
+      {
+        "text": "Contact Us",
+        "href": "#"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+[2026-06-02  7:30:01.66] ============================================
+[2026-06-02  7:30:01.67] START [2026-06-02  7:30:01.67]
+[2026-06-02  7:30:01.67] ----- Attempt 1 -----
+[2026-06-02  7:30:01.68] [sync] fetch + reset --hard origin/main
+From https://github.com/igisamreits-oss/macro-dashboard
+ * branch            main       -> FETCH_HEAD
+   3f9747e..71c0b7b  main       -> origin/main
+HEAD is now at 71c0b7b chore: daily dashboard refresh (2026-06-01)
+[2026-06-02  7:30:02.83] [1/4] Bloomberg fetch
+  [us_pol_sofr                   ] SOFRRATE Index           ... val=3.63 1D=+0.010 (2026-05-29)
+  [ca_pol_corra                  ] CAONREPO Index           ... val=2.25 1D=+0.000 (2026-05-29)
+  [uk_pol_sonia                  ] SONIO/N Index            ... val=3.7302 1D=+0.001 (2026-05-29)
+  [eu_pol_estr                   ] ESTRON Index             ... val=1.93 1D=-0.003 (2026-05-29)
+  [kr_pol_cd91                   ] KWCDC Curncy             ... val=2.86 1D=+0.000 (2026-06-01)
+  [sg_pol_sora                   ] SIBCSORA Index           ... val=0.7564 1D=-0.131 (2026-05-28)
+  [hk_pol_hibor3m                ] HIHD03M Index            ... val=2.8 1D=-0.027 (2026-06-01)
+  [se_pol_stib3m                 ] STIB3M Index             ... val=2.007 1D=+0.006 (2026-05-29)
+  [us_be_10y                     ] USGGBE10 Index           ... val=2.4084 1D=+0.008 (2026-06-01)
+  [uk_be_10y                     ] UKGGBE10 Index           ... val=3.387 1D=+0.062 (2026-06-01)
+  [eu_be_10y                     ] EUSWSB10 Index           ... val=0.835 1D=+0.068 (2026-06-01)
+  [de_be_10y                     ] DEGGBE10 Index           ... val=2.0792 1D=+0.044 (2026-06-01)
+  [fr_be_10y                     ] FRGG10EB Index           ... val=2.212 1D=+0.046 (2026-06-01)
+  [au_be_10y                     ] ADGGBE10 Index           ... val=2.376 1D=-0.006 (2026-06-01)
+  [jp_be_10y                     ] JYGGBE10 Index           ... val=2.21 1D=+0.020 (2026-06-01)
+  [se_be_10y                     ] SKGGBE10 Index           ... val=1.672 1D=+0.002 (2026-06-01)
+  [us_mort_30y                   ] NMCMFR30 Index           ... val=6.53 1D=+0.020 (2026-05-28)
+  [us_cpi_yoy                    ] CPI YOY Index            ... act=3.8 cons=3.7 prior=3.3 (2026-04-30)
+  [us_core_cpi_yoy               ] CPI XYOY Index           ... act=2.8 cons=2.7 prior=2.6 (2026-04-30)
+  [us_pce_yoy                    ] PCE DEFY Index           ... act=3.8 cons=3.8 prior=3.5 (2026-04-30)
+  [us_core_pce_yoy               ] PCE CYOY Index           ... act=3.2892 cons=3.3 prior=3.2363 (2026-04-30)
+  [eu_hicp_yoy                   ] ECCPEMUY Index           ... act=3.0 cons=3.0 prior=2.6 (2026-04-30)
+  [eu_core_hicp_yoy              ] CPEXEMUY Index           ... act=2.2 cons=2.2 prior=2.3 (2026-04-30)
+  [uk_cpi_yoy                    ] UKRPCJYR Index           ... act=2.8 cons=3.0 prior=3.3 (2026-04-30)
+  [uk_core_cpi_yoy               ] UKHCA9IY Index           ... 2026-06-01T22:30:26.108306Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=1 ticker_count=1 tickers={"UKHCA9IY Index"}
+act=4.2 cons=- prior=4.0 (2026-04-30)
+  [sg_cpi_yoy                    ] SICPIYOY Index           ... act=1.8 cons=2.1 prior=1.8 (2026-04-30)
+  [sg_core_cpi                   ] SMASCORE Index           ... act=1.4 cons=1.8 prior=1.7 (2026-04-30)
+  [au_cpi_yoy_q                  ] AUCPIYOY Index           ... 2026-06-01T22:30:29.546309Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"AUCPIYOY Index"}
+act=3.2 cons=- prior=2.1 (2025-09-30)
+  [au_core_yoy                   ] AUUIR Index              ... act=2.2 cons=- prior=None (2026-06-02)
+  [jp_cpi_yoy                    ] JNCPIYOY Index           ... act=1.4 cons=1.6 prior=1.5 (2026-04-30)
+  [jp_core_cpi                   ] JNCPIXFF Index           ... act=1.4 cons=1.7 prior=1.8 (2026-04-30)
+  [jp_core_core                  ] JCPNEFFE Index           ... act=1.9 cons=2.2 prior=2.4 (2026-04-30)
+  [ca_cpi_yoy                    ] CACPIYOY Index           ... act=2.8 cons=3.1 prior=2.4 (2026-04-30)
+  [ca_core_trim                  ] CACPTYOY Index           ... act=2.0 cons=2.2 prior=2.2 (2026-04-30)
+  [fomc                          ] FDTR Index               ... rate=3.75% cons=3.75 1Y OIS=3.8247
+  [ecb                           ] EUORDEPO Index           ... rate=2.0% 1Y OIS=2.4693
+  [boe                           ] UKBRBASE Index           ... rate=3.75% 1Y OIS=4.132
+  [rba                           ] RBATCTR Index            ... rate=4.35% 1Y OIS=4.6037
+  [boj                           ] BOJDPBAL Index           ... rate=0.75% 1Y OIS=1.1062
+  [boc                           ] CABROVER Index           ... rate=2.25% cons=2.25 1Y OIS=2.521
+  [us_unemp                      ] USURTOT Index            ... act=4.3 cons=4.3 prior=4.3 (2026-04-30)
+  [ca_unemp                      ] CANLXEMR Index           ... act=6.9 cons=6.7 prior=6.7 (2026-04-30)
+  [uk_unemp_ilo                  ] UKUEILOR Index           ... act=5.0 cons=4.9 prior=4.9 (2026-03-31)
+  [eu_unemp                      ] UMRTEMU Index            ... act=6.3 cons=6.2 prior=6.3 (2026-04-30)
+  [au_unemp                      ] AULFUNEM Index           ... act=4.5 cons=4.3 prior=4.3 (2026-04-30)
+  [jp_unemp                      ] JNUE Index               ... act=2.5 cons=2.7 prior=2.7 (2026-04-30)
+  [kr_unemp                      ] KOEAUERS Index           ... act=2.8 cons=2.7 prior=2.7 (2026-04-30)
+  [hk_unemp                      ] HKUERATE Index           ... act=3.7 cons=3.7 prior=3.7 (2026-04-30)
+  [sg_unemp                      ] SIQUTOTA Index           ... 2026-06-01T22:30:50.132099Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=1 ticker_count=1 tickers={"SIQUTOTA Index"}
+act=2.1 cons=- prior=2.0 (2026-03-31)
+  [se_unemp                      ] SWUERATE Index           ... 2026-06-01T22:30:51.144808Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"SWUERATE Index"}
+act=8.7 cons=- prior=9.7 (2026-04-30)
+  [us_nahb                       ] USHBMIDX Index           ... act=37.0 cons=34.0 prior=34.0 (2026-05-31)
+  [us_housing_starts             ] NHSPSTOT Index           ... act=1465.0 cons=1410.0 prior=1507.0 (2026-04-30)
+  [us_existing_home_sales        ] ETSLTOTL Index           ... act=4.02 cons=4.05 prior=4.01 (2026-04-30)
+  [us_case_shiller_yoy           ] SPCS20Y% Index           ... act=0.83 cons=0.9 prior=0.92 (2026-03-31)
+  [ca_housing_starts             ] EHHUCA Index             ... 2026-06-01T22:30:56.398366Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"EHHUCA Index"}
+act=242.04 cons=- prior=255.48 (2026-03-31)
+  [uk_nationwide_mom             ] UKNBAAMM Index           ... act=-0.6 cons=-0.2 prior=0.4 (2026-05-31)
+  [de_construction_pmi           ] MPMIDEXA Index           ... act=42.1 cons=- prior=48.0 (2026-04-30)
+  [fr_construction_pmi           ] MPMIFRXA Index           ... 2026-06-01T22:30:59.586672Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"MPMIFRXA Index"}
+act=38.1 cons=- prior=38.4 (2026-04-30)
+  [jp_housing_starts_yoy         ] JNHSYOY Index            ... act=11.357 cons=14.8 prior=-29.294 (2026-04-30)
+  [kr_kb_hpi_yoy                 ] KOHPTYOY Index           ... 2026-06-01T22:31:02.206298Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"KOHPTYOY Index"}
+act=2.5 cons=- prior=2.4 (2026-05-31)
+  [kr_kb_hpi_seoul_yoy           ] KOHPSYOY Index           ... 2026-06-01T22:31:03.148957Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"KOHPSYOY Index"}
+act=9.6 cons=- prior=9.6 (2026-05-31)
+  [hk_rvd_hpi                    ] HKRLPDAP Index           ... 2026-06-01T22:31:04.134599Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"HKRLPDAP Index"}
+act=312.8 cons=- prior=308.5 (2026-03-31)
+  [hk_property_transactions      ] HKLRTRBU Index           ... 2026-06-01T22:31:05.064985Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"HKLRTRBU Index"}
+act=7368.0 cons=- prior=6316.0 (2026-04-30)
+  [us_michigan                   ] CONSSENT Index           ... act=44.8 cons=48.2 prior=49.8 (2026-05-31)
+  [us_cb_confidence              ] CONCCONF Index           ... act=93.1 cons=92.0 prior=93.8 (2026-05-31)
+  [ca_nanos                      ] BNCCINDX Index           ... act=50.7029 cons=- prior=51.7301 (2026-05-29)
+  [uk_gfk                        ] UKCCI Index              ... act=-23.0 cons=-28.0 prior=-25.0 (2026-05-31)
+  [eu_consumer_conf              ] EUCCEMU Index            ... act=-19.0 cons=-20.6 prior=-20.6 (2026-05-31)
+  [jp_consumer_conf              ] JCONSENT Index           ... act=42.7 cons=- prior=None (2026-06-02)
+  [se_consumer_conf              ] SWETCI Index             ... act=92.4 cons=- prior=91.7 (2026-05-31)
+  [us_retail_mom                 ] RSTAMOM Index            ... act=0.5 cons=0.5 prior=1.6 (2026-04-30)
+  [ca_retail_mom                 ] CARSCHNG Index           ... act=0.9 cons=0.6 prior=0.7 (2026-03-31)
+  [uk_retail_ex_fuel_mom         ] UKRVAMOM Index           ... act=-0.4 cons=-0.3 prior=0.1 (2026-04-30)
+  [eu_retail_mom                 ] RSSAEMUM Index           ... act=-0.1 cons=-0.3 prior=-0.3 (2026-03-31)
+  [au_retail_mom                 ] AURSTSA Index            ... 2026-06-01T22:31:16.819986Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"AURSTSA Index"}
+act=1.2 cons=0.4 prior=0.5 (2025-06-30)
+  [jp_retail_mom                 ] JNRSMOM Index            ... 2026-06-01T22:31:17.846643Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=1 ticker_count=1 tickers={"JNRSMOM Index"}
+act=0.3 cons=- prior=0.0 (2026-04-30)
+  [kr_retail_mom                 ] KOCGCGSM Index           ... 2026-06-01T22:31:18.766560Z  WARN ThreadId(30) xbbg_async::engine::state::refdata: crates\xbbg-async\src\engine\state\refdata.rs:191: ReferenceData completed with field exceptions count=2 ticker_count=1 tickers={"KOCGCGSM Index"}
+act=-3.64 cons=- prior=1.9 (2026-04-30)
+  [hk_retail_yoy                 ] HKRSVANY Index           ... act=12.8 cons=9.4 prior=19.3 (2026-03-31)
+  [sg_retail_mom                 ] SRSATM Index             ... act=3.7 cons=- prior=-4.3 (2026-03-31)
+  [se_retail_ex_fuel_mom         ] SWRSAMM Index            ... act=0.0 cons=- prior=2.9 (2026-04-30)
+
+[bbg] 80/80 fetched successfully
+[bbg] 57 indicators, 17 snapshots, 6 CB rates
+[bbg] Saved to data\bloomberg\latest.json
+[2026-06-02  7:31:22.00] [2/4] FRED fetch
+[2026-06-02  7:31:22.00]   SKIP: FRED_API_KEY not set
+[2026-06-02  7:31:22.02] [3/4] Calendar refresh
+[calendar] Window: 2026-05-26 ~ 2026-06-30
+[calendar] 25 events in window (40 outside, 0 unknown indicator)
+[calendar] Saved to data\calendar\latest.json
+[2026-06-02  7:31:22.20] [4/4] Build dashboard
+[build] Real data merged (sample fallback for missing slots)
+[build] Wrote C:\Users\Bloomberg\Desktop\macro-dashboard\docs\index.html (118,238 bytes)
+[main 0275dc0] daily refresh 2026-06-02  7:31:22.60
+ 3 files changed, 1810 insertions(+), 432 deletions(-)
+[2026-06-02  7:31:22.68] [push] attempting
+To https://github.com/igisamreits-oss/macro-dashboard.git
+   71c0b7b..0275dc0  main -> main
+[2026-06-02  7:31:24.56]   push OK
+[2026-06-02  7:31:24.56] SUCCESS on attempt 
+[2026-06-02  7:31:24.58] END [2026-06-02  7:31:24.56]

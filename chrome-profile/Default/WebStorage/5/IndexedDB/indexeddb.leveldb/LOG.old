@@ -1,0 +1,14 @@
+2026/05/21-15:17:50.710 352c Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\WebStorage\5\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2026/05/21-15:17:50.710 352c Recovering log #27
+2026/05/21-15:17:50.710 352c Reusing old log C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\WebStorage\5\IndexedDB\indexeddb.leveldb/000027.log 
+2026/05/21-15:18:39.944 4b1c Level-0 table #32: started
+2026/05/21-15:18:39.947 4b1c Level-0 table #32: 71400 bytes OK
+2026/05/21-15:18:39.949 4b1c Delete type=0 #27
+2026/05/21-15:18:39.949 352c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/21-15:18:39.949 352c Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xfe\x17\xc4\xdcyB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 3231 : 1
+2026/05/21-15:18:39.949 352c Compacting 1@1 + 1@2 files
+2026/05/21-15:18:39.952 352c Generated table #33@1: 92 keys, 20177 bytes
+2026/05/21-15:18:39.952 352c Compacted 1@1 + 1@2 files => 20177 bytes
+2026/05/21-15:18:39.953 352c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/21-15:18:39.953 352c Delete type=2 #32
+2026/05/21-15:18:39.953 352c Manual compaction at level-1 from '\x00\x04\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \xfe\x17\xc4\xdcyB\x00\x03\x00\x00\x00\x00\x00\x001@' @ 3231 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

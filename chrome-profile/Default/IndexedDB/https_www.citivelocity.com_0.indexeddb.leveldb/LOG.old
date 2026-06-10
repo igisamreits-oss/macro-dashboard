@@ -1,0 +1,15 @@
+2026/04/29-15:39:31.336 7f48 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.citivelocity.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/29-15:39:31.336 7f48 Recovering log #7
+2026/04/29-15:39:31.336 7f48 Reusing old log C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.citivelocity.com_0.indexeddb.leveldb/000007.log 
+2026/04/29-15:39:33.431 7f48 Level-0 table #12: started
+2026/04/29-15:39:33.434 7f48 Level-0 table #12: 617 bytes OK
+2026/04/29-15:39:33.437 7f48 Delete type=0 #7
+2026/04/29-15:39:33.437 7f48 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/29-15:39:33.437 7f48 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01\x0c\x00c\x00v\x00_\x00d\x00e\x00v\x00i\x00c\x00e\x00_\x00i\x00d' @ 122 : 1
+2026/04/29-15:39:33.437 7f48 Compacting 1@1 + 1@2 files
+2026/04/29-15:39:33.439 7f48 Generated table #13@1: 34 keys, 894 bytes
+2026/04/29-15:39:33.439 7f48 Compacted 1@1 + 1@2 files => 894 bytes
+2026/04/29-15:39:33.441 7f48 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/29-15:39:33.441 7f48 Delete type=2 #9
+2026/04/29-15:39:33.441 7f48 Delete type=2 #12
+2026/04/29-15:39:33.442 7f48 Manual compaction at level-1 from '\x00\x03\x01\x02\x01\x0c\x00c\x00v\x00_\x00d\x00e\x00v\x00i\x00c\x00e\x00_\x00i\x00d' @ 122 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2026/05/26-10:59:52.480 8ac4 Creating DB C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_github.com_0.indexeddb.leveldb since it was missing.
+2026/05/26-10:59:52.487 8ac4 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_github.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/26-13:07:36.493 8ac4 Level-0 table #5: started
+2026/05/26-13:07:36.495 8ac4 Level-0 table #5: 3538 bytes OK
+2026/05/26-13:07:36.497 8ac4 Delete type=0 #3
+2026/05/26-13:07:36.497 8ac4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

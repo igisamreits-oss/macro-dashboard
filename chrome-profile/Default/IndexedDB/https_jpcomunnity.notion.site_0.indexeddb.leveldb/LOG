@@ -1,0 +1,18 @@
+2026/04/20-14:32:49.567 6b50 Creating DB C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_jpcomunnity.notion.site_0.indexeddb.leveldb since it was missing.
+2026/04/20-14:32:49.573 6b50 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_jpcomunnity.notion.site_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/20-14:32:50.733 704c Level-0 table #5: started
+2026/04/20-14:32:50.736 704c Level-0 table #5: 1098 bytes OK
+2026/04/20-14:32:50.739 704c Delete type=0 #3
+2026/04/20-14:32:50.739 18e4 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/04/20-21:45:39.564 6b50 Level-0 table #7: started
+2026/04/20-21:45:39.566 6b50 Level-0 table #7: 4491 bytes OK
+2026/04/20-21:45:39.568 6b50 Delete type=0 #4
+2026/04/20-21:45:39.568 6b50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/04/20-21:45:39.568 6b50 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x0b\x00T\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n' @ 129 : 1
+2026/04/20-21:45:39.568 6b50 Compacting 1@1 + 1@2 files
+2026/04/20-21:45:39.570 6b50 Generated table #8@1: 80 keys, 1882 bytes
+2026/04/20-21:45:39.570 6b50 Compacted 1@1 + 1@2 files => 1882 bytes
+2026/04/20-21:45:39.573 6b50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/20-21:45:39.573 6b50 Delete type=2 #5
+2026/04/20-21:45:39.573 6b50 Delete type=2 #7
+2026/04/20-21:45:39.573 6b50 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x0b\x00T\x00r\x00a\x00n\x00s\x00a\x00c\x00t\x00i\x00o\x00n' @ 129 : 1 .. (end); will stop at (end)

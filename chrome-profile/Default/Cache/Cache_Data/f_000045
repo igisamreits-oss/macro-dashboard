@@ -1,0 +1,1975 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:13.050 --> 00:14.310
+- Hi, I'm Patrick Whelan,
+
+00:14.310 --> 00:16.200
+the Global Head of Fixed
+Income Digital Markets
+
+00:16.200 --> 00:17.340
+at J.P. Morgan.
+
+00:17.340 --> 00:19.530
+I'm delighted to be joined
+today by Andrew Cole,
+
+00:19.530 --> 00:21.180
+who is the Platform Product Manager
+
+00:21.180 --> 00:23.190
+for J.P. Morgan Market's Execute.
+
+00:23.190 --> 00:25.170
+Thanks for joining me today, Andrew.
+
+00:25.170 --> 00:26.820
+Maybe you can start us off by telling us
+
+00:26.820 --> 00:29.760
+a little bit about your career
+journey through J.P. Morgan,
+
+00:29.760 --> 00:32.370
+how you ended up today,
+as we like to call it,
+
+00:32.370 --> 00:34.230
+the Chief Product Officer for Execute.
+
+00:34.230 --> 00:38.220
+- Yeah, so II joined J.P.
+Morgan in 2010 in technology.
+
+00:38.220 --> 00:41.430
+I did 18 months in a support role,
+
+00:41.430 --> 00:45.450
+most glamorously delivering
+hard tokens to clients
+
+00:45.450 --> 00:46.830
+in the FX business.
+
+00:46.830 --> 00:48.840
+I spent 18 months in credit risk
+
+00:48.840 --> 00:52.211
+and then I got hired
+into what was then called
+
+00:52.211 --> 00:54.240
+the e-commerce team,
+
+00:54.240 --> 00:56.340
+working as sort of a
+subsidiary on the trading desk,
+
+00:56.340 --> 00:57.930
+helping with price distribution.
+
+00:57.930 --> 01:00.630
+I started to get involved
+in the Execute platform.
+
+01:00.630 --> 01:05.160
+I covered our FX Algos
+business, moved to New York,
+
+01:05.160 --> 01:07.380
+and then over time grew the role
+
+01:07.380 --> 01:10.200
+to being sort of overseeing
+all of our Execute products
+
+01:10.200 --> 01:13.410
+as it pertains to the
+clients, internal traders,
+
+01:13.410 --> 01:15.840
+and salespeople at J.P.
+
+01:15.840 --> 01:16.853
+- What's it been like?
+
+01:16.853 --> 01:19.620
+What's the piece you're most proud of?
+
+01:19.620 --> 01:20.453
+- That's a good question.
+
+01:20.453 --> 01:23.280
+I think the evolution
+has been really exciting.
+
+01:23.280 --> 01:27.690
+I think when I look across
+the products that we now have
+
+01:27.690 --> 01:31.140
+and the way in which we
+attack growing the platform
+
+01:31.140 --> 01:33.150
+or tried to grow the platform,
+
+01:33.150 --> 01:35.010
+we have learned from some of the things
+
+01:35.010 --> 01:36.300
+that did and didn't work.
+
+01:36.300 --> 01:39.390
+Obviously, the sort of
+engine room of the product
+
+01:39.390 --> 01:42.510
+is the FX franchise where
+we have thousands of users,
+
+01:42.510 --> 01:44.730
+but building something
+from nothing to that
+
+01:44.730 --> 01:45.840
+is obviously challenging.
+
+01:45.840 --> 01:47.820
+And you know, I think
+the thing I could say
+
+01:47.820 --> 01:50.520
+I'm most proud of is showing,
+
+01:50.520 --> 01:53.400
+is figuring out the different hacks
+
+01:53.400 --> 01:56.070
+to making a business grow on the platform.
+
+01:56.070 --> 01:58.110
+So, if you take something like commodities
+
+01:58.110 --> 02:01.380
+where we have a huge range
+of different products
+
+02:01.380 --> 02:05.820
+and a massive, therefore,
+range of different workflows,
+
+02:05.820 --> 02:08.020
+we've had to figure out how to scale
+
+02:09.420 --> 02:12.360
+a technology solution to be very flexible.
+
+02:12.360 --> 02:14.850
+The commodities tickets
+on the platform cover
+
+02:14.850 --> 02:18.390
+milk, metals, gold, everything in between.
+
+02:18.390 --> 02:21.300
+So, building tickets and
+infrastructure that supports
+
+02:21.300 --> 02:25.138
+such complexity and variation is hard,
+
+02:25.138 --> 02:28.650
+and is ultimately what's enabled
+us to scale that business.
+
+02:28.650 --> 02:31.380
+If you look at something like FX Options
+
+02:31.380 --> 02:35.670
+where there is a significant
+amount of complexity
+
+02:35.670 --> 02:37.260
+to the tickets themselves,
+
+02:37.260 --> 02:39.720
+figuring out how you scale
+that is, again, a challenge.
+
+02:39.720 --> 02:42.330
+And then, you know, onto
+the distribution side,
+
+02:42.330 --> 02:44.520
+as well as figuring out a technique
+
+02:44.520 --> 02:48.330
+for providing technology solutions
+
+02:48.330 --> 02:50.130
+that allow very flexible tickets
+
+02:50.130 --> 02:52.200
+and very flexible workflows,
+
+02:52.200 --> 02:54.870
+you also have to figure
+out a fairly flexible
+
+02:54.870 --> 02:57.240
+sort of way in which you manage
+
+02:57.240 --> 02:59.190
+to appeal to different client segments
+
+02:59.190 --> 03:00.960
+and to distribute your products.
+
+03:00.960 --> 03:02.850
+So, I think the thing that
+I'd say I'm most proud of is,
+
+03:02.850 --> 03:05.490
+you know, Execute is
+a single-bank platform
+
+03:05.490 --> 03:10.020
+for providing execution to
+sales, internal trading,
+
+03:10.020 --> 03:12.300
+and directly to clients.
+
+03:12.300 --> 03:13.530
+But the ways in which we do that
+
+03:13.530 --> 03:15.480
+are really manifestly different
+
+03:15.480 --> 03:17.970
+depending on the client
+segment you're going after
+
+03:17.970 --> 03:20.370
+or the product you're
+trying to bring them onto.
+
+03:20.370 --> 03:22.170
+- Yeah, look, you've talked a lot there
+
+03:22.170 --> 03:24.480
+about building scale into solutions
+
+03:24.480 --> 03:27.510
+that ultimately are developed by,
+
+03:27.510 --> 03:29.310
+you know, a reasonably
+small number of people.
+
+03:29.310 --> 03:32.790
+And obviously, it's strong
+collaboration between
+
+03:32.790 --> 03:35.550
+our technology teams or
+product team or design teams
+
+03:35.550 --> 03:36.570
+and everybody else in between
+
+03:36.570 --> 03:38.580
+to help develop these solutions.
+
+03:38.580 --> 03:41.190
+But I think when you talk about the growth
+
+03:41.190 --> 03:43.650
+and actually getting more clients
+
+03:43.650 --> 03:46.110
+to use a single-dealer offering,
+
+03:46.110 --> 03:49.800
+I think it's interesting
+to see how the solutions
+
+03:49.800 --> 03:52.230
+you've built for FX and commodities
+
+03:52.230 --> 03:56.850
+and how they've been
+adopted by credit and rates
+
+03:56.850 --> 03:59.130
+and some of the products and asset classes
+
+03:59.130 --> 04:01.140
+that are not necessarily complete
+
+04:01.140 --> 04:02.670
+in their electronic journey.
+
+04:02.670 --> 04:03.780
+I suppose from your perspective,
+
+04:03.780 --> 04:05.910
+and we've talked about this
+a bunch of times in the past,
+
+04:05.910 --> 04:07.530
+around platform growth, right?
+
+04:07.530 --> 04:10.860
+And if you are in an industry
+
+04:10.860 --> 04:13.920
+or in a company that is predominantly,
+
+04:13.920 --> 04:15.660
+like a fin-tech that's out there today,
+
+04:15.660 --> 04:19.440
+their entire journey is based
+on users using the platform,
+
+04:19.440 --> 04:23.700
+capturing revenues via fees
+or other commercial models.
+
+04:23.700 --> 04:25.620
+Obviously for a single-dealer
+platform it's a bit different,
+
+04:25.620 --> 04:27.540
+but how do you look at the
+kind of growth profile?
+
+04:27.540 --> 04:29.940
+How do you set objectives
+for your team in general?
+
+04:29.940 --> 04:33.240
+How do you make sure that
+clients want to come on board?
+
+04:33.240 --> 04:35.460
+- So, I think one of the
+things you said there
+
+04:35.460 --> 04:39.270
+around the sort of
+differences between the LOBs,
+
+04:39.270 --> 04:42.540
+you know, in our management
+we often talk about
+
+04:42.540 --> 04:45.701
+the concept of a platform
+and building something that
+
+04:45.701 --> 04:50.400
+as a platform can scale
+across the pieces within it.
+
+04:50.400 --> 04:53.130
+And one of the things
+that's been quite satisfying
+
+04:53.130 --> 04:56.100
+about taking a role like this where,
+
+04:56.100 --> 04:58.050
+you know, we have a broad
+range of asset classes
+
+04:58.050 --> 04:59.790
+that's continually growing
+
+04:59.790 --> 05:02.640
+is identifying those commonalities
+
+05:02.640 --> 05:04.830
+between the different user journeys
+
+05:04.830 --> 05:07.110
+and trying to find ways to scale out
+
+05:07.110 --> 05:10.470
+and abstract some of those pathways
+
+05:10.470 --> 05:13.800
+that users are going along so
+that something you build in FX
+
+05:13.800 --> 05:15.330
+can scale into rates, credit.
+
+05:15.330 --> 05:17.310
+I think in the beginning of XQ,
+
+05:17.310 --> 05:19.410
+and again, one of the things
+that we've started to do,
+
+05:19.410 --> 05:22.050
+is trying to break down
+the line of business silos.
+
+05:22.050 --> 05:24.870
+So, where you have rates, credit FX,
+
+05:24.870 --> 05:27.630
+we used to build separate
+sets of components for each.
+
+05:27.630 --> 05:30.840
+We're increasingly trying to combine them.
+
+05:30.840 --> 05:32.640
+And when you ask about
+objectives for the team
+
+05:32.640 --> 05:34.290
+and how we manage that, it's hard,
+
+05:34.290 --> 05:36.600
+because if you are someone
+that lives and breathes
+
+05:36.600 --> 05:39.570
+in credit or rates, it's
+hard for you to appreciate
+
+05:39.570 --> 05:42.210
+that the journeys that
+your users are going on
+
+05:42.210 --> 05:44.730
+and the things that they need
+are similar between LOBs.
+
+05:44.730 --> 05:46.740
+You like to think there's a uniqueness
+
+05:46.740 --> 05:48.030
+to what your users want or-
+
+05:48.030 --> 05:49.350
+- Everyone's special.
+- Yeah, exactly.
+
+05:49.350 --> 05:51.480
+Some specificities to your product.
+
+05:51.480 --> 05:53.970
+So, when we're setting
+objectives with the team,
+
+05:53.970 --> 05:56.340
+we sort of divide ourselves
+between a core platform group
+
+05:56.340 --> 05:58.380
+that build these abstracted components
+
+05:58.380 --> 06:00.750
+that every LOB can leverage,
+
+06:00.750 --> 06:02.970
+and then you have your line
+of business specialists,
+
+06:02.970 --> 06:05.640
+and setting objectives
+so that those two groups
+
+06:05.640 --> 06:08.070
+can partner and work well together.
+
+06:08.070 --> 06:09.780
+It's been hard because
+it is a different model
+
+06:09.780 --> 06:10.980
+to what we've had in the past.
+
+06:10.980 --> 06:13.410
+So I think, yeah, that's
+definitely something
+
+06:13.410 --> 06:16.620
+where we've been focused.
+
+06:16.620 --> 06:19.110
+- I suppose when, like,
+part of that journey
+
+06:19.110 --> 06:21.720
+is clients' desire for customization
+
+06:21.720 --> 06:23.100
+in terms of what they want,
+
+06:23.100 --> 06:25.470
+and ultimately we're generally fueled
+
+06:25.470 --> 06:27.840
+by ideas from their side
+
+06:27.840 --> 06:29.670
+and how we can actually solve problems
+
+06:29.670 --> 06:31.470
+from a client's perspective,
+
+06:31.470 --> 06:33.300
+how do you balance the customization
+
+06:33.300 --> 06:35.010
+versus what you spoke about,
+
+06:35.010 --> 06:38.640
+the need for common components
+across each of these areas?
+
+06:38.640 --> 06:39.600
+- Yeah, it's a great question,
+
+06:39.600 --> 06:42.240
+and I think it's the main
+sort of dissenting voice
+
+06:42.240 --> 06:44.310
+when we started on this
+journey was the fact that,
+
+06:44.310 --> 06:47.100
+oh, but what about user
+ABC wants to customize?
+
+06:47.100 --> 06:49.200
+You know, one of the ways
+that we attract users
+
+06:49.200 --> 06:51.630
+is through offering
+those custom solutions.
+
+06:51.630 --> 06:54.150
+Lots of the customization
+that we do is in the backend.
+
+06:54.150 --> 06:58.230
+And I think a lot of the
+success of the platform
+
+06:58.230 --> 07:00.360
+is working tightly with design
+
+07:00.360 --> 07:02.670
+to figure out how a user can feel
+
+07:02.670 --> 07:05.880
+the user journey they're
+on is customized to them,
+
+07:05.880 --> 07:08.190
+but doesn't actually involve
+doing things very differently.
+
+07:08.190 --> 07:11.580
+You know, customization is
+mostly about ease of use,
+
+07:11.580 --> 07:15.450
+and if you work well with
+your design function,
+
+07:15.450 --> 07:19.410
+your user research function,
+which is what we try to do,
+
+07:19.410 --> 07:22.890
+you tend to find that you can
+build solutions that scale,
+
+07:22.890 --> 07:25.740
+even if the user journey
+
+07:25.740 --> 07:27.720
+that the user is on isn't so different.
+
+07:27.720 --> 07:29.040
+So, I think for that, yeah,
+
+07:29.040 --> 07:34.040
+mostly our customization
+process involves A/B testing.
+
+07:35.730 --> 07:38.130
+We make a lot of use
+of the fact that sales
+
+07:38.130 --> 07:41.460
+and trading internally use the
+same platform as our clients.
+
+07:41.460 --> 07:44.040
+So, by getting them onto a prototype
+
+07:44.040 --> 07:47.940
+that our design team have
+built, A/B testing that design,
+
+07:47.940 --> 07:51.540
+prototyping it, you know,
+that's how we can inform
+
+07:51.540 --> 07:54.840
+the way in which we build out our tickets.
+
+07:54.840 --> 07:58.170
+And in so doing, try to
+avoid a client coming in
+
+07:58.170 --> 08:01.050
+and saying, "This doesn't
+work for me, I need that."
+
+08:01.050 --> 08:02.580
+You know, we just try to make it
+
+08:02.580 --> 08:04.680
+so that it should scale out.
+
+08:04.680 --> 08:05.580
+But it is a challenge.
+
+08:05.580 --> 08:09.120
+And, you know, if a big name
+comes in and asks something,
+
+08:09.120 --> 08:11.850
+you know, one of the
+powers of what we've done
+
+08:11.850 --> 08:13.050
+with the way we've built the platform
+
+08:13.050 --> 08:14.610
+is it should be flexible enough
+
+08:14.610 --> 08:18.510
+that we can accommodate those
+requests when they arrive.
+
+08:18.510 --> 08:21.360
+- Yeah, look, I'm
+fascinated by great design
+
+08:21.360 --> 08:25.293
+and how simple something can
+be when designed properly.
+
+08:26.220 --> 08:30.120
+And, you know, how immediately
+user-friendly it can be
+
+08:30.120 --> 08:32.910
+and how quick it can be adopted.
+
+08:32.910 --> 08:34.410
+But it takes a lot of effort
+
+08:34.410 --> 08:36.930
+to make great designs into reality.
+
+08:36.930 --> 08:37.890
+And I think, as you said,
+
+08:37.890 --> 08:42.660
+that partnership between
+design, UX, user research,
+
+08:42.660 --> 08:45.870
+and our engineering teams
+is critical to some of that,
+
+08:45.870 --> 08:47.640
+to those functions coming
+out the way they are
+
+08:47.640 --> 08:50.400
+and being adopted so
+quickly by our clients.
+
+08:50.400 --> 08:52.113
+I think as well, like you
+touched upon it as well,
+
+08:52.113 --> 08:56.820
+there's benefits from the fact
+that some of these components
+
+08:56.820 --> 09:00.480
+are so reusable and that
+we can quickly go into
+
+09:00.480 --> 09:02.640
+a new asset class and start streaming
+
+09:02.640 --> 09:05.580
+you know, prices and
+grids to clients quickly.
+
+09:05.580 --> 09:07.860
+Or, you know, when it comes to analytics,
+
+09:07.860 --> 09:10.680
+being able to kind of design
+visual representations
+
+09:10.680 --> 09:13.710
+that can be used again
+across asset classes
+
+09:13.710 --> 09:15.600
+for clients to be able
+to quickly visualize
+
+09:15.600 --> 09:16.950
+some of the trends they're seeing,
+
+09:16.950 --> 09:20.460
+whether that's the net flows that we see
+
+09:20.460 --> 09:24.060
+across certain areas
+where we have aggregated
+
+09:24.060 --> 09:26.220
+a bunch of our flows internally,
+
+09:26.220 --> 09:28.020
+and are able to kind of
+display those to clients
+
+09:28.020 --> 09:32.190
+to see is happening across
+the market more broadly,
+
+09:32.190 --> 09:34.620
+obviously anonymized and aggregated,
+
+09:34.620 --> 09:36.210
+as well as in other areas.
+
+09:36.210 --> 09:39.000
+And I suppose when it comes
+to some of those components,
+
+09:39.000 --> 09:40.860
+and some of those design features,
+
+09:40.860 --> 09:42.300
+how do you and the team look at it
+
+09:42.300 --> 09:44.070
+and how do you actually build
+
+09:44.070 --> 09:46.050
+those solutions out for clients?
+
+09:46.050 --> 09:48.810
+How much of the client journey is theirs
+
+09:48.810 --> 09:49.950
+and how much of it is ours?
+
+09:49.950 --> 09:52.350
+- I think analytics is another area
+
+09:52.350 --> 09:54.510
+I think we can say we're
+particularly proud of.
+
+09:54.510 --> 09:58.080
+You know, sales and clients
+started to talk about,
+
+09:58.080 --> 10:00.750
+you know, the importance of
+data and distributed data.
+
+10:00.750 --> 10:02.160
+And when you look at the way
+
+10:02.160 --> 10:03.930
+that J.P. Morgan's distributed that data,
+
+10:03.930 --> 10:05.640
+I think we've done a really excellent job
+
+10:05.640 --> 10:07.470
+of building out products like Data Query
+
+10:07.470 --> 10:09.510
+and some of the other products, Fusion,
+
+10:09.510 --> 10:11.673
+within the JPMM sort of family.
+
+10:12.540 --> 10:15.000
+But I think one of the areas
+that we had historically
+
+10:15.000 --> 10:17.790
+been less focused was on trading analytics
+
+10:17.790 --> 10:20.250
+and point-of-time execution analytics.
+
+10:20.250 --> 10:21.480
+And I think, you know,
+
+10:21.480 --> 10:26.460
+that all started for us
+with the Algos realtime TCA.
+
+10:26.460 --> 10:29.280
+So, we built out those
+products, and to your question,
+
+10:29.280 --> 10:31.770
+in terms of the workflow,
+it became quite seamless
+
+10:31.770 --> 10:33.870
+because as the client
+was placing the Algo,
+
+10:33.870 --> 10:36.300
+the analytic would pop up
+and they'd have it available
+
+10:36.300 --> 10:37.890
+to them in the tool.
+
+10:37.890 --> 10:39.960
+I think that, you know,
+as we've grown from there,
+
+10:39.960 --> 10:41.100
+we added net flows,
+
+10:41.100 --> 10:44.070
+we added market structure,
+commentary, et cetera.
+
+10:44.070 --> 10:47.580
+And now what we're trying
+to provide to a trader
+
+10:47.580 --> 10:49.050
+or to a user is, you know,
+
+10:49.050 --> 10:51.120
+all of the data that
+they could hope to get
+
+10:51.120 --> 10:53.400
+from their sales coverage in one place,
+
+10:53.400 --> 10:55.920
+in an interactive format
+where they can tweak it,
+
+10:55.920 --> 10:58.440
+customize it, select
+what they want more of,
+
+10:58.440 --> 10:59.790
+less of, et cetera.
+
+10:59.790 --> 11:01.890
+And you know, the magic of
+what we've done there is,
+
+11:01.890 --> 11:03.660
+we obviously have our
+single-bank platform,
+
+11:03.660 --> 11:05.610
+which you can download.
+
+11:05.610 --> 11:07.710
+We also have some of
+those analytics creeping
+
+11:07.710 --> 11:10.089
+onto our mobile device.
+
+11:10.089 --> 11:12.360
+But the app that we offer is obviously
+
+11:12.360 --> 11:13.590
+the sort of secret source there
+
+11:13.590 --> 11:15.720
+because clients can log into that app,
+
+11:15.720 --> 11:18.810
+it's embedded in the terminals
+where they already trade,
+
+11:18.810 --> 11:20.880
+so it becomes more seamlessly
+part of their workflow.
+
+11:20.880 --> 11:21.810
+You know, it's in night mode,
+
+11:21.810 --> 11:24.000
+so it looks like the rest
+of the platform around it.
+
+11:24.000 --> 11:25.650
+We've tried to just build out from there.
+
+11:25.650 --> 11:27.390
+And the good thing about analytics
+
+11:27.390 --> 11:30.870
+is that we increasingly see
+it as a gateway to execution.
+
+11:30.870 --> 11:35.130
+So, a lot of the clients that
+log in to monitor our axes
+
+11:35.130 --> 11:37.477
+or see our streaming data will then say,
+
+11:37.477 --> 11:39.120
+"Oh, can I execute on that data?"
+
+11:39.120 --> 11:41.010
+And that's a great
+conversation to be having
+
+11:41.010 --> 11:43.320
+because that's exactly
+what we want to be doing
+
+11:43.320 --> 11:46.740
+is providing them data that
+triggers a decision to trade
+
+11:46.740 --> 11:49.080
+or a realization that
+there's something there
+
+11:49.080 --> 11:49.950
+that they hadn't noticed,
+
+11:49.950 --> 11:51.630
+and therefore, they they
+want to trade on it.
+
+11:51.630 --> 11:53.220
+- Yeah, it was super interesting
+
+11:53.220 --> 11:55.800
+during the kind of recent
+about of volatility
+
+11:55.800 --> 11:59.520
+during Liberation Day and the
+subsequent days afterwards
+
+11:59.520 --> 12:01.740
+to see our clients embrace the analytics,
+
+12:01.740 --> 12:04.740
+especially around those periods.
+
+12:04.740 --> 12:06.210
+Obviously, the execution days,
+
+12:06.210 --> 12:07.860
+we had record volumes as well.
+
+12:07.860 --> 12:10.680
+And so again, being able to
+see the platform stand up
+
+12:10.680 --> 12:14.100
+to the heaviest barrage of client, users,
+
+12:14.100 --> 12:17.400
+as well as the volumes
+traded was, was great to see.
+
+12:17.400 --> 12:19.515
+But equally to see them embracing things
+
+12:19.515 --> 12:21.870
+that we had developed with that in mind
+
+12:21.870 --> 12:23.010
+and being able to say, okay, right,
+
+12:23.010 --> 12:25.590
+what really matters real-time
+
+12:25.590 --> 12:27.300
+is different to what
+potentially you want to look at
+
+12:27.300 --> 12:30.330
+over time series in a historical basis,
+
+12:30.330 --> 12:32.220
+and that you want to be
+able to do some research on.
+
+12:32.220 --> 12:34.590
+When it comes to, as you said, execution,
+
+12:34.590 --> 12:37.200
+you want to be as up to
+date as you possibly can.
+
+12:37.200 --> 12:40.920
+And so there, to see the uplift
+in users around that time
+
+12:40.920 --> 12:42.600
+was certainly impressive.
+
+12:42.600 --> 12:45.030
+And I think that's just given us more fuel
+
+12:45.030 --> 12:46.740
+to kind of go and build out more solutions
+
+12:46.740 --> 12:49.050
+that I think will drive more of that.
+
+12:49.050 --> 12:50.880
+It also helps us with, you know,
+
+12:50.880 --> 12:52.470
+we obviously have a
+single-dealer platform,
+
+12:52.470 --> 12:55.320
+but we also provide API connectivity
+
+12:55.320 --> 12:57.480
+to the client bases that don't necessarily
+
+12:57.480 --> 13:00.120
+want to use our single-dealer
+platform for different reasons
+
+13:00.120 --> 13:02.280
+or build their own and want
+to aggregate the information
+
+13:02.280 --> 13:05.820
+directly in their own EMS or OMS.
+
+13:05.820 --> 13:07.620
+And obviously it makes
+sense for them to connect
+
+13:07.620 --> 13:10.050
+with us directly by
+API in those instances,
+
+13:10.050 --> 13:12.690
+but again, the common
+componentry behind the scenes
+
+13:12.690 --> 13:15.210
+make it easier for us to
+stream that market data
+
+13:15.210 --> 13:16.500
+to give them the relevant analytics
+
+13:16.500 --> 13:18.390
+differentiated where they need it,
+
+13:18.390 --> 13:21.270
+at the point of trade, at
+the point of execution,
+
+13:21.270 --> 13:22.230
+when they're getting to that point
+
+13:22.230 --> 13:23.910
+when the execution really matters.
+
+13:23.910 --> 13:26.310
+So, again, the solutions are common.
+
+13:26.310 --> 13:29.010
+The work behind the scenes
+is about making sure
+
+13:29.010 --> 13:31.590
+that they are seamless and ultimately
+
+13:31.590 --> 13:33.480
+are where clients need
+them when they need them.
+
+13:33.480 --> 13:35.910
+So, a lot more to go on that front,
+
+13:35.910 --> 13:38.850
+but I suppose from your perspective
+in terms of the platform
+
+13:38.850 --> 13:39.990
+and where it is right now,
+
+13:39.990 --> 13:41.433
+what's kind of, what's next?
+
+13:42.450 --> 13:44.220
+- So, I think just to take back
+
+13:44.220 --> 13:45.180
+to one of the things you said,
+
+13:45.180 --> 13:46.650
+like the day of volatility,
+
+13:46.650 --> 13:48.990
+the volatility of April is great,
+
+13:48.990 --> 13:52.590
+because it's a reward for
+all the effort we put in
+
+13:52.590 --> 13:54.750
+to scale the platform to make it cope
+
+13:54.750 --> 13:56.550
+with that increased load.
+
+13:56.550 --> 13:59.130
+It then sets a new high bar
+in terms of what we have
+
+13:59.130 --> 14:00.450
+to achieve the next time.
+
+14:00.450 --> 14:03.240
+So, it's a massive kudos to
+all of the technology teams
+
+14:03.240 --> 14:05.670
+that are involved from
+the backend infrastructure
+
+14:05.670 --> 14:07.050
+right through to the front end,
+
+14:07.050 --> 14:11.460
+that they work so hard to
+make things like that work
+
+14:11.460 --> 14:14.250
+because when you have crashes
+
+14:14.250 --> 14:15.630
+or when you have stability issues,
+
+14:15.630 --> 14:16.920
+not that we have so many of them,
+
+14:16.920 --> 14:19.740
+but we are aware of them and, you know,
+
+14:19.740 --> 14:22.350
+we are obviously always
+stress-testing the platform.
+
+14:22.350 --> 14:24.450
+When it all comes together
+in a period of volatility
+
+14:24.450 --> 14:26.130
+like that, it's obviously
+hugely rewarding.
+
+14:26.130 --> 14:28.500
+So, very grateful to the teams
+
+14:28.500 --> 14:30.750
+that work to make that possible.
+
+14:30.750 --> 14:32.138
+I think as we look
+forward, you know, look,
+
+14:32.138 --> 14:35.130
+we are always looking for new products,
+
+14:35.130 --> 14:36.600
+new areas to get into.
+
+14:36.600 --> 14:40.050
+Looking forward, I definitely
+see more complicated products
+
+14:40.050 --> 14:41.370
+as an area of opportunity,
+
+14:41.370 --> 14:45.660
+both because clients, as we see it,
+
+14:45.660 --> 14:49.860
+value the ability to input
+the product correctly
+
+14:49.860 --> 14:52.890
+and accurately significantly
+more than anything else
+
+14:52.890 --> 14:55.110
+when it comes to that sort of execution.
+
+14:55.110 --> 14:56.730
+So, you know, when we look at
+
+14:56.730 --> 14:58.950
+the electronification of FX Options,
+
+14:58.950 --> 15:02.370
+we see that in the
+third-generation exotics,
+
+15:02.370 --> 15:03.960
+the most complicated products,
+
+15:03.960 --> 15:06.540
+the percentage done
+electronically is far higher
+
+15:06.540 --> 15:09.630
+because the client likes
+the comfort that they get
+
+15:09.630 --> 15:11.190
+from entering it themselves,
+
+15:11.190 --> 15:13.680
+seeing the parameters
+that they want to select,
+
+15:13.680 --> 15:17.460
+not going through in a chat
+and explaining in mega detail,
+
+15:17.460 --> 15:20.550
+you know, how that product
+needs to be structured for them.
+
+15:20.550 --> 15:22.650
+And as we get into list products
+
+15:22.650 --> 15:26.130
+and derivatives in any asset class,
+
+15:26.130 --> 15:30.000
+we have a new range of tools
+from the technology side
+
+15:30.000 --> 15:32.910
+at J.P. Morgan that makes
+scaling and distributing
+
+15:32.910 --> 15:34.500
+those products more easy.
+
+15:34.500 --> 15:37.140
+And we see the demand
+from the client to be able
+
+15:37.140 --> 15:39.300
+to get their hands on a solution
+
+15:39.300 --> 15:42.330
+that allows them to
+communicate it accurately.
+
+15:42.330 --> 15:45.210
+So, I think the future for
+us definitely looks like
+
+15:45.210 --> 15:50.160
+a derivatives-led
+offering will be something
+
+15:50.160 --> 15:53.250
+that will definitely
+resonate with our user base.
+
+15:53.250 --> 15:55.530
+We also think, as the
+product complexity increases,
+
+15:55.530 --> 15:57.000
+the risk increases.
+
+15:57.000 --> 15:59.850
+And we've seen recently with
+some of the technology vendors
+
+15:59.850 --> 16:01.500
+in this space that they struggle
+
+16:01.500 --> 16:03.900
+to manage the product complexity well.
+
+16:03.900 --> 16:07.950
+They struggle to synergize
+the different ways
+
+16:07.950 --> 16:10.320
+in which different banks have managed to,
+
+16:10.320 --> 16:13.560
+you know, communicate and
+distribute these products.
+
+16:13.560 --> 16:15.390
+And also there's the
+risk element, you know,
+
+16:15.390 --> 16:16.980
+when you're communicating a product
+
+16:16.980 --> 16:20.940
+between a client and a
+bank as a middle agent,
+
+16:20.940 --> 16:23.190
+and there's 30-50+ parameters
+
+16:23.190 --> 16:24.660
+that you need to configure,
+
+16:24.660 --> 16:26.760
+the chances that something
+goes wrong is heightened.
+
+16:26.760 --> 16:28.620
+And so for us being able to say,
+
+16:28.620 --> 16:30.510
+this is our platform, you know,
+
+16:30.510 --> 16:33.060
+we have the ability to
+flexibly add the fields
+
+16:33.060 --> 16:35.400
+to customize a ticket
+to your requirements,
+
+16:35.400 --> 16:36.660
+that gives us an edge.
+
+16:36.660 --> 16:38.160
+And we believe that, you know,
+
+16:38.160 --> 16:41.070
+as electronification
+moves from the simpler
+
+16:41.070 --> 16:42.540
+to the more complex products,
+
+16:42.540 --> 16:45.060
+that edge will do do us well.
+
+16:45.060 --> 16:46.470
+So I think, yeah, for me,
+
+16:46.470 --> 16:49.320
+the future is investing in that area.
+
+16:49.320 --> 16:50.258
+- Yeah, like, I mean,
+
+16:50.258 --> 16:52.713
+you've touched upon it
+there in terms of, like,
+
+16:54.079 --> 16:56.190
+one part of it is building it for clients
+
+16:56.190 --> 16:58.200
+and building a solution that
+obviously works for them.
+
+16:58.200 --> 17:00.480
+I suppose the other part of our day job
+
+17:00.480 --> 17:02.520
+is building solutions that
+work for sales and trading,
+
+17:02.520 --> 17:04.440
+and ultimately our first clients
+
+17:04.440 --> 17:07.110
+in a lot of instances
+are our sales partners
+
+17:07.110 --> 17:10.137
+and they have to book
+all forms of products.
+
+17:10.137 --> 17:12.240
+And so it isn't necessarily ones
+
+17:12.240 --> 17:14.370
+that have been through
+the electronic journey,
+
+17:14.370 --> 17:16.860
+but the reality is we do
+have to create solutions
+
+17:16.860 --> 17:17.693
+for them as well.
+
+17:17.693 --> 17:19.470
+I suppose in terms of the offerings
+
+17:19.470 --> 17:23.940
+and the differences that come
+about as a result of that,
+
+17:23.940 --> 17:26.430
+how do you build solutions
+both for sales and for clients
+
+17:26.430 --> 17:27.660
+in kind of one platform
+
+17:27.660 --> 17:28.740
+and make sure that it's seamless
+
+17:28.740 --> 17:31.290
+both for our internal and external users?
+
+17:31.290 --> 17:34.380
+- It's one of the things that,
+
+17:34.380 --> 17:35.640
+whilst it's very hard to do,
+
+17:35.640 --> 17:37.950
+it's really important
+that we get it right.
+
+17:37.950 --> 17:41.190
+You know, we talked a bit
+before about the value we get
+
+17:41.190 --> 17:44.880
+from internal users A/B testing.
+
+17:44.880 --> 17:47.790
+We massively value ourselves
+and trading partners
+
+17:47.790 --> 17:50.310
+for being the guinea pigs on our tools.
+
+17:50.310 --> 17:51.810
+We can proudly go out to clients
+
+17:51.810 --> 17:54.000
+and tell them that this is a tool
+
+17:54.000 --> 17:55.500
+our internal users are using.
+
+17:55.500 --> 17:58.320
+You know, when I worked on
+just on the Algos suite,
+
+17:58.320 --> 18:00.060
+the fact that our Algos are used both
+
+18:00.060 --> 18:02.977
+by our internal traders
+and our clients means that,
+
+18:02.977 --> 18:05.310
+you know, all of the
+feedback comes back to us
+
+18:05.310 --> 18:06.720
+from the internal desks,
+
+18:06.720 --> 18:09.273
+and it also lends some
+credibility to the product
+
+18:09.273 --> 18:11.340
+that you're offering that it's good enough
+
+18:11.340 --> 18:12.840
+for our internal users to be using.
+
+18:12.840 --> 18:16.620
+So, whilst it's hard and we
+can come onto how we manage it,
+
+18:16.620 --> 18:19.740
+the reward of it is that
+you can A/B test it,
+
+18:19.740 --> 18:21.510
+you do find risk issues quicker,
+
+18:21.510 --> 18:25.170
+you can collect more
+readily available feedback.
+
+18:25.170 --> 18:28.560
+So, we do massively
+value that partnership.
+
+18:28.560 --> 18:29.910
+In terms of how we do it, you know,
+
+18:29.910 --> 18:32.880
+the underlying workflows
+tend to be fairly similar.
+
+18:32.880 --> 18:35.370
+At the end of the day, if
+you're a salesperson booking
+
+18:35.370 --> 18:36.810
+on behalf of a client,
+
+18:36.810 --> 18:38.130
+you're effectively entering in
+
+18:38.130 --> 18:40.170
+a lot of the same fields
+that a client would be.
+
+18:40.170 --> 18:43.500
+There's obviously a lot of
+regulatory and credit checks,
+
+18:43.500 --> 18:45.960
+et cetera, that are
+done by the salesperson.
+
+18:45.960 --> 18:49.410
+And so we need to build all
+of that functionality in.
+
+18:49.410 --> 18:51.090
+But providing a common entry point
+
+18:51.090 --> 18:53.310
+and a common set of
+components is, you know,
+
+18:53.310 --> 18:55.100
+that's part of the journey of building
+
+18:55.100 --> 18:59.280
+in a customizable and design-led way.
+
+18:59.280 --> 19:00.930
+- We had a lot of success in areas
+
+19:00.930 --> 19:03.450
+like fixed income financing
+in the repo space.
+
+19:03.450 --> 19:06.300
+With that, I suppose
+it's been great to see
+
+19:06.300 --> 19:09.450
+that journey for both sales
+and for clients happening,
+
+19:09.450 --> 19:10.800
+you know, almost in tandem, right?
+
+19:10.800 --> 19:13.320
+To your point, it's getting it out
+
+19:13.320 --> 19:15.000
+in front of our sales partners,
+
+19:15.000 --> 19:17.340
+getting them comfortable
+with the workflows,
+
+19:17.340 --> 19:19.410
+understanding that there will be issues,
+
+19:19.410 --> 19:23.010
+and we'd rather discover
+those issues internally first,
+
+19:23.010 --> 19:26.880
+fix them rapidly, deploy the bug fixes,
+
+19:26.880 --> 19:28.590
+so that we can actually get the solution
+
+19:28.590 --> 19:29.790
+to where we need it to,
+
+19:29.790 --> 19:31.800
+but at the same time bring
+clients on that journey
+
+19:31.800 --> 19:34.140
+with us so that you're not
+necessarily just building it
+
+19:34.140 --> 19:37.290
+for sales, you're also building
+it with clients in mind,
+
+19:37.290 --> 19:39.300
+and you're able to have that conversation
+
+19:39.300 --> 19:41.010
+both with sales and
+clients at the same time.
+
+19:41.010 --> 19:43.454
+So that when we are having
+those design discussions
+
+19:43.454 --> 19:47.580
+and looking at what the solutions
+need to be able to handle,
+
+19:47.580 --> 19:50.100
+then you're able to kind
+of bring in both sides
+
+19:50.100 --> 19:54.960
+of the client and the user journey into.
+
+19:54.960 --> 19:56.370
+- And just to add to that, like,
+
+19:56.370 --> 20:00.060
+the idea that our salespeople
+are out selling the product
+
+20:00.060 --> 20:02.970
+that they're using, it all
+feeds back in, you know?
+
+20:02.970 --> 20:05.610
+Because if it's easier, yeah, exactly.
+
+20:05.610 --> 20:07.380
+- They know what they're talking about.
+
+20:07.380 --> 20:09.600
+And so we have a lot of
+salespeople, which is good,
+
+20:09.600 --> 20:11.070
+but at the same time,
+trying to roll it out
+
+20:11.070 --> 20:14.460
+all over the world is also
+a scaling problem at times.
+
+20:14.460 --> 20:17.610
+But I think we're doing
+a lot better at that too,
+
+20:17.610 --> 20:20.460
+but it's a continuous work in progress,
+
+20:20.460 --> 20:21.420
+I think on that front.
+
+20:21.420 --> 20:23.250
+- So, a question for you now.
+
+20:23.250 --> 20:25.803
+SPG has been something new for us.
+
+20:25.803 --> 20:28.860
+It's a business that we've not
+looked out on Execute before
+
+20:28.860 --> 20:32.250
+and things are starting to
+click there and go pretty well.
+
+20:32.250 --> 20:35.220
+Tell me a little bit about
+how that all got started
+
+20:35.220 --> 20:39.120
+and how the team came together
+to make that possible.
+
+20:39.120 --> 20:41.370
+- Absolutely, I mean, it's,
+
+20:41.370 --> 20:43.380
+you've touched upon it already in terms of
+
+20:43.380 --> 20:47.010
+some of the more complex products looking
+
+20:47.010 --> 20:49.260
+to provide single-dealer
+solutions to their client base.
+
+20:49.260 --> 20:52.110
+And it is a different client
+base in a lot of cases.
+
+20:52.110 --> 20:56.460
+I think when we looked at
+Execute in FX and commodities,
+
+20:56.460 --> 20:59.280
+it was a lot of banks,
+hedge funds, and corporates
+
+20:59.280 --> 21:01.305
+that were kind of the
+predominant client base
+
+21:01.305 --> 21:02.280
+that we focused on
+
+21:02.280 --> 21:04.803
+and that were early
+adopters of the platform.
+
+21:05.640 --> 21:08.580
+SPG is a different market altogether.
+
+21:08.580 --> 21:12.390
+And I think the clients
+that have been, you know,
+
+21:12.390 --> 21:15.390
+part of that journey with us
+have been looking for solutions
+
+21:15.390 --> 21:18.510
+that ultimately a single-dealer
+platform can provide better
+
+21:18.510 --> 21:21.990
+than potentially even some of
+the multi-dealer platforms.
+
+21:21.990 --> 21:25.350
+Some of it is because of the
+way the market operates today,
+
+21:25.350 --> 21:28.140
+and BWICs and OWICs, which are
+bids wanted in competition,
+
+21:28.140 --> 21:29.940
+and offers wanted in competition,
+
+21:29.940 --> 21:33.390
+is a feature of voice trading
+that has been around for,
+
+21:33.390 --> 21:34.500
+you know, decades.
+
+21:34.500 --> 21:36.630
+And I think everybody
+looking for the efficiency
+
+21:36.630 --> 21:39.810
+that the BWIC/OWIC offerings can bring
+
+21:39.810 --> 21:41.910
+by aggregating some of that information
+
+21:41.910 --> 21:43.020
+on a single-dealer platform,
+
+21:43.020 --> 21:45.210
+providing our liquidity
+alongside the liquidity
+
+21:45.210 --> 21:49.170
+of our clients on the
+other side gives the client
+
+21:49.170 --> 21:51.710
+who's who was asking for the BWIC or OWIC
+
+21:51.710 --> 21:56.710
+in the first interest the reach
+of our vast client network.
+
+21:56.790 --> 21:58.170
+But it equally gives them the efficiency
+
+21:58.170 --> 22:00.090
+of a digital channel to
+be able to handle that,
+
+22:00.090 --> 22:02.340
+which ultimately from an SDP perspective,
+
+22:02.340 --> 22:05.283
+and for some of the
+other pieces is part of
+
+22:05.283 --> 22:08.070
+the efficiencies that
+they're looking to get
+
+22:08.070 --> 22:10.110
+from a workflow perspective,
+
+22:10.110 --> 22:13.440
+but equally they get the
+pricing and liquidity access
+
+22:13.440 --> 22:15.420
+to the broad reach of J.P. Morgan,
+
+22:15.420 --> 22:17.430
+which is always helpful.
+
+22:17.430 --> 22:18.870
+And it's just the beginning, right?
+
+22:18.870 --> 22:22.080
+So, you know, parts of
+SPG and the TBA market
+
+22:22.080 --> 22:25.290
+and spec pools have been part
+of the electronic journey
+
+22:25.290 --> 22:26.730
+in some cases,
+
+22:26.730 --> 22:29.880
+but mortgages and some of
+the kind of broader areas
+
+22:29.880 --> 22:32.940
+across SPG definitely haven't necessarily
+
+22:32.940 --> 22:34.530
+gone down that road just yet,
+
+22:34.530 --> 22:37.230
+but they're certainly headed
+in some ways towards that
+
+22:37.230 --> 22:39.540
+and providing a single-dealer solution,
+
+22:39.540 --> 22:43.770
+considering the size and scale
+of our market share in that
+
+22:43.770 --> 22:46.230
+as well as our offering in
+terms of pricing and liquidity
+
+22:46.230 --> 22:50.880
+and the depth of our risk
+management within that area,
+
+22:50.880 --> 22:53.070
+it's always going to be a
+compelling offering for clients.
+
+22:53.070 --> 22:56.250
+And I think that's where we
+hope we can continue to grow.
+
+22:56.250 --> 22:58.890
+And obviously, it's
+new clients to Execute.
+
+22:58.890 --> 23:02.280
+It provides the opportunity
+for new analytics,
+
+23:02.280 --> 23:05.850
+for new offerings to be put
+in front of a new client base.
+
+23:05.850 --> 23:09.510
+And ultimately, you
+know, the clients in SPG,
+
+23:09.510 --> 23:10.860
+there are also clients in munis
+
+23:10.860 --> 23:12.990
+and elsewhere in loans and CLOs.
+
+23:12.990 --> 23:16.260
+And so we do see more synergies across
+
+23:16.260 --> 23:19.950
+some of those other areas as
+we grow the footprint in SPG.
+
+23:19.950 --> 23:23.970
+So again, it's not unique
+to the broader discussion
+
+23:23.970 --> 23:25.110
+that you were having in terms of, like,
+
+23:25.110 --> 23:27.150
+how we grow the platform more broadly.
+
+23:27.150 --> 23:30.390
+But I do think it is
+unique in that client base
+
+23:30.390 --> 23:33.210
+is in some ways kind of different
+
+23:33.210 --> 23:36.273
+to the kind of ones that
+we've traditionally embraced.
+

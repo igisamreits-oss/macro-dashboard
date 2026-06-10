@@ -1,0 +1,25 @@
+2025/03/28-12:59:07.337 5190 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.nasdaq.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/28-12:59:07.337 5190 Recovering log #4
+2025/03/28-12:59:07.337 5190 Reusing old log C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.nasdaq.com_0.indexeddb.leveldb/000004.log 
+2025/03/28-15:33:46.586 3220 Level-0 table #8: started
+2025/03/28-15:33:46.595 3220 Level-0 table #8: 4014504 bytes OK
+2025/03/28-15:33:46.598 3220 Delete type=0 #4
+2025/03/31-14:59:42.216 3220 Level-0 table #10: started
+2025/03/31-14:59:42.219 3220 Level-0 table #10: 335827 bytes OK
+2025/03/31-14:59:42.221 3220 Delete type=0 #7
+2025/03/31-14:59:42.222 3220 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x19\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00f\x00o\x00r\x00-\x00p\x00a\x00g\x00e' @ 5373 : 1
+2025/03/31-14:59:42.222 3220 Compacting 1@0 + 1@1 files
+2025/03/31-14:59:42.226 3220 Generated table #11@0: 1769 keys, 43216 bytes
+2025/03/31-14:59:42.226 3220 Compacted 1@0 + 1@1 files => 43216 bytes
+2025/03/31-14:59:42.229 3220 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/31-14:59:42.229 3220 Delete type=2 #8
+2025/03/31-14:59:42.229 3220 Delete type=2 #10
+2025/03/31-14:59:42.230 3220 Manual compaction at level-0 from '\x00\x02\x01\x02\x01\x19\x00p\x00e\x00r\x00m\x00u\x00t\x00i\x00v\x00e\x00-\x00e\x00v\x00e\x00n\x00t\x00s\x00-\x00f\x00o\x00r\x00-\x00p\x00a\x00g\x00e' @ 5373 : 1 .. (end); will stop at (end)
+2025/03/31-14:59:42.230 3220 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 4038 : 1
+2025/03/31-14:59:42.230 3220 Compacting 1@1 + 1@2 files
+2025/03/31-14:59:42.232 3220 Generated table #12@1: 65 keys, 29366 bytes
+2025/03/31-14:59:42.232 3220 Compacted 1@1 + 1@2 files => 29366 bytes
+2025/03/31-14:59:42.234 3220 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/31-14:59:42.234 3220 Delete type=2 #5
+2025/03/31-14:59:42.234 3220 Delete type=2 #11
+2025/03/31-14:59:42.235 3220 Manual compaction at level-1 from '\x00\x02\x02\x02\x01\x06\x00e\x00v\x00e\x00n\x00t\x00s' @ 4038 : 1 .. (end); will stop at (end)

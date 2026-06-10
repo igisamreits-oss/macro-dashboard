@@ -1,0 +1,637 @@
+{
+  "final_url": "https://www.citivelocity.com/cv2/go/MarketBuzz_OV/X19GUl9fhfi78wgaj8ms",
+  "title": "Citi Velocity",
+  "h1": [],
+  "h2": [
+    "개인정보 선호 센터"
+  ],
+  "h3": [
+    "동의 선호도 관리",
+    "쿠키 목록"
+  ],
+  "frame_count": 13,
+  "frame_urls": [
+    "https://www.citivelocity.com/cv2/go/MarketBuzz_OV/X19GUl9fhfi78wgaj8ms",
+    "",
+    "https://www.citivelocity.com/cv2/eppublic/router.html",
+    "about:blank",
+    "https://www.citivelocity.com/CompositePageService/page/MarketBuzz/MB_RGA",
+    "https://www.citivelocity.com/CompositePageService/page/cvsearchresultpage/CV_SIGNAL_PAGE_CACHE",
+    "about:blank",
+    "about:blank",
+    "about:blank",
+    ""
+  ],
+  "shadow_hosts": [],
+  "body_preview": "Browse\nHomeMy Citi VelocityAnalyticsContent FeedsFavorites\nHome/Market Buzz/Market Buzz\nFavorite\nShare\nAbout Citi VelocityCareersContact UsDisclaimersPrivacyCA Privacy HubCookie PolicyNotice at CollectionResearch DisclosuresTerms of Use\nCitigroup.com is the global source of information and access to financial services provided by the Citi family of companies.\n© 2012 - 2026 Citigroup Inc. All rights reserved.\nFeedback",
+  "links": [
+    {
+      "text": "Home",
+      "href": "go/MarketBuzz_OV"
+    },
+    {
+      "text": "My Citi Velocity",
+      "href": "go/MYCITI"
+    },
+    {
+      "text": "Analytics",
+      "href": "go/Analytics_"
+    },
+    {
+      "text": "Content Feeds",
+      "href": "go/Content_Feeds"
+    },
+    {
+      "text": "Favorites",
+      "href": "go/Favorites"
+    },
+    {
+      "text": "Securities Services",
+      "href": "go/SECURITY_SERVICES_ROOT"
+    },
+    {
+      "text": "CIS",
+      "href": "go/CFII"
+    },
+    {
+      "text": "Events Beta",
+      "href": "go/events_redesign"
+    },
+    {
+      "text": "Events Detail",
+      "href": "go/events_redesign_detail"
+    },
+    {
+      "text": "Home",
+      "href": "go/MarketBuzz_OV"
+    },
+    {
+      "text": "Market Buzz",
+      "href": "go/MarketBuzz"
+    },
+    {
+      "text": "Market Buzz",
+      "href": "go/MarketBuzz_OV"
+    },
+    {
+      "text": "Prime",
+      "href": "go/PRIME"
+    },
+    {
+      "text": "Securities Services",
+      "href": "go/SECURITY_SERVICES_ROOT"
+    },
+    {
+      "text": "Japan",
+      "href": "go/cv_japan"
+    },
+    {
+      "text": "Services",
+      "href": "go/SER"
+    },
+    {
+      "text": "CIS",
+      "href": "go/CFII"
+    },
+    {
+      "text": "Videos",
+      "href": "go/MarketBuzz_VIDEOS"
+    },
+    {
+      "text": "Events",
+      "href": "go/MARKET_INTELLIGENCE_CONFERENCE_BETA"
+    },
+    {
+      "text": "Events Beta",
+      "href": "go/events_redesign"
+    },
+    {
+      "text": "Events Detail",
+      "href": "go/events_redesign_detail"
+    },
+    {
+      "text": "Knowledge Blocks",
+      "href": "go/Knowledgeblocks"
+    },
+    {
+      "text": "Polls",
+      "href": "go/Polls"
+    },
+    {
+      "text": "News",
+      "href": "go/IQ"
+    },
+    {
+      "text": "Subscription Center",
+      "href": "go/EQ_SUB_CENTER"
+    },
+    {
+      "text": "Research",
+      "href": "go/RSCH_LANDING_PAGE"
+    },
+    {
+      "text": "Regional Overviews",
+      "href": "go/Regional_Overviews"
+    },
+    {
+      "text": "DD",
+      "href": "./"
+    },
+    {
+      "text": "About Citi Velocity",
+      "href": "https://www.citivelocity.com/public/AboutCM.html"
+    },
+    {
+      "text": "Careers",
+      "href": "http://careers.citigroup.com/"
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.citivelocity.com/cv2/go/CLIENT_SUPPORT"
+    },
+    {
+      "text": "Disclaimers",
+      "href": "https://content.citivelocity.com/ossearch/cvdisclaimer/aknetpublic/index.html"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://www.citigroup.com/global/privacy/citigroup#DIGITAL_PLATFORMS"
+    },
+    {
+      "text": "CA Privacy Hub",
+      "href": "https://online.citi.com/US/ag/dataprivacyhub/cpra/home"
+    },
+    {
+      "text": "Cookie Policy",
+      "href": "https://www.citigroup.com/global/institutional-clients/cookiepolicy"
+    },
+    {
+      "text": "Notice at Collection",
+      "href": "https://www.citigroup.com/rcs/citigpa/storage/public/icpublic/ICG-Global-PN-California-Supplement.pdf"
+    },
+    {
+      "text": "Research Disclosures",
+      "href": "/cvr/eppublic/citi_research_disclosures"
+    },
+    {
+      "text": "Terms of Use",
+      "href": "https://www.citivelocity.com/eppublic/terms"
+    },
+    {
+      "text": "사생활 정책",
+      "href": "https://icg.citi.com/icghome/privacy"
+    }
+  ],
+  "captured_requests": [
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/e1f50e30b3eb/oneTrust_production/consent/0190c6ad-145b-705f-a87d-55b4b9150d12/0190c6ad-145b-705f-a87d-55b4b9150d12.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://c.go-mpulse.net/api/config.json?key=2PAW3-6BFQQ-6Z99D-HWNBC-DBZTN&d=www.citivelocity.com&t=5936892&v=1.571.0&if=&sl=0&si=77086612-7140-43fb-9a72-814ce29a3557-tgeggk&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,Angular,Backbone,Ember,History,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,LOGN&acao=",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://c.go-mpulse.net/api/config.json?key=2PAW3-6BFQQ-6Z99D-HWNBC-DBZTN&d=www.citivelocity.com&t=5936892&v=1.571.0&if=&sl=0&si=77086612-7140-43fb-9a72-814ce29a3557-tgeggk&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,Angular,Backbone,Ember,History,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,LOGN&acao=",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/e1f50e30b3eb/oneTrust_production/consent/0190c6ad-145b-705f-a87d-55b4b9150d12/01988a91-1c3f-749f-b827-00f8b0001cf1/ko.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/e1f50e30b3eb/oneTrust_production/scripttemplates/202508.1.0/assets/otFlat.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/e1f50e30b3eb/oneTrust_production/scripttemplates/202508.1.0/assets/v2/otPcCenter.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/portal/service/profile/getUsersProfiles?t=1781067476500",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cpsservices/getMycvTabInfo.mvc",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/portal-profile-service/initNewPortalData?isMinimized=true&t=1781067476489&SIG_entitlements=3a19eab59b8658ba6f4455089ef72315f4132cdf80693cb7b01d78573a24a083&SIG_abFeatures=0051d3be2fd34cbc77f76498b9d924158a1bc4c8f35dd99554c5f17bff6fe557&SIG_staticLinks=97ed6a7fe974caab94331ed6c0dc321fd915954e9d9cfbfcbe44037674413b5e&SIG_configurations=f728efae8db721420bfa0e5c0b0da88766f07367ed716a8ba37821999f08c716&SIG_profiles=e2ae5c509b552a1ddb5afbd8c271acb82bd6c5364121e149d8a061a631b85db1&SIG_lobInfo=20e59b19a2ed580e8a1966cc3f3b902dc3849d60ff3d53ba9170c4fd6db802ac&SIG_newMenuTree=eeb2027c0947f68d028ca442d63f467f90f51fda4765483037311c7ead8930b7&profile=Institutional%20New",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/ua/cv/akpublic/scpublic/api/usage.min.js",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://www.citivelocity.com/ua/cv/akpublic/api/piwik-bridge-with-piwik.min.js?v=3",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/global/epfdigitaltracking/eppublic/glassboxControl?HOST=www.citivelocity.com&&t=1781067477845&pageurl=/cv2/go/MarketBuzz_OV/X19GUl9fhfi78wgaj8ms",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/global/epfdigitaltracking/eppublic/glassboxControl?HOST=www.citivelocity.com&&t=1781067478232&pageurl=/cv2/go/MarketBuzz_OV/X19GUl9fhfi78wgaj8ms&csi=161807",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/entitlement-service/entitlement/checkMultipleGroupMembershipForCurrentUser",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cpsservices/getUserFavoriteMycvTab",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-common-service/dependence/query?id=typeahead",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/ossearch/GlobalSearch/aknetpublic/20260410/main/main.css",
+      "method": "GET",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://content.citivelocity.com/ossearch/GlobalSearch/aknetpublic/20260410/main/main.js",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/x-javascript"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-common-service/dependence/query?id=notificationAlert",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/ossearch/Notification/aknetpublic/20251121/cvNotificationAlert/cvNotificationAlert.css",
+      "method": "GET",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810%3A1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pv=2&f_cls_s=true",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/ossearch/Notification/aknetpublic/20251121/cvNotificationAlert/cvNotificationAlert.js?_t=2026610",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/x-javascript"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810%3A1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pv=2&f_cls_s=true",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/entitlement-service/entitlement/checkMultipleResourcesAccessForCurrentUser",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cv-search-service/datasearch/history/getAll",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/notification/alert/pull",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cpsservices/getMycvTabInfo.mvc?t=1781067480462",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://c.go-mpulse.net/api/config.json?key=2PAW3-6BFQQ-6Z99D-HWNBC-DBZTN&d=www.citivelocity.com&t=5936892&v=1.571.0&if=&sl=1&si=77086612-7140-43fb-9a72-814ce29a3557-tgeggg&bcn=%2F%2F684d0d45.akstat.io%2F&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,Angular,Backbone,Ember,History,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,LOGN&acao=",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/citiportal_s/js/api/portalApi_cp.js",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-entitlement-service/entitlement/getAllEntitlementById",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810%3A1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pv=2&f_cls_s=true",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/entitlement-service/entitlement/checkGroupMembershipForCurrentUser",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/entitlement-service/entitlement/checkGroupMembershipForCurrentUser",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-news-service/news/init?portletId=CV_CC_News_1625815073191",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/entitlement-service/entitlement/checkGroupMembershipForCurrentUser",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-entitlement-service/entitlement/getAllEntitlementById",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/epf-ua/eppublic/js/api/portalApi_tracker.js?v=1781067477836",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-publication-service/publication/init?portletId=CV_RC_Publication_base_77992795",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/icgdigitalmetrics/qualtrics/parameters/client",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-cvevents-service/init?portletId=CV_RC_Conf_base_75535655&",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-publication-service/publication/init?portletId=CV_RC_Publication_base_9818458",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_e4DI2iO7kJgKDGe&Q_CLIENTVERSION=2.50.0&Q_CLIENTTYPE=web",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_8dIoxD3iTNMbU10&Version=2&Q_ORIGIN=https://www.citivelocity.com&Q_CLIENTVERSION=2.50.0&Q_CLIENTTYPE=web&Q_BrandTier=&Q_ARCACHEVERSION=21&Q_BRANDDC=iad1",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_41RmDZFh9eAZxr0&Version=1&Q_InterceptID=SI_8dIoxD3iTNMbU10&Q_ORIGIN=https://www.citivelocity.com&Q_CLIENTVERSION=2.50.0&Q_CLIENTTYPE=web&Q_BrandTier=&Q_ARCACHEVERSION=21&Q_BRANDDC=iad1",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-publication-service/publication/init?portletId=CV_CC_Publication_1627292624187",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/cva-chartingbe/chartingbe/data/v2?timeStamp=1781067483013",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cva-chartingbe/chartingbe/data/v2?auth=2026061004580328e449014482b8139c4bdc531018da52d8af29bf395f2653f07fbbbe5ff6b756",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-common-service/util/getResearchThumbnails?soeids=SlQ4NzAxNCxQTDM2MDA0LFJNNjY1NjYsT0M5MjcwMg==",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-video-service/video/v2/videosRc?ids=VID1_cbdkr0ky&portletId=CV_RC_Featured_Video_base_15799940",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-publication-service/publication/v2/docsRc?portletId=CV_RC_Publication_base_9818458",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cva-chartingbe/chartingbe/data/v2?auth=2026061004580417e3b4da9305209b3a8333259df45f3a6ff20fecfea1b9cafee514496162ca9d",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/eppublic/cookie/batch",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?clsjsv=7.3.228370&_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810:1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pid=ca83c048-a624-4b83-9c8f-15865271164c&sn=1&cfg=200a2fcd&pv=2&o=w11&aid=",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?clsjsv=7.3.228370&_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810:1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pid=ca83c048-a624-4b83-9c8f-15865271164c&sn=2&cfg=200a2fcd&pv=2&o=w11&aid=",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?clsjsv=7.3.228370&_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810:1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pid=b338dd13-76e9-4b57-9d8b-2de00774dcfa&sn=1&cfg=200a2fcd&pv=2&o=w11&aid=",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?clsjsv=7.3.228370&_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810:1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pid=b338dd13-76e9-4b57-9d8b-2de00774dcfa&sn=2&cfg=200a2fcd&pv=2&o=w11&aid=",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-video-service/video/init?portletId=CV_CC_Video_1625814744294&",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/CompositePageService/page/cvsearchresultpage/CV_SIGNAL_PAGE_CACHE",
+      "method": "GET",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/citiportal_s/js/api/portalApi_cp.js",
+      "method": "GET",
+      "status": 304,
+      "content_type": "application/javascript; charset=UTF-8"
+    },
+    {
+      "url": "https://content.citivelocity.com/ossearch/SearchResultPage/aknetpublic/20260522/signal/signal.css?vsn=20250425",
+      "method": "GET",
+      "status": 200,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://www.citivelocity.com/cookieconsent/static/eppublic/www.citivelocity.com/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://c.go-mpulse.net/api/config.json?key=2PAW3-6BFQQ-6Z99D-HWNBC-DBZTN&d=www.citivelocity.com&t=5936892&v=1.571.0&if=&sl=1&si=77086612-7140-43fb-9a72-814ce29a3557-tgeggg&bcn=%2F%2F684d0d45.akstat.io%2F&plugins=AK,ConfigOverride,Continuity,PageParams,IFrameDelay,AutoXHR,SPA,Angular,Backbone,Ember,History,RT,CrossDomain,BW,PaintTiming,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,Errors,TPAnalytics,UserTiming,LOGN&acao=",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/ossearch/SearchResultPage/aknetpublic/20260522/signal/signal.js?vsn=20250425",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/x-javascript"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?clsjsv=7.3.228370&_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810:1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pid=b338dd13-76e9-4b57-9d8b-2de00774dcfa&sn=3&cfg=200a2fcd&pv=2&o=w11&aid=",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?clsjsv=7.3.228370&_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810:1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pid=ca83c048-a624-4b83-9c8f-15865271164c&sn=3&cfg=200a2fcd&pv=2&o=w11&aid=",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/CompositePageService/page/cvsearchresultpage/undefined?t=20250425",
+      "method": "GET",
+      "status": 200,
+      "content_type": "text/html;charset=utf-8"
+    },
+    {
+      "url": "https://www.citivelocity.com/cpsservices/getMycvTabInfo.mvc?t=1781067490350",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://content.citivelocity.com/glassbox/reporting/citivelocity/cls_report?clsjsv=7.3.228370&_cls_s=bb775fb9-39c7-4ce5-a66e-50f8e8bc7810:1&_cls_v=025f90bc-3892-4d3f-a644-47697549c7cc&pid=ca83c048-a624-4b83-9c8f-15865271164c&sn=4&cfg=200a2fcd&pv=2&o=w11&aid=",
+      "method": "POST",
+      "status": 200,
+      "content_type": "application/json"
+    },
+    {
+      "url": "https://www.citivelocity.com/epf-ua/eppublic/js/api/portalApi_tracker.js?v=1781067477836",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://content.citivelocity.com/ossearch/GlobalSearch/aknetpublic/cacheHotKeywords/cacheHotKeywords.js",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/x-javascript"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvms/content-ossearch-service/auth/suggest/getLatestTypeAheadCacheVersion",
+      "method": "GET",
+      "status": 200,
+      "content_type": "application/json"
+    }
+  ]
+}

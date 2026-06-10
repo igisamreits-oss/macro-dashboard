@@ -1,0 +1,12 @@
+2026/05/26-11:11:49.198 5a20 Reusing MANIFEST C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/26-11:11:49.198 5a20 Recovering log #24
+2026/05/26-11:11:49.199 5a20 Reusing old log C:\Users\Bloomberg\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_mail.google.com_0.indexeddb.leveldb/000024.log 
+2026/05/26-11:11:51.835 8ac4 Compacting 1@1 + 1@2 files
+2026/05/26-11:11:51.842 8ac4 Generated table #27@1: 106 keys, 223921 bytes
+2026/05/26-11:11:51.842 8ac4 Compacted 1@1 + 1@2 files => 223921 bytes
+2026/05/26-11:11:51.843 8ac4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/05/26-11:11:51.843 8ac4 Delete type=2 #23
+2026/05/26-11:11:51.843 8ac4 Delete type=2 #25
+2026/05/26-11:12:05.907 8ac4 Level-0 table #29: started
+2026/05/26-11:12:05.926 8ac4 Level-0 table #29: 3202959 bytes OK
+2026/05/26-11:12:05.927 8ac4 Delete type=0 #24

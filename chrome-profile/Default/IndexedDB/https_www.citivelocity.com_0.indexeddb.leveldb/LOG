@@ -1,0 +1,6 @@
+2026/06/09-09:47:21.404 110c Reusing MANIFEST C:\Users\Bloomberg\Desktop\macro-dashboard\chrome-profile\Default\IndexedDB\https_www.citivelocity.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/09-09:47:21.404 110c Delete type=0 #4
+2026/06/09-09:47:21.945 375c Level-0 table #17: started
+2026/06/09-09:47:21.950 375c Level-0 table #17: 524 bytes OK
+2026/06/09-09:47:21.952 375c Delete type=0 #15
+2026/06/09-09:47:21.953 110c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

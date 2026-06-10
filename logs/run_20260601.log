@@ -1,0 +1,716 @@
+[2026-06-01  7:30:01.64] ============================================
+[2026-06-01  7:30:01.64] START [2026-06-01  7:30:01.64]
+[2026-06-01  7:30:01.65] ----- Attempt 1 -----
+[2026-06-01  7:30:01.65] [sync] fetch + reset --hard origin/main
+From https://github.com/igisamreits-oss/macro-dashboard
+ * branch            main       -> FETCH_HEAD
+   7d43300..3f9747e  main       -> origin/main
+HEAD is now at 3f9747e chore: daily dashboard refresh (2026-05-31)
+[2026-06-01  7:30:03.01] [1/4] Bloomberg fetch
+  [us_pol_sofr                   ] SOFRRATE Index           ... 
+01JUN2026_07:30:22.917 11012:9508 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:30:22.917 11012:9508 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{1}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:30:42.017 11012:9508 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:30:42.017 11012:9508 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{1}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:31:03.428 11012:9508 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:31:03.428 11012:9508 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{1}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:31:03.428 11012:9508 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{1}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=1  
+
+01JUN2026_07:31:03.429 11012:19932 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{1} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=1  
+2026-05-31T22:31:03.431070Z ERROR ThreadId(30) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:31:03.432232Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:31:20.488 11012:5400 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:31:20.488 11012:5400 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{2}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:31:40.348 11012:5400 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:31:40.348 11012:5400 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{2}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:32:02.027 11012:5400 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:32:02.027 11012:5400 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{2}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:32:02.027 11012:5400 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{2}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=2  
+
+01JUN2026_07:32:02.027 11012:36632 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{2} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=2  
+2026-05-31T22:32:02.030599Z ERROR ThreadId(59) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:32:02.032103Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [ca_pol_corra                  ] CAONREPO Index           ... 
+01JUN2026_07:32:19.078 11012:33976 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:32:19.078 11012:33976 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{3}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:32:38.986 11012:33976 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:32:38.986 11012:33976 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{3}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:33:00.301 11012:33976 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:33:00.301 11012:33976 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{3}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:33:00.301 11012:33976 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{3}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=3  
+
+01JUN2026_07:33:00.301 11012:24660 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{3} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=3  
+2026-05-31T22:33:00.303516Z ERROR ThreadId(88) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:33:00.304599Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:33:17.360 11012:35060 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:33:17.360 11012:35060 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{4}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:33:37.110 11012:35060 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:33:37.110 11012:35060 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{4}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:33:58.257 11012:35060 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:33:58.257 11012:35060 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{4}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:33:58.257 11012:35060 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{4}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=4  
+
+01JUN2026_07:33:58.257 11012:2324 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{4} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=4  
+2026-05-31T22:33:58.259430Z ERROR ThreadId(117) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:33:58.260869Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [uk_pol_sonia                  ] SONIO/N Index            ... 
+01JUN2026_07:34:15.293 11012:36660 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:34:15.293 11012:36660 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{5}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:34:34.792 11012:36660 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:34:34.792 11012:36660 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{5}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:34:56.473 11012:36660 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:34:56.473 11012:36660 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{5}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:34:56.473 11012:36660 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{5}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=5  
+
+01JUN2026_07:34:56.473 11012:35076 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{5} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=5  
+2026-05-31T22:34:56.474756Z ERROR ThreadId(146) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:34:56.476129Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:35:13.543 11012:33628 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:35:13.543 11012:33628 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{6}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:35:32.900 11012:33628 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:35:32.900 11012:33628 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{6}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:35:54.174 11012:33628 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:35:54.174 11012:33628 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{6}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:35:54.174 11012:33628 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{6}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=6  
+
+01JUN2026_07:35:54.174 11012:35792 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{6} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=6  
+2026-05-31T22:35:54.177174Z ERROR ThreadId(175) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:35:54.178273Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [eu_pol_estr                   ] ESTRON Index             ... 
+01JUN2026_07:36:11.225 11012:21820 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:36:11.225 11012:21820 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{7}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:36:30.550 11012:21820 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:36:30.550 11012:21820 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{7}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:36:52.555 11012:21820 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:36:52.555 11012:21820 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{7}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:36:52.555 11012:21820 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{7}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=7  
+
+01JUN2026_07:36:52.555 11012:33492 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{7} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=7  
+2026-05-31T22:36:52.557636Z ERROR ThreadId(204) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:36:52.562409Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:37:09.609 11012:39280 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:37:09.609 11012:39280 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{8}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:37:28.890 11012:39280 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:37:28.890 11012:39280 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{8}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:37:50.925 11012:39280 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:37:50.925 11012:39280 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{8}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:37:50.925 11012:39280 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{8}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=8  
+
+01JUN2026_07:37:50.925 11012:19516 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{8} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=8  
+2026-05-31T22:37:50.926836Z ERROR ThreadId(233) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:37:50.927788Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [kr_pol_cd91                   ] KWCDC Curncy             ... 
+01JUN2026_07:38:07.991 11012:39232 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:38:07.991 11012:39232 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{9}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:38:27.424 11012:39232 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:38:27.424 11012:39232 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{9}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:38:48.995 11012:39232 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:38:48.995 11012:39232 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{9}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:38:48.995 11012:39232 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{9}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=9  
+
+01JUN2026_07:38:48.995 11012:29460 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{9} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=9  
+2026-05-31T22:38:48.998199Z ERROR ThreadId(262) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:38:48.999300Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:39:06.048 11012:5052 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:39:06.048 11012:5052 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{10}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:39:25.364 11012:5052 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:39:25.364 11012:5052 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{10}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:39:47.265 11012:5052 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:39:47.265 11012:5052 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{10}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:39:47.265 11012:5052 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{10}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=10  
+
+01JUN2026_07:39:47.265 11012:35832 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{10} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=10  
+2026-05-31T22:39:47.266788Z ERROR ThreadId(291) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:39:47.267845Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [sg_pol_sora                   ] SIBCSORA Index           ... 
+01JUN2026_07:40:04.314 11012:30776 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:40:04.314 11012:30776 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{11}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:40:23.613 11012:30776 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:40:23.613 11012:30776 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{11}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:40:45.623 11012:30776 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:40:45.623 11012:30776 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{11}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:40:45.623 11012:30776 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{11}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=11  
+
+01JUN2026_07:40:45.623 11012:16584 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{11} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=11  
+2026-05-31T22:40:45.626015Z ERROR ThreadId(320) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:40:45.627266Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:41:02.646 11012:17896 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:41:02.646 11012:17896 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{12}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:41:22.339 11012:17896 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:41:22.339 11012:17896 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{12}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:41:43.664 11012:17896 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:41:43.664 11012:17896 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{12}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:41:43.664 11012:17896 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{12}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=12  
+
+01JUN2026_07:41:43.664 11012:30844 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{12} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=12  
+2026-05-31T22:41:43.666026Z ERROR ThreadId(349) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:41:43.669763Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [hk_pol_hibor3m                ] HIHD03M Index            ... 
+01JUN2026_07:42:00.734 11012:26680 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:42:00.734 11012:26680 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{13}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:42:19.822 11012:26680 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:42:19.822 11012:26680 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{13}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:42:41.053 11012:26680 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:42:41.053 11012:26680 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{13}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:42:41.053 11012:26680 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{13}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=13  
+
+01JUN2026_07:42:41.054 11012:16352 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{13} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=13  
+2026-05-31T22:42:41.055634Z ERROR ThreadId(378) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:42:41.056632Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:42:58.103 11012:18692 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:42:58.103 11012:18692 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{14}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:43:17.512 11012:18692 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:43:17.512 11012:18692 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{14}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:43:39.286 11012:18692 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:43:39.286 11012:18692 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{14}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:43:39.286 11012:18692 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{14}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=14  
+
+01JUN2026_07:43:39.286 11012:39084 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{14} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=14  
+2026-05-31T22:43:39.289113Z ERROR ThreadId(407) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:43:39.290440Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [se_pol_stib3m                 ] STIB3M Index             ... 
+01JUN2026_07:43:56.344 11012:18664 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:43:56.344 11012:18664 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{15}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:44:15.795 11012:18664 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:44:15.795 11012:18664 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{15}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:44:37.119 11012:18664 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:44:37.119 11012:18664 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{15}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:44:37.119 11012:18664 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{15}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=15  
+
+01JUN2026_07:44:37.120 11012:25080 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{15} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=15  
+2026-05-31T22:44:37.122287Z ERROR ThreadId(436) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:44:37.123427Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:44:54.161 11012:18628 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:44:54.161 11012:18628 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{16}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:45:13.244 11012:18628 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:45:13.244 11012:18628 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{16}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:45:34.772 11012:18628 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:45:34.772 11012:18628 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{16}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:45:34.772 11012:18628 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{16}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=16  
+
+01JUN2026_07:45:34.772 11012:14604 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{16} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=16  
+2026-05-31T22:45:34.774090Z ERROR ThreadId(465) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:45:34.775169Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [us_be_10y                     ] USGGBE10 Index           ... 
+01JUN2026_07:45:51.810 11012:10272 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:45:51.810 11012:10272 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{17}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:46:11.189 11012:10272 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:46:11.189 11012:10272 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{17}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:46:33.101 11012:10272 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:46:33.101 11012:10272 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{17}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:46:33.101 11012:10272 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{17}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=17  
+
+01JUN2026_07:46:33.101 11012:13592 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{17} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=17  
+2026-05-31T22:46:33.103337Z ERROR ThreadId(494) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:46:33.104416Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:46:50.151 11012:17564 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:46:50.151 11012:17564 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{18}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:47:09.808 11012:17564 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:47:09.808 11012:17564 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{18}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:47:31.178 11012:17564 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:47:31.178 11012:17564 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{18}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:47:31.178 11012:17564 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{18}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=18  
+
+01JUN2026_07:47:31.178 11012:22400 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{18} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=18  
+2026-05-31T22:47:31.179408Z ERROR ThreadId(523) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:47:31.180373Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [uk_be_10y                     ] UKGGBE10 Index           ... 
+01JUN2026_07:47:48.220 11012:1520 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:47:48.220 11012:1520 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{19}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:48:07.925 11012:1520 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:48:07.925 11012:1520 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{19}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:48:29.909 11012:1520 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:48:29.909 11012:1520 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{19}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:48:29.909 11012:1520 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{19}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=19  
+
+01JUN2026_07:48:29.909 11012:17316 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{19} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=19  
+2026-05-31T22:48:29.910467Z ERROR ThreadId(552) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:48:29.911414Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:48:46.958 11012:30436 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:48:46.958 11012:30436 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{20}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:49:06.789 11012:30436 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:49:06.789 11012:30436 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{20}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:49:28.526 11012:30436 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:49:28.526 11012:30436 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{20}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:49:28.526 11012:30436 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{20}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=20  
+
+01JUN2026_07:49:28.526 11012:17276 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{20} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=20  
+2026-05-31T22:49:28.527700Z ERROR ThreadId(581) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:49:28.528784Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [eu_be_10y                     ] EUSWSB10 Index           ... 
+01JUN2026_07:49:45.546 11012:3108 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:49:45.546 11012:3108 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{21}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:50:05.139 11012:3108 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:50:05.139 11012:3108 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{21}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:50:26.333 11012:3108 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:50:26.333 11012:3108 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{21}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:50:26.333 11012:3108 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{21}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=21  
+
+01JUN2026_07:50:26.333 11012:23920 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{21} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=21  
+2026-05-31T22:50:26.335044Z ERROR ThreadId(610) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:50:26.336095Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:50:43.374 11012:2824 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:50:43.374 11012:2824 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{22}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:51:03.382 11012:2824 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:51:03.382 11012:2824 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{22}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:51:25.206 11012:2824 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:51:25.206 11012:2824 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{22}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:51:25.206 11012:2824 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{22}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=22  
+
+01JUN2026_07:51:25.206 11012:5716 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{22} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=22  
+2026-05-31T22:51:25.208362Z ERROR ThreadId(639) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:51:25.209443Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [de_be_10y                     ] DEGGBE10 Index           ... 
+01JUN2026_07:51:42.247 11012:24640 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:51:42.247 11012:24640 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{23}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:52:01.947 11012:24640 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:52:01.947 11012:24640 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{23}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:52:23.763 11012:24640 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:52:23.763 11012:24640 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{23}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:52:23.763 11012:24640 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{23}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=23  
+
+01JUN2026_07:52:23.763 11012:29912 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{23} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=23  
+2026-05-31T22:52:23.765830Z ERROR ThreadId(668) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:52:23.767007Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:52:40.790 11012:17044 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:52:40.791 11012:17044 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{24}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:53:00.381 11012:17044 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:53:00.381 11012:17044 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{24}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:53:22.256 11012:17044 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:53:22.256 11012:17044 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{24}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:53:22.256 11012:17044 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{24}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=24  
+
+01JUN2026_07:53:22.256 11012:17212 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{24} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=24  
+2026-05-31T22:53:22.257448Z ERROR ThreadId(697) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:53:22.258663Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [fr_be_10y                     ] FRGG10EB Index           ... 
+01JUN2026_07:53:39.319 11012:23176 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:53:39.319 11012:23176 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{25}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:53:58.797 11012:23176 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:53:58.797 11012:23176 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{25}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:54:20.113 11012:23176 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:54:20.113 11012:23176 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{25}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:54:20.113 11012:23176 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{25}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=25  
+
+01JUN2026_07:54:20.113 11012:27160 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{25} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=25  
+2026-05-31T22:54:20.115402Z ERROR ThreadId(726) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:54:20.116441Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:54:37.171 11012:28496 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:54:37.171 11012:28496 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{26}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:54:56.428 11012:28496 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:54:56.428 11012:28496 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{26}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:55:17.504 11012:28496 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:55:17.504 11012:28496 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{26}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:55:17.504 11012:28496 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{26}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=26  
+
+01JUN2026_07:55:17.504 11012:37676 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{26} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=26  
+2026-05-31T22:55:17.505507Z ERROR ThreadId(755) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:55:17.506600Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [au_be_10y                     ] ADGGBE10 Index           ... 
+01JUN2026_07:55:34.545 11012:16680 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:55:34.545 11012:16680 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{27}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:55:54.113 11012:16680 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:55:54.113 11012:16680 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{27}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:56:16.046 11012:16680 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:56:16.046 11012:16680 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{27}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:56:16.046 11012:16680 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{27}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=27  
+
+01JUN2026_07:56:16.046 11012:5248 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{27} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=27  
+2026-05-31T22:56:16.047686Z ERROR ThreadId(784) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:56:16.048811Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:56:33.087 11012:29524 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:56:33.088 11012:29524 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{28}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:56:52.742 11012:29524 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:56:52.742 11012:29524 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{28}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:57:13.961 11012:29524 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:57:13.961 11012:29524 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{28}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:57:13.961 11012:29524 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{28}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=28  
+
+01JUN2026_07:57:13.962 11012:32844 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{28} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=28  
+2026-05-31T22:57:13.963729Z ERROR ThreadId(813) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:57:13.964733Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [jp_be_10y                     ] JYGGBE10 Index           ... 
+01JUN2026_07:57:31.004 11012:37500 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:57:31.004 11012:37500 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{29}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:57:50.727 11012:37500 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:57:50.727 11012:37500 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{29}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:58:12.556 11012:37500 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:58:12.556 11012:37500 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{29}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:58:12.556 11012:37500 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{29}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=29  
+
+01JUN2026_07:58:12.556 11012:15648 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{29} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=29  
+2026-05-31T22:58:12.558043Z ERROR ThreadId(842) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:58:12.559059Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_07:58:29.586 11012:38192 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:58:29.586 11012:38192 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{30}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:58:49.151 11012:38192 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:58:49.151 11012:38192 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{30}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:59:10.361 11012:38192 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:59:10.361 11012:38192 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{30}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:59:10.361 11012:38192 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{30}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=30  
+
+01JUN2026_07:59:10.361 11012:24628 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{30} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=30  
+2026-05-31T22:59:10.363327Z ERROR ThreadId(871) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T22:59:10.364317Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [se_be_10y                     ] SKGGBE10 Index           ... 
+01JUN2026_07:59:27.400 11012:35220 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:59:27.400 11012:35220 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{31}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_07:59:47.155 11012:35220 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_07:59:47.155 11012:35220 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{31}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:00:08.488 11012:35220 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:00:08.488 11012:35220 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{31}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:00:08.488 11012:35220 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{31}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=31  
+
+01JUN2026_08:00:08.488 11012:38772 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{31} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=31  
+2026-05-31T23:00:08.489520Z ERROR ThreadId(900) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T23:00:08.490593Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_08:00:25.549 11012:9708 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:00:25.549 11012:9708 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{32}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:00:45.124 11012:9708 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:00:45.124 11012:9708 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{32}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:01:06.187 11012:9708 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:01:06.187 11012:9708 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{32}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:01:06.187 11012:9708 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{32}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=32  
+
+01JUN2026_08:01:06.187 11012:34340 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{32} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=32  
+2026-05-31T23:01:06.189315Z ERROR ThreadId(929) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T23:01:06.190451Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [us_mort_30y                   ] NMCMFR30 Index           ... 
+01JUN2026_08:01:23.225 11012:34612 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:01:23.225 11012:34612 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{33}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:01:42.584 11012:34612 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:01:42.584 11012:34612 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{33}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:02:04.123 11012:34612 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:02:04.123 11012:34612 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{33}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:02:04.123 11012:34612 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{33}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=33  
+
+01JUN2026_08:02:04.123 11012:33168 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{33} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=33  
+2026-05-31T23:02:04.126962Z ERROR ThreadId(958) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T23:02:04.128055Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_08:02:21.182 11012:25900 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:02:21.182 11012:25900 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{34}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:02:40.690 11012:25900 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:02:40.690 11012:25900 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{34}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:03:01.966 11012:25900 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:03:01.966 11012:25900 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{34}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:03:01.966 11012:25900 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{34}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=34  
+
+01JUN2026_08:03:01.966 11012:17528 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{34} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=34  
+2026-05-31T23:03:01.967920Z ERROR ThreadId(987) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T23:03:01.969192Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [us_cpi_yoy                    ] CPI YOY Index            ... 
+01JUN2026_08:03:19.000 11012:37564 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:03:19.000 11012:37564 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{35}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:03:38.379 11012:37564 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:03:38.379 11012:37564 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{35}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:03:59.674 11012:37564 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:03:59.674 11012:37564 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{35}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:03:59.674 11012:37564 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{35}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=35  
+
+01JUN2026_08:03:59.674 11012:34224 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{35} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=35  
+2026-05-31T23:03:59.677028Z ERROR ThreadId(1016) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T23:03:59.678254Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_08:04:16.723 11012:25716 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:04:16.723 11012:25716 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{36}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:04:36.306 11012:25716 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:04:36.306 11012:25716 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{36}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:04:57.521 11012:25716 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:04:57.521 11012:25716 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{36}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:04:57.521 11012:25716 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{36}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=36  
+
+01JUN2026_08:04:57.521 11012:18328 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{36} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=36  
+2026-05-31T23:04:57.522525Z ERROR ThreadId(1045) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T23:04:57.523796Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+EXCEPTION: BlpInternalError: Internal error: failed to spawn worker 0: session start failed
+  [us_core_cpi_yoy               ] CPI XYOY Index           ... 
+01JUN2026_08:05:14.564 11012:27624 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:05:14.564 11012:27624 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{37}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:05:33.853 11012:27624 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:05:33.853 11012:27624 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{37}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:05:55.139 11012:27624 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:05:55.139 11012:27624 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{37}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:05:55.139 11012:27624 WARN blpapi_platformcontroller.cpp:770 blpapi.session.{37}.platformcontroller Platform failed 3 consecutive times, stopped trying to reconnect. { PlatformId=0 }  blpapi.sid=37  
+
+01JUN2026_08:05:55.140 11012:19420 ERROR blpapi_sessionimpl.cpp:2913 blpapi.session.{37} Failed to start session. { ErrorInfo=[ source = "ApiConnector" code = 8 category = "IO_ERROR" errorMessage = "connect event failed" subcategory = NULL ] RequestId=NULL }  blpapi.sid=37  
+2026-05-31T23:05:55.141665Z ERROR ThreadId(1074) xbbg_async::engine::worker: crates\xbbg-async\src\engine\worker.rs:1235: worker creation failed worker_id=0 error=session start failed
+2026-05-31T23:05:55.142710Z  WARN ThreadId(01) _core: bindings\pyo3-xbbg\src\lib.rs:1588: PyEngine: connection failed error=bloomberg error: internal error: failed to spawn worker 0: session start failed
+
+01JUN2026_08:06:12.178 11012:26308 WARN apicm_apiconnector.cpp:367 ApiConnector::socketConnectorCallback localhost: Failed to connect to 127.0.0.1:8194, status=1, error 8 connect event failed   
+
+01JUN2026_08:06:12.178 11012:26308 WARN blpapi_platformtransporttcp.cpp:141 blpapi.session.{38}.transporttcp<0><localhost:8194> 127.0.0.1, session pool state=Failed   
+
+01JUN2026_08:06:30.943 11012:31608 WARN blpapi_subscriptionmanager.cpp:7172 blpapi.session.{38}.clusterservicehandler.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:31.078 11012:31608 WARN blpapi_subscriptionmanager.cpp:7229 blpapi.session.{38}.clusterservicehandler.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:31.078 11012:31608 WARN blpapi_subscriptionmanager.cpp:7229 blpapi.session.{38}.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:31.078 11012:31608 WARN blpapi_subscriptionmanager.cpp:7172 blpapi.session.{38}.clusterservicehandler.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:31.672 11012:31608 WARN blpapi_subscriptionmanager.cpp:7229 blpapi.session.{38}.clusterservicehandler.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:31.672 11012:31608 WARN blpapi_subscriptionmanager.cpp:7229 blpapi.session.{38}.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:31.672 11012:31608 WARN blpapi_subscriptionmanager.cpp:7172 blpapi.session.{38}.clusterservicehandler.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:32.263 11012:31608 WARN blpapi_subscriptionmanager.cpp:7229 blpapi.session.{38}.clusterservicehandler.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+
+01JUN2026_08:06:32.263 11012:31608 WARN blpapi_subscriptionmanager.cpp:7229 blpapi.session.{38}.subscriptionmanager Could not find a service for serviceCode: 90. blpapi.sid=38  
+^C

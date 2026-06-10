@@ -1,0 +1,47 @@
+{
+   "checksum": "2c83b489efbf1c95116a8d72e31bdb03",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13378437310008226",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "북마크바",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13378437347414619",
+            "date_last_used": "13379056262611691",
+            "guid": "d27c2621-3c88-4bb2-b184-7ed455a95db9",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PC_BACKUP_NAS - Synology RackStation",
+            "type": "url",
+            "url": "http://data.igisam.com:5000/file/#/signin"
+         } ],
+         "date_added": "13378437310008228",
+         "date_last_used": "0",
+         "date_modified": "13378437347414619",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "기타 북마크",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13378437310008231",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "모바일 북마크",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

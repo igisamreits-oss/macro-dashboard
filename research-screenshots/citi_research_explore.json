@@ -1,0 +1,390 @@
+{
+  "final_url": "https://www.citivelocity.com/cv2/go/RSCH_LANDING_PAGE",
+  "title": "Citi Velocity",
+  "frame_count": 15,
+  "frame_urls": [
+    "https://www.citivelocity.com/cv2/go/RSCH_LANDING_PAGE",
+    "",
+    "https://www.citivelocity.com/cv2/eppublic/router.html",
+    "about:blank",
+    "https://www.citivelocity.com/cvr/citiresearchui/eppublic/recent_highlights",
+    "https://www.citivelocity.com/CompositePageService/page/cvsearchresultpage/CV_SIGNAL_PAGE_CACHE",
+    "about:blank",
+    "about:blank",
+    "about:blank",
+    "about:blank",
+    "",
+    "",
+    "https://www.citivelocity.com/cvr/retail/eppublic/pb/index.html?platformId=79&ancestor=CVR22",
+    "",
+    ""
+  ],
+  "body_preview": "Browse\nHomeMy Citi VelocityAnalyticsContent FeedsFavorites\nHome/Research\nFavorite\nShare\nAbout Citi VelocityCareersContact UsDisclaimersPrivacyCA Privacy HubCookie PolicyNotice at CollectionResearch DisclosuresTerms of Use\nCitigroup.com is the global source of information and access to financial services provided by the Citi family of companies.\n© 2012 - 2026 Citigroup Inc. All rights reserved.\nFeedback",
+  "frames_content": [
+    {
+      "url": "https://www.citivelocity.com/cv2/go/RSCH_LANDING_PAGE",
+      "text_preview": "Browse\nHomeMy Citi VelocityAnalyticsContent FeedsFavorites\nHome/Research\nFavorite\nShare\nAbout Citi VelocityCareersContact UsDisclaimersPrivacyCA Privacy HubCookie PolicyNotice at CollectionResearch DisclosuresTerms of Use\nCitigroup.com is the global source of information and access to financial services provided by the Citi family of companies.\n© 2012 - 2026 Citigroup Inc. All rights reserved.\nFeedback"
+    },
+    {
+      "url": "https://www.citivelocity.com/cv2/eppublic/router.html",
+      "text_preview": ""
+    },
+    {
+      "url": "https://www.citivelocity.com/cvr/citiresearchui/eppublic/recent_highlights",
+      "text_preview": "Skip to content\nCiti Picks\nRecent Highlights\nCiti Express\nConferences & Events\nResearch\nAll Research\nCommodities\nDecentralized Finance\nEconomics\nEmerging Markets FX & Rates\nEquity Strategy & Quant\nETF\nG10 Rates\nMacro Strategy & Asset Allocation\nSpread Products Strategy\nEquity Sectors\nConsumer\nFinancials & FinTech\nHealthcare\nIndustrial Technology & Mobility\nNatural Resources & ClimateTech\nReal Estate\nTechnology & Communications\nResearch Data Products\nHouse Views\nStock Screener\nFocus List\nCatalyst Watch/Short-Term View\nPremium Data Products\nResearch Tools\nCompany Directory\nSubscription Center\nMarketing Tools\nResearch Disclosures"
+    },
+    {
+      "url": "https://www.citivelocity.com/CompositePageService/page/cvsearchresultpage/CV_SIGNAL_PAGE_CACHE",
+      "text_preview": "Home\nFavorite\nShare\nAbout Citi Velocity\nCareers\nContact Us\nDisclaimers\nPrivacy\nCA Privacy Hub\nCookie Policy\nNotice at Collection\nResearch Disclosures\nTerms of Use\nCitigroup.com is the global source of information and access to financial services provided by the Citi family of companies.\n© 2012 - 2026 Citigroup Inc. All rights reserved."
+    },
+    {
+      "url": "https://www.citivelocity.com/cvr/retail/eppublic/pb/index.html?platformId=79&ancestor=CVR22",
+      "text_preview": "Research\n|\nWeek of Jun 8\nGlobal FX Strategy: Our Risk Sentiment Goes From Yellow to Red\nIn the last week our risk sentiment has moved from green to yellow and now to red. While we still see a positive trend for risk assets, multiple catalysts at play would likely lead to risk-off with higher yields; historically, that's a USD-positive backdrop. We consider strategies herein.\nRead More\nWill the Tech-Led Correction in Japanese Equities Drag On?\nJapanese high-tech stocks had been driving the market since April but have now seen a significant correction, resulting in sharp declines in both the Nikkei and TOPIX. But we see four reasons to think this tech-led correction will likely be short-lived, with significant upside still ahead.\nRead More\nMetal Matters: Why This May Not Be the Gold Dip to Buy\nGold recently closed below its 200dMA for the first time since September 2023. We lower our 0-3-month point-price target to $4,000 an ounce from $4,300. While we maintain a bullish longer-term view"
+    }
+  ],
+  "links": [
+    {
+      "text": "Home",
+      "href": "go/MarketBuzz_OV"
+    },
+    {
+      "text": "My Citi Velocity",
+      "href": "go/MYCITI"
+    },
+    {
+      "text": "Analytics",
+      "href": "go/Analytics_"
+    },
+    {
+      "text": "Content Feeds",
+      "href": "go/Content_Feeds"
+    },
+    {
+      "text": "Favorites",
+      "href": "go/Favorites"
+    },
+    {
+      "text": "Securities Services",
+      "href": "go/SECURITY_SERVICES_ROOT"
+    },
+    {
+      "text": "CIS",
+      "href": "go/CFII"
+    },
+    {
+      "text": "Events Beta",
+      "href": "go/events_redesign"
+    },
+    {
+      "text": "Events Detail",
+      "href": "go/events_redesign_detail"
+    },
+    {
+      "text": "Home",
+      "href": "go/MarketBuzz_OV"
+    },
+    {
+      "text": "Research",
+      "href": "go/RSCH_LANDING_PAGE"
+    },
+    {
+      "text": "Prime",
+      "href": "go/PRIME"
+    },
+    {
+      "text": "Securities Services",
+      "href": "go/SECURITY_SERVICES_ROOT"
+    },
+    {
+      "text": "Japan",
+      "href": "go/cv_japan"
+    },
+    {
+      "text": "Services",
+      "href": "go/SER"
+    },
+    {
+      "text": "CIS",
+      "href": "go/CFII"
+    },
+    {
+      "text": "Videos",
+      "href": "go/MarketBuzz_VIDEOS"
+    },
+    {
+      "text": "Events",
+      "href": "go/MARKET_INTELLIGENCE_CONFERENCE_BETA"
+    },
+    {
+      "text": "Events Beta",
+      "href": "go/events_redesign"
+    },
+    {
+      "text": "Events Detail",
+      "href": "go/events_redesign_detail"
+    },
+    {
+      "text": "Knowledge Blocks",
+      "href": "go/Knowledgeblocks"
+    },
+    {
+      "text": "Polls",
+      "href": "go/Polls"
+    },
+    {
+      "text": "News",
+      "href": "go/IQ"
+    },
+    {
+      "text": "Subscription Center",
+      "href": "go/EQ_SUB_CENTER"
+    },
+    {
+      "text": "Research",
+      "href": "go/RSCH_LANDING_PAGE"
+    },
+    {
+      "text": "Regional Overviews",
+      "href": "go/Regional_Overviews"
+    },
+    {
+      "text": "DD",
+      "href": "./"
+    },
+    {
+      "text": "About Citi Velocity",
+      "href": "https://www.citivelocity.com/public/AboutCM.html"
+    },
+    {
+      "text": "Careers",
+      "href": "http://careers.citigroup.com/"
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.citivelocity.com/cv2/go/CLIENT_SUPPORT"
+    },
+    {
+      "text": "Disclaimers",
+      "href": "https://content.citivelocity.com/ossearch/cvdisclaimer/aknetpublic/index.html"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://www.citigroup.com/global/privacy/citigroup#DIGITAL_PLATFORMS"
+    },
+    {
+      "text": "CA Privacy Hub",
+      "href": "https://online.citi.com/US/ag/dataprivacyhub/cpra/home"
+    },
+    {
+      "text": "Cookie Policy",
+      "href": "https://www.citigroup.com/global/institutional-clients/cookiepolicy"
+    },
+    {
+      "text": "Notice at Collection",
+      "href": "https://www.citigroup.com/rcs/citigpa/storage/public/icpublic/ICG-Global-PN-California-Supplement.pdf"
+    },
+    {
+      "text": "Research Disclosures",
+      "href": "/cvr/eppublic/citi_research_disclosures"
+    },
+    {
+      "text": "Terms of Use",
+      "href": "https://www.citivelocity.com/eppublic/terms"
+    },
+    {
+      "text": "사생활 정책",
+      "href": "https://icg.citi.com/icghome/privacy"
+    }
+  ],
+  "api_responses": [
+    {
+      "url": "https://www.citivelocity.com/portal/service/profile/getUsersProfiles?t=1781067622523",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "[{\"profileId\":61,\"profileName\":\"Institutional New\",\"displayName\":\"Institutional\",\"order\":8,\"default\":true}]"
+    },
+    {
+      "url": "https://www.citivelocity.com/portal-profile-service/initNewPortalData?isMinimized=true&t=1781067622513&SIG_entitlements=3a19eab59b8658ba6f4455089ef72315f4132cdf80693cb7b01d78573a24a083&SIG_abFeatures=0051d3be2fd34cbc77f76498b9d924158a1bc4c8f35dd99554c5f17bff6fe557&SIG_staticLinks=97ed6a7fe974caab94331ed6c0dc321fd915954e9d9cfbfcbe44037674413b5e&SIG_configurations=f728efae8db721420bfa0e5c0b0da88766f07367ed716a8ba37821999f08c716&SIG_profiles=e2ae5c509b552a1ddb5afbd8c271acb82bd6c5364121e149d8a061a631b85db1&SIG_lobInfo=20e59b19a2ed580e8a1966cc3f3b902dc3849d60ff3d53ba9170c4fd6db802ac&SIG_newMenuTree=eeb2027c0947f68d028ca442d63f467f90f51fda4765483037311c7ead8930b7&profile=Institutional%20New",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"environments\":{\"mimicStatus\":\"false\",\"zone\":\"External\",\"profile\":\"Institutional New\",\"siteId\":\"14\",\"language\":\"en_US\",\"authType\":\"REMEMBERME\",\"portal\":\"CitiVelocity\",\"platform\":\"Desktop\"},\"preferences\":{\"defaultHomepage\":\"MarketBuzz\",\"enableNewSearch\":\"true\"},\"signatures\":{\"entitlements\":\"3a19eab59b8658ba6f4455089ef72315f4132cdf80693cb7b01d78573a24a083\",\"abFeatures\":\"0051d3be2fd34cbc77f76498b9d924158a1bc4c8f35dd99554c5f17bff6fe557\",\"staticLinks\":\"97ed6a7fe974caab94331ed6c0dc321fd915954e9d9cfbfcbe44037674413b5e\",\"configurations\":\"f728efae8db721420bfa0e5c0b0da88766f07367ed716a8ba37821999f08c716\",\"newMenuTree\":\"eeb2027c0947f68d028ca442d63f467f90f51fda4765483037311c7ead8930b7\",\"profiles\":\"e2ae5c509b552a1ddb5afbd8c271acb82bd6c5364121e149d8a061a631b85db1\",\"lobInfo\":\"20e59b19a2ed580e8a1966cc3f3b902dc3849d60ff3d53ba9170c4fd6db802ac\"},\"user\":{\"ssoId\":\"jlee470806\",\"lastName\":\"Lee\",\"country\":\"South Korea\",\"gpNumber\":\"3-Z44A8P\",\"loginId\":\"jlee470806\",\"displayName\":\"Jiwoo Lee\",\"isCVTechUser\":\"false\",\"geId\":\"\",\"userId\":\"3625890\",\"marketUserId\":\"null\",\"firstName\":\"Jiwoo\",\"crmId\":\"3-0XEVIHU\",\"institution\":\"IGIS Asset Management Company Limited\",\"lastLoginTime\":\"1780966115183\",\"uaId\":\"awK2cDXLazghgekAbC6Kiw==\",\"defaultTheme\":\"dark\",\"securitiesServiceUserId\":\"null\",\"userType\":\"C\",\"email\":\"jyulee1101@igisam.com\"}}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cpsservices/getMycvTabInfo.mvc",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"MyCVTabsInfo\":[]}"
+    },
+    {
+      "url": "https://www.citivelocity.com/yY-8/-Q3r/93/aeK2/67rA/3iakJktL9QSzSNat/SnYEAg/Hgk_F/SI0RFQB",
+      "method": "POST",
+      "status": 201,
+      "post_data": "{\"sensor_data\":\"3;0;1;0;3354945;MxCZ4pkIAWbxuGnIpBfzM0jj7zyb975TGRomhMs38fM=;4,22,0,0,2,119;\\\"3u\\\"d\\\"v}t,\\\"|_J,9&vcQ\\\"bt2v=\\\"c4U=|lZ\\\"_5Nm]Tf\\\"k\\\"3qn\\\"D\\\"\\\"[MP\\\"]el\\\">WH)*EFq\\\"V{q\\\"]\\\"T?>6D5\\\"@\\\"gs5T\\\"Rz.\\\"2yn\\\"mi/o(Q;\\\"a!|\\\"3\\\"=:D@E1|W\\\"lv4\\\"6Yk\\\"w\\\"zom~IUMGs`TXS?`{r,|rKWa(i7~jn@(|1/}Ujc4j/}2o|7@E[iMa@=FZ+RR<)|Q@Q6)Co`pGxAY47`s]V?NZ4x%`6nnTaRd`oPu]BUzRV^_y}Il\\\"9\\\"F_G2\\\"[je\\\"4UMjY\\\"92b\\\"PhQ\\\"c^%7`oTW\\\"wpj\\\"9O|he\\\"TY(\\\"g\\\"\\\")WG\\\"B|0\\\"1\\\"r7o}S]|bOx(z^\\\"Ywy\\\"5ZEf9\\\".\\\"-#;Jp?!@!6kt<&\\\"-[B\\\"/.[\\\"T\\\"]...",
+      "body_preview": "{\"success\": true}\n"
+    },
+    {
+      "url": "https://www.citivelocity.com/yY-8/-Q3r/93/aeK2/67rA/3iakJktL9QSzSNat/SnYEAg/Hgk_F/SI0RFQB",
+      "method": "POST",
+      "status": 201,
+      "post_data": "{\"sensor_data\":\"3;0;1;0;3354945;MxCZ4pkIAWbxuGnIpBfzM0jj7zyb975TGRomhMs38fM=;19,0,0,1,6,0;(~\\\"s?do\\\"y\\\"AnUC,0!$h`>#1\\\"<\\\"/0u\\\"]\\\",ecKRg$MqFGporJF&>9$oXQ?0$;L\\\"R\\\"Z`6\\\"0V`4x\\\"2?<r\\\"@G>CIKqoz\\\"4{\\\"<z;@s\\\"9?uM\\\"`\\\"\\\"p<.\\\"_d(\\\"N\\\"\\\"}x>\\\"b`~\\\"e1)n]RJ\\\"a(I\\\"&M^^B\\\"BZk\\\"Hv!\\\"2vt\\\"r\\\"!\\\"RJK\\\"+^L\\\"$\\\"fLznd9\\\"\\\"Xwr\\\"fn/\\\"KX(TO%3r\\\"f^T\\\"Q q3W\\\"+)\\\"l)7lg.{fN)\\\"FmA\\\"aaP<7y\\\"\\\"y9~\\\"Xa\\\"f\\\"T)=qG\\\"\\\"Z\\\"ux:\\\"#r[GY6\\\"\\\"+\\\"A&\\\"+lP9>`A`oTW\\\"y~rG\\\"T\\\"IXn8K\\\"?XB\\\"!j5\\\"c9M*nyQ=\\\" \\\"NqG\\\"WcK\\\"n\\\"{*N\\\"r\\\"c:D\\\"Q0%4Kq?%?k...",
+      "body_preview": "{\"success\": true}\n"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-common-service/dependence/query?id=typeahead",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"id\":\"typeahead\",\"js\":[\"https://content.citivelocity.com/ossearch/GlobalSearch/aknetpublic/20260410/main/main.js\"],\"css\":[\"https://content.citivelocity.com/ossearch/GlobalSearch/aknetpublic/20260410/main/main.css\"]}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cpsservices/getUserFavoriteMycvTab",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{}"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-common-service/dependence/query?id=notificationAlert",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"id\":\"notificationAlert\",\"js\":[\"https://content.citivelocity.com/ossearch/Notification/aknetpublic/20251121/cvNotificationAlert/cvNotificationAlert.js\"],\"css\":[\"https://content.citivelocity.com/ossearch/Notification/aknetpublic/20251121/cvNotificationAlert/cvNotificationAlert.css\"]}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cv-search-service/datasearch/history/getAll",
+      "method": "POST",
+      "status": 200,
+      "post_data": "{\"types\":[\"Chart\"]}",
+      "body_preview": "{\"Chart\":[]}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvrservices/eppublic/getSessionContext",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"sessionContext\":{\"authenticationType\":\"REMEMBERME\",\"citiBestSearchResultInList\":false,\"crmUserId\":\"3-0XEVIHU\",\"deviceId\":\"jlee470806.1780966180648.PROD.CV.10.35.185.108\",\"enableShareItTool\":false,\"platformId\":\"79\",\"sessionId\":\"LCA34JXej97OLyiFmiU4sAm4wSfG\",\"vendorUserId\":null,\"vendorUserType\":null}}"
+    },
+    {
+      "url": "https://www.citivelocity.com/marketbuzz-entitlement-service/entitlement/getAllEntitlementById",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"RESEARCH\":true,\"CITIVELOCITY_MARKETS_USERS\":false,\"Tagging_Pilot_Users\":false,\"EMPLOYEE\":false,\"Content_Feed_Admin\":false,\"AllBANKING_MANAGEMENT_SEGMENT\":false,\"COMMENTARY\":false,\"BCMA\":false,\"Related_Doc_Glean_Testing\":false,\"CC_MyCV_Edit\":false,\"CV_BUSINESS_RSCH_TEAM\":false,\"TTS\":false,\"MIMIC\":false,\"COMMENTARY_AUDIO_USERS\":true,\"CV_CSL_DEV_ADMIN\":false,\"ONESEARCH_ADMIN_GLEAN\":false,\"CV_LABELING_USER\":false,\"COMMON_COMPONENT_DEVELOPER_ADMIN_GRP\":false,\"CV_CC_DEV_ADMIN\":false,\"GLEAN_KEYWORD_EXPORT\":false,\"COMMON_COMPONENT_ADMIN_GRP\":false,\"contentmodelui-group_2\":false}"
+    },
+    {
+      "url": "https://www.citivelocity.com/notification/alert/pull",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"delay\":1800000,\"success\":true,\"ts\":1781067627192,\"type\":null,\"data\":{\"PRICING\":0,\"POLLS\":47,\"MEDIA\":0,\"COLDSPARK\":0,\"EVENT\":17,\"CHART\":0}}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvr/menuws/eppublic/V1/menuItems.json",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"menuItems\":[{\"itemId\":\"CITI_PICKS\",\"route\":\"citi_picks\",\"name\":\"Citi Picks\",\"children\":[{\"itemId\":\"RECENT_HIGHLIGHTS\",\"route\":\"recent_highlights\",\"name\":\"Recent Highlights\",\"sequenceNumber\":0,\"parent\":\"CITI_PICKS\",\"platformId\":\"79\",\"targetView\":\"IFRAME\",\"subChannel\":\"CVR_RECENT_HIGHLIGHTS\",\"url\":\"/cvr/retail/eppublic/pb/index.html\",\"default\":true},{\"itemId\":\"CITI_EXPRESS\",\"route\":\"citi_express\",\"name\":\"Citi Express\",\"component\":\"CitiExpress\",\"sequenceNumber\":15,\"parent\":\"CITI_PICKS\",\"platformId\":\"79\",\"targetView\":\"COMPONENT\"},{\"itemId\":\"CONFERENCES_EVENTS\",\"route\":\"conferences_events\",\"name\":\"Conferences & Events\",\"sequenceNumber\":40,\"parent\":\"CITI_PICKS\",\"platformId\":\"79\",\"targetView\":\"IFRAME\",\"subChannel\":\"CVR_CONFERENCES_EVENTS\",\"url\":\"/eventsconfcalendar/eppublic/calendar/replay\"}],\"sequenceNumber\":0,\"platformId\":\"79\",\"targetView\":\"IFRAME\",\"url\":\"/cvr/retail/eppublic/pb/index.html\"},{\"itemId\":\"RESEARCH\",\"route\":\"research\",\"name\":\"Research\",\"children\":[{\"itemId\":\"ALL_RESEARCH\",\"route\":\"all_research\",\"name\":\"All Research\",\"component\":\"PublicationLibrary\",\"sequenceNumber\":0,\"parent\":\"RESEARCH\",\"platformId\":\"79\",\"targetView\":\"COMPONENT\",\"subChannel\":\"CVR_ALL_RESEARCH\"},{\"itemId\":\"COMMODITIES\",\"route\":\"commodities\",\"name\":\"Commodities\",\"component\":\"PublicationLibrary\",\"search\":\"assetClass=COMMODITIES\",\"sequenceNumber\":1,\"parent\":\"RESEARCH\",\"platformId\":\"79\",\"targetView\":\"COMPONENT\",\"subChannel\":\"CVR_COMMODITIES\"},{\"itemId\":\"DECENTRALIZED_FINANCE\",\"route\":\"decentralized_finan"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvr/cartws/eppublic/V1/cart.json",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvrservices/eppublic/frontEndLogger",
+      "method": "POST",
+      "status": 200,
+      "post_data": "{\"appId\":\"163778\",\"siteId\":\"70\",\"platformId\":\"79\",\"pageId\":\"CVR_22\",\"pageContextId\":\"RECENT_HIGHLIGHTS\",\"eventType\":\"PAGE_LOAD\",\"eventInstanceId\":\"43369f76-ccb9-48c2-9616-8acddeecfded\",\"epochMillisec\":\"1781067626449\",\"authenticationType\":\"REMEMBERME\",\"crmUserId\":\"3-0XEVIHU\",\"deviceId\":\"jlee470806.1780966180648.PROD.CV.10.35.185.108\",\"sessionId\":\"LCA34JXej97OLyiFmiU4sAm4wSfG\"}",
+      "body_preview": ""
+    },
+    {
+      "url": "https://www.citivelocity.com/cvrservices/eppublic/citisbest/proxy/find?id=&multipleIds=true",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"status\":\"error\",\"message\":\"Id is not provided\",\"userContext\":{\"platformId\":\"79\",\"portalUserType\":\"C\",\"isBanker\":null,\"userId\":\"jlee470806\",\"partnerLoginId\":null,\"requestId\":\"4-03-CV-EEPCVPJMEBZJJ7BSPOER4JFAVFMPJJURG5610581303@4-338540#56\",\"partnerLoginCountry\":null,\"ssoUuId\":null,\"partnerLoginCustomerSegment\":null,\"enableShareItTool\":false,\"citiBestSearchResultInList\":false}}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvrservices/eppublic/getSessionContext?platformId=79",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"sessionContext\":{\"authenticationType\":\"REMEMBERME\",\"citiBestSearchResultInList\":false,\"crmUserId\":\"3-0XEVIHU\",\"deviceId\":\"jlee470806.1780966180648.PROD.CV.10.35.185.108\",\"enableShareItTool\":false,\"platformId\":\"79\",\"sessionId\":\"LCA34JXej97OLyiFmiU4sAm4wSfG\",\"vendorUserId\":null,\"vendorUserType\":null}}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvrservices/eppublic/futureEvents.json",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"event\":[{\"ShowWealthInd\":\"N\",\"event_start_dt\":\"2021-05-18T00:00:00\",\"eventId\":1000211012,\"status\":\"Active\",\"eventTitle\":\"Citi 5th Annual Virtual Paints Access Day\",\"eventDescription\":null,\"endDate\":\"05/18/2021\",\"startDate\":\"05/18/2021\",\"eventCountry\":\"United States\",\"eventCity\":\"New York\",\"registrationUrl\":null,\"watchLiveUrl\":null,\"bannerImageUrl\":null},{\"ShowWealthInd\":\"N\",\"event_start_dt\":\"2021-06-03T00:00:00\",\"eventId\":1000212786,\"status\":\"Active\",\"eventTitle\":\"Citi's Lithium and Battery Day\",\"eventDescription\":null,\"endDate\":\"06/03/2021\",\"startDate\":\"06/03/2021\",\"eventCountry\":\"United States\",\"eventCity\":\"New York\",\"registrationUrl\":null,\"watchLiveUrl\":null,\"bannerImageUrl\":null},{\"ShowWealthInd\":\"N\",\"event_start_dt\":\"2021-06-21T00:00:00\",\"eventId\":1000199346,\"status\":\"Active\",\"eventTitle\":\"Big Five: European Telecoms Trip 2021\",\"eventDescription\":null,\"endDate\":\"06/25/2021\",\"startDate\":\"06/21/2021\",\"eventCountry\":null,\"eventCity\":null,\"registrationUrl\":null,\"watchLiveUrl\":null,\"bannerImageUrl\":null},{\"ShowWealthInd\":\"N\",\"event_start_dt\":\"2021-06-22T00:00:00\",\"eventId\":1000199349,\"status\":\"Active\",\"eventTitle\":\"Citi Virtual Cannes 2021 - June 2021\",\"eventDescription\":null,\"endDate\":\"06/22/2021\",\"startDate\":\"06/22/2021\",\"eventCountry\":null,\"eventCity\":null,\"registrationUrl\":null,\"watchLiveUrl\":null,\"bannerImageUrl\":null},{\"ShowWealthInd\":\"N\",\"event_start_dt\":\"2021-08-10T00:00:00\",\"eventId\":1000216522,\"status\":\"Active\",\"eventTitle\":\"India Financials Tour 2021 (Virtual)\",\""
+    },
+    {
+      "url": "https://www.citivelocity.com/cvr/curationws/eppublic/V1/currentweekrecenthighlights.json?platformId=79",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"documents\":[{\"docId\":\"30436340\",\"weekId\":\"20260608\",\"title\":\"Global FX Strategy: Our Risk Sentiment Goes From Yellow to Red\",\"summary\":\"In the last week our risk sentiment has moved from green to yellow and now to red. While we still see a positive trend for risk assets, multiple catalysts at play would likely lead to risk-off with higher yields; historically, that's a USD-positive backdrop. We consider strategies herein.\",\"thumbnailURL\":\"https://ir.citi.com/MQCih8QVR7cf9CB6uKwSHlATI22JW1GcHrIzlBQ-p5gD1h2m0bBzsCAa7tw4cXvsFH9L9mlbblZp_xLWBqfkrw%3D%3D\",\"docLink\":\"https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MzQw\",\"sequenceNumber\":-1671,\"status\":\"PUBLISHED\",\"updateBy\":\"hk06220\",\"updateTime\":\"20260609221715\",\"tags\":\"Global FX Strategy,Macro Strategy,Central Banks,Monetary Policy,Geopolitics\",\"source\":\"RESEARCH\",\"docPublishTime\":\"20260608190233\",\"createBy\":\"jf44355\",\"createTime\":\"20260609150853\",\"publishBy\":\"jf44355\",\"publishTime\":\"20260609164727\"},{\"docId\":\"30436222\",\"weekId\":\"20260608\",\"title\":\"Will the Tech-Led Correction in Japanese Equities Drag On?\",\"summary\":\"Japanese high-tech stocks had been driving the market since April but have now seen a significant correction, resulting in sharp declines in both the Nikkei and TOPIX. But we see four reasons to think this tech-led correction will likely be short-lived, with significant upside still ahead.\",\"thumbnailURL\":\"https://ir.citi.com/TsIcP0ywjRSyYGfJVD_uXiu-sw4--U-QOfIIX2za5MtSiUI8Nt9FNU6iK"
+    },
+    {
+      "url": "https://www.citivelocity.com/icgdigitalmetrics/qualtrics/parameters/client",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\n  \"l4_gfcid_name\" : \"IGIS ASSET MANAGEMENT CO LTD\",\n  \"l4_gfcid\" : \"1028992412\",\n  \"user_type\" : \"client\",\n  \"lob_user\" : null,\n  \"country_name\" : \"KOREA SOUTH\",\n  \"region\" : \"APAC\",\n  \"user\" : \"jlee470806\"\n}"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvr/curationws/eppublic/V1/currentweekrecenthighlights.json?platformId=79",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"documents\":[{\"docId\":\"30436340\",\"weekId\":\"20260608\",\"title\":\"Global FX Strategy: Our Risk Sentiment Goes From Yellow to Red\",\"summary\":\"In the last week our risk sentiment has moved from green to yellow and now to red. While we still see a positive trend for risk assets, multiple catalysts at play would likely lead to risk-off with higher yields; historically, that's a USD-positive backdrop. We consider strategies herein.\",\"thumbnailURL\":\"https://ir.citi.com/MQCih8QVR7cf9CB6uKwSHlATI22JW1GcHrIzlBQ-p5gD1h2m0bBzsCAa7tw4cXvsFH9L9mlbblZp_xLWBqfkrw%3D%3D\",\"docLink\":\"https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MzQw\",\"sequenceNumber\":-1671,\"status\":\"PUBLISHED\",\"updateBy\":\"hk06220\",\"updateTime\":\"20260609221715\",\"tags\":\"Global FX Strategy,Macro Strategy,Central Banks,Monetary Policy,Geopolitics\",\"source\":\"RESEARCH\",\"docPublishTime\":\"20260608190233\",\"createBy\":\"jf44355\",\"createTime\":\"20260609150853\",\"publishBy\":\"jf44355\",\"publishTime\":\"20260609164727\"},{\"docId\":\"30436222\",\"weekId\":\"20260608\",\"title\":\"Will the Tech-Led Correction in Japanese Equities Drag On?\",\"summary\":\"Japanese high-tech stocks had been driving the market since April but have now seen a significant correction, resulting in sharp declines in both the Nikkei and TOPIX. But we see four reasons to think this tech-led correction will likely be short-lived, with significant upside still ahead.\",\"thumbnailURL\":\"https://ir.citi.com/TsIcP0ywjRSyYGfJVD_uXiu-sw4--U-QOfIIX2za5MtSiUI8Nt9FNU6iK"
+    },
+    {
+      "url": "https://www.citivelocity.com/cvr/curationws/eppublic/V1/currentweekrecenthighlights.json?platformId=79",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"documents\":[{\"docId\":\"30436340\",\"weekId\":\"20260608\",\"title\":\"Global FX Strategy: Our Risk Sentiment Goes From Yellow to Red\",\"summary\":\"In the last week our risk sentiment has moved from green to yellow and now to red. While we still see a positive trend for risk assets, multiple catalysts at play would likely lead to risk-off with higher yields; historically, that's a USD-positive backdrop. We consider strategies herein.\",\"thumbnailURL\":\"https://ir.citi.com/MQCih8QVR7cf9CB6uKwSHlATI22JW1GcHrIzlBQ-p5gD1h2m0bBzsCAa7tw4cXvsFH9L9mlbblZp_xLWBqfkrw%3D%3D\",\"docLink\":\"https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MzQw\",\"sequenceNumber\":-1671,\"status\":\"PUBLISHED\",\"updateBy\":\"hk06220\",\"updateTime\":\"20260609221715\",\"tags\":\"Global FX Strategy,Macro Strategy,Central Banks,Monetary Policy,Geopolitics\",\"source\":\"RESEARCH\",\"docPublishTime\":\"20260608190233\",\"createBy\":\"jf44355\",\"createTime\":\"20260609150853\",\"publishBy\":\"jf44355\",\"publishTime\":\"20260609164727\"},{\"docId\":\"30436222\",\"weekId\":\"20260608\",\"title\":\"Will the Tech-Led Correction in Japanese Equities Drag On?\",\"summary\":\"Japanese high-tech stocks had been driving the market since April but have now seen a significant correction, resulting in sharp declines in both the Nikkei and TOPIX. But we see four reasons to think this tech-led correction will likely be short-lived, with significant upside still ahead.\",\"thumbnailURL\":\"https://ir.citi.com/TsIcP0ywjRSyYGfJVD_uXiu-sw4--U-QOfIIX2za5MtSiUI8Nt9FNU6iK"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_e4DI2iO7kJgKDGe&Q_CLIENTVERSION=2.50.0&Q_CLIENTTYPE=web",
+      "method": "POST",
+      "status": 200,
+      "post_data": "Q_LOC=https%3A%2F%2Fwww.citivelocity.com%2Fcv2%2Fgo%2FRSCH_LANDING_PAGE&xmdRetryCount=0&hasAnalyticsConsent=null&Timestamp=2026-06-10T05%3A00%3A29.540Z",
+      "body_preview": "{\"Intercepts\":[{\"InterceptID\":\"SI_a4QITQHCzeIdat0\",\"InterceptRevision\":null,\"Decision\":{\"ActionSetID\":null,\"Creative\":null,\"Target\":{\"Type\":\"\",\"URL\":\"\",\"OriginalURL\":null,\"OriginalURLOrigin\":null,\"DisplayType\":null},\"PopUnderTarget\":null},\"DistributionID\":null,\"DirectoryID\":null,\"ContactID\":null,\"SurveyID\":null},{\"InterceptID\":\"SI_9YagDXeZq8lRBlQ\",\"InterceptRevision\":null,\"Decision\":{\"ActionSetID\":null,\"Creative\":null,\"Target\":{\"Type\":\"\",\"URL\":\"\",\"OriginalURL\":null,\"OriginalURLOrigin\":null,\"DisplayType\":null},\"PopUnderTarget\":null},\"DistributionID\":null,\"DirectoryID\":null,\"ContactID\":null,\"SurveyID\":null}],\"ClientSideIntercepts\":[{\"InterceptID\":\"SI_8dIoxD3iTNMbU10\",\"Name\":\"Feedback Link - PROD\",\"Active\":true,\"RandomizedActionSets\":false,\"InterceptRevision\":\"2\",\"PreventRepeatedDisplay\":\"0\",\"HideOnLocalStorageDisabled\":true,\"HideOnCookiesDisabled\":true,\"LogicTree\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Operator\":\"AND\",\"Left\":{\"Comparator\":\"NEQ\",\"Left\":{\"LogicType\":\"Cookie\",\"Expression\":\"qualtricsProfile\",\"Type\":\"LogicNode\"},\"Right\":{\"Value\":\"Securi"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_8dIoxD3iTNMbU10&Version=2&Q_ORIGIN=https://www.citivelocity.com&Q_CLIENTVERSION=2.50.0&Q_CLIENTTYPE=web&Q_BrandTier=&Q_ARCACHEVERSION=21&Q_BRANDDC=iad1",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"InterceptDefinition\":{\"BrandID\":\"icgciti\",\"InterceptID\":\"SI_8dIoxD3iTNMbU10\",\"InterceptName\":\"Feedback Link - PROD\",\"Revision\":\"2\",\"DeletedDate\":null,\"ActionSets\":{\"AS_82168263\":{\"ID\":\"AS_82168263\",\"Creative\":\"CR_41RmDZFh9eAZxr0\",\"WeightedSampleRate\":\"\",\"Target\":{\"PrimaryElement\":\"SV_7WMD7F7TuNZo2ii\",\"Type\":\"Survey\"},\"ActionOptions\":{\"targetNewWindow\":true,\"targetEmbedded\":false,\"targetFullScreen\":false,\"resizeForEmbeddedTargets\":true,\"targetWidth\":1000,\"targetHeight\":800,\"displayElement\":\"\",\"selectedDevices\":[],\"actionSetSampleRate\":100,\"actionSetContinueExecution\":true},\"CreativeType\":\"FeedbackButton\",\"EmbeddedData\":[{\"name\":\"Site History\",\"type\":\"History\",\"value\":\"\"},{\"name\":\"Survey Page\",\"type\":\"CurrentPage\",\"value\":\"\"},{\"name\":\"Glassbox Session ID\",\"type\":\"JavaScriptVal\",\"value\":\"_detector.sessionId\"},{\"name\":\"Glassbox Session Replay Link\",\"type\":\"JavaScriptVal\",\"value\":\"_detector.getSessionReplayLink('console.customerexperience.citigroup.net')\"},{\"name\":\"Visitor ID\",\"type\":\"JavaScriptVal\",\"value\":\"_detector.visitorId\"},{\"name\":\"qualtricsClient\",\"type\":\"Cookie\",\"value\":\"qualtricsClient\"},{\"name\":\"qlgp_name\",\"type\":\"Cookie\",\"value\":\"qlgp_name\"},{\"name\":\"qlaccount_tier\",\"type\":\"Cookie\",\"value\":\"qlaccount_tier\"},{\"name\":\"qll4_gfcid_name\",\"type\":\"Cookie\",\"value\":\"qll4_gfcid_name\"},{\"name\":\"qlaccount_type\",\"type\":\"Cookie\",\"value\":\"qlaccount_type\"},{\"name\":\"qlcountry_name\",\"type\":\"Cookie\",\"value\":\"qlcountry_name\"},{\"name\":\"qluser_type\",\"type\":\"Cookie\",\"value\":\"qluser_type\"},"
+    },
+    {
+      "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_41RmDZFh9eAZxr0&Version=1&Q_InterceptID=SI_8dIoxD3iTNMbU10&Q_ORIGIN=https://www.citivelocity.com&Q_CLIENTVERSION=2.50.0&Q_CLIENTTYPE=web&Q_BrandTier=&Q_ARCACHEVERSION=21&Q_BRANDDC=iad1",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"CreativeDefinition\":{\"CreativeID\":\"CR_41RmDZFh9eAZxr0\",\"BrandID\":\"icgciti\",\"Revision\":\"1\",\"Title\":\"Creative - Feedback Link - PROD\",\"ZoneID\":\"ZN_e4DI2iO7kJgKDGe\",\"Options\":{\"Desktop\":{\"LookAndFeel\":{\"ButtonPosition\":\"bottom-right\",\"ButtonText\":\"Feedback\",\"ButtonIcon\":\"speaker\",\"TextColor\":\"#FFFFFF\",\"ButtonColor\":\"#255be3\",\"BorderRadius\":\"moderately-rounded\",\"UseCustomButtonPosition\":true,\"ButtonPositionBottomAdjustment\":50,\"ButtonPositionLeftAdjustment\":80,\"CustomButton\":{\"UseCustomButtonPosition\":false,\"CustomButtonImageName\":\"\",\"CustomButtonImageId\":\"\",\"CustomButtonAltText\":\"\",\"ResizeImage\":true,\"ButtonPosition\":\"left\",\"ButtonPositionBottomAdjustment\":50,\"ButtonPositionLeftAdjustment\":10}},\"HowItDisplays\":{\"DisplayType\":\"overlay\",\"SurveySize\":50,\"IFrameTitle\":\"Survey window\",\"OpacityLevel\":0.25,\"ShowCloseButton\":false}},\"Mobile\":{\"LookAndFeel\":{\"DoNotShow\":true,\"ButtonText\":\"Give Feedback\",\"ButtonPosition\":\"left\",\"ButtonIcon\":\"none\",\"TextColor\":\"#FFFFFF\",\"ButtonColor\":\"#136EF6\",\"BorderRadius\":\"none\",\"UseCustomButtonPosition\":false,\"ButtonPositionBottomAdjustment\":50,\"ButtonPositionLeftAdjustment\":0,\"CustomButton\":{\"UseCustomButtonPosition\":false,\"CustomButtonImageName\":\"\",\"CustomButtonImageId\":\"\",\"CustomButtonAltText\":\"\",\"ResizeImage\":true,\"ButtonPosition\":\"left\",\"ButtonPositionBottomAdjustment\":50,\"ButtonPositionLeftAdjustment\":10}},\"HowItDisplays\":{\"DisplayType\":\"pull-up\",\"IFrameTitle\":\"Survey window\"}},\"TranslationSettings\":{\"DetectionMethod\":\"browser-lang\",\"GlobalJsVa"
+    },
+    {
+      "url": "https://www.citivelocity.com/cpsservices/getMycvTabInfo.mvc?t=1781067635807",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"MyCVTabsInfo\":[]}"
+    },
+    {
+      "url": "https://www.citivelocity.com/portal/service/generateDeviceCookie",
+      "method": "GET",
+      "status": 200,
+      "post_data": null,
+      "body_preview": "{\"status\":\"Y\"}"
+    }
+  ]
+}
