@@ -110,6 +110,7 @@ def load_all_data() -> dict:
         "bloomberg": load_json(DATA_DIR / "bloomberg" / "latest.json") or {},
         "fred":      load_json(DATA_DIR / "fred" / "latest.json") or {},
         "calendar":  load_json(DATA_DIR / "calendar" / "latest.json") or {},
+        "research":  load_json(DATA_DIR / "research" / "latest.json") or {},
     }
 
 
@@ -439,6 +440,7 @@ def main(use_sample: bool = False) -> None:
             cb_data[k] = {**cb_data.get(k, {}), "rate": v["rate"], "source": "fred"}
 
     schedule_events = load_schedule_all_events()
+    research_items = (real.get("research") or {}).get("items", [])
 
     ctx = {
         "build_time": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
@@ -448,6 +450,8 @@ def main(use_sample: bool = False) -> None:
         "markets": build_markets(snapshot_data),
         "event_categories": build_event_categories(indicators_data, schedule_events),
         "central_banks": build_central_banks(cb_data, today, events),
+        "research_items": research_items,
+        "research_fetched_at": (real.get("research") or {}).get("fetched_at"),
     }
 
     env = Environment(

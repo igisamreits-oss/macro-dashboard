@@ -20,3 +20,7 @@ Thumbs.db
 
 # Build artifacts (regenerated each run)
 # docs/  -- NOT ignored; this is the Pages root and needs to be committed
+
+# Research scraper local state (Chrome profile with login cookies — never commit)
+chrome-profile/
+research-screenshots/

@@ -43,6 +43,74 @@ header h1 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.02e
 header .meta { color: var(--text-dim); font-size: 13px; text-align: right; }
 header .meta strong { color: var(--accent); }
 
+/* Tabs */
+.tabs {
+  display: flex; gap: 4px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 24px;
+}
+.tab-btn {
+  background: none; border: none; cursor: pointer;
+  color: var(--text-dim); font-size: 14px; font-weight: 600;
+  padding: 12px 20px; border-bottom: 2px solid transparent;
+  transition: color 0.1s, border-color 0.1s;
+  font-family: inherit;
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* Research feed */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 16px;
+}
+.research-card {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; padding: 16px;
+  display: flex; flex-direction: column; gap: 8px;
+  transition: border-color 0.15s, transform 0.15s;
+}
+.research-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.research-card .rs-meta {
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 11px; color: var(--text-dim);
+}
+.research-card .rs-platform {
+  display: inline-block; padding: 2px 8px;
+  background: rgba(56,189,248,0.15); color: var(--accent);
+  border-radius: 3px; font-weight: 600;
+  letter-spacing: 0.04em; text-transform: uppercase;
+}
+.research-card .rs-title {
+  font-size: 14px; font-weight: 600; line-height: 1.4;
+  color: var(--text); margin: 0;
+}
+.research-card .rs-title a { color: inherit; text-decoration: none; }
+.research-card .rs-title a:hover { color: var(--accent); }
+.research-card .rs-summary {
+  font-size: 12px; color: var(--text-dim); line-height: 1.5;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.research-card .rs-tags {
+  display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px;
+}
+.research-card .rs-tag {
+  font-size: 10px; padding: 2px 6px;
+  background: rgba(148,163,184,0.12); color: var(--text-dim);
+  border-radius: 3px;
+}
+.research-empty {
+  padding: 60px 20px; text-align: center;
+  color: var(--text-dim); font-size: 14px;
+}
+
 section { margin-bottom: 32px; }
 section h2 {
   font-size: 16px; font-weight: 600; margin: 0 0 12px 0;
@@ -253,6 +321,15 @@ footer a { color: var(--accent); text-decoration: none; }
   </div>
 </header>
 
+<div class="tabs" role="tablist">
+  <button class="tab-btn active" data-tab="macro" role="tab">📊 Macro</button>
+  <button class="tab-btn" data-tab="research" role="tab">
+    📑 Research
+    {% if research_items %}<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">({{ research_items|length }})</span>{% endif %}
+  </button>
+</div>
+
+<div class="tab-content active" id="tab-macro">
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
   <h2>📅 Economic Calendar <small>{{ calendar.range_label }}</small></h2>
@@ -457,8 +534,53 @@ function closeEvModal() {
 {% endif %}
 {% endfor %}
 
+</div><!-- /tab-macro -->
+
+<div class="tab-content" id="tab-research">
+  <section>
+    <h2>📑 Research Feed
+      {% if research_fetched_at %}<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched {{ research_fetched_at[:16].replace('T',' ') }} UTC</small>{% endif %}
+    </h2>
+    {% if research_items %}
+    <div class="research-grid">
+      {% for r in research_items %}
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">{{ r.platform }}</span>
+          <span>{{ r.publish_time or '' }}</span>
+        </div>
+        <h3 class="rs-title">
+          {% if r.link %}<a href="{{ r.link }}" target="_blank" rel="noopener">{{ r.title }}</a>{% else %}{{ r.title }}{% endif %}
+        </h3>
+        {% if r.summary %}<div class="rs-summary">{{ r.summary }}</div>{% endif %}
+        {% if r.tags %}
+        <div class="rs-tags">
+          {% for t in r.tags[:6] %}<span class="rs-tag">{{ t }}</span>{% endfor %}
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="research-empty">
+      Research 데이터 없음. 매일 07:30/19:30 KST에 자동 갱신됩니다.
+    </div>
+    {% endif %}
+  </section>
+</div><!-- /tab-research -->
+
+<script>
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const target = btn.dataset.tab;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === target));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.toggle('active', c.id === 'tab-' + target));
+  });
+});
+</script>
+
 <footer>
-  Data: Bloomberg &middot; FRED &middot; Central Bank official calendars<br>
+  Data: Bloomberg &middot; FRED &middot; Central Bank official calendars &middot; Citi Velocity<br>
   Updated {{ build_time }} KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 

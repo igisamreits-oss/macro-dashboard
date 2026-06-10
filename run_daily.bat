@@ -56,10 +56,14 @@ if "%FRED_API_KEY%"=="" (
     python scripts\fetch_fred.py >> "%LOGFILE%" 2>&1
 )
 
-call :log "[3/4] Calendar refresh"
+call :log "[3/5] Calendar refresh"
 python scripts\fetch_calendar.py >> "%LOGFILE%" 2>&1
 
-call :log "[4/4] Build dashboard"
+call :log "[4/5] Citi research feed"
+python scripts\research\scrape_citi.py >> "%LOGFILE%" 2>&1
+if errorlevel 1 call :log "  WARN: citi scrape had errors, continuing"
+
+call :log "[5/5] Build dashboard"
 python scripts\build_dashboard.py >> "%LOGFILE%" 2>&1
 
 REM 3) Commit + push

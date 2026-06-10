@@ -43,6 +43,74 @@ header h1 { margin: 0; font-size: 24px; font-weight: 700; letter-spacing: -0.02e
 header .meta { color: var(--text-dim); font-size: 13px; text-align: right; }
 header .meta strong { color: var(--accent); }
 
+/* Tabs */
+.tabs {
+  display: flex; gap: 4px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 24px;
+}
+.tab-btn {
+  background: none; border: none; cursor: pointer;
+  color: var(--text-dim); font-size: 14px; font-weight: 600;
+  padding: 12px 20px; border-bottom: 2px solid transparent;
+  transition: color 0.1s, border-color 0.1s;
+  font-family: inherit;
+}
+.tab-btn:hover { color: var(--text); }
+.tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* Research feed */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 16px;
+}
+.research-card {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 8px; padding: 16px;
+  display: flex; flex-direction: column; gap: 8px;
+  transition: border-color 0.15s, transform 0.15s;
+}
+.research-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+.research-card .rs-meta {
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 11px; color: var(--text-dim);
+}
+.research-card .rs-platform {
+  display: inline-block; padding: 2px 8px;
+  background: rgba(56,189,248,0.15); color: var(--accent);
+  border-radius: 3px; font-weight: 600;
+  letter-spacing: 0.04em; text-transform: uppercase;
+}
+.research-card .rs-title {
+  font-size: 14px; font-weight: 600; line-height: 1.4;
+  color: var(--text); margin: 0;
+}
+.research-card .rs-title a { color: inherit; text-decoration: none; }
+.research-card .rs-title a:hover { color: var(--accent); }
+.research-card .rs-summary {
+  font-size: 12px; color: var(--text-dim); line-height: 1.5;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.research-card .rs-tags {
+  display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px;
+}
+.research-card .rs-tag {
+  font-size: 10px; padding: 2px 6px;
+  background: rgba(148,163,184,0.12); color: var(--text-dim);
+  border-radius: 3px;
+}
+.research-empty {
+  padding: 60px 20px; text-align: center;
+  color: var(--text-dim); font-size: 14px;
+}
+
 section { margin-bottom: 32px; }
 section h2 {
   font-size: 16px; font-weight: 600; margin: 0 0 12px 0;
@@ -248,11 +316,19 @@ footer a { color: var(--accent); text-decoration: none; }
     <h1>Global REIT Macro Dashboard</h1>
   </div>
   <div class="meta">
-    Last update: <strong>2026-06-10 14:25</strong> KST<br>
+    Last update: <strong>2026-06-10 14:27</strong> KST<br>
     Calendar: 2026-06-03 ~ 2026-07-08
   </div>
 </header>
 
+<div class="tabs" role="tablist">
+  <button class="tab-btn active" data-tab="macro" role="tab">📊 Macro</button>
+  <button class="tab-btn" data-tab="research" role="tab">
+    📑 Research
+<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(40)</span>  </button>
+</div>
+
+<div class="tab-content active" id="tab-macro">
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
   <h2>📅 Economic Calendar <small>2026-06-03 ~ 2026-07-08</small></h2>
@@ -3586,9 +3662,430 @@ function closeEvModal() {
   </div>
 </section>
 
+</div><!-- /tab-macro -->
+
+<div class="tab-content" id="tab-research">
+  <section>
+    <h2>📑 Research Feed
+<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-06-10 05:04 UTC</small>    </h2>
+    <div class="research-grid">
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-08 19:02</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MzQw" target="_blank" rel="noopener">Global FX Strategy: Our Risk Sentiment Goes From Yellow to Red</a>        </h3>
+<div class="rs-summary">In the last week our risk sentiment has moved from green to yellow and now to red. While we still see a positive trend for risk assets, multiple catalysts at play would likely lead to risk-off with higher yields; historically, that's a USD-positive backdrop. We consider strategies herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Global FX Strategy</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-08 09:36</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MjIy" target="_blank" rel="noopener">Will the Tech-Led Correction in Japanese Equities Drag On?</a>        </h3>
+<div class="rs-summary">Japanese high-tech stocks had been driving the market since April but have now seen a significant correction, resulting in sharp declines in both the Nikkei and TOPIX. But we see four reasons to think this tech-led correction will likely be short-lived, with significant upside still ahead.</div>        <div class="rs-tags">
+<span class="rs-tag">Japan Strategy</span><span class="rs-tag">Macro Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-08 10:42</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MjQ3" target="_blank" rel="noopener">Metal Matters: Why This May Not Be the Gold Dip to Buy</a>        </h3>
+<div class="rs-summary">Gold recently closed below its 200dMA for the first time since September 2023. We lower our 0-3-month point-price target to $4,000 an ounce from $4,300. While we maintain a bullish longer-term view of gold, we explain why this may not be the dip to buy.</div>        <div class="rs-tags">
+<span class="rs-tag">Metal Matters</span><span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Gold</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-09 00:34</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MzU3" target="_blank" rel="noopener">Metal Matters: Why We Remain Bullish Lithium</a>        </h3>
+<div class="rs-summary">Recent lithium price declines likely reflect increased GFEX stockpiles, improved supply responsiveness, and continued uncertainty around near-term end use demand. But we think the majority of the sell-off is behind us, with prices likely to consolidate in the near term.</div>        <div class="rs-tags">
+<span class="rs-tag">Metal Matters</span><span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Trade Idea</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-09 15:30</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MDMy" target="_blank" rel="noopener">Deep Dive: Unpacking Baidu's AI Cloud Potential</a>        </h3>
+<div class="rs-summary">Baidu's sustained commitment to AI has produced formidable, vertically integrated full-stack capabilities; we see a pivotal shift that we think is transforming it from a legacy search-dominated business to an AI-centric company. We look at potential avenues for monetization we see ahead.</div>        <div class="rs-tags">
+<span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Deep Dive</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Internet</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-09 00:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MjQ0" target="_blank" rel="noopener">Sizing the BoursoBank Opportunity for Societe Generale</a>        </h3>
+<div class="rs-summary">We expect BoursoBank to be a pillar of Societe Generale’s September investor day. After rapid customer growth in recent years, the next step is to enhance monetization. Looking ahead, we expect greater emphasis on customer service and products to keep growing the customer base.</div>        <div class="rs-tags">
+<span class="rs-tag">Deep Dive</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Diversified Banks</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-09 00:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1ODM5" target="_blank" rel="noopener">Are UK Life Insurers Becoming Global Acquisition Targets?</a>        </h3>
+<div class="rs-summary">Over the past year, four long-term capital allocators have either finalized or secured long-term partnerships with UK Life insurers. We address key questions about the increasing exposure of AAM in this market, the potential impact on the competitive landscape, and valuation implications.</div>        <div class="rs-tags">
+<span class="rs-tag">Insurance -- Life</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-07 23:25</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MDQw" target="_blank" rel="noopener">Key Takeaways From Our India Investor Conference 2026</a>        </h3>
+<div class="rs-summary">Our Annual Investor Conference in Mumbai gathered more than 100 companies for track sessions on topics including India's outlook and growth story, AI, geopolitics and more. We offer key takeaways from the conference and thoughts on sector impacts in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Corporate Events/Special Situations</span><span class="rs-tag">Computer Services & IT Consulting</span><span class="rs-tag">Tariffs</span><span class="rs-tag">Supply Chains</span><span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-09 11:11</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MDU0" target="_blank" rel="noopener">Mongolia Economics: Diversification Gains Face Energy Test</a>        </h3>
+<div class="rs-summary">Following meetings with officials and analysts in Ulaanbaatar, we remain constructive on Mongolia's near-term macro prospects, forecasting above-consensus 7% GDP growth for 2026. The next developmental priority is to ease strained energy infrastructure, as discussed herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Deep Dive</span><span class="rs-tag">Mongolia Economics</span><span class="rs-tag">Economic Growth</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Trade</span><span class="rs-tag">Fiscal Policy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-09 04:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MTk0" target="_blank" rel="noopener">Africa Weekly: Algeria, Angola and Currency Stability</a>        </h3>
+<div class="rs-summary">Central banks in both Algeria and Angola will probably be able to maintain stability for the dinar and kwanza this year and into 2027, helped in part by oil prices' rise. But the ability to keep both currencies stable over the longer term remains uncertain.</div>        <div class="rs-tags">
+<span class="rs-tag">Africa Economics & Strategy Weekly</span><span class="rs-tag">Fiscal Policy</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Central Banks</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 17:17</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MDA3" target="_blank" rel="noopener">U.S. Economics Weekly: Looking Beyond Payroll Acceleration</a>        </h3>
+<div class="rs-summary">Stronger-than-expected May job growth will keep markets and the Fed comfortable labor markets are stable and cautious about upside risks to inflation, but we expect upcoming data to reverse the perceived balance of risks. Our base case is for a 25-basis-point rate cut in September.</div>        <div class="rs-tags">
+<span class="rs-tag">Economic Analysis</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">U.S. Economics Weekly</span><span class="rs-tag">Labor Market</span><span class="rs-tag">Monetary Policy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-08 05:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1ODY1" target="_blank" rel="noopener">We're Initiating Coverage of Cerebras Systems at Buy</a>        </h3>
+<div class="rs-summary">We're initiating coverage of Cerebras at Buy. We believe Cerebras has first-mover advantage in the fast inference market and expect it to achieve 40% to 50% market share. Our target price of $340 offers 58% upside from the current stock price over the next 12 to 18 months.</div>        <div class="rs-tags">
+<span class="rs-tag">Semiconductors</span><span class="rs-tag">Initiation of Coverage</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 14:40</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1OTU0" target="_blank" rel="noopener">Our Takeaways From Microsoft Build 2026</a>        </h3>
+<div class="rs-summary">Microsoft Build 2026 offered an updated roadmap for Microsoft's AI stack roadmap and clarity about its strategic AI plan, including incremental independence efforts beyond OpenAI. Our discussions with developers and integration partners revealed a strong and supportive outlook.</div>        <div class="rs-tags">
+<span class="rs-tag">Systems Software</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-08 04:05</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MDY0" target="_blank" rel="noopener">U.S. Industrials: We See Encouraging Signs</a>        </h3>
+<div class="rs-summary">We expect AI-related investment proliferation to remain a durable tailwind in the second half and are encouraged by signs of bottoming/improving short-cycle industrial demand that could gain strength as the year progresses. We review our top picks for the near term and beyond.</div>        <div class="rs-tags">
+<span class="rs-tag">Industrial Conglomerates</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-08 00:21</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MDk2" target="_blank" rel="noopener">China Economics: A Push to Tighten Outbound Investment</a>        </h3>
+<div class="rs-summary">China has launched a series of actions tightening outbound investments, an effort we see as more about closing regulatory loopholes and strengthening domestic-policy effectiveness than about curbing capital outflows. We expect a limited macro impact, for reasons we explore in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Economic Analysis</span><span class="rs-tag">China Economics</span><span class="rs-tag">Fiscal Policy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 19:11</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2MDA1" target="_blank" rel="noopener">U.S. Rates Weekly: Rising Rates Distribution, But We Carry On</a>        </h3>
+<div class="rs-summary">The Treasury market is starting to price a distribution of outcomes for stronger growth and a firmer labor market. This could introduce a non-linear risk of higher yields if inflation also remains high, although we see little risk that upcoming CPI numbers will add fuel to this sell-off.</div>        <div class="rs-tags">
+<span class="rs-tag">Relative Value</span><span class="rs-tag">Flagship</span><span class="rs-tag">U.S. Rates Weekly</span><span class="rs-tag">Labor Market</span><span class="rs-tag">Inflation</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 16:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1OTQ5" target="_blank" rel="noopener">U.S. Equity Strategy: Earnings Strength Drives Target Revision</a>        </h3>
+<div class="rs-summary">We're lifting our base-case year-end target for the S&P 500 to 8100. This is predicated on a big step up in earnings expectations, where we now project $350 and $400 for 2026/2027 index level earnings. Our bull/bear cases imply increasing downside skew risk as the index works higher.</div>        <div class="rs-tags">
+<span class="rs-tag">U.S. Equity Strategy</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Market Forecasts</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 10:27</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1OTEw" target="_blank" rel="noopener">Reaccelerating Payrolls Now, Rising Unemployment Later?</a>        </h3>
+<div class="rs-summary">Markets and Fed officials will be more focused on the risk of re-tightening labor markets after 172,000 new jobs in May beat expectations with previous months revised significantly higher. But this  acceleration isn't evident in other data; we still expect softer labor-market data ahead.</div>        <div class="rs-tags">
+<span class="rs-tag">U.S. Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">Labor Market</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 11:54</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1OTQz" target="_blank" rel="noopener">PULSE Monitor: A Double-Edged Sword</a>        </h3>
+<div class="rs-summary">We see strong payrolls as bad news/good news. The expectation for further Fed rate cuts is pushed out, with risk of a hike increasingly priced in, but a stable employment backdrop supports consumption relative to ongoing concerns about AI job disruption and higher oil/fuel prices.</div>        <div class="rs-tags">
+<span class="rs-tag">PULSE Monitor</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Labor Market</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 00:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NjU2" target="_blank" rel="noopener">Global Equity Strategy: Exuberance Building</a>        </h3>
+<div class="rs-summary">Global equities are near all-time highs, with signs of growing exuberance. Our Bear Market Checklist is at its frothiest level since the Global Financial Crisis but doesn't yet signal “overexuberance”, remaining below levels seen ahead of past bear markets. We stay constructive for now.</div>        <div class="rs-tags">
+<span class="rs-tag">Annual Outlook</span><span class="rs-tag">Global Equity Strategy</span><span class="rs-tag">Macro Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-04 23:39</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NzI3" target="_blank" rel="noopener">Global Macro Strategy: Warning Signs</a>        </h3>
+<div class="rs-summary">We’ve been bullish risk since early April, seeing material escalation in the Middle East as unlikely, and our choice to hide out in AI-adjacent equity longs has worked out well. But with warning signals flashing and much supply looming, we reassess our strategies, as detailed herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Macro Strategy</span><span class="rs-tag">Flagship</span><span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 05:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NzAy" target="_blank" rel="noopener">Retail Weekend Reading: Quarterly Sales Dollar Changes</a>        </h3>
+<div class="rs-summary">Earnings season saw some very large retailers put up some big comp numbers: WMT grew total sales by 7%, COST by 12%, TGT by 6%, TJX by 9% and ROST by 21%. That made us want to take a deeper look at where all this share was coming from, a quarter-by-quarter exercise we detail in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Retailing - Specialty</span><span class="rs-tag">Retailing - Softlines</span><span class="rs-tag">Retailing - Department Stores</span><span class="rs-tag">Retailing - Broadlines</span><span class="rs-tag">Supermarkets</span><span class="rs-tag">Apparel & Footwear</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-05 00:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NjE2" target="_blank" rel="noopener">European Diversified Chemicals: Supply Distortions to Protection?</a>        </h3>
+<div class="rs-summary">Momentum in upstream chemicals appears to be moderating, but we think the potential benefits of EU safeguards against Chinese imports are underappreciated. Our analysis suggests a potential EBITDA uplift of close to 10% across the group. Among other moves, we downgrade Wacker to Sell.</div>        <div class="rs-tags">
+<span class="rs-tag">Rating Change</span><span class="rs-tag">Diversified Chemicals</span><span class="rs-tag">Catalyst Watch</span><span class="rs-tag">Transfer of Coverage</span><span class="rs-tag">Commodity Chemicals</span><span class="rs-tag">Target Price Change</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-04 17:01</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NjY5" target="_blank" rel="noopener">European Rates Weekly: Right on the Curve</a>        </h3>
+<div class="rs-summary">The ECB is likely to stay on the curve and perhaps err ahead of it by talking up July; we explore scenarios in this note. We argue that it may be too early to speak about a change in the international valuation paradigm of Bunds, despite well-known structural headwinds.</div>        <div class="rs-tags">
+<span class="rs-tag">Trade Idea</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Flagship</span><span class="rs-tag">European Rates Weekly</span><span class="rs-tag">Central Banks</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 21:45</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NDUx" target="_blank" rel="noopener">Oil Monitor: Our Base Case for the Strait of Hormuz</a>        </h3>
+<div class="rs-summary">Brent oil has bounced up to $98 with hopes for an imminent U.S.-Iran deal fading. Our view skews toward negotiations dragging on, with a base case for a gradual return of Strait of Hormuz flows over the third quarter and low inventories being rebuilt, supporting higher prices for longer.</div>        <div class="rs-tags">
+<span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Oil Monitor</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-04 00:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MzM5" target="_blank" rel="noopener">We're Adding Glencore to Our European Focus List</a>        </h3>
+<div class="rs-summary">We're adding coal producer Glencore to our European Focus List. We're bullish on coking and thermal coal, but the factors behind that assessment are uncorrelated, and coal prices have the most asymmetric risk/reward of the major mined commodities from current spot prices.</div>        <div class="rs-tags">
+<span class="rs-tag">Focus List</span><span class="rs-tag">Infrastructure Investment</span><span class="rs-tag">Deep Dive</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Diversified Metals & Mining</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 16:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM0OTQ4" target="_blank" rel="noopener">We're Downgrading Ecopetrol to Neutral/High Risk</a>        </h3>
+<div class="rs-summary">We're downgrading Ecopetrol to Neutral/High Risk amid higher oil prices and worries about the prospects for change in Colombian oil & gas policies. On the policy question, the downside risk of the bear case is significant, though we note that risk-reward is still to the upside.</div>        <div class="rs-tags">
+<span class="rs-tag">Rating Change</span><span class="rs-tag">Integrated Oil & Gas</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 12:38</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM0ODkz" target="_blank" rel="noopener">India Electrical Equipment: The Energy Transition's Missing Link</a>        </h3>
+<div class="rs-summary">We're initiating coverage of four companies we think will benefit from India's transmission infrastructure buildout: POWERIND, GVTD, CGPI and ENRIN. In this Deep Dive, we explore why we see transmission as the missing link at the center of the energy transition.</div>        <div class="rs-tags">
+<span class="rs-tag">Deep Dive</span><span class="rs-tag">Initiation of Coverage</span><span class="rs-tag">Electrical Equipment</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 07:15</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MjQx" target="_blank" rel="noopener">Global Gas and Power Insights: Southeast Asia and Demand</a>        </h3>
+<div class="rs-summary">Since the start of the Middle East conflict, most Asian countries have seen lower LNG imports on a year-over-year basis. Southeast Asia is the exception; as we explore in this note, it's seen as the demand growth engine of LNG, both now and in the years ahead.</div>        <div class="rs-tags">
+<span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Global Gas and Power Insights</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-04 04:15</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MjY3" target="_blank" rel="noopener">China Internet: First-Quarter Wrap, Second-Half Outlook</a>        </h3>
+<div class="rs-summary">China’s internet sector has underperformed in 2026, with a year-to-date return of -13.9%. Looking ahead, we think companies with deep, layered AI capabilities and strong capital will prevail. We review our preferred picks in this note and discuss what we find compelling about those names.</div>        <div class="rs-tags">
+<span class="rs-tag">Internet</span><span class="rs-tag">Internet-Driven Business Models</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-04 04:04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NDcw" target="_blank" rel="noopener">U.S. Application Software: Back-Office Software Earnings Wrap</a>        </h3>
+<div class="rs-summary">Back Office Software showed more volatile reactions in the first quarter, with the most positive reactions largely from better-than-feared beat/maintain prints that could be viewed as conservative, while solid beats/raises were more mixed. We offer further analysis and a look ahead herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Application Software</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 17:48</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1NDEz" target="_blank" rel="noopener">Thematic Equity Strategy: Rebalancing Baskets</a>        </h3>
+<div class="rs-summary">We rebalance our fundamental trend baskets, keeping our focus on companies with fundamental momentum vis-à-vis our Positive vs. Negative ROE Trend and Beat-and-Raise+ vs. Benchmark relative performance trades. We continue to focus on visible fundamental improvement for alpha opportunities.</div>        <div class="rs-tags">
+<span class="rs-tag">Basket</span><span class="rs-tag">Theme Investing</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Thematic Equity Strategy</span><span class="rs-tag">Inflation</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 08:52</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MjQw" target="_blank" rel="noopener">Asia Pacific Radar Screen: June Update</a>        </h3>
+<div class="rs-summary">Radar in S&P BMI APxJ made small gains in May from a Momentum outperformance driven mostly by Tech's strong rally. But that rally also drove down Value, which underweighted the sector. The model now favors Korea, Taiwan and Hong Kong; sector-wise, it’s overweight on Financials and Tech.</div>        <div class="rs-tags">
+<span class="rs-tag">Macro Strategy</span><span class="rs-tag">Asia Pacific Radar Screen</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-02 16:58</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MTU0" target="_blank" rel="noopener">Macro-to-Micro: Nuclear Energy Remains in Favor</a>        </h3>
+<div class="rs-summary">We continue to see increasing appetite for and interest in nuclear energy, supporting our long-term bullish view on uranium demand. But utilities continue to wait for someone else to take on cost overrun risks for building new-generation reactors. We offer more takeaways in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Macro-to-Micro</span><span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Cross-Asset Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-02 23:52</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MjIx" target="_blank" rel="noopener">We're Adding Equinix to Our Focus List</a>        </h3>
+<div class="rs-summary">We add top pick Equinox to our Focus List. We see the company accelerating normalized recurring revenue growth toward the high end of 9–10% with room for upside from strong bookings, a growing backlog, and increased visibility into future revenue. Growing AI demand is a notable tailwind.</div>        <div class="rs-tags">
+<span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Focus List</span><span class="rs-tag">Telecommunications Infrastructure</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 06:09</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MjE4" target="_blank" rel="noopener">Lilly HQ Visit Takeaways: A Cut Above the Rest</a>        </h3>
+<div class="rs-summary">We came away from our visit to Buy-rated Lilly’s headquarters with reaffirmed conviction it has the best setup among large Biopharmas. It's defending its cardiometabolic leadership while expanding into new areas, and isn't resting on its laurels despite a sector-leading growth profile.</div>        <div class="rs-tags">
+<span class="rs-tag">Biotechnology</span><span class="rs-tag">Pharmaceuticals</span><span class="rs-tag">Clinical Trials</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-02 16:19</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MTgw" target="_blank" rel="noopener">Why We Think IBM Remains Underappreciated and Misunderstood</a>        </h3>
+<div class="rs-summary">Recent conversations with IBM have reinforced our positive investment stance. We see IBM astutely leveraging its factor infrastructure footprint to deepen its entrenchment in the enterprise IT stack; as explored herein, we think IBM remains underappreciated and misunderstood.</div>        <div class="rs-tags">
+<span class="rs-tag">Target Price Change</span><span class="rs-tag">Systems Software</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 05:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MjQ2" target="_blank" rel="noopener">A Look at Oilfield Services Names' EBITDA and Crude Prices</a>        </h3>
+<div class="rs-summary">Investors are curious how oilfield services' revenues and EBITDA could fare given a range of oil prices; we provide a framework to answer that question. Overall, we see big OFS names' revenues growing by 13% in a $75 WTI/$80 Brent environment and offer company-by-company analysis herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Estimate Change</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Oil & Gas Equipment and Services</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-02 02:35</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM0MzMx" target="_blank" rel="noopener">We See the Nikkei Breaking Above 70,000 by Year's End</a>        </h3>
+<div class="rs-summary">Japanese equities have performed solidly over the past month despite short-term corrections. While equities may peak for a while in the short term, we see the upside potential toward year's end as remaining significant, with no need to change our bullish fundamental view.</div>        <div class="rs-tags">
+<span class="rs-tag">Japan Equity Strategy Market Explorer</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Geopolitics</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-03 00:40</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM1MjUy" target="_blank" rel="noopener">Australia Economics: Impending Stagflation Risk</a>        </h3>
+<div class="rs-summary">Australia's first-quarter National Accounts show private-sector growth driven by datacenter investment, with overall GDP expansion of 2.5% masking underlying stagflationary risks. We expect a 25-basis-point hike in August, with risks skewed to more hikes and not fewer.</div>        <div class="rs-tags">
+<span class="rs-tag">Economic Growth</span><span class="rs-tag">Australia Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span>        </div>
+      </div>
+    </div>
+  </section>
+</div><!-- /tab-research -->
+
+<script>
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const target = btn.dataset.tab;
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === target));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.toggle('active', c.id === 'tab-' + target));
+  });
+});
+</script>
+
 <footer>
-  Data: Bloomberg &middot; FRED &middot; Central Bank official calendars<br>
-  Updated 2026-06-10 14:25 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
+  Data: Bloomberg &middot; FRED &middot; Central Bank official calendars &middot; Citi Velocity<br>
+  Updated 2026-06-10 14:27 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>
