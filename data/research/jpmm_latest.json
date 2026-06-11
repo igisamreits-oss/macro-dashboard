@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-10T23:23:03.308656+00:00",
+  "fetched_at": "2026-06-11T10:34:09.190991+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -29,41 +29,6 @@
         "Business & Information Services"
       ],
       "publish_time": "2026-05-29"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5317412-0",
-      "publication_id": "KAL-1-78FLQZVI",
-      "title": "Internet SMID & Video Games",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5317412-0",
-      "authors": [
-        {
-          "name": "Cory A Carpenter",
-          "team": "Internet - Mid & Small Cap",
-          "email": "cory.carpenter@jpmorgan.com"
-        },
-        {
-          "name": "Daniel Pfeiffer",
-          "team": "Internet - Mid & Small Cap",
-          "email": "daniel.pfeiffer@jpmchase.com"
-        },
-        {
-          "name": "Andrew Watts",
-          "team": "Internet - Mid & Small Cap",
-          "email": "andrew.watts@jpmorgan.com"
-        },
-        {
-          "name": "Doug Anmuth",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "douglas.anmuth@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
-      ],
-      "publish_time": "2026-05-28"
     },
     {
       "platform": "JPM",
@@ -313,12 +278,12 @@
         }
       ],
       "tags": [
-        "Managed Care and Facilities",
-        "Pharmaceuticals — Major & Specialty",
-        "SMid Biotechnology",
-        "Medical Supplies & Devices",
         "Life Science Tools & Diagnostics",
-        "Biotechnology - Large Cap"
+        "Biotechnology - Large Cap",
+        "Pharmaceuticals — Major & Specialty",
+        "Managed Care and Facilities",
+        "SMid Biotechnology",
+        "Medical Supplies & Devices"
       ],
       "publish_time": "2026-06-04"
     },
@@ -388,10 +353,10 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-02"
     },
