@@ -1,34 +1,29 @@
 {
-  "fetched_at": "2026-06-12T10:34:05.958626+00:00",
+  "fetched_at": "2026-06-12T22:34:03.545827+00:00",
   "items": [
     {
       "platform": "JPM",
-      "doc_id": "GPS-5316356-0",
-      "publication_id": "GPS-5317500-0",
-      "title": "Information Services Data Book",
+      "doc_id": "GPS-5330519-0",
+      "publication_id": "GPS-5335218-0",
+      "title": "Japan",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5316356-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5330519-0",
       "authors": [
         {
-          "name": "Andrew C. Steinerman",
-          "team": "Business & Information Services",
-          "email": "andrew.steinerman@jpmorgan.com"
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
         },
         {
-          "name": "Alexander E.M. Hess, CFA",
-          "team": "Business & Information Services",
-          "email": "alexander.hess@jpmorgan.com"
-        },
-        {
-          "name": "Rohan Kalra",
-          "team": "Business & Information Services",
-          "email": "rohan.kalra@jpmorgan.com"
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
         }
       ],
       "tags": [
-        "Business & Information Services"
+        "Economic and Policy Research"
       ],
-      "publish_time": "2026-05-29"
+      "publish_time": "2026-06-12"
     },
     {
       "platform": "JPM",
@@ -85,11 +80,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5323371-0",
+      "doc_id": "GPS-5320947-0",
       "publication_id": "KAL-1-FMTT4RFT",
-      "title": "Cytokinetics",
+      "title": "Edgewise Therapeutics",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5323371-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5320947-0",
       "authors": [
         {
           "name": "Tessa T Romero",
@@ -114,11 +109,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5320947-0",
+      "doc_id": "GPS-5323371-0",
       "publication_id": "KAL-1-FMTT4RFT",
-      "title": "Edgewise Therapeutics",
+      "title": "Cytokinetics",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5320947-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5323371-0",
       "authors": [
         {
           "name": "Tessa T Romero",
@@ -172,6 +167,45 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5331848-0",
+      "publication_id": "KAL-1-IZSUQ8HU",
+      "title": "Hardware & Networking",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5331848-0",
+      "authors": [
+        {
+          "name": "Samik Chatterjee, CFA",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "samik.x.chatterjee@jpmorgan.com"
+        },
+        {
+          "name": "Joseph Cardoso",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "joseph.cardoso@jpmchase.com"
+        },
+        {
+          "name": "Manmohanpreet Singh",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "manmohanpreet.singh@jpmchase.com"
+        },
+        {
+          "name": "Marc Vitenzon",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "marc.vitenzon@jpmchase.com"
+        },
+        {
+          "name": "Akanksh Chauhan",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "akanksh.chauhan@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "IT Hardware/ Telecom & Networking Equipment"
+      ],
+      "publish_time": "2026-06-12"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5324996-0",
       "publication_id": "KAL-1-4UHI9TT7",
       "title": "JPM Healthcare Team",
@@ -220,12 +254,12 @@
         }
       ],
       "tags": [
-        "Life Science Tools & Diagnostics",
-        "Pharmaceuticals — Major & Specialty",
-        "Managed Care and Facilities",
         "Medical Supplies & Devices",
+        "SMid Biotechnology",
         "Biotechnology - Large Cap",
-        "SMid Biotechnology"
+        "Pharmaceuticals — Major & Specialty",
+        "Life Science Tools & Diagnostics",
+        "Managed Care and Facilities"
       ],
       "publish_time": "2026-06-04"
     },
@@ -259,8 +293,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-04"
@@ -295,10 +329,10 @@
         }
       ],
       "tags": [
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power",
         "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-02"
     },
