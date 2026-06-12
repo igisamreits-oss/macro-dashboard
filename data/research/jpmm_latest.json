@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T22:34:05.440163+00:00",
+  "fetched_at": "2026-06-12T10:34:05.958626+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -172,30 +172,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5318633-0",
-      "publication_id": "KAL-1-E8FY0XAZ",
-      "title": "J.P. Morgan 2026 Spring Series",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5318633-0",
-      "authors": [
-        {
-          "name": "Harlan Sur",
-          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
-          "email": "harlan.sur@jpmorgan.com"
-        },
-        {
-          "name": "Mayur Ramdhani",
-          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
-          "email": "mayur.ramdhani@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Semiconductors & Semiconductor Capital Equipment / IT Hardware"
-      ],
-      "publish_time": "2026-05-29"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5324996-0",
       "publication_id": "KAL-1-4UHI9TT7",
       "title": "JPM Healthcare Team",
@@ -244,12 +220,12 @@
         }
       ],
       "tags": [
-        "Managed Care and Facilities",
-        "Pharmaceuticals — Major & Specialty",
         "Life Science Tools & Diagnostics",
-        "SMid Biotechnology",
+        "Pharmaceuticals — Major & Specialty",
+        "Managed Care and Facilities",
+        "Medical Supplies & Devices",
         "Biotechnology - Large Cap",
-        "Medical Supplies & Devices"
+        "SMid Biotechnology"
       ],
       "publish_time": "2026-06-04"
     },
@@ -284,8 +260,8 @@
       ],
       "tags": [
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-04"
     },
@@ -319,10 +295,10 @@
         }
       ],
       "tags": [
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream"
+        "Utilities and Midstream",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-02"
     },
@@ -349,40 +325,6 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-06-05"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5319022-0",
-      "publication_id": "KAL-1-XQADLB6U",
-      "title": "Media, Entertainment, and Advertising",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5319022-0",
-      "authors": [
-        {
-          "name": "David Karnovsky, CFA",
-          "team": "Media, Entertainment and Advertising",
-          "email": "david.karnovsky@jpmorgan.com"
-        },
-        {
-          "name": "Alexey Philippov, CFA",
-          "team": "Media, Entertainment and Advertising",
-          "email": "alexey.philippov@jpmorgan.com"
-        },
-        {
-          "name": "Douglas Wardlaw",
-          "team": "Media, Entertainment and Advertising",
-          "email": "douglas.wardlaw@jpmchase.com"
-        },
-        {
-          "name": "Kiscada A Hastings",
-          "team": "Media, Entertainment and Advertising",
-          "email": "kiscada.hastings@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Media, Entertainment and Advertising"
-      ],
-      "publish_time": "2026-05-29"
     }
   ]
 }
