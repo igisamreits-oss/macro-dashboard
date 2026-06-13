@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T22:33:04.599201+00:00",
+  "fetched_at": "2026-06-13T13:07:03.786535+00:00",
   "items": [
     {
       "platform": "GS",
@@ -899,9 +899,9 @@
         }
       ],
       "tags": [
-        "Gaming and Lodging",
+        "Internet",
         "Lodging and Leisure",
-        "Internet"
+        "Gaming and Lodging"
       ],
       "publish_time": "2026-06-02"
     },
@@ -934,8 +934,8 @@
         }
       ],
       "tags": [
-        "Tactical Research",
-        "Equity Research Management"
+        "Equity Research Management",
+        "Tactical Research"
       ],
       "publish_time": "2026-06-01"
     },
