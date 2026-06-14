@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T01:07:08.739986+00:00",
+  "fetched_at": "2026-06-14T15:44:59.296186+00:00",
   "items": [
     {
       "platform": "GS",
@@ -899,9 +899,9 @@
         }
       ],
       "tags": [
-        "Internet",
         "Gaming and Lodging",
-        "Lodging and Leisure"
+        "Lodging and Leisure",
+        "Internet"
       ],
       "publish_time": "2026-06-02"
     },
