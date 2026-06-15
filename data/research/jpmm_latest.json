@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T15:45:59.189139+00:00",
+  "fetched_at": "2026-06-15T10:34:04.956989+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -254,12 +254,12 @@
         }
       ],
       "tags": [
-        "Biotechnology - Large Cap",
+        "Medical Supplies & Devices",
         "Managed Care and Facilities",
+        "SMid Biotechnology",
         "Pharmaceuticals — Major & Specialty",
         "Life Science Tools & Diagnostics",
-        "Medical Supplies & Devices",
-        "SMid Biotechnology"
+        "Biotechnology - Large Cap"
       ],
       "publish_time": "2026-06-04"
     },
@@ -293,9 +293,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-04"
     },
@@ -329,10 +329,10 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "Utilities and Midstream/Utilities and Power",
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-02"
     },
