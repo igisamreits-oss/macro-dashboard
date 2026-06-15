@@ -1,6 +1,100 @@
 {
-  "fetched_at": "2026-06-15T10:33:04.992103+00:00",
+  "fetched_at": "2026-06-15T22:33:00.947834+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "8de15270-22a0-4e11-aa06-2657263841c7",
+      "title": "Power & Resources Reliability: AZ/CA meetings bullish power, infrastructure and critical materials demand, prioritization",
+      "summary": "On June 9-11, we met with nine corporates in Arizona and California levered to Power & Resources Reliability, including a rare earth mine tour with MP Materials that represents 90%+ of US NdPr oxide supply and ~20% of no...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/15/8de15270-22a0-4e11-aa06-2657263841c7.html",
+      "authors": [
+        {
+          "name": "Brian Singer",
+          "department": "GS Sustain",
+          "division": "Research"
+        },
+        {
+          "name": "Brian Lee",
+          "department": "Clean Energy",
+          "division": "Research"
+        },
+        {
+          "name": "Brendan Corbett",
+          "department": "GS Sustain",
+          "division": "Research"
+        },
+        {
+          "name": "Tyler Bisset",
+          "department": "Clean Energy",
+          "division": "Research"
+        },
+        {
+          "name": "Gabriela Borges",
+          "department": "Software",
+          "division": "Research"
+        },
+        {
+          "name": "Max Gamperl",
+          "department": "Software",
+          "division": "Research"
+        },
+        {
+          "name": "Noah Poponak",
+          "department": "Aerospace & Defense",
+          "division": "Research"
+        },
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jim Schneider",
+          "department": "Semiconductors & IT Services",
+          "division": "Research"
+        },
+        {
+          "name": "Carly Davenport",
+          "department": "Utilities & Ipps",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Keshav Choudhary",
+          "department": "Clean Energy",
+          "division": "Research"
+        },
+        {
+          "name": "Connor Dessert",
+          "department": "Aerospace & Defense",
+          "division": "Research"
+        },
+        {
+          "name": "Lal Kablan",
+          "department": "Semiconductors & IT Services",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs",
+        "Utilities & Ipps",
+        "Semiconductors & IT Services",
+        "GS Sustain",
+        "Software",
+        "Aerospace & Defense",
+        "Clean Energy"
+      ],
+      "publish_time": "2026-06-15"
+    },
     {
       "platform": "GS",
       "doc_id": "b5961835-6217-4ca4-acd8-592934fc4384",
@@ -1222,39 +1316,6 @@
         },
         {
           "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-05-21"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "f485e841-1305-4786-846a-6b43fe84e791",
-      "title": "Kimco Realty Corp. (KIM): Questions ahead of management meeting",
-      "summary": "Ahead of our meeting with KIM management on 5/27/26, and following ICSC, we offer a list of relevant questions.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/05/21/f485e841-1305-4786-846a-6b43fe84e791.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
