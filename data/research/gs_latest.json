@@ -1,6 +1,57 @@
 {
-  "fetched_at": "2026-06-16T10:33:05.544895+00:00",
+  "fetched_at": "2026-06-16T22:33:00.123707+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "8831decc-4900-409b-9261-7084988cbb62",
+      "title": "Americas Real Estate: REITs: Sunbelt Resi Field Trip Takeaways",
+      "summary": "Following our Resi Field Trip in Atlanta this week with INVH and MAA, we provide our key takeaways and compare them against real time residential REIT data. Multiple key sunbelt markets including Atlanta have seen a rece...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/16/8831decc-4900-409b-9261-7084988cbb62.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e63ce975-20b7-4f51-9ab5-c1a8a1987343",
+      "title": "Sekisui House Reit Inc. (3309.T): In line: Domestic residential solid, but monitoring US rental condo market/property sales trends, Neutral",
+      "summary": "The REIT announced FP4/26 earnings after the market close on June 15. FP4/26 DPU of ¥3,407 was slightly below GSe (¥3,447) but largely in line with expectations. The REIT's DPU guidance for FP10/26 and FP4/27 is ¥1,908 and ¥1,880, respectively.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/16/e63ce975-20b7-4f51-9ab5-c1a8a1987343.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-06-16"
+    },
     {
       "platform": "GS",
       "doc_id": "8de15270-22a0-4e11-aa06-2657263841c7",
@@ -85,13 +136,13 @@
         }
       ],
       "tags": [
-        "Software",
-        "Utilities & Ipps",
         "GS Sustain",
-        "Clean Energy",
-        "Semiconductors & IT Services",
+        "REITs",
+        "Utilities & Ipps",
+        "Software",
         "Aerospace & Defense",
-        "REITs"
+        "Clean Energy",
+        "Semiconductors & IT Services"
       ],
       "publish_time": "2026-06-15"
     },
@@ -993,8 +1044,8 @@
         }
       ],
       "tags": [
-        "Gaming and Lodging",
         "Internet",
+        "Gaming and Lodging",
         "Lodging and Leisure"
       ],
       "publish_time": "2026-06-02"
@@ -1028,8 +1079,8 @@
         }
       ],
       "tags": [
-        "Tactical Research",
-        "Equity Research Management"
+        "Equity Research Management",
+        "Tactical Research"
       ],
       "publish_time": "2026-06-01"
     },
@@ -1268,62 +1319,6 @@
         "REITs"
       ],
       "publish_time": "2026-05-26"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "05d72d63-0fd3-448a-98b5-0494c1d9039c",
-      "title": "Australia and New Zealand Economics Analyst: Australia's Housing Tax Overhaul: Lower Returns, But Limited Reallocation",
-      "summary": "The 2026-27 Budget proposed the most significant reform to housing tax policy since 1999. The proposed measures will abolish negative gearing for established dwellings and replace the current 50% capital gains discount w...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/05/26/05d72d63-0fd3-448a-98b5-0494c1d9039c.html",
-      "authors": [
-        {
-          "name": "Andrew Boak",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Will Maher",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Oscar To",
-          "department": "Asia Economics",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Asia Economics"
-      ],
-      "publish_time": "2026-05-26"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "a1415d57-f9f1-4a66-9bea-dd28cf67b413",
-      "title": "American Homes 4 Rent (AMH): Updating estimates and PT after 1Q26",
-      "summary": "We update our AMH estimates to reflect the company's 1Q26 results, where same store expense growth helped offset lower renewal growth than expected (our future estimates reflect lower renewal/blends expectations). We inc...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/05/21/a1415d57-f9f1-4a66-9bea-dd28cf67b413.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-05-21"
     }
   ]
 }

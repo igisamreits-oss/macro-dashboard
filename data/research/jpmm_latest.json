@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-16T10:34:05.440252+00:00",
+  "fetched_at": "2026-06-16T22:34:00.515892+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -254,12 +254,12 @@
         }
       ],
       "tags": [
-        "Life Science Tools & Diagnostics",
+        "Medical Supplies & Devices",
+        "Pharmaceuticals — Major & Specialty",
         "Biotechnology - Large Cap",
         "SMid Biotechnology",
-        "Managed Care and Facilities",
-        "Medical Supplies & Devices",
-        "Pharmaceuticals — Major & Specialty"
+        "Life Science Tools & Diagnostics",
+        "Managed Care and Facilities"
       ],
       "publish_time": "2026-06-04"
     },
