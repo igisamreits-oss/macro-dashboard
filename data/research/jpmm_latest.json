@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T22:33:59.929676+00:00",
+  "fetched_at": "2026-06-16T10:34:05.440252+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -255,11 +255,11 @@
       ],
       "tags": [
         "Life Science Tools & Diagnostics",
+        "Biotechnology - Large Cap",
+        "SMid Biotechnology",
         "Managed Care and Facilities",
         "Medical Supplies & Devices",
-        "Biotechnology - Large Cap",
-        "Pharmaceuticals — Major & Specialty",
-        "SMid Biotechnology"
+        "Pharmaceuticals — Major & Specialty"
       ],
       "publish_time": "2026-06-04"
     },
@@ -293,48 +293,11 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-06-04"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5322328-0",
-      "publication_id": "GPS-5323802-0",
-      "title": "North American Utilities June Jamboree",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5322328-0",
-      "authors": [
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Aidan C Kelly",
-          "team": "Utilities and Midstream/Utilities and Power",
-          "email": "aidan.x.kelly@jpmchase.com"
-        },
-        {
-          "name": "Eli Jossen, CFA",
-          "team": "Utilities and Midstream",
-          "email": "eli.jossen@jpmchase.com"
-        },
-        {
-          "name": "Diana Niles",
-          "team": "North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "diana.niles@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
-      ],
-      "publish_time": "2026-06-02"
     },
     {
       "platform": "JPM",

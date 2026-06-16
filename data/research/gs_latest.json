@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T22:33:00.947834+00:00",
+  "fetched_at": "2026-06-16T10:33:05.544895+00:00",
   "items": [
     {
       "platform": "GS",
@@ -85,13 +85,13 @@
         }
       ],
       "tags": [
-        "REITs",
-        "Utilities & Ipps",
-        "Semiconductors & IT Services",
-        "GS Sustain",
         "Software",
+        "Utilities & Ipps",
+        "GS Sustain",
+        "Clean Energy",
+        "Semiconductors & IT Services",
         "Aerospace & Defense",
-        "Clean Energy"
+        "REITs"
       ],
       "publish_time": "2026-06-15"
     },
@@ -993,8 +993,8 @@
         }
       ],
       "tags": [
-        "Internet",
         "Gaming and Lodging",
+        "Internet",
         "Lodging and Leisure"
       ],
       "publish_time": "2026-06-02"
@@ -1028,8 +1028,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "Tactical Research"
+        "Tactical Research",
+        "Equity Research Management"
       ],
       "publish_time": "2026-06-01"
     },
