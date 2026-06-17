@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-16T22:34:00.515892+00:00",
+  "fetched_at": "2026-06-17T10:35:42.759057+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -254,12 +254,12 @@
         }
       ],
       "tags": [
-        "Medical Supplies & Devices",
         "Pharmaceuticals — Major & Specialty",
+        "Managed Care and Facilities",
         "Biotechnology - Large Cap",
-        "SMid Biotechnology",
+        "Medical Supplies & Devices",
         "Life Science Tools & Diagnostics",
-        "Managed Care and Facilities"
+        "SMid Biotechnology"
       ],
       "publish_time": "2026-06-04"
     },
@@ -293,9 +293,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-04"
     },
@@ -322,6 +322,86 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-06-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5329613-0",
+      "publication_id": "KAL-1-W93WG4FV",
+      "title": "Retail vs. AMZN",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5329613-0",
+      "authors": [
+        {
+          "name": "Christopher Horvers, CFA",
+          "team": "Retailing – Broadlines & Hardlines / Leisure",
+          "email": "christopher.horvers@jpmorgan.com"
+        },
+        {
+          "name": "Christian Carlino, CFA",
+          "team": "Retailing – Broadlines & Hardlines / Leisure",
+          "email": "christian.carlino@jpmorgan.com"
+        },
+        {
+          "name": "Jolie Wasserman",
+          "team": "Retailing – Broadlines & Hardlines / Leisure",
+          "email": "jolie.wasserman@jpmchase.com"
+        },
+        {
+          "name": "Doug Anmuth",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "douglas.anmuth@jpmorgan.com"
+        },
+        {
+          "name": "Bryan M. Smilek",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "bryan.smilek@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
+      ],
+      "publish_time": "2026-06-16"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5337376-0",
+      "publication_id": "KAL-1-W93WG4FV",
+      "title": "Retail vs. AMZN in an Agentic World",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5337376-0",
+      "authors": [
+        {
+          "name": "Christopher Horvers, CFA",
+          "team": "Retailing – Broadlines & Hardlines / Leisure",
+          "email": "christopher.horvers@jpmorgan.com"
+        },
+        {
+          "name": "Christian Carlino, CFA",
+          "team": "Retailing – Broadlines & Hardlines / Leisure",
+          "email": "christian.carlino@jpmorgan.com"
+        },
+        {
+          "name": "Jolie Wasserman",
+          "team": "Retailing – Broadlines & Hardlines / Leisure",
+          "email": "jolie.wasserman@jpmchase.com"
+        },
+        {
+          "name": "Doug Anmuth",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "douglas.anmuth@jpmorgan.com"
+        },
+        {
+          "name": "Bryan M. Smilek",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "bryan.smilek@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
+      ],
+      "publish_time": "2026-06-16"
     }
   ]
 }
