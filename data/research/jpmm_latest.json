@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-17T10:35:42.759057+00:00",
+  "fetched_at": "2026-06-17T22:34:23.320832+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -206,6 +206,43 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5337202-0",
+      "publication_id": "KAL-1-MRAF9196",
+      "title": "June 2026 J.P. Morgan Commercial Real Estate Update",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5337202-0",
+      "authors": [
+        {
+          "name": "Michael W. Mueller, CFA",
+          "team": "REITs",
+          "email": "michael.w.mueller@jpmorgan.com"
+        },
+        {
+          "name": "Anthony Paolone, CFA",
+          "team": "REITs & Real Estate Services",
+          "email": "anthony.paolone@jpmorgan.com"
+        },
+        {
+          "name": "Mark Streeter, CFA",
+          "team": "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+          "email": "mark.streeter@jpmorgan.com"
+        },
+        {
+          "name": "Chong Sin",
+          "team": "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+          "email": "chong.c.sin@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "REITs",
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs & Real Estate Services",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
+      ],
+      "publish_time": "2026-06-17"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5324996-0",
       "publication_id": "KAL-1-4UHI9TT7",
       "title": "JPM Healthcare Team",
@@ -254,12 +291,12 @@
         }
       ],
       "tags": [
-        "Pharmaceuticals — Major & Specialty",
-        "Managed Care and Facilities",
         "Biotechnology - Large Cap",
+        "SMid Biotechnology",
+        "Managed Care and Facilities",
         "Medical Supplies & Devices",
-        "Life Science Tools & Diagnostics",
-        "SMid Biotechnology"
+        "Pharmaceuticals — Major & Specialty",
+        "Life Science Tools & Diagnostics"
       ],
       "publish_time": "2026-06-04"
     },
@@ -293,9 +330,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-06-04"
     },
