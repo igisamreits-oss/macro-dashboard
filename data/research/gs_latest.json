@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-06-17T22:33:21.450071+00:00",
+  "fetched_at": "2026-06-18T10:33:51.100749+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": null,
+      "title": "",
+      "summary": "",
+      "link": null,
+      "authors": [],
+      "tags": [],
+      "publish_time": null
+    },
     {
       "platform": "GS",
       "doc_id": "f8b8905f-d57c-4554-a408-dab797f0ba48",
@@ -36,8 +46,8 @@
       ],
       "tags": [
         "REITs",
-        "Latam Steel & Basic Materials",
-        "Equity Research Management"
+        "Equity Research Management",
+        "Latam Steel & Basic Materials"
       ],
       "publish_time": "2026-06-17"
     },
@@ -232,13 +242,13 @@
         }
       ],
       "tags": [
-        "Aerospace & Defense",
-        "Software",
+        "Utilities & Ipps",
         "REITs",
-        "Semiconductors & IT Services",
         "GS Sustain",
+        "Semiconductors & IT Services",
         "Clean Energy",
-        "Utilities & Ipps"
+        "Aerospace & Defense",
+        "Software"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1141,8 +1151,8 @@
       ],
       "tags": [
         "Lodging and Leisure",
-        "Internet",
-        "Gaming and Lodging"
+        "Gaming and Lodging",
+        "Internet"
       ],
       "publish_time": "2026-06-02"
     },
@@ -1271,34 +1281,6 @@
       ],
       "tags": [
         "Conglomerates"
-      ],
-      "publish_time": "2026-05-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "67f0950b-6191-49a1-adb5-a5e816c884f0",
-      "title": "Americas Real Estate: REITs: Residential NAREIT Preview: Are Sunbelt & SFR rents finally turning?",
-      "summary": "As we head into NAREIT, we take a deep dive into realtime residential REIT trends. 2Q26 is currently on pace to be the first quarter of demand outpacing supply in sunbelt markets. Both CoStar and ApartmentList data show ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/05/28/67f0950b-6191-49a1-adb5-a5e816c884f0.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
       ],
       "publish_time": "2026-05-28"
     }

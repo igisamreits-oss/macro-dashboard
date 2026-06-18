@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-17T22:34:23.320832+00:00",
+  "fetched_at": "2026-06-18T10:34:53.791567+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -58,25 +58,6 @@
         "Managed Care and Facilities"
       ],
       "publish_time": "2026-06-08"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5325610-0",
-      "publication_id": "GPS-5326706-0",
-      "title": "North American Midstream",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5325610-0",
-      "authors": [
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
-      ],
-      "publish_time": "2026-06-04"
     },
     {
       "platform": "JPM",
@@ -234,10 +215,10 @@
         }
       ],
       "tags": [
-        "REITs",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "REITs & Real Estate Services",
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "REITs"
       ],
       "publish_time": "2026-06-17"
     },
@@ -291,12 +272,12 @@
         }
       ],
       "tags": [
-        "Biotechnology - Large Cap",
-        "SMid Biotechnology",
-        "Managed Care and Facilities",
         "Medical Supplies & Devices",
-        "Pharmaceuticals — Major & Specialty",
-        "Life Science Tools & Diagnostics"
+        "SMid Biotechnology",
+        "Life Science Tools & Diagnostics",
+        "Managed Care and Facilities",
+        "Biotechnology - Large Cap",
+        "Pharmaceuticals — Major & Specialty"
       ],
       "publish_time": "2026-06-04"
     },
@@ -330,9 +311,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-04"
     },
@@ -395,8 +376,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     },
@@ -435,8 +416,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     }
