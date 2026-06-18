@@ -1,4 +1,622 @@
 {
-  "fetched_at": "2026-06-18T10:32:49.163605+00:00",
-  "items": []
+  "fetched_at": "2026-06-18T22:32:24.739815+00:00",
+  "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30438237",
+      "title": "U.S. Economics: How Serious Are Fed Officials About Hiking Rates?",
+      "summary": "9 of 18 \"dots\" expecting rate hikes at the remaining four FOMC meetings this year were much more hawkish than we or markets had expected. But many of those same officials expect to be cutting rates again in 2027. In this note we unpack Chair Warsh's first meeting as head of the Fed.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MjM3",
+      "tags": [
+        "Monetary Policy",
+        "FOMC"
+      ],
+      "publish_time": "2026-06-18 07:57",
+      "thumbnail": "https://ir.citi.com/Ku_ibE_zdE6MPKqnnUQ-92SSZ2BM40jsjlivaCP83HVr6yqXHKREX0xuHgKUi9zqhDgVg21oxOIMkgaIk49I_A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437886",
+      "title": "Quantitative Global Macro Strategy: New Fed Chairs Tend to Be Hawkish at First FOMC",
+      "summary": "FOMC-day has typically been a positive day for assets, with above-average returns in equities and bonds. But this meeting is uncommon: it is the first for a new Fed chair, and studying this more limited data sample we find evidence an incoming chair establishes day-one hawkish bona-fides.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODg2",
+      "tags": [
+        "Cross Asset Strategy",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-06-17 06:01",
+      "thumbnail": "https://ir.citi.com/FJyTeiyR0EQ-QhFWejRp-CFjLRkaH8ldyEjNEjdAnlr8gfz-5w3xrWCimzSFDXPsPnX78mZWzvGHrjs50B1t4Q%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30438100",
+      "title": "We're Upgrading Albemarle to Buy",
+      "summary": "We see ALB as a primary beneficiary of structural lithium demand given its high-quality assets, conversion network, and potential to allocate a steady capital program to high-return growth projects. We upgrade it to Buy as we think current valuations underappreciate its next leg of growth.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MTAw",
+      "tags": [
+        "Rating Change",
+        "Energy Transition",
+        "Energy Storage",
+        "Sepciality Chemicals"
+      ],
+      "publish_time": "2026-06-18 04:00",
+      "thumbnail": "https://ir.citi.com/OQL2KpwvbgvgTd-AtFZ_BUvt4AyAsGDvDsbMFjb6021-76GLQjc1xxuEBLdAFp0YJs0atuN8PJdoShrRHEk6oA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30438098",
+      "title": "Assessing ELF's Current Challenges & Opportunities Ahead",
+      "summary": "We take a Deep Dive into investor debates around e.l.f. Beauty. We recognize the challenges facing the core business — for which investors seek proof that management’s responses are working — but we think the concerns are largely reflected in the share price and maintain our Buy rating.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MDk4",
+      "tags": [
+        "Household & Personal Care",
+        "Consumer Spending",
+        "Deep Dive"
+      ],
+      "publish_time": "2026-06-18 05:00",
+      "thumbnail": "https://ir.citi.com/fM45rVhpK_3JoUh0jqhRUgxAyx2tGYnzt8-MNC4GpwnkUaFaLQx_6EzmjvNybUvyKDu7zffbefaKy77bu-wVZg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30438106",
+      "title": "Global Industrials: Automation Survey Signals Encouraging Demand Outlook",
+      "summary": "Our 7th annual automation survey of 200 manufacturing decision-makers points to encouraging demand momentum across automation spending despite modest macro-related concerns. Buy-rated ROK, EMR, HON and Siemens are our preferred automation-exposed names. We cover detailed responses herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MTA2",
+      "tags": [
+        "Electrical Equipment",
+        "Industrial Conglomerates",
+        "Automation/Robotics"
+      ],
+      "publish_time": "2026-06-18 04:00",
+      "thumbnail": "https://ir.citi.com/4KlkqRZuepCT4LV6XwbBTkilbR-mwAb2WPKbI2dkIqnTkdy56lKHMCDRSYjtxJ02u9eHwWu7vuGwzyXa0X9PjQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30438090",
+      "title": "U.S. Property & Casualty: M&A Activity Likely to Increase Across Sector",
+      "summary": "We expect consolidation across the non-life insurance sector to increase. The three factors that accompanied prior periods of increased M&A activity are now present—below trend premium growth, above-average return on premium, and average valuations. We examine details and stocks herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MDkw",
+      "tags": [
+        "Property & Casualty Insurance",
+        "M&A"
+      ],
+      "publish_time": "2026-06-18 05:00",
+      "thumbnail": "https://ir.citi.com/Df5N9P2yBL7oUn0_KN6SySmvqAb2oxuEzUXYx5ms_Jzu8kZ40jA3lXvuG4CFw56SperXfhWQjicgsOvwnkPJMQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30438028",
+      "title": "European Electrical Equipment: Datacentre GW Growth Matters More Than Technology Mix",
+      "summary": "While electrical equipment stocks are seen as key beneficiaries of datacentre growth, there's increasing focus on the relative growth outlooks between stocks. In this note, we show that overall growth in datacentre GW is more important than technology mix and outline our stock picks.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MDI4",
+      "tags": [
+        "Electrical Equipment",
+        "Data Centers"
+      ],
+      "publish_time": "2026-06-18 00:10",
+      "thumbnail": "https://ir.citi.com/4WQ9vUdGmVfQhy5gxUKkSEa58eUa4ZH0WpYNLP5vzLH2RwWQXpqAqFjocBHeptANjWCy9z0gt2K8NWmfW3XOvg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437991",
+      "title": "China Data Centers: Riding the AI Infrastructure Buildout",
+      "summary": "In this cross-sector analysis covering China’s data centers and REITs, we delve into the convergence of AI capex, structural data center demand, and an emerging REIT capital recycling mechanism to highlight a compelling infrastructure investment thesis and the stocks that should benefit.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3OTkx",
+      "tags": [
+        "Hardware & Storage",
+        "Telecommunications Infrastructure",
+        "Infrastructure Investment",
+        "Super-Sector Analysis"
+      ],
+      "publish_time": "2026-06-18 06:06",
+      "thumbnail": "https://ir.citi.com/fizamjc2eEyAtj6zKYacZpT7A3FU8COEGKe2PQMQ5am5nmG7iRad5hJ_KtsfpgrlIwaeme9BX8oKJLHDEXCO2g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437865",
+      "title": "We're Launching Coverage of Figma with a Buy/High-Risk Rating",
+      "summary": "Despite AI disruption of design and seat compression risks, we believe the market underestimates Figma's offsetting growth from seat mix upgrades, expanding non-designer personas, and rising AI-driven consumption. We're above-consensus on revenue estimates and see several catalysts ahead.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODY1",
+      "tags": [
+        "Application Software",
+        "Initiation of Coverage",
+        "Artificial Intelligence (AI)",
+        "Cloud Computing"
+      ],
+      "publish_time": "2026-06-17 05:28",
+      "thumbnail": "https://ir.citi.com/KELkHpu_oyVbUn3GTfo_bfmeeY9MMOCIfxkKCpejvdwwMgv1iy9u2fuTI3ydLOxQlHBhTGqqYJsVkRrpzH1R5w%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437866",
+      "title": "More Conviction on Buy-Rated Datadog Following DASH Conference",
+      "summary": "Datadog's annual DASH customer conference featured a torrent of portfolio updates and expansion that we felt were materially up year over year. Key announcements and robust industry feedback reinforce our conviction in healthy 2H model upside. We raise our target price to $270 from $218.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODY2",
+      "tags": [
+        "Application Software",
+        "Target Price Change",
+        "Artificial Intelligence (AI)",
+        "Cloud Computing",
+        "e-Privacy & Cybersecurity"
+      ],
+      "publish_time": "2026-06-16 23:17",
+      "thumbnail": "https://ir.citi.com/SkEu-XfrZBQ0S8ckxlrsNFZ1YOH2M9yDfHwcdsVkbPunekw0NlWKzlcVIon42DVW1lZBmYiSdIoWyPLNqq8zEA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437883",
+      "title": "U.S. Semiconductor Equipment: $250B Reasons to Stay Long",
+      "summary": "We update our bull-case wafer fab equipment (WFE) revenue forecasts to $145B, $200B, and $250B for 2026, 2027, and 2028; align AMAT, LRCX, and KLAC estimates to our revised WFE model; and lift our price targets on those stocks as we roll forward our price targets based on 2028 earnings.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODgz",
+      "tags": [
+        "Semiconductor Equipment",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-06-17 05:00",
+      "thumbnail": "https://ir.citi.com/_BQeUdSRx8paJiti02DQ470Rgx2ZF_FOFqbAKfeVc-Mv18gk-jgCJxDq3xTjhsiN_lp5DUlzDX-epBHTkH1zuA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437821",
+      "title": "U.S. Equity Market Outlook: Iran Conflict Unwind and the Broadening Setup",
+      "summary": "Markets are clearly encouraged that the current Iran negotiations will have a good chance of success. This is most evident in the price of WTI Crude, which has broken to its lowest levels since the early days of the conflict. Meanwhile, the \"broadening\" trade has already kicked in.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODIx",
+      "tags": [
+        "U.S. Equity Strategy"
+      ],
+      "publish_time": "2026-06-16 14:04",
+      "thumbnail": "https://ir.citi.com/-1Zvi4jD9CDmnsh24ujP0Svxyk2kZCS-WMAT5XFc6I0fZzmqcOaKrUNG6KhnFnHvAC4DRPkSyGPbuKSAht4FEA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437700",
+      "title": "Equity Markets Positioning: U.S. Positioning Broadens as Cross-Regional Divergence Builds",
+      "summary": "Global equity positioning remains constructive, but regional dynamics are increasingly divergent. In the U.S., positioning has broadened, but Nasdaq positioning risks remain. In Europe, conviction-driven longs return, and in Asia, a re-emergence of shorts tempers elevated positioning.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NzAw",
+      "tags": [
+        "Model Portfolio"
+      ],
+      "publish_time": "2026-06-16 08:02",
+      "thumbnail": "https://ir.citi.com/Frp63UoWiolLLcBWQECoPn3vbBFs5H8GEA_XI5SDpaSblbR1dMpXzC-re2ZtGZtOEDAH9y10DX0Obfs092J92w%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437861",
+      "title": "Global FX Strategy: EURGBP at Key Levels; Gilt Flows May Be the Key Driver",
+      "summary": "We've had a bullish EURGBP bias – where recent indicators have been suggesting EURGBP should already be higher – yet price is again re-testing the bottom of the range around 0.86. We attribute this to overseas buying of gilts. The main question for GBP is whether such buying will continue.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODYx",
+      "tags": [
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-06-16 18:40",
+      "thumbnail": "https://ir.citi.com/zywmG5juzoOw-dGtBOFiAw-1IHBYM8xC2lnNkCsukHz8cdfwhmgC4c__DNgU8fdYNxA4dboWiZ9nt8XPDx9xmA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30436649",
+      "title": "Pricing Pass-Throughs Fuel Japan's Virtuous Cycle",
+      "summary": "In today’s Japan, where a virtuous cycle of wages and prices is increasingly taking hold, companies have become much more proactive on price pass-throughs than during past energy shocks, fueling a shift to a dynamic in which rising costs boost nominal growth. We examine the implications.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2NjQ5",
+      "tags": [
+        "Macro Strategy",
+        "Macro-to-Micro"
+      ],
+      "publish_time": "2026-06-17 02:35",
+      "thumbnail": "https://ir.citi.com/1RCBgwX0d_b6dH2NfHr-204_nP3Vjv98YBbO93tnK_d6mGpttL8DoSTauYhXsRUBES6HxJP35_aG5bk9vwk9lw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437688",
+      "title": "China Economics: AI Supercycle Vs. Domestic Stagflation",
+      "summary": "China's K-shaped economy appears to be playing out through the contrast between an AI supercycle and domestic stagflation. AI is driving industrial production and exports, with high-tech IP reaching a five-year high, but domestic demand is faltering. We offer further analysis in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njg4",
+      "tags": [
+        "Economic Analysis",
+        "China Economics",
+        "Artificial Intelligence (AI)",
+        "Fiscal Policy",
+        "Economic Forecast",
+        "Economic Growth"
+      ],
+      "publish_time": "2026-06-16 02:17",
+      "thumbnail": "https://ir.citi.com/EyT64urn1Sc1aDINLTcW_VZmgmYCSLC7M_SOKSPfoLZXFUWRsYl5beMi8VnM2UGnqBiA1ELUVl8Vamj1bT3yBw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437635",
+      "title": "U.S. Biotech & Pharma: 2026 Halftime Report",
+      "summary": "The Middle East conflict and the pervasive AI-led tech trade have meant a choppier-than-expected ride for Biopharma since early March. But fundamentals remain strong, with robust projected growth in earnings power and a forward P/E of ~17x highlighting potential undervalue to unlock.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NjM1",
+      "tags": [
+        "Biotechnology",
+        "Pharmaceuticals",
+        "Clinical Trials",
+        "M&A/Divestiture",
+        "Artificial Intelligence (AI)",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-06-16 05:49",
+      "thumbnail": "https://ir.citi.com/IhfUPvKPTecqOQkb-UZYvb7-kKB82S__PMBTt_FXYrYJKwmFqXUVNkdVlV2I7HyaN_yiXIvNAWnJFiZOyEq5rw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437347",
+      "title": "Takeaways From Our India Defense Manufacturing Tour",
+      "summary": "Following our tour of key companies and manufacturing facilities, we see India’s defense manufacturing sector as in a phase of structural scale-up and capability enhancement, with an intent to pivot toward integrated systems and proprietary offerings. See company-specific takeaways herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MzQ3",
+      "tags": [
+        "Aerospace & Defense",
+        "Infrastructure Investment"
+      ],
+      "publish_time": "2026-06-15 01:23",
+      "thumbnail": "https://ir.citi.com/WkavX_YwrOh2kYNNJyGjFLICYrlm7qeVgRlX8pJ6IZAkjqO_AHc2SOajXPNGgoPOFC-5ZsP8DwHhhiOYlWM3Kw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437681",
+      "title": "Global Gas and Power Insights: Further Downside?",
+      "summary": "Despite the recent 15-20% selloff of TTF/JKM, we see further price downside amid de-escalation from the Mideast conflict; for U.S. Henry Hub, timing is important. We offer revised price forecasts and further analysis of what may lie ahead in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njgx",
+      "tags": [
+        "Commodities Strategy",
+        "Geopolitics",
+        "Global Gas and Power Insights"
+      ],
+      "publish_time": "2026-06-16 05:17",
+      "thumbnail": "https://ir.citi.com/UGbqSUdysMcjDJl2vpjpqoCSb5Kldq-Do_J0V5FpL842UdcXE_ROBrpXtkiP3mmKEZJ-rBHee2kyVEZNRT0W8A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437696",
+      "title": "Lone Dissenting Vote on Japan's Rate Hike Is a Dovish Signal",
+      "summary": "Japan raised its policy rate to 1%, as expected, and decided to halt the reduction in JGB purchases from April 2027. As we explore in this note, we see the lone dissenting vote as an important dovish signal for the policy path. We continue to expect additional hikes in December and June.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njk2",
+      "tags": [
+        "Japan Economics",
+        "Central Banks",
+        "Monetary Policy",
+        "Economic Growth"
+      ],
+      "publish_time": "2026-06-16 03:06",
+      "thumbnail": "https://ir.citi.com/xD72dyQkdKpjTIb31i15zK02dNGmoET4u95Nv_xM9-boTL0OyGIyZDmxoJ08MsUdbhZjaw_iUG1PbbgzWqWRSw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437697",
+      "title": "Despite Dovish Murmurs, Australia Is Likely to Hike Again",
+      "summary": "Communications following Australia's neutral to hawkish hold on rates at June's meeting highlighted upside risks to inflation and that further tightening hadn't been ruled out. Therefore, we continue to expect a 25-basis-point hike in August, though risks are tilted toward delayed hiking.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njk3",
+      "tags": [
+        "Inflation",
+        "Labor Market",
+        "Monetary Policy",
+        "Trade Idea",
+        "Australia Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks"
+      ],
+      "publish_time": "2026-06-16 04:17",
+      "thumbnail": "https://ir.citi.com/Zmv2ApxVUR13pkpwCuTXJlIt3gtKgpcNDOetrqRBF3oIIx0wDBMsCvEaIin3e1W9TyJzOxXeoE-hT-YVPwDVvw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437589",
+      "title": "Why the U.S-Iran Memo of Understanding Is a Big Deal",
+      "summary": "With the U.S. and Iran set to sign a memo of understanding Friday, we see Strait of Hormuz flows resuming relatively quickly and normalizing by mid- to late July. We see signs from both the U.S. and Iran that we think point to selling summer oil rallies. We offer further analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NTg5",
+      "tags": [
+        "Geopolitics",
+        "Commodities Strategy"
+      ],
+      "publish_time": "2026-06-15 13:37",
+      "thumbnail": "https://ir.citi.com/tsmqXRgliqGVEG0ozCIVDi-_5vwsO9E-cNBKkbT-ZRQiq51_0vub4wosBxWe-qljbOmjiS98CLgv1VNki9_eLQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437591",
+      "title": "European Equity Strategy: A Peace Deal's Broadening Potential",
+      "summary": "Amid word of a U.S.-Iran interim deal, the STOXX 600 is trading at all-time highs, suggesting a meaningful portion of geopolitical risk premium has already been priced out. But we see a more uneven recovery beneath the surface, which creates scope for a second phase of the rebound.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NTkx",
+      "tags": [
+        "Geopolitics",
+        "European Equity Strategy"
+      ],
+      "publish_time": "2026-06-15 13:54",
+      "thumbnail": "https://ir.citi.com/7xwB06cnlh-wUJQp-AX4aa4Hf5AG2vJqtcd-VMbxBzZAGNHr0adS00i1eMIWMU7rcaJ29THwK7hI5t1Bp3a_4A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437607",
+      "title": "Global FX Strategy: Fade EUR Rallies If Warsh Disappoints Hawks",
+      "summary": "The Fed is unlikely to deliver the hawkish surprise needed to break the USD out of its 12-month range. While we've been more tactically cautious risk assets, a U.S.-Iran deal, Warsh delivering a neutral message and last week's successful major IPO could see risk stabilize and rally.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NjA3",
+      "tags": [
+        "Central Banks",
+        "Monetary Policy",
+        "Global FX Strategy",
+        "Macro Strategy",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-06-15 15:42",
+      "thumbnail": "https://ir.citi.com/oN9T7BJ8GYjskIdIj_mVvRn0xh2eM0ePwLlzkKjRcO-EXMZRDi-pI7braBr3dAq-RYpsq9n-lmXIfqN48kys4Q%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437265",
+      "title": "Metal Matters: Copper Book 2026",
+      "summary": "We 're updating the structural investment case for copper, incorporating the growing importance of the energy transition, AI/datacenter demand, and evolving marginal cost dynamics driven by scrap. We conclude that copper has entered a structurally higher price regime, with details herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MjY1",
+      "tags": [
+        "Commodities Strategy",
+        "Energy Transition",
+        "Metal Matters"
+      ],
+      "publish_time": "2026-06-15 03:34",
+      "thumbnail": "https://ir.citi.com/HdAvOMHejyXHYeP3LZuTtaBYn8jP-N4hzWFmAjX9PdJALLtdvfdQusKrTkm-st0zx-ecP3SL9QhEZEaJj8yelA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437310",
+      "title": "Global Commodities: Cocoa Looks Like a Key El Niño Play",
+      "summary": "A strong El Niño now looks much more likely, with cocoa a key play among agricultural commodities as its production is highly concentrated in the areas most impacted. Consequently, we have revised our supply and demand balances and now expect the market to shift into a deficit.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MzEw",
+      "tags": [
+        "Trade Idea",
+        "Commodities Strategy",
+        "Market Forecasts"
+      ],
+      "publish_time": "2026-06-14 17:00",
+      "thumbnail": "https://ir.citi.com/SqhXXFoU1ZB9mgZvd_395TR0zJg3czptSdmUwRY1z27X9CJuweMfBDFVtfQQEmo86GOVYPK09Hn63o7SZaJsEg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437399",
+      "title": "North America Trucking: What’s Priced In? LTL Edition",
+      "summary": "We follow our What’s Priced In? Truckload note with an examination of upside scenarios for LTLs. Based on this analysis, we downgrade ODFL to Sell and SAIA, KNX and CHRW to Neutral, as it becomes increasingly difficult to identify meaningful upside on fundamentals.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Mzk5",
+      "tags": [
+        "Logistics - Air & Surface",
+        "Trucking",
+        "Rating Change",
+        "Short-Term View",
+        "Target Price Change",
+        "Estimate Change",
+        "Earnings Preview"
+      ],
+      "publish_time": "2026-06-15 05:00",
+      "thumbnail": "https://ir.citi.com/SpYs9FMF5nySgfYAi2VrMRmFGBE75L_8QXbygK1PjoWlNDhV3I2pqjhO7YTXklYIVdZlGYDIhc7Nq-wj4yXaQw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437287",
+      "title": "We're Upgrading Paychex to Buy",
+      "summary": "We're upgrading Paychex to Buy, with a $140 target price. We expect organic revenue growth to accelerate in FY27 given a host of tailwinds and think a 4.73% dividend yield limits downside and remains attractive to investors, while valuation remains well below historical norms.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Mjg3",
+      "tags": [
+        "Commercial Services",
+        "Target Price Change",
+        "Estimate Change",
+        "Rating Change"
+      ],
+      "publish_time": "2026-06-14 16:00",
+      "thumbnail": "https://ir.citi.com/3z9F-ldM0cdbIV04tfpOFNT3OXSvPJnFwl_pBeUqezMZM-GBjtXm_K5jcOdC4R_LV-ygvDwNdAC6gSCzyCYCKA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437415",
+      "title": "U.S. Semis: 800V DC Transition Drives Stronger Analog Recovery",
+      "summary": "We explore the implications of the 800V DC transition for our analog and connector coverage and assess where we are in the analog cycle. We're most constructive on TXN, continue to favor MPWR, and initiate an upside Catalyst Watch on ON ahead of its September analyst day.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NDE1",
+      "tags": [
+        "Semiconductors",
+        "Catalyst Watch",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-06-15 03:07",
+      "thumbnail": "https://ir.citi.com/Z6bSEzFQpV-vaKOKPMMvpe1SGXAt6wlxqMEm-zLT6LKczevhe6WOtTSkHN3i039d5mdOdRjMc1WrjJoF7zXLFQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437298",
+      "title": "U.S. Rates Weekly: New Chair, Same Fed Inertia",
+      "summary": "The Fed is likely to stay patient and balanced given recent benign inflation and labor data, and we continue to favor positive carry positions. Over the medium term, we still hold a long duration bias. We offer further analysis and strategies in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Mjk4",
+      "tags": [
+        "Relative Value",
+        "Trade Idea",
+        "Flagship",
+        "U.S. Rates Weekly",
+        "Inflation",
+        "Labor Market",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-06-12 17:56",
+      "thumbnail": "https://ir.citi.com/UAmvmmNHRA_mBDwCyQRM8pOTzYS6-DcGbOo682ccnBu41cnYlA4ZyeHVp4qVM6U-eVlyLVnj9DZ-3JULftoHFQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437104",
+      "title": "We're Upgrading AMD to Buy",
+      "summary": "We're upgrading AMD to Buy with a $575 target price. While we've been constructive on the inflection in agentic AI-led CPU demand, seeing AMD as the major beneficiary, we now also see it emerging as a legitimate second source in the GPU market. We offer further analysis in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MTA0",
+      "tags": [
+        "Semiconductors",
+        "Rating Change",
+        "Target Price Change",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-06-12 05:00",
+      "thumbnail": "https://ir.citi.com/JE9w6wsVY8bgqMluWFB6m_fJdaGIlcjzowHvoNaKL3GZq6xchvM2FOv2OpKxccVq1Fvfku3SN-pHqbHW5Wm2pA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437097",
+      "title": "Global Macro Strategy: Buy the Flush, Watch the Fed",
+      "summary": "Looking at equity-market re-entry strategies, we think VRP or lower POLLS work well — but if fundamentals change, investors need to react more quickly. Our Fed preview suggests the market pricing hikes six months out is on average wrong, but retracement in rates is somewhat short-lived.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDk3",
+      "tags": [
+        "Macro Strategy",
+        "Trade Idea",
+        "Flagship",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-06-12 03:19",
+      "thumbnail": "https://ir.citi.com/SmgGXv7bKEzKcct74_enp2iF7Fe_iXQz2CPgOIrySgtpB4fMbfD0iv957EjztSOY4uXo2hR-EUf2_rs6gAxdtw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437226",
+      "title": "PULSE Monitor: Supply Is Here",
+      "summary": "The first Mega IPO is here, and supply has quietly returned with some recent equity issuance. The key from here is investor demand and the amount of available capital/portfolio space for new opportunities. An important starting point we explore is the lack of IPOs for much of this cycle.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MjI2",
+      "tags": [
+        "PULSE Monitor",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-06-12 09:27",
+      "thumbnail": "https://ir.citi.com/Y6sSteh8wFe2FjBV2zEmQrHZeFo7EtXtcOeIKEYscow2MDyc1I0ce-C3PtRBikx6f8FgL_av8FeFles0xv4j6A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30436993",
+      "title": "Why We're Adding Continental to Our EU Focus List",
+      "summary": "We provide a sum-of-the-parts sensitivity analysis for Continental as we enter a potentially newsflow-rich period with respect to the ContiTech sale process. We think returns to shareholders at our assumed valuation can still be substantial, and add Continental to our EU Focus List.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2OTkz",
+      "tags": [
+        "Focus List",
+        "Inflation",
+        "Tariffs",
+        "Estimate Change",
+        "Target Price Change",
+        "Auto Parts & Equipment"
+      ],
+      "publish_time": "2026-06-12 00:00",
+      "thumbnail": "https://ir.citi.com/72nADUjtQ24w8hR-VSkfnWMw6o7kxD6U0bJmm5FbuRR8ITFz6BENZ-mnXZe7ih68WxMOyXgk9g4LfDoEZqWLvg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437000",
+      "title": "BMW Looks Very Oversold on China Panic, But Who Will Buy It?",
+      "summary": "BMW is once again trading below net industrial cash, an extreme low valuation. Despite consistent and reasonable execution, BMW has reported falling EBIT margins, EPS, and free cash flow since a 2023 earnings peaks, raising the question of who would buy BMW given the current narrative.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDAw",
+      "tags": [
+        "Target Price Change",
+        "Estimate Change",
+        "Auto Manufacturers",
+        "Consumer Spending",
+        "Electric Vehicles"
+      ],
+      "publish_time": "2026-06-12 00:00",
+      "thumbnail": "https://ir.citi.com/H7R2g55WEEjrS85LIs_esZONmpZna9k6BpoaiKxfPTQtrNPO1no0QofRn_k2KPbb9GzQ39_kExD9G_uMJPRWsQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437150",
+      "title": "KOSPI Upside Looks Intact ... But Be Selective",
+      "summary": "We assess the scope of South Korea's equities rally. We raise our KOSPI target to 10,000 from 8,500, reflecting secular memory earnings growth as well as strong fiscal stimulus, but recommend a selective approach to equities, focusing on stocks with a high-quality earnings growth outlook.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MTUw",
+      "tags": [
+        "Macro Strategy",
+        "Semiconductors",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Fiscal Policy"
+      ],
+      "publish_time": "2026-06-12 11:50",
+      "thumbnail": "https://ir.citi.com/TGK8vYwygZ4mW1inEA7hMCaJKVvnrwkM_614vaxQ5hr_p9f8IRvHowTz64cWzgTwhGkM98jjca1-Fa31FKWDMA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437081",
+      "title": "How Low Can E&Ps Take Leverage?",
+      "summary": "The U.S. E&P sector could be on the cusp of a generational deleveraging cycle, driven by a structurally re-rated commodity curve, sustained capital discipline and operational efficiency gains. We explore this thesis in more depth herein, note key risks, and review our preferred names.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDgx",
+      "tags": [
+        "Oil & Gas Exploration and Production",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-06-12 06:00",
+      "thumbnail": "https://ir.citi.com/iltm46feM2aohay9qPXrm0h3YMsYOtWXWDC3YUmpvgkSRZR2KFycleC7j0KD9rFVO8dxR0p-HwgR4q0pw1uoDg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437069",
+      "title": "Key Takeaways From Our European Healthcare Leaders Conference",
+      "summary": "We provide key takeaways from our European Healthcare Leaders Conference for the big European Pharma names. We hosted management from AstraZeneca, Novartis, Novo Nordisk, Roche and Sanofi, with analysis from those conversations in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDY5",
+      "tags": [
+        "Corporate Events/Special Situations",
+        "Phamaceuticals",
+        "Biotechnology"
+      ],
+      "publish_time": "2026-06-12 00:00",
+      "thumbnail": "https://ir.citi.com/dGhgsf6yNvGt17kZlOMvlwdl8V4L9AnIgJT__-apFsA8T7Ij2-roybDA_logsxcG5f77IcR-L334VQD_NibMEw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437089",
+      "title": "U.S. Regional Banks: Conference Takeaways",
+      "summary": "Our second annual Regional Bank Day saw management teams from SMID banks paint a broadly constructive picture, defined by healthy loan-growth trends, waning deposit-costs capture, resilient credit quality and a renewed focus on capital efficiency. We offer further takeaways in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDg5",
+      "tags": [
+        "Regional Banks",
+        "Small/Mid-Cap",
+        "Corporate Events/Special Situations"
+      ],
+      "publish_time": "2026-06-12 05:00",
+      "thumbnail": "https://ir.citi.com/-FEEdBg7s4uT1RZuaduv7msQpBqj-gcNU0pCrYNLlU1CKX43LWOfjT9vdRDiIldFrXnjjQOer0_tBTEvfdFR3w%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437020",
+      "title": "AI at the Edge: Verification, Agents and Infrastructure",
+      "summary": "Two recent events gave us a map of applied AI's frontier: one on the infrastructure and deployment layer, the other on the trust and reliability problem that becomes more urgent the more AI gets deployed. The industry is now wrestling with harder, less glamorous problems, as explored here.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDIw",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Application Software"
+      ],
+      "publish_time": "2026-06-11 15:09",
+      "thumbnail": "https://ir.citi.com/xJGjrQFO5DwkvsBGgb5WSpCDbJSVeOqEeZLIYJX6h5Dfhew6kKrtG8WxDfRVxYQNsYXkDshQCearirbNreFFXw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437062",
+      "title": "Retail Weekend Reading: Revisiting the First Half's Hot Topics",
+      "summary": "As has become our summer tradition, we use this week's Retail Weekend Reading to take a look back at topics we discussed in our notes from the first half of the year. We include links to the original notes, summaries, and updates to key charts, data and views.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDYy",
+      "tags": [
+        "Apparel & Footwear",
+        "Supermarkets",
+        "Retailing - Broadlines",
+        "Retailing - Department Stores",
+        "Retailing - Softlines",
+        "Retailing - Specialty",
+        "Retail Weekend Reading"
+      ],
+      "publish_time": "2026-06-12 05:00",
+      "thumbnail": "https://ir.citi.com/n2QV4hk6-B7i5_F3KWBPM-X6ONdRY1uEtmtVGudmKy3ln_T680IezQ59UvI5b_1-WglQeS4MkBYNB0V8GaWwsA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437047",
+      "title": "European Rates Weekly: When, Not If?",
+      "summary": "The next ECB hike seems more a question of when — July or September — than if. As far as the ECB’s balance-sheet outlook is concerned, we argue that the backdrop for short-dated repo rates should remain benign, but further excess liquidity distribution will get harder from here.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MDQ3",
+      "tags": [
+        "Trade Idea",
+        "Monetary Policy",
+        "Macro Strategy",
+        "Flagship",
+        "European Rates Weekly"
+      ],
+      "publish_time": "2026-06-11 19:53",
+      "thumbnail": "https://ir.citi.com/MnJU4zHDqOZdCMr7rNzXiPSHOWbgeOUit4BEF-z24TznlpPwqErrdXfxoo2Q_4YTBoX7U7WpJk6KJ9n03Ho3eA%3D%3D"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T10:34:53.791567+00:00",
+  "fetched_at": "2026-06-18T22:34:28.761378+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -215,107 +215,12 @@
         }
       ],
       "tags": [
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs",
         "REITs & Real Estate Services",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
       ],
       "publish_time": "2026-06-17"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5324996-0",
-      "publication_id": "KAL-1-4UHI9TT7",
-      "title": "JPM Healthcare Team",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5324996-0",
-      "authors": [
-        {
-          "name": "Chris Schott, CFA",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "christopher.t.schott@jpmorgan.com"
-        },
-        {
-          "name": "Jessica Fye",
-          "team": "Biotechnology - Large Cap",
-          "email": "jessica.m.fye@jpmorgan.com"
-        },
-        {
-          "name": "Robbie Marcus, CFA",
-          "team": "Medical Supplies & Devices",
-          "email": "robert.j.marcus@jpmorgan.com"
-        },
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "Anupam Rama",
-          "team": "SMid Biotechnology",
-          "email": "anupam.rama@jpmorgan.com"
-        },
-        {
-          "name": "Casey Woodring",
-          "team": "Life Science Tools & Diagnostics",
-          "email": "casey.woodring@jpmchase.com"
-        },
-        {
-          "name": "Tessa T Romero",
-          "team": "SMid Biotechnology",
-          "email": "tessa.t.romero@jpmchase.com"
-        },
-        {
-          "name": "Brian Cheng",
-          "team": "SMid Biotechnology",
-          "email": "brian.cheng@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Medical Supplies & Devices",
-        "SMid Biotechnology",
-        "Life Science Tools & Diagnostics",
-        "Managed Care and Facilities",
-        "Biotechnology - Large Cap",
-        "Pharmaceuticals — Major & Specialty"
-      ],
-      "publish_time": "2026-06-04"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5324954-0",
-      "publication_id": "GPS-5328555-0",
-      "title": "China Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5324954-0",
-      "authors": [
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Alex Yao",
-          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
-          "email": "alex.yao@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
-      ],
-      "publish_time": "2026-06-04"
     },
     {
       "platform": "JPM",
@@ -376,8 +281,8 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
     },
@@ -416,8 +321,8 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
     }
