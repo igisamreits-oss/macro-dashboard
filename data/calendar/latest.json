@@ -1,9 +1,30 @@
 {
-  "fetched_at": "2026-06-18T22:31:32.237715+00:00",
-  "window_start": "2026-06-12",
-  "window_end": "2026-07-17",
+  "fetched_at": "2026-06-18T22:34:59.536857+00:00",
+  "window_start": "2026-06-11",
+  "window_end": "2026-07-16",
   "source": "schedule.yml",
   "events": [
+    {
+      "date": "2026-06-11",
+      "country": "EU",
+      "indicator_id": "ecb",
+      "time_kst": "21:15",
+      "note": "라가르드 회견 21:45"
+    },
+    {
+      "date": "2026-06-11",
+      "country": "US",
+      "indicator_id": "us_cpi_yoy",
+      "time_kst": "21:30",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-11",
+      "country": "US",
+      "indicator_id": "us_core_cpi_yoy",
+      "time_kst": "21:30",
+      "note": "May (est)"
+    },
     {
       "date": "2026-06-16",
       "country": "JP",
