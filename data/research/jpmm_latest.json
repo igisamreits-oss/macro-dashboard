@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-19T10:34:46.441867+00:00",
+  "fetched_at": "2026-06-19T22:35:13.547164+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -128,12 +128,37 @@
         }
       ],
       "tags": [
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs",
         "REITs & Real Estate Services",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
+        "REITs"
       ],
       "publish_time": "2026-06-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5341470-0",
+      "publication_id": "GPS-5342474-0",
+      "title": "Transition Talks",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5341470-0",
+      "authors": [
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        },
+        {
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research"
+      ],
+      "publish_time": "2026-06-19"
     },
     {
       "platform": "JPM",
@@ -170,8 +195,8 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
     },
@@ -210,10 +235,34 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5336514-0",
+      "publication_id": "GPS-5342246-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5336514-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-06-18"
     }
   ]
 }
