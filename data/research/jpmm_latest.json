@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T22:34:28.761378+00:00",
+  "fetched_at": "2026-06-19T10:34:46.441867+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -58,93 +58,6 @@
         "Managed Care and Facilities"
       ],
       "publish_time": "2026-06-08"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5320947-0",
-      "publication_id": "KAL-1-FMTT4RFT",
-      "title": "Edgewise Therapeutics",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5320947-0",
-      "authors": [
-        {
-          "name": "Tessa T Romero",
-          "team": "SMid Biotechnology",
-          "email": "tessa.t.romero@jpmchase.com"
-        },
-        {
-          "name": "Caroline Pocher",
-          "team": "SMid Biotechnology",
-          "email": "caroline.pocher@jpmchase.com"
-        },
-        {
-          "name": "Mariam Waggeh",
-          "team": "SMid Biotechnology",
-          "email": "mariam.waggeh@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "SMid Biotechnology"
-      ],
-      "publish_time": "2026-06-05"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5323371-0",
-      "publication_id": "KAL-1-FMTT4RFT",
-      "title": "Cytokinetics",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5323371-0",
-      "authors": [
-        {
-          "name": "Tessa T Romero",
-          "team": "SMid Biotechnology",
-          "email": "tessa.t.romero@jpmchase.com"
-        },
-        {
-          "name": "Caroline Pocher",
-          "team": "SMid Biotechnology",
-          "email": "caroline.pocher@jpmchase.com"
-        },
-        {
-          "name": "Mariam Waggeh",
-          "team": "SMid Biotechnology",
-          "email": "mariam.waggeh@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "SMid Biotechnology"
-      ],
-      "publish_time": "2026-06-05"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5326534-0",
-      "publication_id": "KAL-1-FMTT4RFT",
-      "title": "Edgewise Therapeutics",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5326534-0",
-      "authors": [
-        {
-          "name": "Tessa T Romero",
-          "team": "SMid Biotechnology",
-          "email": "tessa.t.romero@jpmchase.com"
-        },
-        {
-          "name": "Caroline Pocher",
-          "team": "SMid Biotechnology",
-          "email": "caroline.pocher@jpmchase.com"
-        },
-        {
-          "name": "Mariam Waggeh",
-          "team": "SMid Biotechnology",
-          "email": "mariam.waggeh@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "SMid Biotechnology"
-      ],
-      "publish_time": "2026-06-05"
     },
     {
       "platform": "JPM",
@@ -215,36 +128,12 @@
         }
       ],
       "tags": [
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
         "REITs",
         "REITs & Real Estate Services",
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
       ],
       "publish_time": "2026-06-17"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5323992-0",
-      "publication_id": "GPS-5328191-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5323992-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-06-05"
     },
     {
       "platform": "JPM",
@@ -281,8 +170,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     },
@@ -321,8 +210,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     }
