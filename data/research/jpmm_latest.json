@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T15:49:59.295205+00:00",
+  "fetched_at": "2026-06-22T10:34:53.127925+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -24,40 +24,6 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-06-12"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5326769-0",
-      "publication_id": "KAL-1-1BK956JF",
-      "title": "Healthcare Services",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5326769-0",
-      "authors": [
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "John Stansel, CFA",
-          "team": "Managed Care and Facilities",
-          "email": "john.stansel@jpmorgan.com"
-        },
-        {
-          "name": "Benjamin Rossi",
-          "team": "Managed Care and Facilities",
-          "email": "benjamin.rossi@jpmorgan.com"
-        },
-        {
-          "name": "Cole Harris",
-          "team": "Managed Care and Facilities",
-          "email": "cole.harris@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Managed Care and Facilities"
-      ],
-      "publish_time": "2026-06-08"
     },
     {
       "platform": "JPM",
@@ -128,10 +94,70 @@
         }
       ],
       "tags": [
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs",
         "REITs & Real Estate Services",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
+      ],
+      "publish_time": "2026-06-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5338648-0",
+      "publication_id": "GPS-5341411-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5338648-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Mixo Das",
+          "team": "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+          "email": "mixo.das@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        },
+        {
+          "name": "Gokul Hariharan",
+          "team": "Technology and Telecoms",
+          "email": "gokul.hariharan@jpmorgan.com"
+        },
+        {
+          "name": "Billy Feng",
+          "team": "Technology",
+          "email": "billy.feng@jpmorgan.com"
+        },
+        {
+          "name": "Olivia Xu",
+          "team": "Internet",
+          "email": "olivia.w.xu@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Technology",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Internet",
+        "China & HK Equity strategy",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "Technology and Telecoms",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-17"
     },
@@ -155,8 +181,8 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-06-19"
     },

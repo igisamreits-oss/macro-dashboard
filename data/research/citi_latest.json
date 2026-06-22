@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T15:47:54.407970+00:00",
+  "fetched_at": "2026-06-22T10:32:48.087350+00:00",
   "items": [
     {
       "platform": "Citi",
@@ -358,20 +358,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30437310",
-      "title": "Global Commodities: Cocoa Looks Like a Key El Niño Play",
-      "summary": "A strong El Niño now looks much more likely, with cocoa a key play among agricultural commodities as its production is highly concentrated in the areas most impacted. Consequently, we have revised our supply and demand balances and now expect the market to shift into a deficit.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MzEw",
-      "tags": [
-        "Trade Idea",
-        "Commodities Strategy",
-        "Market Forecasts"
-      ],
-      "publish_time": "2026-06-14 17:00",
-      "thumbnail": "https://ir.citi.com/SqhXXFoU1ZB9mgZvd_395TR0zJg3czptSdmUwRY1z27X9CJuweMfBDFVtfQQEmo86GOVYPK09Hn63o7SZaJsEg%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30437399",
       "title": "North America Trucking: What’s Priced In? LTL Edition",
       "summary": "We follow our What’s Priced In? Truckload note with an examination of upside scenarios for LTLs. Based on this analysis, we downgrade ODFL to Sell and SAIA, KNX and CHRW to Neutral, as it becomes increasingly difficult to identify meaningful upside on fundamentals.",
@@ -390,18 +376,17 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30437287",
-      "title": "We're Upgrading Paychex to Buy",
-      "summary": "We're upgrading Paychex to Buy, with a $140 target price. We expect organic revenue growth to accelerate in FY27 given a host of tailwinds and think a 4.73% dividend yield limits downside and remains attractive to investors, while valuation remains well below historical norms.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Mjg3",
+      "doc_id": "30437310",
+      "title": "Global Commodities: Cocoa Looks Like a Key El Niño Play",
+      "summary": "A strong El Niño now looks much more likely, with cocoa a key play among agricultural commodities as its production is highly concentrated in the areas most impacted. Consequently, we have revised our supply and demand balances and now expect the market to shift into a deficit.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MzEw",
       "tags": [
-        "Commercial Services",
-        "Target Price Change",
-        "Estimate Change",
-        "Rating Change"
+        "Trade Idea",
+        "Commodities Strategy",
+        "Market Forecasts"
       ],
-      "publish_time": "2026-06-14 16:00",
-      "thumbnail": "https://ir.citi.com/3z9F-ldM0cdbIV04tfpOFNT3OXSvPJnFwl_pBeUqezMZM-GBjtXm_K5jcOdC4R_LV-ygvDwNdAC6gSCzyCYCKA%3D%3D"
+      "publish_time": "2026-06-14 17:00",
+      "thumbnail": "https://ir.citi.com/SqhXXFoU1ZB9mgZvd_395TR0zJg3czptSdmUwRY1z27X9CJuweMfBDFVtfQQEmo86GOVYPK09Hn63o7SZaJsEg%3D%3D"
     },
     {
       "platform": "Citi",
@@ -417,6 +402,21 @@
       ],
       "publish_time": "2026-06-15 03:07",
       "thumbnail": "https://ir.citi.com/Z6bSEzFQpV-vaKOKPMMvpe1SGXAt6wlxqMEm-zLT6LKczevhe6WOtTSkHN3i039d5mdOdRjMc1WrjJoF7zXLFQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30437287",
+      "title": "We're Upgrading Paychex to Buy",
+      "summary": "We're upgrading Paychex to Buy, with a $140 target price. We expect organic revenue growth to accelerate in FY27 given a host of tailwinds and think a 4.73% dividend yield limits downside and remains attractive to investors, while valuation remains well below historical norms.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Mjg3",
+      "tags": [
+        "Commercial Services",
+        "Target Price Change",
+        "Estimate Change",
+        "Rating Change"
+      ],
+      "publish_time": "2026-06-14 16:00",
+      "thumbnail": "https://ir.citi.com/3z9F-ldM0cdbIV04tfpOFNT3OXSvPJnFwl_pBeUqezMZM-GBjtXm_K5jcOdC4R_LV-ygvDwNdAC6gSCzyCYCKA%3D%3D"
     },
     {
       "platform": "Citi",
