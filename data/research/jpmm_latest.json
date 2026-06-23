@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T22:34:26.389471+00:00",
+  "fetched_at": "2026-06-23T10:34:44.792144+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -94,10 +94,10 @@
         }
       ],
       "tags": [
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "REITs & Real Estate Services",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs",
-        "REITs & Real Estate Services"
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "REITs"
       ],
       "publish_time": "2026-06-17"
     },
@@ -171,13 +171,13 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "Metals & Mining",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Oil & Gas Exploration & Production",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
-        "Large Cap Oil & Gas Exploration & Production"
+        "Oil & Gas Exploration & Production",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Metals & Mining",
+        "Utilities and Midstream",
+        "Large Cap Oil & Gas Exploration & Production",
+        "Utilities and Midstream/Utilities and Power"
       ],
       "publish_time": "2026-06-18"
     },
@@ -231,13 +231,13 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
-        "Utilities, Midstream, LNG, and Nuclear",
         "North America Corporate Credit - Electric Utilities",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities, Midstream, LNG, and Nuclear",
+        "Oil & Gas Exploration & Production",
+        "Utilities and Midstream",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power"
       ],
       "publish_time": "2026-06-18"
     },
@@ -281,10 +281,10 @@
         }
       ],
       "tags": [
-        "European Oil & Gas",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "European Oil & Gas",
+        "Large Cap Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-18"
     },
@@ -338,13 +338,13 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Technology and Telecoms",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Internet",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Technology",
-        "Technology and Telecoms"
+        "Internet"
       ],
       "publish_time": "2026-06-17"
     },
@@ -368,8 +368,8 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-06-19"
     },
@@ -408,8 +408,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     },
@@ -448,8 +448,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     },
