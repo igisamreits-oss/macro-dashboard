@@ -1,6 +1,24 @@
 {
-  "fetched_at": "2026-06-23T10:32:42.786479+00:00",
+  "fetched_at": "2026-06-23T22:32:13.759892+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30438823",
+      "title": "Inflation Weekly: What Inflation Will the Fed Care About?",
+      "summary": "We take stock of the various drivers of inflation data through 2026's first half. The debate around these drivers and how best to measure inflation will become an increasing focus with new Fed task forces. We expect upcoming data to further highlight the divergence among inflation signals.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4ODIz",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation",
+        "Inflation Weekly"
+      ],
+      "publish_time": "2026-06-22 17:35",
+      "thumbnail": "https://ir.citi.com/Zsdvw-K0OU585MWTeW6hYhG-1UXaqFUEqJ57_TR2vSGeB4wNYk1NWGMNsz_QUMuIZ_KEE4Hb2-UWO4dqBydMzw%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30438572",
@@ -16,6 +34,35 @@
       ],
       "publish_time": "2026-06-22 14:15",
       "thumbnail": "https://ir.citi.com/de4V4qCz65mtBLdhkuvrGB99Sniz8qcAAAjyx2SEoAzZOttyiBJcSwJUv64uGDAw88siO6bxBcJ8IH5ceyPbKg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30438828",
+      "title": "Quantitative Global Macro Strategy: Iran and Goldilocks?",
+      "summary": "We examine QIS systematic strategy performance in different regimes. Our macro-regime clustering model points to a \"Normal\" environment, but recent oil-price declines and resilient economic data suggest a potential move toward a higher-growth, lower-inflation \"Goldilocks\" environment.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4ODI4",
+      "tags": [
+        "Asset Allocation",
+        "Cross Asset Strategy",
+        "Macro Strategy",
+        "Quantitative Global Macro Strategy"
+      ],
+      "publish_time": "2026-06-22 19:22",
+      "thumbnail": "https://ir.citi.com/MuEigUPOBJ2QHHXzniS3_Ex2ofioxYI-qOVO4A3YsOthUOMdi7StQkAGl_roEc9FpzbvgFkmyZJtqbTezdqrnw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30438858",
+      "title": "Equity Markets Positioning Model: Stretched Pockets",
+      "summary": "Global equity positioning improved as risk sentiment strengthened after the U.S.-Iran interim deal. In the US, we see signs of broader participation, but elevated and profitable Nasdaq longs leave risks skewed toward negative catalysts. We also offer Europe and Asia analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4ODU4",
+      "tags": [
+        "Model Portfolio",
+        "Equity Markets Positioning Model",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-06-22 19:54",
+      "thumbnail": "https://ir.citi.com/4DUTOf_Tl33SWtzDKRiv6fciZFQKS6Whdxf0MSBgIosctm6CdRXzavivW7vxEt3Uz32MTuBApf_uttiQuOKNhQ%3D%3D"
     },
     {
       "platform": "Citi",
@@ -427,84 +474,6 @@
       ],
       "publish_time": "2026-06-16 02:17",
       "thumbnail": "https://ir.citi.com/EyT64urn1Sc1aDINLTcW_VZmgmYCSLC7M_SOKSPfoLZXFUWRsYl5beMi8VnM2UGnqBiA1ELUVl8Vamj1bT3yBw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437635",
-      "title": "U.S. Biotech & Pharma: 2026 Halftime Report",
-      "summary": "The Middle East conflict and the pervasive AI-led tech trade have meant a choppier-than-expected ride for Biopharma since early March. But fundamentals remain strong, with robust projected growth in earnings power and a forward P/E of ~17x highlighting potential undervalue to unlock.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NjM1",
-      "tags": [
-        "Biotechnology",
-        "Pharmaceuticals",
-        "Clinical Trials",
-        "M&A/Divestiture",
-        "Artificial Intelligence (AI)",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-06-16 05:49",
-      "thumbnail": "https://ir.citi.com/IhfUPvKPTecqOQkb-UZYvb7-kKB82S__PMBTt_FXYrYJKwmFqXUVNkdVlV2I7HyaN_yiXIvNAWnJFiZOyEq5rw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437347",
-      "title": "Takeaways From Our India Defense Manufacturing Tour",
-      "summary": "Following our tour of key companies and manufacturing facilities, we see India’s defense manufacturing sector as in a phase of structural scale-up and capability enhancement, with an intent to pivot toward integrated systems and proprietary offerings. See company-specific takeaways herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3MzQ3",
-      "tags": [
-        "Aerospace & Defense",
-        "Infrastructure Investment"
-      ],
-      "publish_time": "2026-06-15 01:23",
-      "thumbnail": "https://ir.citi.com/WkavX_YwrOh2kYNNJyGjFLICYrlm7qeVgRlX8pJ6IZAkjqO_AHc2SOajXPNGgoPOFC-5ZsP8DwHhhiOYlWM3Kw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437681",
-      "title": "Global Gas and Power Insights: Further Downside?",
-      "summary": "Despite the recent 15-20% selloff of TTF/JKM, we see further price downside amid de-escalation from the Mideast conflict; for U.S. Henry Hub, timing is important. We offer revised price forecasts and further analysis of what may lie ahead in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njgx",
-      "tags": [
-        "Commodities Strategy",
-        "Geopolitics",
-        "Global Gas and Power Insights"
-      ],
-      "publish_time": "2026-06-16 05:17",
-      "thumbnail": "https://ir.citi.com/UGbqSUdysMcjDJl2vpjpqoCSb5Kldq-Do_J0V5FpL842UdcXE_ROBrpXtkiP3mmKEZJ-rBHee2kyVEZNRT0W8A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437696",
-      "title": "Lone Dissenting Vote on Japan's Rate Hike Is a Dovish Signal",
-      "summary": "Japan raised its policy rate to 1%, as expected, and decided to halt the reduction in JGB purchases from April 2027. As we explore in this note, we see the lone dissenting vote as an important dovish signal for the policy path. We continue to expect additional hikes in December and June.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njk2",
-      "tags": [
-        "Japan Economics",
-        "Central Banks",
-        "Monetary Policy",
-        "Economic Growth"
-      ],
-      "publish_time": "2026-06-16 03:06",
-      "thumbnail": "https://ir.citi.com/xD72dyQkdKpjTIb31i15zK02dNGmoET4u95Nv_xM9-boTL0OyGIyZDmxoJ08MsUdbhZjaw_iUG1PbbgzWqWRSw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437697",
-      "title": "Despite Dovish Murmurs, Australia Is Likely to Hike Again",
-      "summary": "Communications following Australia's neutral to hawkish hold on rates at June's meeting highlighted upside risks to inflation and that further tightening hadn't been ruled out. Therefore, we continue to expect a 25-basis-point hike in August, though risks are tilted toward delayed hiking.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njk3",
-      "tags": [
-        "Inflation",
-        "Labor Market",
-        "Monetary Policy",
-        "Trade Idea",
-        "Australia Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Central Banks"
-      ],
-      "publish_time": "2026-06-16 04:17",
-      "thumbnail": "https://ir.citi.com/Zmv2ApxVUR13pkpwCuTXJlIt3gtKgpcNDOetrqRBF3oIIx0wDBMsCvEaIin3e1W9TyJzOxXeoE-hT-YVPwDVvw%3D%3D"
     }
   ]
 }

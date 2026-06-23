@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T10:34:44.792144+00:00",
+  "fetched_at": "2026-06-23T22:34:17.230389+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -94,10 +94,10 @@
         }
       ],
       "tags": [
+        "REITs",
         "REITs & Real Estate Services",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
       ],
       "publish_time": "2026-06-17"
     },
@@ -171,13 +171,13 @@
         }
       ],
       "tags": [
+        "Utilities and Midstream/Utilities and Power",
+        "Utilities and Midstream",
+        "Metals & Mining",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Metals & Mining",
-        "Utilities and Midstream",
         "Large Cap Oil & Gas Exploration & Production",
-        "Utilities and Midstream/Utilities and Power"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-06-18"
     },
@@ -231,13 +231,13 @@
         }
       ],
       "tags": [
+        "Utilities and Midstream/Utilities and Power",
+        "Utilities and Midstream",
         "North America Corporate Credit - Electric Utilities",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "Utilities, Midstream, LNG, and Nuclear",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -281,9 +281,9 @@
         }
       ],
       "tags": [
+        "European Oil & Gas",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
-        "European Oil & Gas",
         "Large Cap Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-18"
@@ -339,12 +339,12 @@
       ],
       "tags": [
         "Technology and Telecoms",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Technology",
-        "Internet"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Internet",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-06-17"
     },
