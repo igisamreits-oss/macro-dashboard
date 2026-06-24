@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T22:33:15.781248+00:00",
+  "fetched_at": "2026-06-24T10:33:42.952842+00:00",
   "items": [
     {
       "platform": "GS",
@@ -68,9 +68,9 @@
         }
       ],
       "tags": [
+        "Latam Steel & Basic Materials",
         "Equity Research Management",
-        "REITs",
-        "Latam Steel & Basic Materials"
+        "REITs"
       ],
       "publish_time": "2026-06-17"
     },
@@ -265,13 +265,13 @@
         }
       ],
       "tags": [
-        "GS Sustain",
-        "Software",
         "Semiconductors & IT Services",
         "Clean Energy",
+        "Aerospace & Defense",
+        "GS Sustain",
         "Utilities & Ipps",
-        "REITs",
-        "Aerospace & Defense"
+        "Software",
+        "REITs"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1173,9 +1173,9 @@
         }
       ],
       "tags": [
-        "Lodging and Leisure",
+        "Gaming and Lodging",
         "Internet",
-        "Gaming and Lodging"
+        "Lodging and Leisure"
       ],
       "publish_time": "2026-06-02"
     },
