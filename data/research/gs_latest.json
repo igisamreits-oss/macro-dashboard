@@ -1,6 +1,39 @@
 {
-  "fetched_at": "2026-06-24T10:33:42.952842+00:00",
+  "fetched_at": "2026-06-24T22:33:26.491026+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "5054563f-555b-494f-b218-bf9b464f3d3a",
+      "title": "Prologis Inc. (PLD): Announced attempted acquisition of SEGRO",
+      "summary": "PLD announced a proposal to acquire SEGRO in an all-stock transaction valued at an enterprise value of approximately £12.6bn. On June 23, 2026, the Board of SEGRO rejected the proposal. See inside for details of the anno...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/24/5054563f-555b-494f-b218-bf9b464f3d3a.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-24"
+    },
     {
       "platform": "GS",
       "doc_id": "94125504-a203-441f-b9b9-65c3a57be64d",
@@ -68,9 +101,9 @@
         }
       ],
       "tags": [
+        "REITs",
         "Latam Steel & Basic Materials",
-        "Equity Research Management",
-        "REITs"
+        "Equity Research Management"
       ],
       "publish_time": "2026-06-17"
     },
@@ -266,12 +299,12 @@
       ],
       "tags": [
         "Semiconductors & IT Services",
+        "REITs",
+        "Software",
         "Clean Energy",
-        "Aerospace & Defense",
         "GS Sustain",
         "Utilities & Ipps",
-        "Software",
-        "REITs"
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1173,9 +1206,9 @@
         }
       ],
       "tags": [
-        "Gaming and Lodging",
         "Internet",
-        "Lodging and Leisure"
+        "Lodging and Leisure",
+        "Gaming and Lodging"
       ],
       "publish_time": "2026-06-02"
     },
@@ -1208,8 +1241,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "Tactical Research"
+        "Tactical Research",
+        "Equity Research Management"
       ],
       "publish_time": "2026-06-01"
     },
@@ -1271,39 +1304,6 @@
       ],
       "tags": [
         "REITs"
-      ],
-      "publish_time": "2026-05-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "dcfeb1f1-36b4-4139-ad9c-520022bdbc17",
-      "title": "Link REIT (0823.HK): FY26 results inline - Negative rental reversion persists as flagged. Asset disposal could present modest upside in capital return",
-      "summary": "Link REIT reported its Mar-FY26 results at noon on May 28th followed by an analyst briefing later during the same day. Headline net loss of -HK$7.4bn included -HK$13.8bn property revaluation loss mostly attributed to its...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/05/28/dcfeb1f1-36b4-4139-ad9c-520022bdbc17.html",
-      "authors": [
-        {
-          "name": "Simon Cheung",
-          "department": "Conglomerates",
-          "division": "Research"
-        },
-        {
-          "name": "Alpha Wang",
-          "department": "Conglomerates",
-          "division": "Research"
-        },
-        {
-          "name": "Leah Pan",
-          "department": "Conglomerates",
-          "division": "Research"
-        },
-        {
-          "name": "Zhaoheng Chen",
-          "department": "Conglomerates",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Conglomerates"
       ],
       "publish_time": "2026-05-28"
     }

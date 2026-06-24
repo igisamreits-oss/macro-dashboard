@@ -1,6 +1,124 @@
 {
-  "fetched_at": "2026-06-24T10:32:40.494605+00:00",
+  "fetched_at": "2026-06-24T22:32:23.658173+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30439086",
+      "title": "The High-Grade Beat: Everyone’s an AI Adopter",
+      "summary": "Sector labels are losing their power to describe AI risk as the buildout's footprint expands. To price this cross-sector reality, we introduce seven new analytical groupings: Semiconductors, Hardware, Software, Tech Services, AI & Power Generation, Physical AI and Hyperscalers.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MDg2",
+      "tags": [
+        "Relative Value",
+        "Credit Analysis",
+        "Flagship",
+        "The High-Grade Beat",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-06-24 01:18",
+      "thumbnail": "https://ir.citi.com/Xn0Chb4TjnMD7UyrshDrD0KrCXXqreD1eL8mXpN1r4uBtft5_0FB65jmtksYDeGeaXzW0_Q5zcT2VGDKQoniIA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439111",
+      "title": "Natural Gas Equities Biweekly: A Race Gas Producers Should Watch",
+      "summary": "While AI spending continues to climb, gas demand from the power sector hasn’t followed. The headwinds have been growth in solar and to a lesser extent storage; both have pressured gas demand during the daylight and early evening hours. The question explored herein: Will this continue?",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTEx",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Oil & Gas Exploration and Production",
+        "Energy Transition",
+        "Natural Gas Equities Biweekly"
+      ],
+      "publish_time": "2026-06-24 06:00",
+      "thumbnail": "https://ir.citi.com/MOpF0jHOm_JyKHX48d-r5RmTGCM-e3W3mWWMuQVMZhpZUPdlLCqhgugPv_ygB4O7Njk3VOlnMxL1k4MCw-9ZZA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439054",
+      "title": "China Communications Infrastructure: An AI Optics Upcycle",
+      "summary": "The AI infrastructure buildout is triggering a structural upcycle in optical interconnects; we see the global market reaching $92 billion by 2028, a 65% three-year CAGR. In this Deep Dive we offer further analysis, review our top picks, and downgrade T&S Communications to Sell from Buy.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MDU0",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Deep Dive",
+        "Theme Investing",
+        "Annual Outlook",
+        "Rating Change",
+        "Target Price Change",
+        "Estimate Change",
+        "Communications Equipment",
+        "Telecommunications Infrastructure",
+        "Electronic Components & Equipment"
+      ],
+      "publish_time": "2026-06-24 06:10",
+      "thumbnail": "https://ir.citi.com/gjm9wfLZlQlo8iGlRAnvwtVMG9UBUO_ipQWXTsLrQIn5nIBFe8zPFZo7jOjhsoe7vKUZYkpUWr2bhj_zmm2V8g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439133",
+      "title": "U.S. Industrial Technology & Mobility: Automate 2026 Takeaways",
+      "summary": "Our conversations at Automate reinforced our view that industrial-automation adoption continues to inflect, driven by new and existing technologies as well as increasing convergence of automation hardware and software. We sensed AI excitement, but see adoption as still in the early stages.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTMz",
+      "tags": [
+        "Industrial Conglomerates",
+        "Industrial Technology & Mobility",
+        "Artificial Intelligence (AI)",
+        "Automation/Robotics",
+        "Corporate Events/Special Situations"
+      ],
+      "publish_time": "2026-06-23 20:48",
+      "thumbnail": "https://ir.citi.com/GfyYb3qPXYdrwOlDMsET81pu1erj_Zx6eE-JrtQ9W7dUjibrC9dMoNYGC4-M2MeSgDlyE3BJuWG0tls6b-TTaA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439087",
+      "title": "North America Commodity Chemicals: Peace-Narrative Pressures",
+      "summary": "We caught up with Commodity & Intermediate Chemical names ahead of second-quarter reporting. We adjust our estimates broadly downward to reflect the current crude-oil and chemical-supply environment and weaker outlook for spreads. We offer further analysis and review our top picks.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MDg3",
+      "tags": [
+        "Commodity Chemicals",
+        "Specialty Chemicals",
+        "Target Price Change",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-06-24 04:00",
+      "thumbnail": "https://ir.citi.com/JLbxgzVEaHmUic_CaQuSQTiqrNxFXAdsLhVTvogWPBMx8h__Sw1Wmd8W3xwNxlBpzRTEAlz_D0_IVozIfDjAAg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439141",
+      "title": "North America Specialty Chemicals: Second-Quarter Preview",
+      "summary": "Specialty chemical and industrial gas names have fared better than commodity chemicals of late, with de-escalation themes driving the price/cost expansion narrative. We view ECL as a primary beneficiary, as its mission-critical products and services leave it better-positioned than others.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTQx",
+      "tags": [
+        "Specialty Chemicals",
+        "Estimate Change",
+        "Catalyst Watch",
+        "Short-Term View",
+        "Target Price Change",
+        "Earnings Preview",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-06-24 06:07",
+      "thumbnail": "https://ir.citi.com/F18UFIBDoT1ExBX7Cf-HiAOpK1fcEQivITzQOIeSYA5Wi8qpMaBQFslrP4PULUJTOXjksCg2-LakixoCqmT7sQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439153",
+      "title": "Australia Economics: Changing Our Final Rate-Hike Call",
+      "summary": "Following Australia's May monthly CPI numbers, we trim our second-quarter inflation forecasts. We think the data likely give policymakers room to hold rates in August. Rather than an August rate hike, we now see a final 25-basis-point hike in November, reaching a terminal rate of 4.6%.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTUz",
+      "tags": [
+        "Australia Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Inflation",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-06-24 00:45",
+      "thumbnail": "https://ir.citi.com/PE5CvMzw2v0ySElVVIkMn-JPXU14CtD74dBJ_HkG65C14B2u5oUAVLukbPULTj2hyU03kRqnya5L1W5do98zaw%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30438823",
@@ -363,117 +481,6 @@
       ],
       "publish_time": "2026-06-18 06:06",
       "thumbnail": "https://ir.citi.com/fizamjc2eEyAtj6zKYacZpT7A3FU8COEGKe2PQMQ5am5nmG7iRad5hJ_KtsfpgrlIwaeme9BX8oKJLHDEXCO2g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437865",
-      "title": "We're Launching Coverage of Figma with a Buy/High-Risk Rating",
-      "summary": "Despite AI disruption of design and seat compression risks, we believe the market underestimates Figma's offsetting growth from seat mix upgrades, expanding non-designer personas, and rising AI-driven consumption. We're above-consensus on revenue estimates and see several catalysts ahead.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODY1",
-      "tags": [
-        "Application Software",
-        "Initiation of Coverage",
-        "Artificial Intelligence (AI)",
-        "Cloud Computing"
-      ],
-      "publish_time": "2026-06-17 05:28",
-      "thumbnail": "https://ir.citi.com/KELkHpu_oyVbUn3GTfo_bfmeeY9MMOCIfxkKCpejvdwwMgv1iy9u2fuTI3ydLOxQlHBhTGqqYJsVkRrpzH1R5w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437866",
-      "title": "More Conviction on Buy-Rated Datadog Following DASH Conference",
-      "summary": "Datadog's annual DASH customer conference featured a torrent of portfolio updates and expansion that we felt were materially up year over year. Key announcements and robust industry feedback reinforce our conviction in healthy 2H model upside. We raise our target price to $270 from $218.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODY2",
-      "tags": [
-        "Application Software",
-        "Target Price Change",
-        "Artificial Intelligence (AI)",
-        "Cloud Computing",
-        "e-Privacy & Cybersecurity"
-      ],
-      "publish_time": "2026-06-16 23:17",
-      "thumbnail": "https://ir.citi.com/SkEu-XfrZBQ0S8ckxlrsNFZ1YOH2M9yDfHwcdsVkbPunekw0NlWKzlcVIon42DVW1lZBmYiSdIoWyPLNqq8zEA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437883",
-      "title": "U.S. Semiconductor Equipment: $250B Reasons to Stay Long",
-      "summary": "We update our bull-case wafer fab equipment (WFE) revenue forecasts to $145B, $200B, and $250B for 2026, 2027, and 2028; align AMAT, LRCX, and KLAC estimates to our revised WFE model; and lift our price targets on those stocks as we roll forward our price targets based on 2028 earnings.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODgz",
-      "tags": [
-        "Semiconductor Equipment",
-        "Target Price Change",
-        "Estimate Change"
-      ],
-      "publish_time": "2026-06-17 05:00",
-      "thumbnail": "https://ir.citi.com/_BQeUdSRx8paJiti02DQ470Rgx2ZF_FOFqbAKfeVc-Mv18gk-jgCJxDq3xTjhsiN_lp5DUlzDX-epBHTkH1zuA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437821",
-      "title": "U.S. Equity Market Outlook: Iran Conflict Unwind and the Broadening Setup",
-      "summary": "Markets are clearly encouraged that the current Iran negotiations will have a good chance of success. This is most evident in the price of WTI Crude, which has broken to its lowest levels since the early days of the conflict. Meanwhile, the \"broadening\" trade has already kicked in.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODIx",
-      "tags": [
-        "U.S. Equity Strategy"
-      ],
-      "publish_time": "2026-06-16 14:04",
-      "thumbnail": "https://ir.citi.com/-1Zvi4jD9CDmnsh24ujP0Svxyk2kZCS-WMAT5XFc6I0fZzmqcOaKrUNG6KhnFnHvAC4DRPkSyGPbuKSAht4FEA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437700",
-      "title": "Equity Markets Positioning: U.S. Positioning Broadens as Cross-Regional Divergence Builds",
-      "summary": "Global equity positioning remains constructive, but regional dynamics are increasingly divergent. In the U.S., positioning has broadened, but Nasdaq positioning risks remain. In Europe, conviction-driven longs return, and in Asia, a re-emergence of shorts tempers elevated positioning.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3NzAw",
-      "tags": [
-        "Model Portfolio"
-      ],
-      "publish_time": "2026-06-16 08:02",
-      "thumbnail": "https://ir.citi.com/Frp63UoWiolLLcBWQECoPn3vbBFs5H8GEA_XI5SDpaSblbR1dMpXzC-re2ZtGZtOEDAH9y10DX0Obfs092J92w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437861",
-      "title": "Global FX Strategy: EURGBP at Key Levels; Gilt Flows May Be the Key Driver",
-      "summary": "We've had a bullish EURGBP bias – where recent indicators have been suggesting EURGBP should already be higher – yet price is again re-testing the bottom of the range around 0.86. We attribute this to overseas buying of gilts. The main question for GBP is whether such buying will continue.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3ODYx",
-      "tags": [
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-06-16 18:40",
-      "thumbnail": "https://ir.citi.com/zywmG5juzoOw-dGtBOFiAw-1IHBYM8xC2lnNkCsukHz8cdfwhmgC4c__DNgU8fdYNxA4dboWiZ9nt8XPDx9xmA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30436649",
-      "title": "Pricing Pass-Throughs Fuel Japan's Virtuous Cycle",
-      "summary": "In today’s Japan, where a virtuous cycle of wages and prices is increasingly taking hold, companies have become much more proactive on price pass-throughs than during past energy shocks, fueling a shift to a dynamic in which rising costs boost nominal growth. We examine the implications.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM2NjQ5",
-      "tags": [
-        "Macro Strategy",
-        "Macro-to-Micro"
-      ],
-      "publish_time": "2026-06-17 02:35",
-      "thumbnail": "https://ir.citi.com/1RCBgwX0d_b6dH2NfHr-204_nP3Vjv98YBbO93tnK_d6mGpttL8DoSTauYhXsRUBES6HxJP35_aG5bk9vwk9lw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30437688",
-      "title": "China Economics: AI Supercycle Vs. Domestic Stagflation",
-      "summary": "China's K-shaped economy appears to be playing out through the contrast between an AI supercycle and domestic stagflation. AI is driving industrial production and exports, with high-tech IP reaching a five-year high, but domestic demand is faltering. We offer further analysis in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM3Njg4",
-      "tags": [
-        "Economic Analysis",
-        "China Economics",
-        "Artificial Intelligence (AI)",
-        "Fiscal Policy",
-        "Economic Forecast",
-        "Economic Growth"
-      ],
-      "publish_time": "2026-06-16 02:17",
-      "thumbnail": "https://ir.citi.com/EyT64urn1Sc1aDINLTcW_VZmgmYCSLC7M_SOKSPfoLZXFUWRsYl5beMi8VnM2UGnqBiA1ELUVl8Vamj1bT3yBw%3D%3D"
     }
   ]
 }
