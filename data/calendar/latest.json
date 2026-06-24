@@ -1,9 +1,23 @@
 {
-  "fetched_at": "2026-06-24T22:31:30.467765+00:00",
-  "window_start": "2026-06-18",
-  "window_end": "2026-07-23",
+  "fetched_at": "2026-06-24T22:35:02.805338+00:00",
+  "window_start": "2026-06-17",
+  "window_end": "2026-07-22",
   "source": "schedule.yml",
   "events": [
+    {
+      "date": "2026-06-17",
+      "country": "UK",
+      "indicator_id": "uk_cpi_yoy",
+      "time_kst": "15:00",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-17",
+      "country": "UK",
+      "indicator_id": "uk_core_cpi_yoy",
+      "time_kst": "15:00",
+      "note": ""
+    },
     {
       "date": "2026-06-18",
       "country": "US",
@@ -100,13 +114,6 @@
       "country": "CA",
       "indicator_id": "boc",
       "time_kst": "22:45",
-      "note": ""
-    },
-    {
-      "date": "2026-07-23",
-      "country": "EU",
-      "indicator_id": "ecb",
-      "time_kst": "21:15",
       "note": ""
     }
   ]
