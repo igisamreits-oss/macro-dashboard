@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-24T22:34:28.761784+00:00",
+  "fetched_at": "2026-06-25T10:34:39.397594+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -60,8 +60,8 @@
         }
       ],
       "tags": [
-        "Software - Large Cap / Mid & Small Cap",
-        "IT Hardware/ Telecom & Networking Equipment"
+        "IT Hardware/ Telecom & Networking Equipment",
+        "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-12"
     },
@@ -95,59 +95,12 @@
         }
       ],
       "tags": [
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "REITs",
-        "REITs & Real Estate Services"
+        "REITs & Real Estate Services",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
       ],
       "publish_time": "2026-06-17"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5337078-0",
-      "publication_id": "KAL-1-YIQKBL0C",
-      "title": "E&P, Integrateds and Refiners",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5337078-0",
-      "authors": [
-        {
-          "name": "Arun Jayaram",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "arun.jayaram@jpmchase.com"
-        },
-        {
-          "name": "Pankaj Bhatter, CFA",
-          "team": "Large Cap Oil & Gas Exploration & Production",
-          "email": "pankaj.bhatter@jpmchase.com"
-        },
-        {
-          "name": "Jack Jerusalmi",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "jack.jerusalmi@jpmorgan.com"
-        },
-        {
-          "name": "Kartikey H Pandey",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "kartikey.pandey@jpmorgan.com"
-        },
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Matthew Lofting, CFA",
-          "team": "European Oil & Gas",
-          "email": "matthew.lofting@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Large Cap Oil & Gas Exploration & Production",
-        "European Oil & Gas",
-        "Oil & Gas Exploration & Production"
-      ],
-      "publish_time": "2026-06-18"
     },
     {
       "platform": "JPM",
@@ -219,13 +172,60 @@
         }
       ],
       "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Metals & Mining",
-        "Utilities and Midstream",
-        "Oil & Gas Exploration & Production",
         "Large Cap Oil & Gas Exploration & Production",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
+        "Metals & Mining",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Oil & Gas Exploration & Production",
         "Utilities and Midstream/Utilities and Power"
+      ],
+      "publish_time": "2026-06-18"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5337078-0",
+      "publication_id": "KAL-1-YIQKBL0C",
+      "title": "E&P, Integrateds and Refiners",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5337078-0",
+      "authors": [
+        {
+          "name": "Arun Jayaram",
+          "team": "Oil & Gas Exploration & Production",
+          "email": "arun.jayaram@jpmchase.com"
+        },
+        {
+          "name": "Pankaj Bhatter, CFA",
+          "team": "Large Cap Oil & Gas Exploration & Production",
+          "email": "pankaj.bhatter@jpmchase.com"
+        },
+        {
+          "name": "Jack Jerusalmi",
+          "team": "Oil & Gas Exploration & Production",
+          "email": "jack.jerusalmi@jpmorgan.com"
+        },
+        {
+          "name": "Kartikey H Pandey",
+          "team": "Oil & Gas Exploration & Production",
+          "email": "kartikey.pandey@jpmorgan.com"
+        },
+        {
+          "name": "Jeremy Tonet, CFA",
+          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "jeremy.b.tonet@jpmorgan.com"
+        },
+        {
+          "name": "Matthew Lofting, CFA",
+          "team": "European Oil & Gas",
+          "email": "matthew.lofting@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "European Oil & Gas",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Oil & Gas Exploration & Production",
+        "Large Cap Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-18"
     },
@@ -280,12 +280,12 @@
       ],
       "tags": [
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "North America Corporate Credit - Electric Utilities",
         "Utilities and Midstream",
+        "Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power"
       ],
       "publish_time": "2026-06-18"
     },
@@ -339,13 +339,13 @@
         }
       ],
       "tags": [
-        "Technology and Telecoms",
-        "China & HK Equity strategy",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "Technology and Telecoms",
         "Internet",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Technology",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-06-17"
     },
@@ -369,8 +369,8 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-06-19"
     },
@@ -409,8 +409,8 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
     },
@@ -449,8 +449,8 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
     },
