@@ -1,37 +1,9 @@
 {
-  "fetched_at": "2026-06-25T22:34:49.594241+00:00",
-  "window_start": "2026-06-18",
-  "window_end": "2026-07-23",
+  "fetched_at": "2026-06-26T02:58:47.349964+00:00",
+  "window_start": "2026-06-19",
+  "window_end": "2026-07-24",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-06-18",
-      "country": "US",
-      "indicator_id": "fomc",
-      "time_kst": "03:00",
-      "note": "SEP + 회견 03:30"
-    },
-    {
-      "date": "2026-06-18",
-      "country": "EU",
-      "indicator_id": "eu_hicp_yoy",
-      "time_kst": "18:00",
-      "note": "May final"
-    },
-    {
-      "date": "2026-06-18",
-      "country": "EU",
-      "indicator_id": "eu_core_hicp_yoy",
-      "time_kst": "18:00",
-      "note": ""
-    },
-    {
-      "date": "2026-06-18",
-      "country": "UK",
-      "indicator_id": "boe",
-      "time_kst": "20:00",
-      "note": ""
-    },
     {
       "date": "2026-06-19",
       "country": "JP",
