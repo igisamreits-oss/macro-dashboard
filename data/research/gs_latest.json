@@ -1,6 +1,72 @@
 {
-  "fetched_at": "2026-06-25T22:33:16.397126+00:00",
+  "fetched_at": "2026-06-26T10:33:53.887655+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "44803201-3e62-48f8-88f5-78423c0520f7",
+      "title": "Americas Real Estate: REITs: Rates move, REITs do what? A look across performance and correlations",
+      "summary": "As interest rates move, investors often ask how REITs are likely to perform. To address this, we assess across periods of increasing and decreasing interest rates: (1) REIT performance relative to the S&P 500, (2) Subsec...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/26/44803201-3e62-48f8-88f5-78423c0520f7.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-26"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "fa9c653c-ce33-41cf-8a73-563476c32218",
+      "title": "Lineage Inc. (LINE): USDA check-in for May '26: Strong y/y trends continue, while seasonal headwinds are somewhat muted",
+      "summary": "Given investor focus on LINE's occupancy and inventory trends, we share USDA May data (released on 6/25/26), compare it versus historical trends, and review how 2026 seasonality is trending. We realize there are many way...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/25/fa9c653c-ce33-41cf-8a73-563476c32218.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-25"
+    },
     {
       "platform": "GS",
       "doc_id": "5054563f-555b-494f-b218-bf9b464f3d3a",
@@ -101,8 +167,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
         "Latam Steel & Basic Materials",
+        "Equity Research Management",
         "REITs"
       ],
       "publish_time": "2026-06-17"
@@ -299,12 +365,12 @@
       ],
       "tags": [
         "Clean Energy",
-        "Utilities & Ipps",
         "Semiconductors & IT Services",
-        "Aerospace & Defense",
         "REITs",
+        "Aerospace & Defense",
+        "Software",
         "GS Sustain",
-        "Software"
+        "Utilities & Ipps"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1206,9 +1272,9 @@
         }
       ],
       "tags": [
-        "Lodging and Leisure",
         "Gaming and Lodging",
-        "Internet"
+        "Internet",
+        "Lodging and Leisure"
       ],
       "publish_time": "2026-06-02"
     },
@@ -1245,67 +1311,6 @@
         "Tactical Research"
       ],
       "publish_time": "2026-06-01"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "0ef0116c-08b6-4f5a-81ed-7e5d3252d462",
-      "title": "Price Target Update: LINE and HPP",
-      "summary": "We update our LINE and HPP multiples and price targets to reflect positive industry data and the refreshed relationship (including market movement) between REIT growth rates and NTM AFFO multiples.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/05/29/0ef0116c-08b6-4f5a-81ed-7e5d3252d462.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-05-29"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "fdaf1ff1-99c4-46cf-894c-ec4452a41de8",
-      "title": "Millrose Properties Inc. (MRP): Updating Estimates for 1Q26 Results",
-      "summary": "We are updating our model estimates and price target after the company reported 1Q26 results, which were in-line GS estimates on a Core EPS basis but ahead on an AFFO basis. Our 2027 estimates shift lower to reflect the ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/05/28/fdaf1ff1-99c4-46cf-894c-ec4452a41de8.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-05-28"
     }
   ]
 }
