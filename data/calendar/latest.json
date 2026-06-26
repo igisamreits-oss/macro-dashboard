@@ -1,30 +1,9 @@
 {
-  "fetched_at": "2026-06-26T10:35:29.217089+00:00",
-  "window_start": "2026-06-19",
-  "window_end": "2026-07-24",
+  "fetched_at": "2026-06-26T22:31:47.714184+00:00",
+  "window_start": "2026-06-20",
+  "window_end": "2026-07-25",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-06-19",
-      "country": "JP",
-      "indicator_id": "jp_cpi_yoy",
-      "time_kst": "08:30",
-      "note": "May (est)"
-    },
-    {
-      "date": "2026-06-19",
-      "country": "JP",
-      "indicator_id": "jp_core_cpi",
-      "time_kst": "08:30",
-      "note": ""
-    },
-    {
-      "date": "2026-06-19",
-      "country": "JP",
-      "indicator_id": "jp_core_core",
-      "time_kst": "08:30",
-      "note": "May (est)"
-    },
     {
       "date": "2026-06-23",
       "country": "SG",
