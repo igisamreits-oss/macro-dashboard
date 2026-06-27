@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-26T22:33:47.967224+00:00",
+  "fetched_at": "2026-06-27T13:09:21.301206+00:00",
   "items": [
     {
       "platform": "GS",
@@ -167,9 +167,9 @@
         }
       ],
       "tags": [
-        "Latam Steel & Basic Materials",
+        "REITs",
         "Equity Research Management",
-        "REITs"
+        "Latam Steel & Basic Materials"
       ],
       "publish_time": "2026-06-17"
     },
@@ -359,18 +359,18 @@
         },
         {
           "name": "Lal Kablan",
-          "department": "Semiconductors & IT Services",
-          "division": "Research"
+          "department": null,
+          "division": null
         }
       ],
       "tags": [
-        "Software",
-        "Semiconductors & IT Services",
-        "Clean Energy",
-        "Aerospace & Defense",
-        "GS Sustain",
         "Utilities & Ipps",
-        "REITs"
+        "Clean Energy",
+        "Software",
+        "GS Sustain",
+        "REITs",
+        "Aerospace & Defense",
+        "Semiconductors & IT Services"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1273,8 +1273,8 @@
       ],
       "tags": [
         "Internet",
-        "Lodging and Leisure",
-        "Gaming and Lodging"
+        "Gaming and Lodging",
+        "Lodging and Leisure"
       ],
       "publish_time": "2026-06-02"
     },
@@ -1307,8 +1307,8 @@
         }
       ],
       "tags": [
-        "Tactical Research",
-        "Equity Research Management"
+        "Equity Research Management",
+        "Tactical Research"
       ],
       "publish_time": "2026-06-01"
     }
