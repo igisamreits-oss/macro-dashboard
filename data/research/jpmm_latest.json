@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T13:10:24.278646+00:00",
+  "fetched_at": "2026-06-28T01:10:08.353115+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -31,10 +31,10 @@
         }
       ],
       "tags": [
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "REITs",
-        "REITs & Real Estate Services"
+        "REITs & Real Estate Services",
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
       ],
       "publish_time": "2026-06-17"
     },
@@ -108,13 +108,13 @@
         }
       ],
       "tags": [
-        "Metals & Mining",
         "Utilities and Midstream",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Utilities and Midstream/Utilities and Power",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production"
+        "Large Cap Oil & Gas Exploration & Production",
+        "Utilities and Midstream/Utilities and Power",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Metals & Mining"
       ],
       "publish_time": "2026-06-18"
     },
@@ -168,13 +168,13 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
-        "North America Corporate Credit - Electric Utilities",
         "Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Oil & Gas Exploration & Production"
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
+        "North America Corporate Credit - Electric Utilities",
+        "Oil & Gas Exploration & Production",
+        "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -218,10 +218,10 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Oil & Gas Exploration & Production",
+        "Large Cap Oil & Gas Exploration & Production",
         "European Oil & Gas",
-        "Large Cap Oil & Gas Exploration & Production"
+        "Oil & Gas Exploration & Production",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -284,9 +284,9 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream"
       ],
       "publish_time": "2026-06-25"
@@ -326,10 +326,10 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
         "Utilities, Midstream, LNG, and Nuclear",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
+        "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
@@ -393,9 +393,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-25"
     },
@@ -451,11 +451,11 @@
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Technology",
+        "Technology and Telecoms",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Internet",
-        "Technology and Telecoms"
+        "Internet"
       ],
       "publish_time": "2026-06-17"
     },
@@ -519,8 +519,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     },
@@ -559,8 +559,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
+        "Retailing – Broadlines & Hardlines / Leisure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-06-16"
     },
