@@ -1,6 +1,176 @@
 {
-  "fetched_at": "2026-06-29T10:32:51.724151+00:00",
+  "fetched_at": "2026-06-29T22:32:41.537239+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30439374",
+      "title": "Must C: Overcoming Gridlock 2.0",
+      "summary": "Power-grid expansion appears unable to keep pace with strong demand and supply growth, constrained by supply-chain challenges and many regions' permitting frameworks. In this report we explore solutions to ease grid constraints and accelerate AI deployment and energy-security transitions.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5Mzc0",
+      "tags": [
+        "Power infrastructure",
+        "Energy",
+        "Must C",
+        "Artificial Intelligence (AI)",
+        "Energy Transition",
+        "Supply Chains",
+        "Regulation"
+      ],
+      "publish_time": "2026-06-28 17:00",
+      "thumbnail": "https://ir.citi.com/uH0hbh2CinMq6tklciYjGWeiEkgItof-ZbGt_8Gdl__yThspdiPeUBWFa2CHNedKHuAG1DqKcMUdV4tcVKPtYQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30440216",
+      "title": "Mexico Faces Lack of a Short-Term Catalyst, Eyes USMCA Updates",
+      "summary": "USMCA talks have missed the deadline and may extend into 2027, suppressing investment. We reiterate our 2026 year-end S&P IPC target price of 70,000 and set a mid-2027 target of 73,000, with the S&P IPC likely range-bound in the second half. We offer notes on other asset classes herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMjE2",
+      "tags": [
+        "Mexico Economics",
+        "Trade",
+        "Central Banks",
+        "Monetary Policy",
+        "Macro Strategy",
+        "Emerging Markets"
+      ],
+      "publish_time": "2026-06-29 13:15",
+      "thumbnail": "https://ir.citi.com/QGMc1lDWxMVaWL8GSGl-_MVYn9WFd1sWrDS0_GTEp_jzDhZJFzeReTUkUPYpEPyfZIkLrGHpIQQGNTjMJlLK9g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30440199",
+      "title": "Global Emerging Markets Strategy: The EM Strategist",
+      "summary": "We believe high-yielding emerging markets can stay resilient despite rising U.S. real yields and a stronger USD. Many EM central banks have maintained less dovish policies than anticipated, supporting high real rates, building substantial FX reserves and creating selective opportunities.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMTk5",
+      "tags": [
+        "The EM Strategist",
+        "Emerging Markets",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-06-29 10:32",
+      "thumbnail": "https://ir.citi.com/B_JHMm6qyVXnBtQeiqEmz68xjT_ABUEVhbPNmHBRxF447eiUySwT_IlC7kvil_ik1qPA_jY1LnOM2GaEcVw-jg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30440047",
+      "title": "U.S. Semiconductors: DRAM Supply Is the New Ranking Metric",
+      "summary": "Following earnings, we update our AI compute semis rankings. With DRAM memory shortages the biggest constrain on compute supply, our updated rankings assign the highest weight to memory supply allocation. NVDA is our top mega-cap, followed by AVGO; AMD tops large caps, with CBRS second.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMDQ3",
+      "tags": [
+        "Semiconductors",
+        "Artificial Intelligence (AI)",
+        "Results Read-Across and Call Backs"
+      ],
+      "publish_time": "2026-06-29 05:00",
+      "thumbnail": "https://ir.citi.com/26iFrEw9UTaH-8LL86PbsjQaCpseM-mnTK9S_mA8rQn69yO-Et2NMYFdW1oxaaL4vAypwuqovHkM1tsTSbUG4A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439941",
+      "title": "U.S. Economics Weekly: The Economy Is Not Overheating",
+      "summary": "Front-end Treasury yields have fallen from their post-FOMC highs. Upcoming data present a trend toward softer consumer spending, declining real incomes and rising continuing jobless claims, all sharply at odds with the narrative that the U.S. economy is at risk of “overheating.”",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTQx",
+      "tags": [
+        "Economic Analysis",
+        "Economic Forecast",
+        "Economic Growth",
+        "U.S. Economics weekly",
+        "Labor Market",
+        "Inflation"
+      ],
+      "publish_time": "2026-06-26 18:02",
+      "thumbnail": "https://ir.citi.com/9j1hLagioGrALpdC2JDgAN91bmu52LrjiEJx_pGdqMzLxvi8ikV3OkFYY_lGMAOHKLWPtSzPceM_PDx5mkRVYQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30440025",
+      "title": "Global Quantitative Insights: Factors, Flows & Fault Lines",
+      "summary": "Price Momentum continues to anchor global style outperformance, proving the most resilient factor year-to-date. Shorter-term reversals, however, suggest a transitionary phase for style leadership may be approaching, a shift we explore in detail in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMDI1",
+      "tags": [
+        "Model Portfolio",
+        "Flows",
+        "Macro Strategy",
+        "Global Quantitative Insights"
+      ],
+      "publish_time": "2026-06-29 02:55",
+      "thumbnail": "https://ir.citi.com/hrz9Vy1tZ1NzJaZyUuZaQf3-k8BvzBAjXlW01teiyRDVRUemjdoNyk0TdBURXfRrDlwmr9rP2cpER3naMvypcQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439984",
+      "title": "North America Internet: Digital Postcard from Cannes",
+      "summary": "We left Cannes incrementally positive on the broader online advertising ecosystem, the benefits of AI and agents, and the growing importance of data, commerce, and brand visibility as the web evolves from queries to quests. We offer key takeaways and review our top picks.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTg0",
+      "tags": [
+        "Internet",
+        "Corporate Events/Special Situations",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-06-28 21:26",
+      "thumbnail": "https://ir.citi.com/i-b4u9KSNKSKmifNtWWQD3LMQfOm5kc6rQHhYf_XRb3kxnpn_fTtfmbvGUTLLBDXs96IHKnO03YJoU6N25eqxw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439712",
+      "title": "We're Upgrading Murata to Buy",
+      "summary": "We upgrade Murata to Buy and raise our target price, reflecting revisions to earnings forecasts, changes to valuation assumptions and a shift in our base year. We don't anticipate company-led price revisions for general-purpose products, but such revisions would create additional upside.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NzEy",
+      "tags": [
+        "Rating Change",
+        "Target Price Change",
+        "Estimate Change",
+        "Artificial Intelligence (AI)",
+        "Connectors and Other Components"
+      ],
+      "publish_time": "2026-06-29 02:35",
+      "thumbnail": "https://ir.citi.com/o2HgCSyoYQ-dD02WArwvYmByB6ETokgejm7JbfsXyjmj495G-D8Qj30FCRWt4SANIRNenuTcCC7uol7Fmo_Tzw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439902",
+      "title": "We Initiate Coverage of INNIO Group at Neutral",
+      "summary": "We think INNIO’s well-established position as a public “pure play” reciprocating-engine manufacturer supports a significant multi-year earnings growth opportunity, but see the near-term risk/reward as relatively balanced. We initiate coverage with a Neutral rating and a $42 target price.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTAy",
+      "tags": [
+        "Infrastructure Investment",
+        "Initiation of Coverage",
+        "Electrical Equipment"
+      ],
+      "publish_time": "2026-06-29 04:00",
+      "thumbnail": "https://ir.citi.com/xVZFWXd7A3qkAKrdU2roGDhayvKW8f9VwA6wMEvy08kb7qY1HfkHmeTvh1ot1nvn53Pi0Y6lQd_saSTPvqiDoA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30440115",
+      "title": "Africa Economics & Strategy Weekly: Questions About Tanzania",
+      "summary": "After meetings with government and the private sector, we examine whether new economic trends are restoring a more seasonal pattern to the Tanzanian shilling following a period marked by considerable volatility. We also consider several unresolved questions about Tanzania's macro outlook.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMTE1",
+      "tags": [
+        "Africa Economics & Strategy Weekly",
+        "Fiscal Policy",
+        "Economic Growth",
+        "Economic Analysis"
+      ],
+      "publish_time": "2026-06-29 05:14",
+      "thumbnail": "https://ir.citi.com/sMGwccFSAKwV4s0nM3ExblCwE21LhrhllcVDg8Ux19jepbiO7FHk9XEsUdbICtKc8JGFB9RlPkQserb33SzZKw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439926",
+      "title": "U.S. Rates Weekly: Front-End Flatteners and Long-End Value",
+      "summary": "We lean into our front-end flattener paired with a received July FOMC position ahead of the jobs report. Further out the curve, we remain constructive on duration, with our 10y view anchored by our expectation for core CPI to fall into year-end. We offer further strategic thoughts herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTI2",
+      "tags": [
+        "U.S. Rates Weekly",
+        "Flagship",
+        "Relative Value",
+        "Trade Idea"
+      ],
+      "publish_time": "2026-06-26 17:46",
+      "thumbnail": "https://ir.citi.com/fCQ7vVh9WerEX_8NRqpErCZ4LgL85xBkKn4gYA7EWl7957_BTZWZsnwFIZPqYirwBRSecfME5SXrd-OCXueFyA%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30439421",
@@ -584,144 +754,6 @@
       ],
       "publish_time": "2026-06-18 16:42",
       "thumbnail": "https://ir.citi.com/Z-nOOTHVWJRoGqma9Wm9TaPRNhy8tz4-ChxSViMexxjB5vLLSEJPol_-USgZjq1ovbWGjF0wmKCM_xTe7HZtWQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438497",
-      "title": "European Equity Strategy: UK Equity Implications of Burnham's Win",
-      "summary": "A Burnham premiership for the UK would likely imply higher borrowing and potentially higher gilt yields. For equities, higher yields support FTSE 100 outperformance over the more rates-sensitive/domestically focused FTSE 250. We offer sector thoughts and further analysis in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4NDk3",
-      "tags": [
-        "Elections",
-        "European Equity Strategy",
-        "Macro Strategy",
-        "Politics"
-      ],
-      "publish_time": "2026-06-19 12:12",
-      "thumbnail": "https://ir.citi.com/2A-Frto9YUuHMIeN1X2zwgN0j05XcoXq6OmujNPqJnPMHws6FW-E7yLde6MFus2OrEdvR8kbkrRDEFXKq4R3fg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438648",
-      "title": "Japan Strategy: Tech-Led Bull Market Continues",
-      "summary": "Japanese equities have continued rising, with TOPIX recently breaking above 4,000 and the Nikkei 225 topping 72,000, and we see the rally as staying within healthy bounds. We maintain our TOPIX target at 4,500 points while raising our Nikkei 225 target to 90,000.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4NjQ4",
-      "tags": [
-        "Macro Strategy",
-        "Japan Strategy"
-      ],
-      "publish_time": "2026-06-22 04:50",
-      "thumbnail": "https://ir.citi.com/j27xDjNzJLXuieaVKrmuS4UN4mAixTsJcN-W24IO_X0gYsPM6GzobO5_HPamdFq6Op5qWYSG2M4rwy51odTIlg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438377",
-      "title": "Brazil Equity Strategy MVPs: Brazil Looks Increasingly Inexpensive",
-      "summary": "Our Brazil MVP portfolio has outperformed the IBOV since mid-May. We note Brazil's 8.4x forward P/E represents one of the widest discounts to developed markets in recent memory, and see a number of reasons that the risk/reward for patient allocators increasingly looks skewed to the upside.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4Mzc3",
-      "tags": [
-        "Equity Strategy",
-        "Brazil Equity Strategy MVPs",
-        "Geopolitics",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-06-22 01:34",
-      "thumbnail": "https://ir.citi.com/l7rkg2Lbr4Oohz6Mk4Ckher0nbk54pnN4Ude_FaGaClFN_THdGmYsf7J7JkXuojWIZyaMI982_gJvcktwpOM1Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438576",
-      "title": "Taiwan Economics: We See GDP Momentum Accelerating",
-      "summary": "We upgrade our 2026 real GDP forecast for Taiwan to 9.9%, driven by ultra-strong and broadening export momentum. Broadening macro resiliency could deliver higher inflation with some delay; we forecast CPI to rise to 2.2% in 2027 and so still expect rate hikes to resume in December.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4NTc2",
-      "tags": [
-        "Taiwan Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Economic Growth",
-        "Central Banks",
-        "Monetary Policy",
-        "Inflation"
-      ],
-      "publish_time": "2026-06-22 01:28",
-      "thumbnail": "https://ir.citi.com/YXEK4vnp3t68NVjv8uvotUTXdifHqx112-zVk-sTBR-OzysTUP2jKVd2N0Q_rd_EIAMAhKPZ-Of_Dpdq74oeuA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438362",
-      "title": "Artificial Intelligence: Citi’s Inference Ahead — Open Vs. Closed",
-      "summary": "The AI world’s focus is on the revelation that model access is subject to government fiat and the need to expand on-premise, open source, and non-U.S. model investment accordingly. This revelation will accelerate open-source adoption. We consider the implications further in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MzYy",
-      "tags": [
-        "Application Software",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-06-19 01:21",
-      "thumbnail": "https://ir.citi.com/2pH0VQN7caLCQnYaEEZUSBZyTlVi1mGUzhXGgvPaKSzXLoZjxRFcODOYl4fO4aO8XN4SsKFz1BaPTjjTf0xLgg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438328",
-      "title": "European Economics: Will France's Economy Stay Underpressurized?",
-      "summary": "France’s economy appears \"underpressurized\" compared with its peers, with domestic demand lackluster and lower inflation pressures. We explore what's behind this and argue France may have to continue going through a process of internal devaluation, which may take a while to run its course.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MzI4",
-      "tags": [
-        "Inflation",
-        "Elections",
-        "Fiscal Policy",
-        "European Economics",
-        "Labor Market",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-06-19 01:00",
-      "thumbnail": "https://ir.citi.com/ARyMD-tih3UmB3pcK3sHu0CTW8h-nUq7CI9SVj6FnoCyG1cPx5ktrqLw9xmTBpBzbfmMSKpvUwSWrOSkdtzxlg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438332",
-      "title": "Global Macro Strategy: Kevin’s World — Home Alone Minus Guidance",
-      "summary": "After months of waiting, we finally have a better sense of what a Kevin Warsh Fed meeting looks like. We explore our strategies in response, discuss why the U.S.-Iran MoU is meaningful and should have legs for further unwinds of oil beta trades, and also review the other G10 central banks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MzMy",
-      "tags": [
-        "Macro Strategy",
-        "Flagship",
-        "Central Banks",
-        "Monetary Policy",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-06-18 17:45",
-      "thumbnail": "https://ir.citi.com/W6nUDzW3rPc7Awsvj6wx8PEQdg5L-iggd_WkLPKYZ_LMb-l454PGAHy1AaaVDSga1lYgzB2jdcfq-G4DeO2cEw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438255",
-      "title": "Bank of England: Steady As She Goes",
-      "summary": "As expected, the Bank of England voted to hold rates steady; while messaging was still on the hawkish end, policymakers are starting to lean against given the underlying weakness in the real economy. We continue to expect a hold this year, with the next cut coming in 2027's second quarter.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MjU1",
-      "tags": [
-        "Central Banks",
-        "Monetary Policy",
-        "UK Economics"
-      ],
-      "publish_time": "2026-06-18 08:53",
-      "thumbnail": "https://ir.citi.com/nNPtL1pLRLyADOx-cO8WFbggFb8O8M208QWtLWKGhiUGkkWv1yNiE1-blvvCFt9NVnCzgHaakSw2QkikwI1ZMg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30438308",
-      "title": "We're Upgrading Emirates Telecommunications Group to Buy",
-      "summary": "We upgrade EAND to Buy and raise our target price to AED 23.0. EAND remains well positioned in its home market, with very strong market share. We offer further analysis in this note and explain why we see a clear pathway for enhanced shareholder returns.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM4MzA4",
-      "tags": [
-        "Rating Change",
-        "Telecommunications Operators",
-        "Estimate Change",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-06-18 22:00",
-      "thumbnail": "https://ir.citi.com/JDHUFDLq099zGTJLvd_AYKYvEFiM0a6u4TnbyfntmzuejKYCgQTX7CM5_xUo1DwIJeh-hoPJFRfkAW5GYZGP-Q%3D%3D"
     }
   ]
 }
