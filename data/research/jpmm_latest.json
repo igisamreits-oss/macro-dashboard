@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T10:34:55.858670+00:00",
+  "fetched_at": "2026-06-30T22:36:00.025522+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -31,8 +31,8 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-26"
@@ -77,10 +77,10 @@
         }
       ],
       "tags": [
-        "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production",
         "European Oil & Gas",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Large Cap Oil & Gas Exploration & Production",
+        "Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-29"
     },
@@ -115,9 +115,9 @@
       ],
       "tags": [
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs",
         "REITs & Real Estate Services",
-        "REITs"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
       ],
       "publish_time": "2026-06-17"
     },
@@ -191,13 +191,13 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Metals & Mining",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Utilities and Midstream/Utilities and Power",
+        "Large Cap Oil & Gas Exploration & Production",
         "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production"
+        "Metals & Mining",
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-18"
     },
@@ -251,13 +251,13 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Oil & Gas Exploration & Production",
         "North America Corporate Credit - Electric Utilities",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power",
+        "Oil & Gas Exploration & Production",
+        "Utilities, Midstream, LNG, and Nuclear",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-18"
     },
@@ -301,10 +301,10 @@
         }
       ],
       "tags": [
-        "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production",
         "European Oil & Gas",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Large Cap Oil & Gas Exploration & Production",
+        "Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-18"
     },
@@ -367,8 +367,8 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power"
       ],
@@ -409,11 +409,11 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power",
+        "Utilities, Midstream, LNG, and Nuclear",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-25"
     },
@@ -476,8 +476,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-25"
@@ -532,13 +532,13 @@
         }
       ],
       "tags": [
-        "Technology",
-        "Technology and Telecoms",
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Internet"
+        "China & HK Equity strategy",
+        "Technology",
+        "Internet",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Technology and Telecoms"
       ],
       "publish_time": "2026-06-17"
     },
@@ -566,86 +566,6 @@
         "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-06-19"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5329613-0",
-      "publication_id": "KAL-1-W93WG4FV",
-      "title": "Retail vs. AMZN",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5329613-0",
-      "authors": [
-        {
-          "name": "Christopher Horvers, CFA",
-          "team": "Retailing – Broadlines & Hardlines / Leisure",
-          "email": "christopher.horvers@jpmorgan.com"
-        },
-        {
-          "name": "Christian Carlino, CFA",
-          "team": "Retailing – Broadlines & Hardlines / Leisure",
-          "email": "christian.carlino@jpmorgan.com"
-        },
-        {
-          "name": "Jolie Wasserman",
-          "team": "Retailing – Broadlines & Hardlines / Leisure",
-          "email": "jolie.wasserman@jpmchase.com"
-        },
-        {
-          "name": "Doug Anmuth",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "douglas.anmuth@jpmorgan.com"
-        },
-        {
-          "name": "Bryan M. Smilek",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "bryan.smilek@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
-      ],
-      "publish_time": "2026-06-16"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5337376-0",
-      "publication_id": "KAL-1-W93WG4FV",
-      "title": "Retail vs. AMZN in an Agentic World",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5337376-0",
-      "authors": [
-        {
-          "name": "Christopher Horvers, CFA",
-          "team": "Retailing – Broadlines & Hardlines / Leisure",
-          "email": "christopher.horvers@jpmorgan.com"
-        },
-        {
-          "name": "Christian Carlino, CFA",
-          "team": "Retailing – Broadlines & Hardlines / Leisure",
-          "email": "christian.carlino@jpmorgan.com"
-        },
-        {
-          "name": "Jolie Wasserman",
-          "team": "Retailing – Broadlines & Hardlines / Leisure",
-          "email": "jolie.wasserman@jpmchase.com"
-        },
-        {
-          "name": "Doug Anmuth",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "douglas.anmuth@jpmorgan.com"
-        },
-        {
-          "name": "Bryan M. Smilek",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "bryan.smilek@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Retailing – Broadlines & Hardlines / Leisure"
-      ],
-      "publish_time": "2026-06-16"
     },
     {
       "platform": "JPM",
