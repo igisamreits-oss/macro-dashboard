@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29T22:34:45.486360+00:00",
+  "fetched_at": "2026-06-30T10:34:55.858670+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -77,10 +77,10 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Large Cap Oil & Gas Exploration & Production",
         "Oil & Gas Exploration & Production",
-        "European Oil & Gas"
+        "Large Cap Oil & Gas Exploration & Production",
+        "European Oil & Gas",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-29"
     },
@@ -114,10 +114,10 @@
         }
       ],
       "tags": [
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs",
-        "REITs & Real Estate Services"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs & Real Estate Services",
+        "REITs"
       ],
       "publish_time": "2026-06-17"
     },
@@ -194,10 +194,10 @@
         "Utilities and Midstream",
         "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Large Cap Oil & Gas Exploration & Production",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Metals & Mining",
-        "Oil & Gas Exploration & Production"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Oil & Gas Exploration & Production",
+        "Large Cap Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-18"
     },
@@ -251,13 +251,13 @@
         }
       ],
       "tags": [
-        "Utilities, Midstream, LNG, and Nuclear",
-        "North America Corporate Credit - Electric Utilities",
         "Utilities and Midstream",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "North America Corporate Credit - Electric Utilities",
+        "Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -301,10 +301,10 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Large Cap Oil & Gas Exploration & Production",
         "Oil & Gas Exploration & Production",
-        "European Oil & Gas"
+        "Large Cap Oil & Gas Exploration & Production",
+        "European Oil & Gas",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -367,10 +367,10 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power"
       ],
       "publish_time": "2026-06-25"
     },
@@ -409,11 +409,11 @@
         }
       ],
       "tags": [
-        "Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -476,9 +476,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-25"
     },
@@ -532,12 +532,12 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Technology",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "China & HK Equity strategy",
         "Technology and Telecoms",
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Internet"
       ],
       "publish_time": "2026-06-17"
@@ -562,8 +562,8 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-06-19"
     },
@@ -602,8 +602,8 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
     },
@@ -642,8 +642,8 @@
         }
       ],
       "tags": [
-        "Retailing – Broadlines & Hardlines / Leisure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Retailing – Broadlines & Hardlines / Leisure"
       ],
       "publish_time": "2026-06-16"
     },
