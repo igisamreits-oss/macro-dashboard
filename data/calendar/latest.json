@@ -1,9 +1,37 @@
 {
-  "fetched_at": "2026-06-30T22:32:11.156418+00:00",
-  "window_start": "2026-06-24",
-  "window_end": "2026-07-29",
+  "fetched_at": "2026-06-30T22:36:30.609537+00:00",
+  "window_start": "2026-06-23",
+  "window_end": "2026-07-28",
   "source": "schedule.yml",
   "events": [
+    {
+      "date": "2026-06-23",
+      "country": "SG",
+      "indicator_id": "sg_cpi_yoy",
+      "time_kst": "14:00",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-23",
+      "country": "SG",
+      "indicator_id": "sg_core_cpi",
+      "time_kst": "14:00",
+      "note": ""
+    },
+    {
+      "date": "2026-06-23",
+      "country": "CA",
+      "indicator_id": "ca_cpi_yoy",
+      "time_kst": "21:30",
+      "note": "May (est)"
+    },
+    {
+      "date": "2026-06-23",
+      "country": "CA",
+      "indicator_id": "ca_core_trim",
+      "time_kst": "21:30",
+      "note": ""
+    },
     {
       "date": "2026-06-26",
       "country": "US",
@@ -30,20 +58,6 @@
       "country": "EU",
       "indicator_id": "ecb",
       "time_kst": "21:15",
-      "note": ""
-    },
-    {
-      "date": "2026-07-29",
-      "country": "AU",
-      "indicator_id": "au_cpi_yoy_q",
-      "time_kst": "10:30",
-      "note": "Q2 2026 (est)"
-    },
-    {
-      "date": "2026-07-29",
-      "country": "AU",
-      "indicator_id": "au_core_yoy",
-      "time_kst": "10:30",
       "note": ""
     }
   ]
