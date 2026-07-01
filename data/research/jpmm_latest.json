@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T22:36:00.025522+00:00",
+  "fetched_at": "2026-07-01T10:35:02.501597+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -31,9 +31,9 @@
         }
       ],
       "tags": [
+        "Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-26"
     },
@@ -78,9 +78,9 @@
       ],
       "tags": [
         "European Oil & Gas",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Oil & Gas Exploration & Production",
         "Large Cap Oil & Gas Exploration & Production",
-        "Oil & Gas Exploration & Production"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-29"
     },
@@ -115,9 +115,9 @@
       ],
       "tags": [
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "REITs",
-        "REITs & Real Estate Services",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
+        "REITs & Real Estate Services"
       ],
       "publish_time": "2026-06-17"
     },
@@ -191,13 +191,13 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Utilities and Midstream/Utilities and Power",
-        "Large Cap Oil & Gas Exploration & Production",
         "Oil & Gas Exploration & Production",
         "Metals & Mining",
-        "Utilities and Midstream"
+        "Large Cap Oil & Gas Exploration & Production",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -251,13 +251,13 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "North America Corporate Credit - Electric Utilities",
         "Utilities and Midstream/Utilities and Power",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
         "Utilities, Midstream, LNG, and Nuclear",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream"
+        "North America Corporate Credit - Electric Utilities",
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -302,9 +302,9 @@
       ],
       "tags": [
         "European Oil & Gas",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Oil & Gas Exploration & Production",
         "Large Cap Oil & Gas Exploration & Production",
-        "Oil & Gas Exploration & Production"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-18"
     },
@@ -367,10 +367,10 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -409,11 +409,11 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power",
-        "Utilities, Midstream, LNG, and Nuclear",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream"
+        "Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -476,8 +476,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-25"
@@ -532,13 +532,13 @@
         }
       ],
       "tags": [
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy",
-        "Technology",
         "Internet",
+        "Technology and Telecoms",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Technology",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Technology and Telecoms"
+        "China & HK Equity strategy",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
       ],
       "publish_time": "2026-06-17"
     },
@@ -562,8 +562,8 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-06-19"
     },

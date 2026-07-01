@@ -1,6 +1,63 @@
 {
-  "fetched_at": "2026-06-30T22:34:56.868495+00:00",
+  "fetched_at": "2026-07-01T10:34:00.251841+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "2f096fb4-8219-4915-b6d5-86f134ccf93f",
+      "title": "US Conviction List - Directors' Cut: July 2026 Update",
+      "summary": "We add Estee Lauder Co. (EL), Nextpower (NXT), and Wells Fargo (WFC) to the US Conviction List, while removing Brixmor Property Group (BRX), Duke Energy (DUK), and nVENT Electric (NVT). We have a brief summary of these a...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/01/2f096fb4-8219-4915-b6d5-86f134ccf93f.html",
+      "authors": [
+        {
+          "name": "Steven Kron",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Christopher Hussey",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Sarah Herr",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Deep Mehta",
+          "department": "Tactical Research",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Tactical Research",
+        "Equity Research Management"
+      ],
+      "publish_time": "2026-07-01"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "bb1cd509-d3c3-4a4e-b0cc-7443baf62a65",
+      "title": "Frasers Centrepoint Trust (FCRT.SI): Proposed divestment of White Sands lowers gearing but dilutive; Neutral",
+      "summary": "Fraser Centrepoint Trust (FCT) announced the proposed divestment of White Sands for S$467m at an implied FY25 NPI yield of 4.6% and 8.4% premium to independent valuation. Divestment proceeds will be used towards debt rep...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/01/bb1cd509-d3c3-4a4e-b0cc-7443baf62a65.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-01"
+    },
     {
       "platform": "GS",
       "doc_id": "8625133f-bee9-4257-872d-6a12578cc6c6",
@@ -398,12 +455,12 @@
       ],
       "tags": [
         "Aerospace & Defense",
-        "Clean Energy",
-        "REITs",
-        "Utilities & Ipps",
-        "GS Sustain",
         "Semiconductors & IT Services",
-        "Software"
+        "Clean Energy",
+        "Utilities & Ipps",
+        "Software",
+        "REITs",
+        "GS Sustain"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1230,84 +1287,6 @@
       ],
       "tags": [
         "REITs"
-      ],
-      "publish_time": "2026-06-02"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "03e1f134-7cdb-43d7-a644-032a31411a6a",
-      "title": "Tanger Inc. (SKT): Management meeting takeaways",
-      "summary": "On June 1, 2026, we hosted a meeting with SKT management. Key topics included ICSC takeaways, leasing fundamentals, external growth (especially the recent Toledo acquisition), demographic tailwinds, and positioning for future growth.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/02/03e1f134-7cdb-43d7-a644-032a31411a6a.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-02"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "96dfba93-5ba3-4b71-92da-c82c2426470c",
-      "title": "Americas Gaming: Initial thoughts on MGM takeover bid",
-      "summary": "What happened? Today pre-market (6/1), the NYT reported that People Inc. (IAC, Buy, covered by Eric Sheridan) was preparing an offer to buy the remaining 73.9% of MGM Resorts (MGM, Sell) that IAC doesn’t already own, for...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/02/96dfba93-5ba3-4b71-92da-c82c2426470c.html",
-      "authors": [
-        {
-          "name": "Lizzie Dove",
-          "department": "Lodging and Leisure",
-          "division": "Research"
-        },
-        {
-          "name": "Eric Sheridan",
-          "department": "Internet",
-          "division": "Research"
-        },
-        {
-          "name": "Joey Gaebler",
-          "department": "Gaming and Lodging",
-          "division": "Research"
-        },
-        {
-          "name": "Achal Gupta",
-          "department": "Internet",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Davis",
-          "department": "Lodging and Leisure",
-          "division": "Research"
-        },
-        {
-          "name": "Nina Flinn",
-          "department": "Lodging and Leisure",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Internet",
-        "Lodging and Leisure",
-        "Gaming and Lodging"
       ],
       "publish_time": "2026-06-02"
     }
