@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T10:34:00.251841+00:00",
+  "fetched_at": "2026-07-01T22:33:39.855819+00:00",
   "items": [
     {
       "platform": "GS",
@@ -257,9 +257,9 @@
         }
       ],
       "tags": [
-        "REITs",
         "Latam Steel & Basic Materials",
-        "Equity Research Management"
+        "Equity Research Management",
+        "REITs"
       ],
       "publish_time": "2026-06-17"
     },
@@ -446,21 +446,16 @@
           "name": "Connor Dessert",
           "department": "Aerospace & Defense",
           "division": "Research"
-        },
-        {
-          "name": "Lal Kablan",
-          "department": null,
-          "division": null
         }
       ],
       "tags": [
-        "Aerospace & Defense",
-        "Semiconductors & IT Services",
-        "Clean Energy",
-        "Utilities & Ipps",
-        "Software",
+        "GS Sustain",
         "REITs",
-        "GS Sustain"
+        "Aerospace & Defense",
+        "Software",
+        "Utilities & Ipps",
+        "Semiconductors & IT Services",
+        "Clean Energy"
       ],
       "publish_time": "2026-06-15"
     },

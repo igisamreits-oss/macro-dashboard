@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-01T10:35:33.109891+00:00",
-  "window_start": "2026-06-24",
-  "window_end": "2026-07-29",
+  "fetched_at": "2026-07-01T22:31:41.519814+00:00",
+  "window_start": "2026-06-25",
+  "window_end": "2026-07-30",
   "source": "schedule.yml",
   "events": [
     {
@@ -44,6 +44,20 @@
       "country": "AU",
       "indicator_id": "au_core_yoy",
       "time_kst": "10:30",
+      "note": ""
+    },
+    {
+      "date": "2026-07-30",
+      "country": "US",
+      "indicator_id": "fomc",
+      "time_kst": "03:00",
+      "note": ""
+    },
+    {
+      "date": "2026-07-30",
+      "country": "UK",
+      "indicator_id": "boe",
+      "time_kst": "20:00",
       "note": ""
     }
   ]

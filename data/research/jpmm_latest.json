@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T10:35:02.501597+00:00",
+  "fetched_at": "2026-07-01T22:34:42.622419+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -31,9 +31,9 @@
         }
       ],
       "tags": [
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-26"
     },
@@ -83,43 +83,6 @@
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-29"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5337202-0",
-      "publication_id": "KAL-1-MRAF9196",
-      "title": "June 2026 J.P. Morgan Commercial Real Estate Update",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5337202-0",
-      "authors": [
-        {
-          "name": "Michael W. Mueller, CFA",
-          "team": "REITs",
-          "email": "michael.w.mueller@jpmorgan.com"
-        },
-        {
-          "name": "Anthony Paolone, CFA",
-          "team": "REITs & Real Estate Services",
-          "email": "anthony.paolone@jpmorgan.com"
-        },
-        {
-          "name": "Mark Streeter, CFA",
-          "team": "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-          "email": "mark.streeter@jpmorgan.com"
-        },
-        {
-          "name": "Chong Sin",
-          "team": "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-          "email": "chong.c.sin@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs",
-        "REITs & Real Estate Services"
-      ],
-      "publish_time": "2026-06-17"
     },
     {
       "platform": "JPM",
@@ -191,13 +154,13 @@
         }
       ],
       "tags": [
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Metals & Mining",
+        "Utilities and Midstream",
         "Utilities and Midstream/Utilities and Power",
         "Oil & Gas Exploration & Production",
-        "Metals & Mining",
-        "Large Cap Oil & Gas Exploration & Production",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Large Cap Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-18"
     },
@@ -251,13 +214,13 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Oil & Gas Exploration & Production",
         "Utilities, Midstream, LNG, and Nuclear",
-        "North America Corporate Credit - Electric Utilities",
         "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power",
+        "Oil & Gas Exploration & Production",
+        "North America Corporate Credit - Electric Utilities"
       ],
       "publish_time": "2026-06-18"
     },
@@ -301,10 +264,10 @@
         }
       ],
       "tags": [
-        "European Oil & Gas",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production",
         "Large Cap Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "European Oil & Gas"
       ],
       "publish_time": "2026-06-18"
     },
@@ -367,10 +330,10 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream/Utilities and Power",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power"
       ],
       "publish_time": "2026-06-25"
     },
@@ -409,11 +372,11 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power"
       ],
       "publish_time": "2026-06-25"
     },
@@ -477,70 +440,10 @@
       ],
       "tags": [
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-25"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5338648-0",
-      "publication_id": "GPS-5341411-0",
-      "title": "China Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5338648-0",
-      "authors": [
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Mixo Das",
-          "team": "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-          "email": "mixo.das@jpmorgan.com"
-        },
-        {
-          "name": "Alex Yao",
-          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
-          "email": "alex.yao@jpmorgan.com"
-        },
-        {
-          "name": "Gokul Hariharan",
-          "team": "Technology and Telecoms",
-          "email": "gokul.hariharan@jpmorgan.com"
-        },
-        {
-          "name": "Billy Feng",
-          "team": "Technology",
-          "email": "billy.feng@jpmorgan.com"
-        },
-        {
-          "name": "Olivia Xu",
-          "team": "Internet",
-          "email": "olivia.w.xu@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Internet",
-        "Technology and Telecoms",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Technology",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
-      ],
-      "publish_time": "2026-06-17"
     },
     {
       "platform": "JPM",

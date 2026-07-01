@@ -316,8 +316,8 @@ footer a { color: var(--accent); text-decoration: none; }
     <h1>Global REIT Macro Dashboard</h1>
   </div>
   <div class="meta">
-    Last update: <strong>2026-07-01 19:35</strong> KST<br>
-    Calendar: 2026-06-24 ~ 2026-07-29
+    Last update: <strong>2026-07-02 07:34</strong> KST<br>
+    Calendar: 2026-06-25 ~ 2026-07-30
   </div>
 </header>
 
@@ -325,19 +325,16 @@ footer a { color: var(--accent); text-decoration: none; }
   <button class="tab-btn active" data-tab="macro" role="tab">📊 Macro</button>
   <button class="tab-btn" data-tab="research" role="tab">
     📑 Research
-<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(103)</span>  </button>
+<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(98)</span>  </button>
 </div>
 
 <div class="tab-content active" id="tab-macro">
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
-  <h2>📅 Economic Calendar <small>2026-06-24 ~ 2026-07-29</small></h2>
+  <h2>📅 Economic Calendar <small>2026-06-25 ~ 2026-07-30</small></h2>
   <div class="calendar">
     <div class="calendar-grid">
       <div class="cal-cell cal-header">Country</div>
-      <div class="cal-cell cal-header  ">
-        06/24<br>수
-      </div>
       <div class="cal-cell cal-header  ">
         06/25<br>목
       </div>
@@ -356,10 +353,10 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         06/30<br>화
       </div>
-      <div class="cal-cell cal-header today ">
+      <div class="cal-cell cal-header  ">
         07/01<br>수
       </div>
-      <div class="cal-cell cal-header  ">
+      <div class="cal-cell cal-header today ">
         07/02<br>목
       </div>
       <div class="cal-cell cal-header  ">
@@ -443,10 +440,11 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         07/29<br>수
       </div>
+      <div class="cal-cell cal-header  ">
+        07/30<br>목
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇺🇸</span> US
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
         <span class="cal-event imp-3 past"
@@ -713,10 +711,49 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 "
+              data-name="FOMC Rate Decision"
+              data-name-ko="FOMC"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-07-30"
+              data-time="03:00"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
+          FOMC
+        </span>
+        <span class="cal-event imp-3 "
+              data-name="PCE YoY"
+              data-name-ko="PCE"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-07-30"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="next release"
+              data-past="false">
+          PCE
+        </span>
+        <span class="cal-event imp-3 "
+              data-name="Core PCE YoY"
+              data-name-ko="Core PCE"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-07-30"
+              data-time="21:30"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="next release"
+              data-past="false">
+          Core PCE
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇪🇺</span> EU
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -744,7 +781,7 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 "
+        <span class="cal-event imp-3 past"
               data-name="HICP YoY"
               data-name-ko="HICP"
               data-flag="🇪🇺"
@@ -754,23 +791,10 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="📊 물가"
               data-imp="3"
               data-note="Jun 2026 data"
-              data-past="false">
+              data-past="true">
           HICP
         </span>
-        <span class="cal-event imp-3 "
-              data-name="HICP YoY"
-              data-name-ko="HICP"
-              data-flag="🇪🇺"
-              data-country="Eurozone"
-              data-date="2026-07-01"
-              data-time="18:00"
-              data-cat="📊 물가"
-              data-imp="3"
-              data-note="next release"
-              data-past="false">
-          HICP
-        </span>
-        <span class="cal-event imp-3 "
+        <span class="cal-event imp-3 past"
               data-name="Core HICP YoY"
               data-name-ko="Core HICP"
               data-flag="🇪🇺"
@@ -780,20 +804,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="📊 물가"
               data-imp="3"
               data-note="Jun 2026 data"
-              data-past="false">
-          Core HICP
-        </span>
-        <span class="cal-event imp-3 "
-              data-name="Core HICP YoY"
-              data-name-ko="Core HICP"
-              data-flag="🇪🇺"
-              data-country="Eurozone"
-              data-date="2026-07-01"
-              data-time="18:00"
-              data-cat="📊 물가"
-              data-imp="3"
-              data-note="next release"
-              data-past="false">
+              data-past="true">
           Core HICP
         </span>
       </div>
@@ -854,6 +865,32 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
+        <span class="cal-event imp-3 "
+              data-name="HICP YoY"
+              data-name-ko="HICP"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-07-17"
+              data-time="18:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="next release"
+              data-past="false">
+          HICP
+        </span>
+        <span class="cal-event imp-3 "
+              data-name="Core HICP YoY"
+              data-name-ko="Core HICP"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-07-17"
+              data-time="18:00"
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="next release"
+              data-past="false">
+          Core HICP
+        </span>
       </div>
       <div class="cal-cell">
       </div>
@@ -905,6 +942,8 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇬🇧</span> UK
       </div>
@@ -921,9 +960,7 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 "
+        <span class="cal-event imp-2 past"
               data-name="Nationwide House Price MoM"
               data-name-ko="Nationwide HPI MoM"
               data-flag="🇬🇧"
@@ -933,10 +970,10 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🏘️ 주택지표"
               data-imp="2"
               data-note="Jun 2026 data"
-              data-past="false">
+              data-past="true">
           Nationwide HPI MoM
         </span>
-        <span class="cal-event imp-2 "
+        <span class="cal-event imp-2 past"
               data-name="Nationwide House Price MoM"
               data-name-ko="Nationwide HPI MoM"
               data-flag="🇬🇧"
@@ -946,7 +983,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🏘️ 주택지표"
               data-imp="2"
               data-note="next release"
-              data-past="false">
+              data-past="true">
           Nationwide HPI MoM
         </span>
       </div>
@@ -1071,10 +1108,23 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 "
+              data-name="BoE Bank Rate"
+              data-name-ko="BoE"
+              data-flag="🇬🇧"
+              data-country="United Kingdom"
+              data-date="2026-07-30"
+              data-time="20:00"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
+          BoE
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇩🇪</span> DE
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1112,6 +1162,8 @@ footer a { color: var(--accent); text-decoration: none; }
               data-past="false">
           건설 PMI (50)
         </span>
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1240,8 +1292,6 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
         <span class="cal-event imp-1 past"
               data-name="Consumer Confidence SA"
               data-name-ko="소비자신뢰"
@@ -1335,10 +1385,36 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-1 "
+              data-name="Consumer Confidence SA"
+              data-name-ko="소비자신뢰"
+              data-flag="🇸🇪"
+              data-country="Sweden"
+              data-date="2026-07-30"
+              data-time="16:00"
+              data-cat="💭 소비자심리"
+              data-imp="1"
+              data-note="next release"
+              data-past="false">
+          소비자신뢰
+        </span>
+        <span class="cal-event imp-1 "
+              data-name="Retail Sales ex Fuel MoM"
+              data-name-ko="소매판매 MoM"
+              data-flag="🇸🇪"
+              data-country="Sweden"
+              data-date="2026-07-30"
+              data-time="15:00"
+              data-cat="🛒 소매판매"
+              data-imp="1"
+              data-note="next release"
+              data-past="false">
+          소매판매 MoM
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇸🇬</span> SG
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1449,10 +1525,23 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-2 "
+              data-name="Unemployment Rate Overall SA"
+              data-name-ko="실업률 SA"
+              data-flag="🇸🇬"
+              data-country="Singapore"
+              data-date="2026-07-30"
+              data-time=""
+              data-cat="👥 실업률"
+              data-imp="2"
+              data-note="next release"
+              data-past="false">
+          실업률 SA
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇭🇰</span> HK
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1550,23 +1639,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇦🇺</span> AU
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 past"
-              data-name="Unemployment Rate"
-              data-name-ko="실업률"
-              data-flag="🇦🇺"
-              data-country="Australia"
-              data-date="2026-06-24"
-              data-time=""
-              data-cat="👥 실업률"
-              data-imp="2"
-              data-note="May 2026 data"
-              data-past="true">
-          실업률
-        </span>
       </div>
       <div class="cal-cell">
       </div>
@@ -1651,10 +1727,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇯🇵</span> JP
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1791,10 +1867,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇰🇷</span> KR
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1879,10 +1955,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇨🇦</span> CA
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -2045,6 +2121,8 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
     </div>
   </div>
 </section>
@@ -2112,7 +2190,7 @@ function closeEvModal() {
       <div class="cb-rate">
 3.75%      </div>
       <div class="cb-next">
-        Next: <strong>TBD</strong>
+        Next: <strong>2026-07-30</strong>
         &middot; cons 3.75%
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
@@ -2132,10 +2210,10 @@ function closeEvModal() {
         Next: <strong>2026-07-23</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>2.39%</strong>
+        12M 시장: <strong>2.38%</strong>
         <span class="implied-delta hike">
-          +14bp
-          (~0.6 인상)
+          +13bp
+          (~0.5 인상)
         </span>
       </div>
     </div>
@@ -2145,13 +2223,13 @@ function closeEvModal() {
       <div class="cb-rate">
 3.75%      </div>
       <div class="cb-next">
-        Next: <strong>TBD</strong>
+        Next: <strong>2026-07-30</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>3.97%</strong>
+        12M 시장: <strong>3.95%</strong>
         <span class="implied-delta hike">
-          +22bp
-          (~0.9 인상)
+          +20bp
+          (~0.8 인상)
         </span>
       </div>
     </div>
@@ -2161,7 +2239,7 @@ function closeEvModal() {
       <div class="cb-rate">
 1.39%      </div>
       <div class="cb-next">
-        Next: <strong>2026-07-04</strong>
+        Next: <strong>2026-07-05</strong>
       </div>
     </div>
     <div class="cb-card ">
@@ -2231,10 +2309,10 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-3.62%            </td>
-            <td class="change-zero">
-+0.00            </td>
-            <td><small style="color:var(--text-dim)">2026-06-29</small></td>
+3.68%            </td>
+            <td class="change-pos">
++0.06            </td>
+            <td><small style="color:var(--text-dim)">2026-06-30</small></td>
           </tr>
           <tr>
             <td class="name">
@@ -2349,9 +2427,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-0.90%            </td>
+0.89%            </td>
             <td class="change-pos">
-+0.06            </td>
++0.05            </td>
             <td><small style="color:var(--text-dim)">2026-07-01</small></td>
           </tr>
           <tr>
@@ -2360,9 +2438,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-1.86%            </td>
+1.92%            </td>
             <td class="change-pos">
-+0.01            </td>
++0.07            </td>
             <td><small style="color:var(--text-dim)">2026-07-01</small></td>
           </tr>
           <tr>
@@ -2371,9 +2449,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.02%            </td>
+2.04%            </td>
             <td class="change-pos">
-+0.01            </td>
++0.04            </td>
             <td><small style="color:var(--text-dim)">2026-07-01</small></td>
           </tr>
           <tr>
@@ -3640,8 +3718,48 @@ function closeEvModal() {
 <div class="tab-content" id="tab-research">
   <section>
     <h2>📑 Research Feed
-<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-07-01 10:35 UTC</small>    </h2>
+<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-07-01 22:34 UTC</small>    </h2>
     <div class="research-grid">
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-01 16:05</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMzEx" target="_blank" rel="noopener">North America: Road Ahead Second-Half 2026</a>        </h3>
+<div class="rs-summary">We remain constructive on the full-year U.S. equity outlook, and expect the broadening theme to assert itself in the second half. While AI tailwinds will remain critical to the U.S. equity narrative, we see opportunity in stock selection across industries, with more detail in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Road Ahead</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Annual Outlook</span><span class="rs-tag">Flagship</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-01 07:18</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwNTkx" target="_blank" rel="noopener">U.S. High Grade: Fundamentals Wrap-Up</a>        </h3>
+<div class="rs-summary">Our first-quarter review of investment-grade issuers’ credit fundamental trends shows a capex cycle that keeps accelerating, with the trailing 12-month capex share of EBITDA reaching 49.2%, while the broader market’s balance sheet stays remarkably intact. We offer further review herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Credit Analysis</span><span class="rs-tag">Macro Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-01 07:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwNTM3" target="_blank" rel="noopener">The Speculative Grade Beat: Why We're Cutting Duration</a>        </h3>
+<div class="rs-summary">Base rates — not spreads — account for the lion's share of high-yield total yield, a dynamic whose effects we explore in this note. Having flipped our Asset Allocation preference to loans, we now shorten duration in our High Yield Factor Framework by moving to underweight Long Duration.</div>        <div class="rs-tags">
+<span class="rs-tag">Credit Analysis</span><span class="rs-tag">Flagship</span><span class="rs-tag">The Speculative Grade Beat</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-01 06:17</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwNjUz" target="_blank" rel="noopener">U.S. Aerospace & Defense: "Aerospace First, Defense Next"</a>        </h3>
+<div class="rs-summary">Our second-quarter tactical framework has been "Aerospace First, Defense Next" given our belief that aerospace stocks would lead the group out of its post-conflict pullback. We now see risk/reward as increasingly asymmetric across defense stocks as well. We offer further details herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Aerospace & Defense</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Catalyst Watch</span><span class="rs-tag">Rating Change</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Earnings Preview</span>        </div>
+      </div>
       <div class="research-card">
         <div class="rs-meta">
           <span class="rs-platform">GS</span>
@@ -3661,6 +3779,26 @@ function closeEvModal() {
 <a href="https://marquee.gs.com/content/research/en/reports/2026/07/01/bb1cd509-d3c3-4a4e-b0cc-7443baf62a65.html" target="_blank" rel="noopener">Frasers Centrepoint Trust (FCRT.SI): Proposed divestment of White Sands lowers gearing but dilutive; Neutral</a>        </h3>
 <div class="rs-summary">Fraser Centrepoint Trust (FCT) announced the proposed divestment of White Sands for S$467m at an implied FY25 NPI yield of 4.6% and 8.4% premium to independent valuation. Divestment proceeds will be used towards debt rep...</div>        <div class="rs-tags">
 <span class="rs-tag">Real Estate</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-30 22:37</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwNTk4" target="_blank" rel="noopener">Japan FX: Nobody's Stopping the Yen's Depreciation</a>        </h3>
+<div class="rs-summary">The rise in Japanese interest rates is tapering off, which should support gains by the JPY over the longer term. But it wouldn't be surprising if it also dampened the motivation of the Takaichi government and U.S. authorities to minimize the decline in the JPY, as we explain in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Central Banks</span><span class="rs-tag">Flows</span><span class="rs-tag">Politics</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-06-30 19:30</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwNDcw" target="_blank" rel="noopener">Global Gas and Power Insights: American Exceptionalism!</a>        </h3>
+<div class="rs-summary">Strong U.S. LNG exports should continue to loosen up LNG and European gas supply-demand balances over the next 12 to 18 months. Meanwhile, the U.S. gas balance would be marginally tighter, though still overwhelmed by strong production expected from the Permian and Haynesville.</div>        <div class="rs-tags">
+<span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Global Gas and Power Insights</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -3930,7 +4068,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5346322-0" target="_blank" rel="noopener">North American Midstream</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span>        </div>
+<span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4035,26 +4173,6 @@ function closeEvModal() {
       <div class="research-card">
         <div class="rs-meta">
           <span class="rs-platform">Citi</span>
-          <span>2026-06-25 07:00</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MzQx" target="_blank" rel="noopener">The Speculative Grade Beat: Rates Take the Wheel</a>        </h3>
-<div class="rs-summary">The hawkish Fed meeting confirmed the rise in Treasury yields over the past few months. Oil prices may be easing, but the AI buildout keeps inflationary concerns front and center. The hawkish pivot weighed on some risky assets; credit spreads remain anchored near post-crisis tights.</div>        <div class="rs-tags">
-<span class="rs-tag">The Speculative Grade Beat</span><span class="rs-tag">Flagship</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Credit Analysis</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 04:13</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NDY2" target="_blank" rel="noopener">Japan FX: Why No Second Round of Intervention Yet?</a>        </h3>
-<div class="rs-summary">In this note we look at the reasons Japan has so far deferred a second round of intervention to buy the JPY. We consider the IMF Exchange Rate Classification, Japan’s relationship with the U.S., the economic policies of the Takaichi government, and the overall market environment.</div>        <div class="rs-tags">
-<span class="rs-tag">Central Banks</span><span class="rs-tag">Flows</span><span class="rs-tag">Politics</span><span class="rs-tag">FX Strategy</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
           <span>2026-06-25 01:41</span>
         </div>
         <h3 class="rs-title">
@@ -4120,7 +4238,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5346318-0" target="_blank" rel="noopener">North American Utilities</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span>        </div>
+<span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream/Utilities and Power</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4130,7 +4248,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5346328-0" target="_blank" rel="noopener">IPPs/Nuclear</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span>        </div>
+<span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">Utilities and Midstream/Utilities and Power</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4140,7 +4258,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5347733-0" target="_blank" rel="noopener">China Equity Strategy</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">China & HK Equity strategy</span><span class="rs-tag">Head of Asia and Co-Head of Global Emerging Markets Equity Strategy</span><span class="rs-tag">Head of China Equity Research and Co-Head of Asia TMT Research</span>        </div>
+<span class="rs-tag">China & HK Equity strategy</span><span class="rs-tag">Head of China Equity Research and Co-Head of Asia TMT Research</span><span class="rs-tag">Head of Asia and Co-Head of Global Emerging Markets Equity Strategy</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4184,66 +4302,6 @@ function closeEvModal() {
       </div>
       <div class="research-card">
         <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 06:10</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MDU0" target="_blank" rel="noopener">China Communications Infrastructure: An AI Optics Upcycle</a>        </h3>
-<div class="rs-summary">The AI infrastructure buildout is triggering a structural upcycle in optical interconnects; we see the global market reaching $92 billion by 2028, a 65% three-year CAGR. In this Deep Dive we offer further analysis, review our top picks, and downgrade T&S Communications to Sell from Buy.</div>        <div class="rs-tags">
-<span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Deep Dive</span><span class="rs-tag">Theme Investing</span><span class="rs-tag">Annual Outlook</span><span class="rs-tag">Rating Change</span><span class="rs-tag">Target Price Change</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 06:07</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTQx" target="_blank" rel="noopener">North America Specialty Chemicals: Second-Quarter Preview</a>        </h3>
-<div class="rs-summary">Specialty chemical and industrial gas names have fared better than commodity chemicals of late, with de-escalation themes driving the price/cost expansion narrative. We view ECL as a primary beneficiary, as its mission-critical products and services leave it better-positioned than others.</div>        <div class="rs-tags">
-<span class="rs-tag">Specialty Chemicals</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Catalyst Watch</span><span class="rs-tag">Short-Term View</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Earnings Preview</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 06:00</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTEx" target="_blank" rel="noopener">Natural Gas Equities Biweekly: A Race Gas Producers Should Watch</a>        </h3>
-<div class="rs-summary">While AI spending continues to climb, gas demand from the power sector hasn’t followed. The headwinds have been growth in solar and to a lesser extent storage; both have pressured gas demand during the daylight and early evening hours. The question explored herein: Will this continue?</div>        <div class="rs-tags">
-<span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Oil & Gas Exploration and Production</span><span class="rs-tag">Energy Transition</span><span class="rs-tag">Natural Gas Equities Biweekly</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 04:00</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MDg3" target="_blank" rel="noopener">North America Commodity Chemicals: Peace-Narrative Pressures</a>        </h3>
-<div class="rs-summary">We caught up with Commodity & Intermediate Chemical names ahead of second-quarter reporting. We adjust our estimates broadly downward to reflect the current crude-oil and chemical-supply environment and weaker outlook for spreads. We offer further analysis and review our top picks.</div>        <div class="rs-tags">
-<span class="rs-tag">Commodity Chemicals</span><span class="rs-tag">Specialty Chemicals</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Geopolitics</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 01:18</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MDg2" target="_blank" rel="noopener">The High-Grade Beat: Everyone’s an AI Adopter</a>        </h3>
-<div class="rs-summary">Sector labels are losing their power to describe AI risk as the buildout's footprint expands. To price this cross-sector reality, we introduce seven new analytical groupings: Semiconductors, Hardware, Software, Tech Services, AI & Power Generation, Physical AI and Hyperscalers.</div>        <div class="rs-tags">
-<span class="rs-tag">Relative Value</span><span class="rs-tag">Credit Analysis</span><span class="rs-tag">Flagship</span><span class="rs-tag">The High-Grade Beat</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 00:45</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTUz" target="_blank" rel="noopener">Australia Economics: Changing Our Final Rate-Hike Call</a>        </h3>
-<div class="rs-summary">Following Australia's May monthly CPI numbers, we trim our second-quarter inflation forecasts. We think the data likely give policymakers room to hold rates in August. Rather than an August rate hike, we now see a final 25-basis-point hike in November, reaching a terminal rate of 4.6%.</div>        <div class="rs-tags">
-<span class="rs-tag">Australia Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">Inflation</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
           <span class="rs-platform">GS</span>
           <span>2026-06-24</span>
         </div>
@@ -4251,16 +4309,6 @@ function closeEvModal() {
 <a href="https://marquee.gs.com/content/research/en/reports/2026/06/24/5054563f-555b-494f-b218-bf9b464f3d3a.html" target="_blank" rel="noopener">Prologis Inc. (PLD): Announced attempted acquisition of SEGRO</a>        </h3>
 <div class="rs-summary">PLD announced a proposal to acquire SEGRO in an all-stock transaction valued at an enterprise value of approximately £12.6bn. On June 23, 2026, the Board of SEGRO rejected the proposal. See inside for details of the anno...</div>        <div class="rs-tags">
 <span class="rs-tag">REITs</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-23 20:48</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MTMz" target="_blank" rel="noopener">U.S. Industrial Technology & Mobility: Automate 2026 Takeaways</a>        </h3>
-<div class="rs-summary">Our conversations at Automate reinforced our view that industrial-automation adoption continues to inflect, driven by new and existing technologies as well as increasing convergence of automation hardware and software. We sensed AI excitement, but see adoption as still in the early stages.</div>        <div class="rs-tags">
-<span class="rs-tag">Industrial Conglomerates</span><span class="rs-tag">Industrial Technology & Mobility</span><span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Automation/Robotics</span><span class="rs-tag">Corporate Events/Special Situations</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4290,7 +4338,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5329849-0" target="_blank" rel="noopener">JPM Energy Conference Question Bank</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">Oil & Gas Exploration & Production</span><span class="rs-tag">Metals & Mining</span><span class="rs-tag">Large Cap Oil & Gas Exploration & Production</span><span class="rs-tag">Clean Energy, Power Infrastructure, and Sustainable Investing</span><span class="rs-tag">Utilities and Midstream</span>        </div>
+<span class="rs-tag">Clean Energy, Power Infrastructure, and Sustainable Investing</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Metals & Mining</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">Oil & Gas Exploration & Production</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4300,7 +4348,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5335473-0" target="_blank" rel="noopener">North American Power, Utilities, Midstream, LNG, and Nuclear</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Oil & Gas Exploration & Production</span><span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">North America Corporate Credit - Electric Utilities</span><span class="rs-tag">Utilities and Midstream</span>        </div>
+<span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">Oil & Gas Exploration & Production</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4310,7 +4358,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5337078-0" target="_blank" rel="noopener">E&P, Integrateds and Refiners</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">European Oil & Gas</span><span class="rs-tag">Oil & Gas Exploration & Production</span><span class="rs-tag">Large Cap Oil & Gas Exploration & Production</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span>        </div>
+<span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Oil & Gas Exploration & Production</span><span class="rs-tag">Large Cap Oil & Gas Exploration & Production</span><span class="rs-tag">European Oil & Gas</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4330,7 +4378,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://marquee.gs.com/content/research/en/reports/2026/06/17/f8b8905f-d57c-4554-a408-dab797f0ba48.html" target="_blank" rel="noopener">On the Road with Goldman Sachs: Materials & Real Estate Across the Americas</a>        </h3>
 <div class="rs-summary">In this podcast series, On the Road with Goldman Sachs, we catch up with our analysts who have been on the road, in the field, and kicking the tires with companies, customers, and everyone in between. In this week's podc...</div>        <div class="rs-tags">
-<span class="rs-tag">REITs</span><span class="rs-tag">Latam Steel & Basic Materials</span><span class="rs-tag">Equity Research Management</span>        </div>
+<span class="rs-tag">Latam Steel & Basic Materials</span><span class="rs-tag">Equity Research Management</span><span class="rs-tag">REITs</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4351,26 +4399,6 @@ function closeEvModal() {
 <a href="https://marquee.gs.com/content/research/en/reports/2026/06/17/e36bff96-cbe9-4d9d-b676-2833dc1c900e.html" target="_blank" rel="noopener">Japan Hotel REIT (8985.T): Earnings estimates and target price revised based on latest results and monthly data; Buy</a>        </h3>
 <div class="rs-summary">We revise our earnings estimates and target price based on FY12/25 results, the new property acquisition (Hyatt Regency Tokyo), recent inbound tourist trends, and monthly data for the 29 hotels with variable rents owned by the company.</div>        <div class="rs-tags">
 <span class="rs-tag">Real Estate</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">JPM</span>
-          <span>2026-06-17</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5337202-0" target="_blank" rel="noopener">June 2026 J.P. Morgan Commercial Real Estate Update</a>        </h3>
-        <div class="rs-tags">
-<span class="rs-tag">Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy</span><span class="rs-tag">North America Corporate Credit - REITs, Transportation and Sustainable Investing</span><span class="rs-tag">REITs</span><span class="rs-tag">REITs & Real Estate Services</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">JPM</span>
-          <span>2026-06-17</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5338648-0" target="_blank" rel="noopener">China Equity Strategy</a>        </h3>
-        <div class="rs-tags">
-<span class="rs-tag">Internet</span><span class="rs-tag">Technology and Telecoms</span><span class="rs-tag">Head of China Equity Research and Co-Head of Asia TMT Research</span><span class="rs-tag">Technology</span><span class="rs-tag">Head of Asia and Co-Head of Global Emerging Markets Equity Strategy</span><span class="rs-tag">China & HK Equity strategy</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4400,7 +4428,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://marquee.gs.com/content/research/en/reports/2026/06/15/8de15270-22a0-4e11-aa06-2657263841c7.html" target="_blank" rel="noopener">Power & Resources Reliability: AZ/CA meetings bullish power, infrastructure and critical materials demand, prioritization</a>        </h3>
 <div class="rs-summary">On June 9-11, we met with nine corporates in Arizona and California levered to Power & Resources Reliability, including a rare earth mine tour with MP Materials that represents 90%+ of US NdPr oxide supply and ~20% of no...</div>        <div class="rs-tags">
-<span class="rs-tag">Aerospace & Defense</span><span class="rs-tag">Semiconductors & IT Services</span><span class="rs-tag">Clean Energy</span><span class="rs-tag">Utilities & Ipps</span><span class="rs-tag">Software</span><span class="rs-tag">REITs</span>        </div>
+<span class="rs-tag">GS Sustain</span><span class="rs-tag">REITs</span><span class="rs-tag">Aerospace & Defense</span><span class="rs-tag">Software</span><span class="rs-tag">Utilities & Ipps</span><span class="rs-tag">Semiconductors & IT Services</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4688,7 +4716,7 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 
 <footer>
   Data: Bloomberg &middot; FRED &middot; Central Bank official calendars &middot; Citi Velocity<br>
-  Updated 2026-07-01 19:35 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
+  Updated 2026-07-02 07:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>
