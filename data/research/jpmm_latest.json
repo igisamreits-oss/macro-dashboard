@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T22:34:42.622419+00:00",
+  "fetched_at": "2026-07-02T10:34:31.343420+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -31,8 +31,8 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream"
       ],
       "publish_time": "2026-06-26"
@@ -78,198 +78,11 @@
       ],
       "tags": [
         "European Oil & Gas",
-        "Oil & Gas Exploration & Production",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Large Cap Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-29"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5329849-0",
-      "publication_id": "KAL-1-YIQKBL0C",
-      "title": "JPM Energy Conference Question Bank",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5329849-0",
-      "authors": [
-        {
-          "name": "Arun Jayaram",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "arun.jayaram@jpmchase.com"
-        },
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Eli Jossen, CFA",
-          "team": "Utilities and Midstream",
-          "email": "eli.jossen@jpmchase.com"
-        },
-        {
-          "name": "Aidan C Kelly",
-          "team": "Utilities and Midstream/Utilities and Power",
-          "email": "aidan.x.kelly@jpmchase.com"
-        },
-        {
-          "name": "Mark Strouse, CFA",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "mark.w.strouse@jpmorgan.com"
-        },
-        {
-          "name": "Bill Peterson",
-          "team": "Metals & Mining",
-          "email": "bill.peterson@jpmchase.com"
-        },
-        {
-          "name": "Bennett Moore",
-          "team": "Metals & Mining",
-          "email": "bennett.moore@jpmchase.com"
-        },
-        {
-          "name": "Pankaj Bhatter, CFA",
-          "team": "Large Cap Oil & Gas Exploration & Production",
-          "email": "pankaj.bhatter@jpmchase.com"
-        },
-        {
-          "name": "Jack Jerusalmi",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "jack.jerusalmi@jpmorgan.com"
-        },
-        {
-          "name": "Kartikey H Pandey",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "kartikey.pandey@jpmorgan.com"
-        },
-        {
-          "name": "Jason Kim",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "jason.b.kim@jpmchase.com"
-        },
-        {
-          "name": "Sowmya Vemulapalli",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "sowmya.vemulapalli@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Metals & Mining",
-        "Utilities and Midstream",
-        "Utilities and Midstream/Utilities and Power",
-        "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production"
-      ],
-      "publish_time": "2026-06-18"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5335473-0",
-      "publication_id": "KAL-1-YIQKBL0C",
-      "title": "North American Power, Utilities, Midstream, LNG, and Nuclear",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5335473-0",
-      "authors": [
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Eli Jossen, CFA",
-          "team": "Utilities and Midstream",
-          "email": "eli.jossen@jpmchase.com"
-        },
-        {
-          "name": "Aidan C Kelly",
-          "team": "Utilities and Midstream/Utilities and Power",
-          "email": "aidan.x.kelly@jpmchase.com"
-        },
-        {
-          "name": "Vrathan Reddy",
-          "team": "Utilities and Midstream",
-          "email": "vrathan.reddy@jpmchase.com"
-        },
-        {
-          "name": "Diana Niles",
-          "team": "North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "diana.niles@jpmorgan.com"
-        },
-        {
-          "name": "Francina Kolluri",
-          "team": "Utilities, Midstream, LNG, and Nuclear",
-          "email": "francina.kolluri@jpmchase.com"
-        },
-        {
-          "name": "Kevin L Kwan",
-          "team": "North America Corporate Credit - Electric Utilities",
-          "email": "kevin.l.kwan@jpmorgan.com"
-        },
-        {
-          "name": "Arun Jayaram",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "arun.jayaram@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
-        "Utilities and Midstream/Utilities and Power",
-        "Oil & Gas Exploration & Production",
-        "North America Corporate Credit - Electric Utilities"
-      ],
-      "publish_time": "2026-06-18"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5337078-0",
-      "publication_id": "KAL-1-YIQKBL0C",
-      "title": "E&P, Integrateds and Refiners",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5337078-0",
-      "authors": [
-        {
-          "name": "Arun Jayaram",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "arun.jayaram@jpmchase.com"
-        },
-        {
-          "name": "Pankaj Bhatter, CFA",
-          "team": "Large Cap Oil & Gas Exploration & Production",
-          "email": "pankaj.bhatter@jpmchase.com"
-        },
-        {
-          "name": "Jack Jerusalmi",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "jack.jerusalmi@jpmorgan.com"
-        },
-        {
-          "name": "Kartikey H Pandey",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "kartikey.pandey@jpmorgan.com"
-        },
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Matthew Lofting, CFA",
-          "team": "European Oil & Gas",
-          "email": "matthew.lofting@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production",
-        "European Oil & Gas"
-      ],
-      "publish_time": "2026-06-18"
     },
     {
       "platform": "JPM",
@@ -330,10 +143,10 @@
         }
       ],
       "tags": [
+        "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -372,11 +185,11 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "Utilities and Midstream/Utilities and Power"
+        "Utilities and Midstream/Utilities and Power",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -439,9 +252,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-06-25"
     },
