@@ -316,8 +316,8 @@ footer a { color: var(--accent); text-decoration: none; }
     <h1>Global REIT Macro Dashboard</h1>
   </div>
   <div class="meta">
-    Last update: <strong>2026-07-02 19:34</strong> KST<br>
-    Calendar: 2026-06-25 ~ 2026-07-30
+    Last update: <strong>2026-07-03 07:34</strong> KST<br>
+    Calendar: 2026-06-26 ~ 2026-07-31
   </div>
 </header>
 
@@ -325,19 +325,16 @@ footer a { color: var(--accent); text-decoration: none; }
   <button class="tab-btn active" data-tab="macro" role="tab">📊 Macro</button>
   <button class="tab-btn" data-tab="research" role="tab">
     📑 Research
-<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(55)</span>  </button>
+<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(85)</span>  </button>
 </div>
 
 <div class="tab-content active" id="tab-macro">
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
-  <h2>📅 Economic Calendar <small>2026-06-25 ~ 2026-07-30</small></h2>
+  <h2>📅 Economic Calendar <small>2026-06-26 ~ 2026-07-31</small></h2>
   <div class="calendar">
     <div class="calendar-grid">
       <div class="cal-cell cal-header">Country</div>
-      <div class="cal-cell cal-header  ">
-        06/25<br>목
-      </div>
       <div class="cal-cell cal-header  ">
         06/26<br>금
       </div>
@@ -356,10 +353,10 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         07/01<br>수
       </div>
-      <div class="cal-cell cal-header today ">
+      <div class="cal-cell cal-header  ">
         07/02<br>목
       </div>
-      <div class="cal-cell cal-header  ">
+      <div class="cal-cell cal-header today ">
         07/03<br>금
       </div>
       <div class="cal-cell cal-header  weekend">
@@ -443,36 +440,11 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         07/30<br>목
       </div>
+      <div class="cal-cell cal-header  ">
+        07/31<br>금
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇺🇸</span> US
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-3 past"
-              data-name="PCE YoY"
-              data-name-ko="PCE"
-              data-flag="🇺🇸"
-              data-country="United States"
-              data-date="2026-06-25"
-              data-time=""
-              data-cat="📊 물가"
-              data-imp="3"
-              data-note="May 2026 data"
-              data-past="true">
-          PCE
-        </span>
-        <span class="cal-event imp-3 past"
-              data-name="Core PCE YoY"
-              data-name-ko="Core PCE"
-              data-flag="🇺🇸"
-              data-country="United States"
-              data-date="2026-06-25"
-              data-time=""
-              data-cat="📊 물가"
-              data-imp="3"
-              data-note="May 2026 data"
-              data-past="true">
-          Core PCE
-        </span>
       </div>
       <div class="cal-cell">
         <span class="cal-event imp-3 past"
@@ -526,7 +498,20 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 "
+        <span class="cal-event imp-3 past"
+              data-name="Unemployment Rate"
+              data-name-ko="실업률"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-07-02"
+              data-time=""
+              data-cat="👥 실업률"
+              data-imp="3"
+              data-note="Jun 2026 data"
+              data-past="true">
+          실업률
+        </span>
+        <span class="cal-event imp-3 past"
               data-name="Unemployment Rate"
               data-name-ko="실업률"
               data-flag="🇺🇸"
@@ -536,7 +521,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="👥 실업률"
               data-imp="3"
               data-note="next release"
-              data-past="false">
+              data-past="true">
           실업률
         </span>
       </div>
@@ -752,10 +737,10 @@ footer a { color: var(--accent); text-decoration: none; }
           Core PCE
         </span>
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇪🇺</span> EU
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -809,7 +794,7 @@ footer a { color: var(--accent); text-decoration: none; }
         </span>
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-2 "
+        <span class="cal-event imp-2 past"
               data-name="Unemployment Rate"
               data-name-ko="유로존 실업률"
               data-flag="🇪🇺"
@@ -819,20 +804,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="👥 실업률"
               data-imp="2"
               data-note="May 2026 data"
-              data-past="false">
-          유로존 실업률
-        </span>
-        <span class="cal-event imp-2 "
-              data-name="Unemployment Rate"
-              data-name-ko="유로존 실업률"
-              data-flag="🇪🇺"
-              data-country="Eurozone"
-              data-date="2026-07-02"
-              data-time="18:00"
-              data-cat="👥 실업률"
-              data-imp="2"
-              data-note="next release"
-              data-past="false">
+              data-past="true">
           유로존 실업률
         </span>
       </div>
@@ -956,11 +928,24 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
+        <span class="cal-event imp-2 "
+              data-name="Unemployment Rate"
+              data-name-ko="유로존 실업률"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-07-30"
+              data-time="18:00"
+              data-cat="👥 실업률"
+              data-imp="2"
+              data-note="next release"
+              data-past="false">
+          유로존 실업률
+        </span>
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇬🇧</span> UK
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1136,10 +1121,10 @@ footer a { color: var(--accent); text-decoration: none; }
           Nationwide HPI MoM
         </span>
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇩🇪</span> DE
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1175,6 +1160,8 @@ footer a { color: var(--accent); text-decoration: none; }
               data-past="false">
           건설 PMI (50)
         </span>
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1303,8 +1290,6 @@ footer a { color: var(--accent); text-decoration: none; }
         <span class="flag">🇸🇪</span> SE
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
         <span class="cal-event imp-1 past"
               data-name="Consumer Confidence SA"
               data-name-ko="소비자신뢰"
@@ -1426,10 +1411,10 @@ footer a { color: var(--accent); text-decoration: none; }
           소매판매 MoM
         </span>
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇸🇬</span> SG
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1553,6 +1538,8 @@ footer a { color: var(--accent); text-decoration: none; }
           실업률 SA
         </span>
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇭🇰</span> HK
       </div>
@@ -1569,9 +1556,7 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 "
+        <span class="cal-event imp-2 past"
               data-name="Retail Sales Value YoY"
               data-name-ko="소매판매 YoY"
               data-flag="🇭🇰"
@@ -1581,20 +1566,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🛒 소매판매"
               data-imp="2"
               data-note="May 2026 data"
-              data-past="false">
-          소매판매 YoY
-        </span>
-        <span class="cal-event imp-2 "
-              data-name="Retail Sales Value YoY"
-              data-name-ko="소매판매 YoY"
-              data-flag="🇭🇰"
-              data-country="Hong Kong"
-              data-date="2026-07-02"
-              data-time="17:30"
-              data-cat="🛒 소매판매"
-              data-imp="2"
-              data-note="next release"
-              data-past="false">
+              data-past="true">
           소매판매 YoY
         </span>
       </div>
@@ -1640,6 +1612,8 @@ footer a { color: var(--accent); text-decoration: none; }
               data-past="false">
           실업률 (3M MA)
         </span>
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1725,8 +1699,6 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
         <span class="cal-event imp-2 "
               data-name="Unemployment Rate"
               data-name-ko="실업률"
@@ -1755,10 +1727,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇯🇵</span> JP
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1895,10 +1867,62 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 "
+              data-name="BoJ Policy Rate"
+              data-name-ko="BoJ"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-07-31"
+              data-time="12:00"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
+          BoJ
+        </span>
+        <span class="cal-event imp-2 "
+              data-name="Unemployment Rate"
+              data-name-ko="실업률"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-07-31"
+              data-time="08:30"
+              data-cat="👥 실업률"
+              data-imp="2"
+              data-note="next release"
+              data-past="false">
+          실업률
+        </span>
+        <span class="cal-event imp-2 "
+              data-name="Housing Starts YoY"
+              data-name-ko="주택착공 YoY"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-07-31"
+              data-time="14:00"
+              data-cat="🏘️ 주택지표"
+              data-imp="2"
+              data-note="next release"
+              data-past="false">
+          주택착공 YoY
+        </span>
+        <span class="cal-event imp-2 "
+              data-name="Large-Scale Retail MoM SA"
+              data-name-ko="대형소매 MoM"
+              data-flag="🇯🇵"
+              data-country="Japan"
+              data-date="2026-07-31"
+              data-time=""
+              data-cat="🛒 소매판매"
+              data-imp="2"
+              data-note="next release"
+              data-past="false">
+          대형소매 MoM
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇰🇷</span> KR
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1983,10 +2007,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇨🇦</span> CA
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -2149,6 +2173,8 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
     </div>
   </div>
 </section>
@@ -2220,10 +2246,10 @@ function closeEvModal() {
         &middot; cons 3.75%
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>3.99%</strong>
+        12M 시장: <strong>3.95%</strong>
         <span class="implied-delta hike">
-          +24bp
-          (~1.0 인상)
+          +20bp
+          (~0.8 인상)
         </span>
       </div>
     </div>
@@ -2236,10 +2262,10 @@ function closeEvModal() {
         Next: <strong>2026-07-23</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>2.38%</strong>
+        12M 시장: <strong>2.36%</strong>
         <span class="implied-delta hike">
-          +13bp
-          (~0.5 인상)
+          +11bp
+          (~0.4 인상)
         </span>
       </div>
     </div>
@@ -2252,9 +2278,9 @@ function closeEvModal() {
         Next: <strong>2026-07-30</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>3.96%</strong>
+        12M 시장: <strong>3.95%</strong>
         <span class="implied-delta hike">
-          +21bp
+          +20bp
           (~0.8 인상)
         </span>
       </div>
@@ -2265,7 +2291,7 @@ function closeEvModal() {
       <div class="cb-rate">
 1.39%      </div>
       <div class="cb-next">
-        Next: <strong>2026-07-05</strong>
+        Next: <strong>2026-07-06</strong>
       </div>
     </div>
     <div class="cb-card ">
@@ -2277,10 +2303,10 @@ function closeEvModal() {
         Next: <strong>TBD</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>4.54%</strong>
+        12M 시장: <strong>4.53%</strong>
         <span class="implied-delta hike">
-          +19bp
-          (~0.8 인상)
+          +18bp
+          (~0.7 인상)
         </span>
       </div>
     </div>
@@ -2290,7 +2316,7 @@ function closeEvModal() {
       <div class="cb-rate">
 1.00%      </div>
       <div class="cb-next">
-        Next: <strong>TBD</strong>
+        Next: <strong>2026-07-31</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
         12M 시장: <strong>1.19%</strong>
@@ -2310,10 +2336,10 @@ function closeEvModal() {
         &middot; cons 2.25%
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>2.49%</strong>
+        12M 시장: <strong>2.48%</strong>
         <span class="implied-delta hike">
-          +24bp
-          (~1.0 인상)
+          +23bp
+          (~0.9 인상)
         </span>
       </div>
     </div>
@@ -2335,10 +2361,10 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-3.68%            </td>
-            <td class="change-pos">
-+0.06            </td>
-            <td><small style="color:var(--text-dim)">2026-06-30</small></td>
+3.66%            </td>
+            <td class="change-neg">
+-0.02            </td>
+            <td><small style="color:var(--text-dim)">2026-07-01</small></td>
           </tr>
           <tr>
             <td class="name">
@@ -2346,10 +2372,10 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.31%            </td>
-            <td class="change-neg">
--0.01            </td>
-            <td><small style="color:var(--text-dim)">2026-06-29</small></td>
+2.34%            </td>
+            <td class="change-pos">
++0.03            </td>
+            <td><small style="color:var(--text-dim)">2026-06-30</small></td>
           </tr>
           <tr>
             <td class="name">
@@ -2432,7 +2458,7 @@ function closeEvModal() {
             </td>
             <td class="value-cell">
 2.23%            </td>
-            <td class="change-zero">
+            <td class="change-pos">
 +0.00            </td>
             <td><small style="color:var(--text-dim)">2026-07-02</small></td>
           </tr>
@@ -2442,9 +2468,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-3.12%            </td>
+3.11%            </td>
             <td class="change-pos">
-+0.01            </td>
++0.00            </td>
             <td><small style="color:var(--text-dim)">2026-07-02</small></td>
           </tr>
           <tr>
@@ -2464,9 +2490,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-1.90%            </td>
+1.88%            </td>
             <td class="change-neg">
--0.02            </td>
+-0.03            </td>
             <td><small style="color:var(--text-dim)">2026-07-02</small></td>
           </tr>
           <tr>
@@ -2475,7 +2501,7 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.04%            </td>
+2.03%            </td>
             <td class="change-neg">
 -0.01            </td>
             <td><small style="color:var(--text-dim)">2026-07-02</small></td>
@@ -2527,10 +2553,10 @@ function closeEvModal() {
               <span class="freq-badge W">Weekly</span>
             </td>
             <td class="value-cell">
-6.49%            </td>
-            <td class="change-pos">
-+0.02            </td>
-            <td><small style="color:var(--text-dim)">2026-06-25</small></td>
+6.43%            </td>
+            <td class="change-neg">
+-0.06            </td>
+            <td><small style="color:var(--text-dim)">2026-07-02</small></td>
           </tr>
         </tbody>
       </table>
@@ -2850,13 +2876,13 @@ function closeEvModal() {
               Unemployment Rate<span class="freq-badge M">Monthly</span>
 <small>실업률</small>            </td>
             <td>
-              <small style="color:var(--text-dim)">May 2026</small>
-<small style="color:var(--text-dim); display:block; font-size:9px; opacity:0.65">(2026-06-05)</small>            </td>
+              <small style="color:var(--text-dim)">Jun 2026</small>
+<small style="color:var(--text-dim); display:block; font-size:9px; opacity:0.65">(2026-07-02)</small>            </td>
+            <td>4.2%</td>
             <td>4.3%</td>
             <td>4.3%</td>
-            <td>4.3%</td>
-            <td class="surprise-zero">
-+0.00            </td>
+            <td class="surprise-neg">
+-0.10            </td>
           </tr>
         </tbody>
       </table>
@@ -3744,8 +3770,68 @@ function closeEvModal() {
 <div class="tab-content" id="tab-research">
   <section>
     <h2>📑 Research Feed
-<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-07-02 10:34 UTC</small>    </h2>
+<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-07-02 22:34 UTC</small>    </h2>
     <div class="research-grid">
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-02 16:02</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMTk3" target="_blank" rel="noopener">U.S. Economics Weekly: The Case for Hikes Was Just Revised Away</a>        </h3>
+<div class="rs-summary">The latest jobs data will relieve hawkish concerns about rate hikes. With headline inflation having peaked and core PCE set to be revised lower in September, any case for hikes is disappearing; in our base case, rising unemployment in coming months spurs a return to Fed cuts in October.</div>        <div class="rs-tags">
+<span class="rs-tag">U.S. Economics Weekly</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Labor Market</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Economic Forecast</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-02 14:59</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMTY0" target="_blank" rel="noopener">Oil Monitor: Crude Oil Remains Under Pressure</a>        </h3>
+<div class="rs-summary">Fundamentals are rapidly reasserting themselves as Hormuz disruptions fade, with Brent back to the low $70s a barrel. We expect further de-escalation in the coming months and continue to recommend selling any summer rallies. We forecast Brent reaching $60 to $65 a barrel by year's end.</div>        <div class="rs-tags">
+<span class="rs-tag">Oil Monitor</span><span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-02 14:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMTUy" target="_blank" rel="noopener">PULSE Monitor: Volatility Gets a Yellow Card</a>        </h3>
+<div class="rs-summary">VIX isn't far from 52-week lows, but VIXEQ, a gauge of average single-stock implied volatility, has steadily risen to near 52-week highs, a setup that's led to noticeable style and factor rotations. We see rotational chop lingering, but this creates an opportunity for less crowded trades.</div>        <div class="rs-tags">
+<span class="rs-tag">PULSE Monitor</span><span class="rs-tag">Macro Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-02 13:55</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMDg5" target="_blank" rel="noopener">Emerging Markets Strategy Weekly: Scores on the Doors</a>        </h3>
+<div class="rs-summary">On a year-to-date cumulative total return basis, emerging-markets local currency bonds have continued to outperform USTs, underscoring the relative attractiveness of carry and selective FX tailwinds across the region. Latin America remains the clear winner; we offer more details herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Emerging Markets</span><span class="rs-tag">Emerging Markets Strategy Weekly</span><span class="rs-tag">Flagship</span><span class="rs-tag">Macro Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-02 12:59</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMTQ4" target="_blank" rel="noopener">Metal Matters: An Existential Moment for the Aluminum Bull Market</a>        </h3>
+<div class="rs-summary">We update our aluminum forecasts, as we now see prices bottoming in the coming month before recovering toward $3,300 to $3,500 a ton late this year. We don't see aluminum as an attractive bear trade from current levels, and in fact recommend buying the dip over the summer into year's end.</div>        <div class="rs-tags">
+<span class="rs-tag">Metal Matters</span><span class="rs-tag">Commodities Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-02 11:10</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMTIy" target="_blank" rel="noopener">A Stable Labor Market, But Not a Strong One</a>        </h3>
+<div class="rs-summary">Payroll job growth slowed to 57,000 in June, while the unemployment rate declined, but alongside a large decline in labor-force participation. We continue to think the low-hiring environment will imply further weakening in job growth and rising unemployment later in the year.</div>        <div class="rs-tags">
+<span class="rs-tag">U.S. Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">Labor Market</span>        </div>
+      </div>
       <div class="research-card">
         <div class="rs-meta">
           <span class="rs-platform">Citi</span>
@@ -3755,6 +3841,16 @@ function closeEvModal() {
 <a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMzEx" target="_blank" rel="noopener">North America: Road Ahead Second-Half 2026</a>        </h3>
 <div class="rs-summary">We remain constructive on the full-year U.S. equity outlook, and expect the broadening theme to assert itself in the second half. While AI tailwinds will remain critical to the U.S. equity narrative, we see opportunity in stock selection across industries, with more detail in this note.</div>        <div class="rs-tags">
 <span class="rs-tag">Road Ahead</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Annual Outlook</span><span class="rs-tag">Flagship</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-07-01 13:38</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwODE3" target="_blank" rel="noopener">Quantitative Global Macro Strategy: Previewing Payrolls Days</a>        </h3>
+<div class="rs-summary">Treasuries typically sell off on the median payrolls day, with bearish surprises in rates showing mean reversion approximately 15 days later. Equities tend to rally on payrolls days, but their performance is highly conditional on the reaction in USTs. We look at more patterns in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Macro Strategy</span><span class="rs-tag">Quantitative Global Macro Strategy</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -3785,6 +3881,26 @@ function closeEvModal() {
 <a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwNjUz" target="_blank" rel="noopener">U.S. Aerospace & Defense: "Aerospace First, Defense Next"</a>        </h3>
 <div class="rs-summary">Our second-quarter tactical framework has been "Aerospace First, Defense Next" given our belief that aerospace stocks would lead the group out of its post-conflict pullback. We now see risk/reward as increasingly asymmetric across defense stocks as well. We offer further details herein.</div>        <div class="rs-tags">
 <span class="rs-tag">Aerospace & Defense</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Catalyst Watch</span><span class="rs-tag">Rating Change</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Earnings Preview</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-07-01</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/07/01/2f096fb4-8219-4915-b6d5-86f134ccf93f.html" target="_blank" rel="noopener">US Conviction List - Directors' Cut: July 2026 Update</a>        </h3>
+<div class="rs-summary">We add Estee Lauder Co. (EL), Nextpower (NXT), and Wells Fargo (WFC) to the US Conviction List, while removing Brixmor Property Group (BRX), Duke Energy (DUK), and nVENT Electric (NVT). We have a brief summary of these a...</div>        <div class="rs-tags">
+<span class="rs-tag">Tactical Research</span><span class="rs-tag">Equity Research Management</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-07-01</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/07/01/bb1cd509-d3c3-4a4e-b0cc-7443baf62a65.html" target="_blank" rel="noopener">Frasers Centrepoint Trust (FCRT.SI): Proposed divestment of White Sands lowers gearing but dilutive; Neutral</a>        </h3>
+<div class="rs-summary">Fraser Centrepoint Trust (FCT) announced the proposed divestment of White Sands for S$467m at an implied FY25 NPI yield of 4.6% and 8.4% premium to independent valuation. Divestment proceeds will be used towards debt rep...</div>        <div class="rs-tags">
+<span class="rs-tag">Real Estate</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -3835,6 +3951,16 @@ function closeEvModal() {
 <a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMzI4" target="_blank" rel="noopener">North America Trucking: Private Trucker Panel Takeaways</a>        </h3>
 <div class="rs-summary">We hosted a discussion about the state of the trucking industry with executives from private carriers Cheema Freightlines and Paper Transport, and found confidence in improving conditions given “permanent and structural changes in capacity.” We detail our key takeaways in this note.</div>        <div class="rs-tags">
 <span class="rs-tag">Trucking</span><span class="rs-tag">Theme Investing</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-30</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/30/8625133f-bee9-4257-872d-6a12578cc6c6.html" target="_blank" rel="noopener">Essential Properties Realty Trust (EPRT): Updating estimates following debt issuance and dividend increase</a>        </h3>
+<div class="rs-summary">We update our EPRT model to reflect the issuance of $400mn of unsecured debt at 5.375%, effective June 15. We also make minor edits to assumptions about the volume and timing of property acquisitions, funding, and EPRT's...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -3934,7 +4060,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5350065-0" target="_blank" rel="noopener">JPM E&P, Integrateds, and Refiners</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">European Oil & Gas</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Large Cap Oil & Gas Exploration & Production</span><span class="rs-tag">Oil & Gas Exploration & Production</span>        </div>
+<span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">European Oil & Gas</span><span class="rs-tag">Oil & Gas Exploration & Production</span><span class="rs-tag">Large Cap Oil & Gas Exploration & Production</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -3989,16 +4115,6 @@ function closeEvModal() {
       <div class="research-card">
         <div class="rs-meta">
           <span class="rs-platform">Citi</span>
-          <span>2026-06-26 09:55</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5ODQ3" target="_blank" rel="noopener">PULSE Monitor: Broadening, or Tech Zero-Sum Game?</a>        </h3>
-<div class="rs-summary">Our latest sector recommendations focus on cyclical broadening as we move past peak geopolitical disruptions. Still, the AI portion of the S&P 500 must participate to deliver our $350 EPS estimate and 8100 price target. The issue now facing investors is whether Tech is a zero-sum game.</div>        <div class="rs-tags">
-<span class="rs-tag">PULSE Monitor</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Geopolitics</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
           <span>2026-06-26 08:32</span>
         </div>
         <h3 class="rs-title">
@@ -4048,6 +4164,16 @@ function closeEvModal() {
       </div>
       <div class="research-card">
         <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-26</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/26/44803201-3e62-48f8-88f5-78423c0520f7.html" target="_blank" rel="noopener">Americas Real Estate: REITs: Rates move, REITs do what? A look across performance and correlations</a>        </h3>
+<div class="rs-summary">As interest rates move, investors often ask how REITs are likely to perform. To address this, we assess across periods of increasing and decreasing interest rates: (1) REIT performance relative to the S&P 500, (2) Subsec...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
           <span class="rs-platform">JPM</span>
           <span>2026-06-26</span>
         </div>
@@ -4088,113 +4214,13 @@ function closeEvModal() {
       </div>
       <div class="research-card">
         <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 16:00</span>
+          <span class="rs-platform">GS</span>
+          <span>2026-06-25</span>
         </div>
         <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NjM1" target="_blank" rel="noopener">Sector & Industry Group Navigator: Back to Broadening</a>        </h3>
-<div class="rs-summary">U.S. equities have posted a strong second quarter with the S&P 500 up 13% as of this writing, and the AI trade a standout. We opportunistically reduce our Info Tech overweight while positioning for a cyclically led broadening call during the third quarter.</div>        <div class="rs-tags">
-<span class="rs-tag">SIGN</span><span class="rs-tag">U.S. Equity Strategy</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 15:14</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NjQx" target="_blank" rel="noopener">European Rates Weekly: Summertime</a>        </h3>
-<div class="rs-summary">We expect the € front-end response to sharply lower oil prices to continue being relatively muted, with sticky hike premium also limiting the extent of belly richening.</div>        <div class="rs-tags">
-<span class="rs-tag">Flagship</span><span class="rs-tag">Euro Rates Weekly</span><span class="rs-tag">Macro Strategy</span><span class="rs-tag">Trade Idea</span><span class="rs-tag">Monetary Policy</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 14:01</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NTMz" target="_blank" rel="noopener">Emerging Markets Strategy Weekly: A New USD Environment for EMFX</a>        </h3>
-<div class="rs-summary">We've been discussing the potential effects of rising U.S. real yields in global macro risk. The current macro backdrop still suggests resilience in the real rate valuation among high-yielding emerging markets, which could produce downside EUR-EM FX in some situations, as detailed herein.</div>        <div class="rs-tags">
-<span class="rs-tag">Emerging Markets</span><span class="rs-tag">Emerging Markets Strategy Weekly</span><span class="rs-tag">Flagship</span><span class="rs-tag">Macro Strategy</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 10:30</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NDQx" target="_blank" rel="noopener">Through the Oil Shock: Five Lenses for ASEAN</a>        </h3>
-<div class="rs-summary">The oil shock that defined ASEAN this year is reversing as Brent falls back below $80 a barrel. We hold a Neutral weight on ASEAN given investors’ light positioning, except for Singapore. Within ASEAN, our preferred markets for 2026's second half are SG, MY, ID, PH and TH, in that order.</div>        <div class="rs-tags">
-<span class="rs-tag">Theme Investing</span><span class="rs-tag">Emerging Markets</span><span class="rs-tag">Diversified Banks</span><span class="rs-tag">Geopolitics</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 09:51</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NTc2" target="_blank" rel="noopener">Slower Consumer Spending Keeps Rate Hikes Unlikely</a>        </h3>
-<div class="rs-summary">A large downward revision to first-quarter consumer spending more than offset any hawkish implications from expectedly strong May spending. Together with rising jobless claims, the data will challenge markets that have priced in a substantial probability of Fed rate hikes as early as July.</div>        <div class="rs-tags">
-<span class="rs-tag">Consumer Spending</span><span class="rs-tag">U.S. Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 09:02</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MzUy" target="_blank" rel="noopener">Foreign Exchange Forecasts: June 2026</a>        </h3>
-<div class="rs-summary">We lower our 0-3-month EURUSD forecast to 1.13 to reflect USD-positive asymmetry around upcoming data and Fed pricing, as well potential momentum chasing on the bullish DXY break. In this scenario, EURUSD could overshoot our near-term forecast toward 1.10. We offer further analysis herein.</div>        <div class="rs-tags">
-<span class="rs-tag">Flagshi[</span><span class="rs-tag">Flagship</span><span class="rs-tag">Foreign Exchange Forecasts</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Macro Strategy</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 09:01</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5Mzcw" target="_blank" rel="noopener">Global Economic Outlook & Strategy: Cascading Supply Shocks</a>        </h3>
-<div class="rs-summary">The U.S.-Iran interim deal has eased some key headwinds for the global economy, but it’s too soon to say the challenges are behind us. And a new risk to the global economy may be emerging in the form of a strong El Niño event that could bring substantial and long-lasting economic costs.</div>        <div class="rs-tags">
-<span class="rs-tag">Flagship</span><span class="rs-tag">Geopolitics</span><span class="rs-tag">Global Economic Outlook & Strategy</span><span class="rs-tag">Economic Growth</span><span class="rs-tag">Inflation</span><span class="rs-tag">Central Banks</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 01:41</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5Mzk0" target="_blank" rel="noopener">China's AI Supercycle Cuts Into the K-Shaped Economy</a>        </h3>
-<div class="rs-summary">AI is now front and center in China’s K-shaped economy, further powering exports, production and the new economy even as AI-driven job displacement weighs on consumer confidence and the significant AI buildout risks crowding out old-economy investment. We offer further analysis herein.</div>        <div class="rs-tags">
-<span class="rs-tag">Economic Forecast</span><span class="rs-tag">Fiscal Policy</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">China Economics</span><span class="rs-tag">Economic Growth</span><span class="rs-tag">Central Banks</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 00:51</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NDI2" target="_blank" rel="noopener">Micron Technology: It’s Different This Time</a>        </h3>
-<div class="rs-summary">We're buyers of Micron after the company signed Strategic Customer Agreements worth ~40% of sales to be covered over the next five years and talked about a transformed business model driven by memory shortages through 2028. We lift our target price for Buy-rated MU to $1,400.</div>        <div class="rs-tags">
-<span class="rs-tag">Semiconductors</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Results Read-Across and Call Backs</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 00:30</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MjE4" target="_blank" rel="noopener">What We See Ahead for Saudi National Bank</a>        </h3>
-<div class="rs-summary">Saudi National Bank is the best-performing name within our Saudi Arabia coverage. We sense momentum around some catalysts have started to slow and could remain muted. Nonetheless, valuations are still reasonable. We stay Buy-rated but position Riyad Bank and BSF as our preferred plays.</div>        <div class="rs-tags">
-<span class="rs-tag">Diversified Banks</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Short-Term View</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-25 00:00</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MjAw" target="_blank" rel="noopener">We're Upgrading L'Oréal to Buy</a>        </h3>
-<div class="rs-summary">We're upgrading L'Oréal to Buy and raising our target price to €435, anticipating a new, higher trading range for the stock later in the year.  We offer further details supporting our Buy thesis in this note and explain why we believe it is worth moving early.</div>        <div class="rs-tags">
-<span class="rs-tag">Rating Change</span><span class="rs-tag">Household & Personal Care</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span>        </div>
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/25/fa9c653c-ce33-41cf-8a73-563476c32218.html" target="_blank" rel="noopener">Lineage Inc. (LINE): USDA check-in for May '26: Strong y/y trends continue, while seasonal headwinds are somewhat muted</a>        </h3>
+<div class="rs-summary">Given investor focus on LINE's occupancy and inventory trends, we share USDA May data (released on 6/25/26), compare it versus historical trends, and review how 2026 seasonality is trending. We realize there are many way...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4214,7 +4240,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5346318-0" target="_blank" rel="noopener">North American Utilities</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span>        </div>
+<span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4224,7 +4250,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5346328-0" target="_blank" rel="noopener">IPPs/Nuclear</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span><span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span>        </div>
+<span class="rs-tag">Utilities and Midstream/Utilities and Power</span><span class="rs-tag">Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Head of North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">North America Power, Utilities, Midstream, LNG, and Nuclear</span><span class="rs-tag">Utilities and Midstream</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4234,47 +4260,17 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5347733-0" target="_blank" rel="noopener">China Equity Strategy</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Head of China Equity Research and Co-Head of Asia TMT Research</span><span class="rs-tag">Head of Asia and Co-Head of Global Emerging Markets Equity Strategy</span><span class="rs-tag">China & HK Equity strategy</span>        </div>
+<span class="rs-tag">Head of China Equity Research and Co-Head of Asia TMT Research</span><span class="rs-tag">China & HK Equity strategy</span><span class="rs-tag">Head of Asia and Co-Head of Global Emerging Markets Equity Strategy</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 23:00</span>
+          <span class="rs-platform">GS</span>
+          <span>2026-06-24</span>
         </div>
         <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5Mjc2" target="_blank" rel="noopener">Poles' Rising Wealth Offers Financial-Services Opportunities</a>        </h3>
-<div class="rs-summary">We expect Poland's growing household wealth and increasing awareness of the need to save for retirement will lead not only to a further increase in the financial assets of Polish households but also to a shift in these assets' structure. We explore potential beneficiaries in this note.</div>        <div class="rs-tags">
-<span class="rs-tag">Diversified Banks</span><span class="rs-tag">Emerging Markets</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 19:46</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5Mzgw" target="_blank" rel="noopener">Inside Our New Top Picks for Back Office Software</a>        </h3>
-<div class="rs-summary">We're updating our rankings across our back-office software coverage following first-quarter earnings, preferring names with a clear acceleration supported by differentiated AI strategies we see as underappreciated. Our new top picks are BOX, NAVN and APPN.</div>        <div class="rs-tags">
-<span class="rs-tag">Application Software</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 16:53</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MDc2" target="_blank" rel="noopener">We're Upgrading Four Chilean Banks</a>        </h3>
-<div class="rs-summary">We're upgrading our recommendation on Chilean banks as valuation ratios currently offer attractive discounts. We see two factors at work, as explored in this note. We're upgrading Santander Chile, Itau Chile and BICE to Buy from Neutral and BCI to Neutral from Sell.</div>        <div class="rs-tags">
-<span class="rs-tag">Diversified Banks</span><span class="rs-tag">Rating Change</span><span class="rs-tag">Inflation</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-06-24 11:14</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5MjU2" target="_blank" rel="noopener">The Worst Is Likely Over for Systematic Curve Carry Strategies</a>        </h3>
-<div class="rs-summary">We expect commodities systematic curve carry strategies to continue to recover as oil prices trend lower over the coming six to 12 months. A major de-escalation is our new base case, and we view any temporary summer rally in oil prices as a rally to fade and a potential entry opportunity.</div>        <div class="rs-tags">
-<span class="rs-tag">Relative Value</span><span class="rs-tag">Commodities Strategy</span><span class="rs-tag">Geopolitics</span>        </div>
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/24/5054563f-555b-494f-b218-bf9b464f3d3a.html" target="_blank" rel="noopener">Prologis Inc. (PLD): Announced attempted acquisition of SEGRO</a>        </h3>
+<div class="rs-summary">PLD announced a proposal to acquire SEGRO in an all-stock transaction valued at an enterprise value of approximately £12.6bn. On June 23, 2026, the Board of SEGRO rejected the proposal. See inside for details of the anno...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4284,17 +4280,347 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5341470-0" target="_blank" rel="noopener">Transition Talks</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Head of APAC Utilities & Renewables | Sustainable Investing</span><span class="rs-tag">APAC Equity Thematic and Sustainable Investing Research</span>        </div>
+<span class="rs-tag">APAC Equity Thematic and Sustainable Investing Research</span><span class="rs-tag">Head of APAC Utilities & Renewables | Sustainable Investing</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
-          <span class="rs-platform">JPM</span>
+          <span class="rs-platform">GS</span>
           <span>2026-06-18</span>
         </div>
         <h3 class="rs-title">
-<a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5336514-0" target="_blank" rel="noopener">Japan</a>        </h3>
-        <div class="rs-tags">
-<span class="rs-tag">Economic and Policy Research</span>        </div>
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/18/94125504-a203-441f-b9b9-65c3a57be64d.html" target="_blank" rel="noopener">Vornado Realty Trust (VNO): Model Update</a>        </h3>
+<div class="rs-summary">Following 1Q26 earnings, we provide earnings call takeaways, update our model and price target, and show valuation trends.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-17</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/17/f8b8905f-d57c-4554-a408-dab797f0ba48.html" target="_blank" rel="noopener">On the Road with Goldman Sachs: Materials & Real Estate Across the Americas</a>        </h3>
+<div class="rs-summary">In this podcast series, On the Road with Goldman Sachs, we catch up with our analysts who have been on the road, in the field, and kicking the tires with companies, customers, and everyone in between. In this week's podc...</div>        <div class="rs-tags">
+<span class="rs-tag">Latam Steel & Basic Materials</span><span class="rs-tag">REITs</span><span class="rs-tag">Equity Research Management</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-17</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/17/c1167d6f-238a-4317-b275-076ebb1cb240.html" target="_blank" rel="noopener">Atlanta management meetings and property tour takeaways (FR, LINE, SPG)</a>        </h3>
+<div class="rs-summary">On June 15th and 16th, 2026, we traveled to Atlanta and met with FR and LINE management, toured a LINE facility, and walked SPG's Phipps Plaza and Lenox Sqaure properties. With FR management, we reviewed leasing activity...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-17</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/17/e36bff96-cbe9-4d9d-b676-2833dc1c900e.html" target="_blank" rel="noopener">Japan Hotel REIT (8985.T): Earnings estimates and target price revised based on latest results and monthly data; Buy</a>        </h3>
+<div class="rs-summary">We revise our earnings estimates and target price based on FY12/25 results, the new property acquisition (Hyatt Regency Tokyo), recent inbound tourist trends, and monthly data for the 29 hotels with variable rents owned by the company.</div>        <div class="rs-tags">
+<span class="rs-tag">Real Estate</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-16</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/16/8831decc-4900-409b-9261-7084988cbb62.html" target="_blank" rel="noopener">Americas Real Estate: REITs: Sunbelt Resi Field Trip Takeaways</a>        </h3>
+<div class="rs-summary">Following our Resi Field Trip in Atlanta this week with INVH and MAA, we provide our key takeaways and compare them against real time residential REIT data. Multiple key sunbelt markets including Atlanta have seen a rece...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-16</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/16/e63ce975-20b7-4f51-9ab5-c1a8a1987343.html" target="_blank" rel="noopener">Sekisui House Reit Inc. (3309.T): In line: Domestic residential solid, but monitoring US rental condo market/property sales trends, Neutral</a>        </h3>
+<div class="rs-summary">The REIT announced FP4/26 earnings after the market close on June 15. FP4/26 DPU of ¥3,407 was slightly below GSe (¥3,447) but largely in line with expectations. The REIT's DPU guidance for FP10/26 and FP4/27 is ¥1,908 and ¥1,880, respectively.</div>        <div class="rs-tags">
+<span class="rs-tag">Real Estate</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-15</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/15/8de15270-22a0-4e11-aa06-2657263841c7.html" target="_blank" rel="noopener">Power & Resources Reliability: AZ/CA meetings bullish power, infrastructure and critical materials demand, prioritization</a>        </h3>
+<div class="rs-summary">On June 9-11, we met with nine corporates in Arizona and California levered to Power & Resources Reliability, including a rare earth mine tour with MP Materials that represents 90%+ of US NdPr oxide supply and ~20% of no...</div>        <div class="rs-tags">
+<span class="rs-tag">Utilities & Ipps</span><span class="rs-tag">Semiconductors & IT Services</span><span class="rs-tag">Clean Energy</span><span class="rs-tag">Aerospace & Defense</span><span class="rs-tag">Software</span><span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-10</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/10/b5961835-6217-4ca4-acd8-592934fc4384.html" target="_blank" rel="noopener">Americas Real Estate: REITs: May '26 Office Update: Touring up nationwide y/y, but when considering Trophy & Class A only, both SF & NYC were down</a>        </h3>
+<div class="rs-summary">We review the latest updates on (1) VTS office tour activity through May '26, (2) Return to office trends by market, and (3) San Francisco and NYC office leasing data.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/0b3d264a-4090-463f-ad6f-a9360bdadd8f.html" target="_blank" rel="noopener">National Healthcare Properties Inc. (NHP): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 03, 2026, at NAREIT in New York we met with NHP's senior management, including Mr. Anderson, CEO, President & Director & Mr. Babin, CFO & Treasurer. The topics of our conversation included acquisition pipelines, ...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/e1e764c0-d575-497c-905d-991c862a15d1.html" target="_blank" rel="noopener">Invitation Homes Inc. (INVH): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 03, 2026, at NAREIT REITweek in New York we met with INVH's senior management including Mr. Dallas Tanner, Pres and CEO, Mr. Jonathan Olsen, EVP and CFO, Mr. Scott Eisen, EVP and COO, and Mr. Scott McLaughlin, SVP-IR and Tax.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/dc8687f3-4b04-4b35-aee9-746f6a768253.html" target="_blank" rel="noopener">American Homes 4 Rent (AMH): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 03, 2026, as part of NAREIT we met with AMH's management including Mr. Bryan Smith, CEO, Mr. Christopher Lau, CFO, Mr. Lincoln Parmer, COO and Mr. Nick Fromm, VP-IR. Key discussion pointers included improving reg...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/144c04a1-b71f-4bc1-9704-545610fb75ed.html" target="_blank" rel="noopener">CapitaLand Ascendas REIT (CAPD.SI): Potential occupancy weakness with thesis around inorganic growth played out; Downgrade to Neutral</a>        </h3>
+<div class="rs-summary">We believe the recent acceleration in tech company layoffs could suggest further weakening of CLAR's occupancy, with technology tenants making up one-third of its rental revenue. Factoring in lower occupancy, we lower CL...</div>        <div class="rs-tags">
+<span class="rs-tag">Real Estate</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/27b33be5-a31c-4ae6-8794-fba8269f4a35.html" target="_blank" rel="noopener">Essex Property Trust Inc. (ESS): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On, June 03, 2026, at NAREIT REITweek in New York we attended a meeting with ESS senior management including Ms. Angela Kleiman (President & CEO), Ms. Barb Pak (EVP & CFO), and Mr. Rylan Burns (EVP & CIO). Conversation t...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/097685d2-0ef9-4696-955b-ea8a79a1e9fe.html" target="_blank" rel="noopener">Australia and New Zealand Economics Analyst: RBNZ’s Hawkish Reaction Function Reset: A Mini Pre-Emptive Tightening Cycle</a>        </h3>
+<div class="rs-summary">A clear hawkish shift in the RBNZ’s reaction function, pivoting from their standing framework. The surprise 3-3 vote to ‘hold’ at the RBNZ’s May Monetary Policy Committee (MPC) meeting featured an unmistakable hawkish pi...</div>        <div class="rs-tags">
+<span class="rs-tag">Asia Economics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/7b2b53bd-fe21-4226-85dc-866611f8ca2d.html" target="_blank" rel="noopener">Gaming and Leisure Properties Inc. (GLPI): Nareit management meeting takeaways: Funding pipeline and tenant mix in focus</a>        </h3>
+<div class="rs-summary">On June 3, 2026, we hosted a meeting with GLPI management. Key topics included tenant mix, AFFO growth sustainability, development pipeline cadence, regional gaming trends, and Bally's.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/77854429-43cf-4f20-b337-90d224e030dc.html" target="_blank" rel="noopener">First Industrial Realty Trust (FR): Nareit management meeting takeaways: Demand improving, expect more starts in 2H26</a>        </h3>
+<div class="rs-summary">On June 3, 2026, we hosted a meeting with First Industrial management. Key topics include tenant demand activity, market performance (including rent growth assumptions), and development opportunities (locations and specs).</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/3b0cbef0-a5ec-44ba-b2d7-944c72645a46.html" target="_blank" rel="noopener">Simon Property Group (SPG): Nareit management meeting takeaways: Leasing acceleration & strong early signals from Brickell City Centre</a>        </h3>
+<div class="rs-summary">On June 3, 2026, we hosted a meeting with Simon management. Key topics included merchandising and leasing strategy, luxury-specific strategy, renewals, physical store halo effects on e-commerce, Brickell City Centre, out...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/50f9e53c-7d7e-41da-b7ea-d8e0b7831080.html" target="_blank" rel="noopener">Broadstone Net Lease Inc. (BNL): Nareit management meeting takeaways: Leaning into BTS development, and unique redevelopments</a>        </h3>
+<div class="rs-summary">On June 3, 2026, we hosted a meeting with BNL management. Key topics included build to suit development, the Charles River acquisition/redevelopment (and the potential for additional similar deals), updates on the Claire...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/04/c5f6d892-c035-4deb-9995-bad7f2a156ec.html" target="_blank" rel="noopener">Essential Properties Realty Trust (EPRT): Nareit management meeting takeaways: Managing to consistent ~8% AFFO/share growth</a>        </h3>
+<div class="rs-summary">On June 3, 2026, we hosted a meeting with EPRT management. Key topics included company priorities, YTD and FY26 acquisition volume/pipeline, EPRT's balance sheet and refi options, tenant mix and health, transaction marke...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/b8138989-db4a-4a91-9e9f-3a35fbc92bd8.html" target="_blank" rel="noopener">Public Storage Inc. (PSA): Nareit management meeting takeaways: Positive LA update and continued acquisition potential</a>        </h3>
+<div class="rs-summary">On June 3, 2026, we hosted a meeting with Public Storage management. Key topics included operating update (move in and move out rates, churn, occupancy), supply and market performance (including an update on LA) and acqu...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/dd33d620-ffa4-433e-a19b-f621c42ba572.html" target="_blank" rel="noopener">Extra Space Storage Inc. (EXR): NAREIT management meeting takeaways: Declining new supply a tailwind, awaiting a demand catalyst</a>        </h3>
+<div class="rs-summary">On June 3, 2026, we hosted a meeting with EXR management. Key topics included demand trends (reasons for self storage, customer distress, length of stay), supply, pricing strategies (move in rates and ECRI), and acquisit...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/988d1a2c-b5e2-4756-bf03-d5dded247e4b.html" target="_blank" rel="noopener">Janus Living Inc. (JAN): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 03, 2026, at NAREIT in New York we met with JAN's senior management, including Mr. Brinker, President & CEO, and Mr. Moses. The topics of our conversation included recent capital markets activity, portfolio perfo...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/5a152351-b815-434d-8a20-c7d6d69a09a9.html" target="_blank" rel="noopener">Ventas Inc. (VTR): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 3, 2026, at NAREIT in New York we met with VTR's senior management, including Ms. Cafaro, Chairman & CEO, Mr. Probst, EVP & CFO, and Mr. Hutchins EVP - Senior Housing & CIO. The topics of our conversation include...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/a302173d-937c-45c3-a48b-2b1e9ad94db7.html" target="_blank" rel="noopener">Safehold Inc. (SAFE): NAREIT management meeting takeaways: Trying to increase deal volume while managing leverage</a>        </h3>
+<div class="rs-summary">On June 2, 2026, we hosted a meeting with SAFE management. Key topics included the business strategy, transaction environment & asset quality focus, balance sheet, capital allocation, and funding plans.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/66adfb66-cbf9-4f26-ac87-5ccae9448068.html" target="_blank" rel="noopener">Omega Healthcare Investors Inc. (OHI): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 2, 2026, at NAREIT in New York we met with OHI's senior management, including Mr. Taylor Pickett, CEO, Mr. Vikas Gupta, CIO and Mr. David Griffin, Sr. Director, Corporate Strategy & Investor Relations. The meetin...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/623818c6-3132-4ff4-b1bb-dc87f2b02ae8.html" target="_blank" rel="noopener">Hudson Pacific Properties Inc. (HPP): Nareit management meeting takeaways: Leasing volume outpacing expirations, looking for visibility in TI reductions</a>        </h3>
+<div class="rs-summary">On June 2, 2026, we hosted a meeting with HPP management. Key topics included leasing volume and retention, rent spreads and rate trends, the balance sheet, development, Quixote, current G&A levels, and the core FFOPS guidance range.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/76cd68e4-ee4a-4710-a991-b807c0ba0f84.html" target="_blank" rel="noopener">Mid-America Apartment Communities (MAA): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 02, 2026, at NAREIT REITweek in New York we met with MAA's senior management including Mr. Bradley Hill, President & CEO, Mr. Clay Holder, CFO, Mr. Tim Argo, Chief Strategy & Analysis Officer, Mr. Robert DelPriore, CAO and Mr.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/d7bdb4f3-8a0d-490b-a013-a11d76a7a6d7.html" target="_blank" rel="noopener">Camden Property Trust (CPT): NAREIT Management meeting takeaways</a>        </h3>
+<div class="rs-summary">On June 02, 2026, as part of NAREIT REITweek we met with CPT management including Mr. Alex Jesset, CEO, Ms. Laurie Baker, Pres & COO, and Ms. Kim Callahan, SVP-IR. Key topics included discussion around improving renewal ...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/aa6065cb-5b5b-403c-bad8-9787593cdb38.html" target="_blank" rel="noopener">UDR Inc. (UDR): NAREIT Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On June 02, 2026, as part of NAREIT REITweek we met with UDR management including Mr. Tom Toomey, Pres and CEO, Mr. Dave Bragg, CEO, Mr. Mike Lacy, COO and Mr. Trent Trujillo, VP-IR. Takeaways included improvement in ope...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/d4d3d503-f891-4d43-a1aa-4b0a4b95a430.html" target="_blank" rel="noopener">Kilroy Realty Corp. (KRC): Nareit management meeting takeaways: Leasing volumes remain strong with rent trends varying by market</a>        </h3>
+<div class="rs-summary">On June 2, 2026, we hosted a meeting with Kilroy management. Key topics included the leasing pipeline, West Coast demand and AI impacts, KOP2, renewal activity and occupancy, Flower Mart, and TI trends. See inside for more detail.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/04dccf31-7279-4135-bfbf-ddc16096da19.html" target="_blank" rel="noopener">Lineage Inc. (LINE): NAREIT management meeting takeaways: 2026 on track with expectations</a>        </h3>
+<div class="rs-summary">On June 2nd, 2026, we met with LINE management. We reviewed demand (drivers such as import/export volumes and food inflation, and the impact on occupancy and pricing), supply (including developments, idle facilities, alt...</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/d8bb5165-81d0-4d5a-b514-17690a3f4166.html" target="_blank" rel="noopener">Prologis Inc. (PLD): NAREIT management meeting takeaways: Lease signings in line with expectations but spec development set to increase</a>        </h3>
+<div class="rs-summary">On June 2, 2026, we hosted a meeting with Prologis management. Key topics focused on industrial (demand, market performance, and developments) and data centers (economics, cadence).</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-03</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/03/e877eda9-3277-476d-b200-ea6116030079.html" target="_blank" rel="noopener">Brixmor Property Group (BRX): Management meeting takeaways: Strong leasing demand fueling 4%+ SS NOI growth</a>        </h3>
+<div class="rs-summary">On June 2, 2026, we hosted a meeting with BRX management. Key topics included ICSC takeaways, consumer behavior, leasing fundamentals & occupancy, merchandising mix, and capital allocation. We are Buy rated on BRX (on the Conviction List).</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-06-02</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/06/02/aebe218d-10b4-4bf3-875f-8b72288bd5bb.html" target="_blank" rel="noopener">Phillips Edison & Co. (PECO): Nareit Management meeting takeaways: Leasing remains strong, but valuation gap remains</a>        </h3>
+<div class="rs-summary">On June 2, 2026, we hosted a meeting with Phillips Edison management. Key topics included PECO's private vs public valuations disconnect, Everyday Retail and merchandising mix strategy, bad debts, rent spread upside, and acquisition successes.</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
       </div>
     </div>
   </section>
@@ -4312,7 +4638,7 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 
 <footer>
   Data: Bloomberg &middot; FRED &middot; Central Bank official calendars &middot; Citi Velocity<br>
-  Updated 2026-07-02 19:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
+  Updated 2026-07-03 07:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>

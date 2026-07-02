@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T10:31:16.463729+00:00",
+  "fetched_at": "2026-07-02T22:31:43.449861+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -109,7 +109,7 @@
       "actual": 2.2,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-07-02",
+      "release_date": "2026-07-03",
       "source": "bdp"
     },
     "jp_cpi_yoy": {
@@ -158,11 +158,11 @@
       "next_release_time": "21:30"
     },
     "us_unemp": {
-      "actual": 4.3,
+      "actual": 4.2,
       "prior": 4.3,
       "consensus": 4.3,
-      "release_date": "2026-05-31",
-      "actual_release_date": "2026-06-05",
+      "release_date": "2026-06-30",
+      "actual_release_date": "2026-07-02",
       "next_release_date": "2026-07-02",
       "next_release_time": "21:30"
     },
@@ -190,7 +190,7 @@
       "consensus": 6.3,
       "release_date": "2026-05-31",
       "actual_release_date": "2026-07-02",
-      "next_release_date": "2026-07-02",
+      "next_release_date": "2026-07-30",
       "next_release_time": "18:00"
     },
     "au_unemp": {
@@ -413,7 +413,7 @@
       "actual": 42.7,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-07-02",
+      "release_date": "2026-07-03",
       "source": "bdp"
     },
     "se_consumer_conf": {
@@ -494,7 +494,7 @@
       "consensus": 6.7,
       "release_date": "2026-05-31",
       "actual_release_date": "2026-07-02",
-      "next_release_date": "2026-07-02",
+      "next_release_date": "2026-08-04",
       "next_release_time": "17:30"
     },
     "sg_retail_mom": {
@@ -518,14 +518,14 @@
   },
   "snapshots": {
     "us_pol_sofr": {
-      "value": 3.68,
-      "change_1d": 0.06,
-      "as_of": "2026-06-30"
+      "value": 3.66,
+      "change_1d": -0.02,
+      "as_of": "2026-07-01"
     },
     "ca_pol_corra": {
-      "value": 2.31,
-      "change_1d": -0.01,
-      "as_of": "2026-06-29"
+      "value": 2.34,
+      "change_1d": 0.03,
+      "as_of": "2026-06-30"
     },
     "uk_pol_sonia": {
       "value": 3.7309,
@@ -558,28 +558,28 @@
       "as_of": "2026-07-01"
     },
     "us_be_10y": {
-      "value": 2.2302,
-      "change_1d": 0.0,
+      "value": 2.234,
+      "change_1d": 0.0038,
       "as_of": "2026-07-02"
     },
     "uk_be_10y": {
-      "value": 3.119,
-      "change_1d": 0.008,
+      "value": 3.114,
+      "change_1d": 0.003,
       "as_of": "2026-07-02"
     },
     "eu_be_10y": {
-      "value": 0.922,
-      "change_1d": 0.033,
+      "value": 0.919,
+      "change_1d": 0.03,
       "as_of": "2026-07-02"
     },
     "de_be_10y": {
-      "value": 1.8964,
-      "change_1d": -0.0224,
+      "value": 1.8845,
+      "change_1d": -0.0343,
       "as_of": "2026-07-02"
     },
     "fr_be_10y": {
-      "value": 2.035,
-      "change_1d": -0.007,
+      "value": 2.03,
+      "change_1d": -0.012,
       "as_of": "2026-07-02"
     },
     "au_be_10y": {
@@ -593,51 +593,51 @@
       "as_of": "2026-07-02"
     },
     "se_be_10y": {
-      "value": 1.761,
-      "change_1d": -0.006,
+      "value": 1.759,
+      "change_1d": -0.008,
       "as_of": "2026-07-02"
     },
     "us_mort_30y": {
-      "value": 6.49,
-      "change_1d": 0.02,
-      "as_of": "2026-06-25"
+      "value": 6.43,
+      "change_1d": -0.06,
+      "as_of": "2026-07-02"
     }
   },
   "central_banks": {
     "fomc": {
       "rate": 3.75,
       "consensus_rate": 3.75,
-      "implied_1y": 3.9929,
+      "implied_1y": 3.9497,
       "next_meeting": null
     },
     "ecb": {
       "rate": 2.25,
       "consensus_rate": null,
-      "implied_1y": 2.3845,
+      "implied_1y": 2.3601,
       "next_meeting": null
     },
     "boe": {
       "rate": 3.75,
       "consensus_rate": null,
-      "implied_1y": 3.9624,
+      "implied_1y": 3.951,
       "next_meeting": null
     },
     "rba": {
       "rate": 4.35,
       "consensus_rate": null,
-      "implied_1y": 4.5427,
+      "implied_1y": 4.5287,
       "next_meeting": null
     },
     "boj": {
       "rate": 1.0,
       "consensus_rate": null,
-      "implied_1y": 1.1905,
+      "implied_1y": 1.1893,
       "next_meeting": null
     },
     "boc": {
       "rate": 2.25,
       "consensus_rate": 2.25,
-      "implied_1y": 2.4885,
+      "implied_1y": 2.4756,
       "next_meeting": null
     }
   }
