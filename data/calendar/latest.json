@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-02T22:35:18.692436+00:00",
-  "window_start": "2026-06-25",
-  "window_end": "2026-07-30",
+  "fetched_at": "2026-07-03T02:38:05.042889+00:00",
+  "window_start": "2026-06-26",
+  "window_end": "2026-07-31",
   "source": "schedule.yml",
   "events": [
     {
@@ -58,6 +58,13 @@
       "country": "UK",
       "indicator_id": "boe",
       "time_kst": "20:00",
+      "note": ""
+    },
+    {
+      "date": "2026-07-31",
+      "country": "JP",
+      "indicator_id": "boj",
+      "time_kst": "12:00",
       "note": ""
     }
   ]
