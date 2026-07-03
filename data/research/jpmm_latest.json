@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-03T10:34:43.633482+00:00",
+  "fetched_at": "2026-07-03T22:35:21.256903+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -101,10 +101,10 @@
         }
       ],
       "tags": [
-        "Large Cap Oil & Gas Exploration & Production",
         "Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "European Oil & Gas"
+        "European Oil & Gas",
+        "Large Cap Oil & Gas Exploration & Production",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-29"
     },
@@ -167,10 +167,10 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
+        "Utilities and Midstream/Utilities and Power",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -209,11 +209,11 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream/Utilities and Power",
         "Utilities and Midstream",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities, Midstream, LNG, and Nuclear",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power"
       ],
       "publish_time": "2026-06-25"
     },
@@ -281,31 +281,6 @@
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-06-25"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5341470-0",
-      "publication_id": "GPS-5342474-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5341470-0",
-      "authors": [
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
-      ],
-      "publish_time": "2026-06-19"
     },
     {
       "platform": "JPM",
