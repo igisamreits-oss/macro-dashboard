@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-03T22:35:21.256903+00:00",
+  "fetched_at": "2026-07-04T13:11:08.107037+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -55,8 +55,8 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
         "Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-26"
@@ -101,10 +101,10 @@
         }
       ],
       "tags": [
-        "Oil & Gas Exploration & Production",
-        "European Oil & Gas",
         "Large Cap Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Oil & Gas Exploration & Production",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "European Oil & Gas"
       ],
       "publish_time": "2026-06-29"
     },
@@ -167,8 +167,8 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream/Utilities and Power",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power",
         "Utilities and Midstream",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
@@ -209,11 +209,11 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
+        "Utilities and Midstream/Utilities and Power",
         "Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -277,8 +277,8 @@
       ],
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-06-25"
     },
