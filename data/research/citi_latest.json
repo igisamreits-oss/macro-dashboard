@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-05T13:07:39.082939+00:00",
+  "fetched_at": "2026-07-06T10:32:46.576697+00:00",
   "items": [
     {
       "platform": "Citi",
@@ -334,6 +334,21 @@
     },
     {
       "platform": "Citi",
+      "doc_id": "30440025",
+      "title": "Global Quantitative Insights: Factors, Flows & Fault Lines",
+      "summary": "Price Momentum continues to anchor global style outperformance, proving the most resilient factor year-to-date. Shorter-term reversals, however, suggest a transitionary phase for style leadership may be approaching, a shift we explore in detail in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMDI1",
+      "tags": [
+        "Model Portfolio",
+        "Flows",
+        "Macro Strategy",
+        "Global Quantitative Insights"
+      ],
+      "publish_time": "2026-06-29 02:55",
+      "thumbnail": "https://ir.citi.com/hrz9Vy1tZ1NzJaZyUuZaQf3-k8BvzBAjXlW01teiyRDVRUemjdoNyk0TdBURXfRrDlwmr9rP2cpER3naMvypcQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
       "doc_id": "30439941",
       "title": "U.S. Economics Weekly: The Economy Is Not Overheating",
       "summary": "Front-end Treasury yields have fallen from their post-FOMC highs. Upcoming data present a trend toward softer consumer spending, declining real incomes and rising continuing jobless claims, all sharply at odds with the narrative that the U.S. economy is at risk of “overheating.”",
@@ -351,18 +366,19 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30440025",
-      "title": "Global Quantitative Insights: Factors, Flows & Fault Lines",
-      "summary": "Price Momentum continues to anchor global style outperformance, proving the most resilient factor year-to-date. Shorter-term reversals, however, suggest a transitionary phase for style leadership may be approaching, a shift we explore in detail in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMDI1",
+      "doc_id": "30439712",
+      "title": "We're Upgrading Murata to Buy",
+      "summary": "We upgrade Murata to Buy and raise our target price, reflecting revisions to earnings forecasts, changes to valuation assumptions and a shift in our base year. We don't anticipate company-led price revisions for general-purpose products, but such revisions would create additional upside.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NzEy",
       "tags": [
-        "Model Portfolio",
-        "Flows",
-        "Macro Strategy",
-        "Global Quantitative Insights"
+        "Rating Change",
+        "Target Price Change",
+        "Estimate Change",
+        "Artificial Intelligence (AI)",
+        "Connectors and Other Components"
       ],
-      "publish_time": "2026-06-29 02:55",
-      "thumbnail": "https://ir.citi.com/hrz9Vy1tZ1NzJaZyUuZaQf3-k8BvzBAjXlW01teiyRDVRUemjdoNyk0TdBURXfRrDlwmr9rP2cpER3naMvypcQ%3D%3D"
+      "publish_time": "2026-06-29 02:35",
+      "thumbnail": "https://ir.citi.com/o2HgCSyoYQ-dD02WArwvYmByB6ETokgejm7JbfsXyjmj495G-D8Qj30FCRWt4SANIRNenuTcCC7uol7Fmo_Tzw%3D%3D"
     },
     {
       "platform": "Citi",
@@ -377,22 +393,6 @@
       ],
       "publish_time": "2026-06-28 21:26",
       "thumbnail": "https://ir.citi.com/i-b4u9KSNKSKmifNtWWQD3LMQfOm5kc6rQHhYf_XRb3kxnpn_fTtfmbvGUTLLBDXs96IHKnO03YJoU6N25eqxw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30439712",
-      "title": "We're Upgrading Murata to Buy",
-      "summary": "We upgrade Murata to Buy and raise our target price, reflecting revisions to earnings forecasts, changes to valuation assumptions and a shift in our base year. We don't anticipate company-led price revisions for general-purpose products, but such revisions would create additional upside.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NzEy",
-      "tags": [
-        "Rating Change",
-        "Target Price Change",
-        "Estimate Change",
-        "Artificial Intelligence (AI)",
-        "Connectors and Other Components"
-      ],
-      "publish_time": "2026-06-29 02:35",
-      "thumbnail": "https://ir.citi.com/o2HgCSyoYQ-dD02WArwvYmByB6ETokgejm7JbfsXyjmj495G-D8Qj30FCRWt4SANIRNenuTcCC7uol7Fmo_Tzw%3D%3D"
     },
     {
       "platform": "Citi",
@@ -425,21 +425,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30439926",
-      "title": "U.S. Rates Weekly: Front-End Flatteners and Long-End Value",
-      "summary": "We lean into our front-end flattener paired with a received July FOMC position ahead of the jobs report. Further out the curve, we remain constructive on duration, with our 10y view anchored by our expectation for core CPI to fall into year-end. We offer further strategic thoughts herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTI2",
-      "tags": [
-        "U.S. Rates Weekly",
-        "Flagship",
-        "Relative Value",
-        "Trade Idea"
-      ],
-      "publish_time": "2026-06-26 17:46",
-      "thumbnail": "https://ir.citi.com/fCQ7vVh9WerEX_8NRqpErCZ4LgL85xBkKn4gYA7EWl7957_BTZWZsnwFIZPqYirwBRSecfME5SXrd-OCXueFyA%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30439421",
       "title": "Emerging Markets Economic Outlook & Strategy: The Next Shock",
       "summary": "A Super El Niño could mean a significant inflationary shock for emerging markets, complicating the macro outlook even as lower energy prices offer relief. The primary risk stems from food inflation, disproportionately impacting those with high food CPI weights and net import reliance.",
@@ -458,19 +443,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30439916",
-      "title": "U.S. Equity Strategy: Second-Half Outlook",
-      "summary": "Our base-case index earnings estimate is now $350 for ’26 and $400 for ’27, vs. our $320 estimate at the start of 2026. But we haven't increased our bull-case target of 8300. The implication is that we expect downside risks to increase relative to upside reward as the second half unfolds.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTE2",
-      "tags": [
-        "U.S. Equity Strategy",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-06-26 14:38",
-      "thumbnail": "https://ir.citi.com/_j9UnCTBLXlaJjJv-rkLUjaiUmqLykTlO6MX9yuHoOVVoAz4td_9yRiGj81aBVHtYDdV_PsEA5pXp6KU5ax1pA%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30439715",
       "title": "Global Asset Allocation: Extra Time for the AI Trade",
       "summary": "In the month since our last Global Asset Allocation, oil has collapsed to pre-war levels and the Fed has been surprisingly hawkish. This necessitates a change in our fixed-income allocation. We delve into the details and outline our strategic thoughts in this note.",
@@ -486,6 +458,34 @@
       ],
       "publish_time": "2026-06-25 23:19",
       "thumbnail": "https://ir.citi.com/KDTPXx5qg67jFVCZR5Hb88hzgd5VkzssPFYQPKH-CLyTX5CMon306Bczwfso-rXqwTMtgHSDMwT1BppjPsRGVw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439926",
+      "title": "U.S. Rates Weekly: Front-End Flatteners and Long-End Value",
+      "summary": "We lean into our front-end flattener paired with a received July FOMC position ahead of the jobs report. Further out the curve, we remain constructive on duration, with our 10y view anchored by our expectation for core CPI to fall into year-end. We offer further strategic thoughts herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTI2",
+      "tags": [
+        "U.S. Rates Weekly",
+        "Flagship",
+        "Relative Value",
+        "Trade Idea"
+      ],
+      "publish_time": "2026-06-26 17:46",
+      "thumbnail": "https://ir.citi.com/fCQ7vVh9WerEX_8NRqpErCZ4LgL85xBkKn4gYA7EWl7957_BTZWZsnwFIZPqYirwBRSecfME5SXrd-OCXueFyA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30439916",
+      "title": "U.S. Equity Strategy: Second-Half Outlook",
+      "summary": "Our base-case index earnings estimate is now $350 for ’26 and $400 for ’27, vs. our $320 estimate at the start of 2026. But we haven't increased our bull-case target of 8300. The implication is that we expect downside risks to increase relative to upside reward as the second half unfolds.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTE2",
+      "tags": [
+        "U.S. Equity Strategy",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-06-26 14:38",
+      "thumbnail": "https://ir.citi.com/_j9UnCTBLXlaJjJv-rkLUjaiUmqLykTlO6MX9yuHoOVVoAz4td_9yRiGj81aBVHtYDdV_PsEA5pXp6KU5ax1pA%3D%3D"
     },
     {
       "platform": "Citi",
