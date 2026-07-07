@@ -1,6 +1,109 @@
 {
-  "fetched_at": "2026-07-06T22:34:24.591254+00:00",
+  "fetched_at": "2026-07-07T10:34:41.120253+00:00",
   "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5327509-0",
+      "publication_id": "GPS-5359411-0",
+      "title": "APAC Energy Transition",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5327509-0",
+      "authors": [
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        },
+        {
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        },
+        {
+          "name": "Stephen Tsui, CFA",
+          "team": "Power Equipment and Utilities",
+          "email": "stephen.tsui@jpmorgan.com"
+        },
+        {
+          "name": "Junya Ayada",
+          "team": "Technology - Consumer Electronics/Industrial Electronics/Precisions",
+          "email": "junya.ayada@jpmorgan.com"
+        },
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        },
+        {
+          "name": "Jenny Qiu, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "jenny.qiu@jpmorgan.com"
+        },
+        {
+          "name": "Lei Mu",
+          "team": "Asia Oils",
+          "email": "lei.mu@jpmorgan.com"
+        },
+        {
+          "name": "Samuel Tan",
+          "team": "ASEAN Tech Hardware / Technology",
+          "email": "samuel.tan@jpmorgan.com"
+        },
+        {
+          "name": "Sonny Lee",
+          "team": "Korea Auto, EV battery, Nuclear and Utility",
+          "email": "sonny.lee@jpmorgan.com"
+        },
+        {
+          "name": "Branko Skocic",
+          "team": "Australia Metals & Mining",
+          "email": "branko.skocic@jpmorgan.com"
+        },
+        {
+          "name": "Rebecca Wen",
+          "team": "Asia Autos & EV Battery",
+          "email": "rebecca.y.wen@jpmorgan.com"
+        },
+        {
+          "name": "Parsley Ong",
+          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
+          "email": "parsley.rh.ong@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Technology - Consumer Electronics/Industrial Electronics/Precisions",
+        "Infrastructure, Industrials & Transport",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "Korea Auto, EV battery, Nuclear and Utility",
+        "Asia Autos & EV Battery",
+        "Australia Metals & Mining",
+        "Asia Oils",
+        "Power Equipment and Utilities",
+        "ASEAN Tech Hardware / Technology",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
+      ],
+      "publish_time": "2026-06-25"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5343300-0",
+      "publication_id": "GPS-5359411-0",
+      "title": "Social License",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5343300-0",
+      "authors": [
+        {
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "APAC Equity Thematic and Sustainable Investing Research"
+      ],
+      "publish_time": "2026-06-25"
+    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5352446-0",
@@ -55,9 +158,9 @@
         }
       ],
       "tags": [
+        "Utilities, Midstream, LNG, and Nuclear",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-26"
     },
@@ -101,10 +204,10 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "European Oil & Gas",
         "Oil & Gas Exploration & Production",
-        "Large Cap Oil & Gas Exploration & Production"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Large Cap Oil & Gas Exploration & Production",
+        "European Oil & Gas"
       ],
       "publish_time": "2026-06-29"
     },
@@ -167,10 +270,10 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-25"
     },
@@ -209,11 +312,11 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power",
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-06-25"
     },
@@ -276,9 +379,9 @@
         }
       ],
       "tags": [
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-03"
     },
@@ -312,9 +415,9 @@
         }
       ],
       "tags": [
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-25"
     },
