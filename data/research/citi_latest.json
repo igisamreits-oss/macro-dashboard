@@ -1,6 +1,98 @@
 {
-  "fetched_at": "2026-07-07T10:32:36.612639+00:00",
+  "fetched_at": "2026-07-07T22:32:33.895000+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30441365",
+      "title": "We're Initiating Coverage of SpaceX at Buy",
+      "summary": "We're initiating coverage of SpaceX with a Buy rating and $200 target price, implying ~25% upside by year's end. We see our target price as a milestone on the way to $900+, a realistic goal assuming key engineering achievements are demonstrated at scale. We offer further analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMzY1",
+      "tags": [
+        "Initiation of Coverage",
+        "Aerospace & Defense"
+      ],
+      "publish_time": "2026-07-07 05:00",
+      "thumbnail": "https://ir.citi.com/RuNAWoJe5tGjydvnBa9DDgqmygq93hKURTLDrRdWKJw9bxpK75OO22Y_fqSqADOiDkthbyt6TZz7kNMjOQvvlw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30441870",
+      "title": "U.S. Diversified Banks: Weighing the Cross-Currents",
+      "summary": "Banks face a critical inflection point on balance-sheet repricing dynamics; in this Deep Dive, we investigate which banks look best positioned for a higher-for-longer backdrop with a steeper yield curve, while managing offsetting deposit pricing pressures.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxODcw",
+      "tags": [
+        "Deep Dive",
+        "Diversified Banks"
+      ],
+      "publish_time": "2026-07-07 05:00",
+      "thumbnail": "https://ir.citi.com/f3CBJietfnopWIQ5KsV1yU-eS80xvSUlZ0oXfhOklfoFe7CLLZFZDxAdDX5pwvC9wRXXECZ0sAhQgqVl6GBvdw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30441295",
+      "title": "Taiwan Electronic Components & Equipment: Riding the Growth Cycle",
+      "summary": "We believe AI infrastructure is entering a new power architecture cycle, with a structural shift to rack-level backup power creating a multiyear growth opportunity that remains underappreciated by the market. We initiate coverage of Dynapack at Buy with a target price of NT$800.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMjk1",
+      "tags": [
+        "Deep Dive",
+        "Electronic Components & Equipment",
+        "Initiation of Coverage",
+        "Target Price Change",
+        "Estimate Change",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-07-07 04:00",
+      "thumbnail": "https://ir.citi.com/GW2Ghqo5kIjtIqJ-yimp60kUhvTZiXkWAa4HajTXFNReB95VGpGPQH8prc77HuBJtUW346MI2T4xzyfj_5KuSA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30441650",
+      "title": "Taiwan Semiconductors: Riding on Google",
+      "summary": "Investors have been optimistic about AI ASIC surpassing GPU in AI computing. But a host of factors has us expecting Taiwanese design-service companies with better supply-chain management capability to stand out with positive growth outlooks into 2027; Mediatek tops our preferred names.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNjUw",
+      "tags": [
+        "Semiconductors",
+        "Artificial Intelligence (AI)",
+        "Short-Term View",
+        "Catalyst Watch",
+        "Estimate Change",
+        "Target Price Change",
+        "Supply Chains"
+      ],
+      "publish_time": "2026-07-06 11:37",
+      "thumbnail": "https://ir.citi.com/8CYb5ahnXeYzvIUFMZf16sh_69GZp8zIY1hWvxRHx0WByAAG9InGh-HOtk1jEoIJlEwdxMnmvlW8cTi8_U8h_g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30441609",
+      "title": "World Radar Screen: July Update",
+      "summary": "Value–Momentum performance was mixed across regions in June. MSCI Europe ex-UK, Japan and Emerging Markets led regional gains, while Asia ex Japan and the UK saw sharp declines. The broader aggregate AC World strategy remained positive, returning 1.8% for the month and 13% year to date.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNjA5",
+      "tags": [
+        "World Radar Screen",
+        "Model Portfolio"
+      ],
+      "publish_time": "2026-07-06 11:42",
+      "thumbnail": "https://ir.citi.com/DPmRJB_JoRpZKZqngJ9IZ3cFZ60HkjobNli1as1N4UCxc5hGTdYD3oDrmY_6TdpY_BrkmNLSxi2MVNjpdpKDog%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30441769",
+      "title": "U.S. Rates Strategy: A Lack of Near-Term Catalysts",
+      "summary": "We continue to forecast lower yields by year's end, but note a lack of near-term bullish catalysts. Treasury yields are moving higher, due to inflation and continued strong jobs data; we disagree with the market pricing in a decline in the unemployment rate and two rate hikes.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNzY5",
+      "tags": [
+        "Monetary Policy",
+        "Fiscal Policy",
+        "Swap Spreads",
+        "Rates Strategy",
+        "Central Banks",
+        "Inflation",
+        "Labor Market"
+      ],
+      "publish_time": "2026-07-06 12:59",
+      "thumbnail": "https://ir.citi.com/GMN_1LDf2B9icUYwH2AfThwExPwd1iFweyAtrK_vSj4bwn3Tkmcx771s0hRHzHwcHGjwM51xL9Bc8cUl7CcpRA%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30441521",
@@ -29,6 +121,19 @@
       ],
       "publish_time": "2026-07-06 01:19",
       "thumbnail": "https://ir.citi.com/C23VQmUHmkg5DK65_cnkxqlf3M_g3iVFnewkzcCBi773nwlJbjXcWyeesrvocmjxunhjO1eZqv9QDK55pyVzUA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30440839",
+      "title": "Pan-Asia Focus List: Third-Quarter Refresh",
+      "summary": "We refresh our Pan-Asia Focus List for the third quarter with our analysts’ most non-consensus, high-conviction Buy and Sell ideas. New Buy ideas are Geely, ICICI Bank, ASMPT, Samsung Electronics, Hengli Hydraulic, Keppel, Ajinomoto, Fanuc, CATL, Kingboard Laminates and Kia.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwODM5",
+      "tags": [
+        "Focus List",
+        "Model Portfolio"
+      ],
+      "publish_time": "2026-07-03 11:41",
+      "thumbnail": "https://ir.citi.com/03sbNk5D58GeHVk1oe9fK8PJK_Ku1EFF3gh1KNJGqZpopnlzPcdW9WF0kPViUtzvsD991jzLUAXISBPyGRo5xw%3D%3D"
     },
     {
       "platform": "Citi",
@@ -79,6 +184,18 @@
     },
     {
       "platform": "Citi",
+      "doc_id": "30441417",
+      "title": "European Economics: The Return of Political Risk in Italy",
+      "summary": "Italy’s recent political stability has helped bring foreign investors back. Is the next general election in 2027 going to throw this stability off course? We examine this and other key questions around the 2027 general election, including timing, likely outcomes and policy implications.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNDE3",
+      "tags": [
+        "Elections"
+      ],
+      "publish_time": "2026-07-06 01:00",
+      "thumbnail": "https://ir.citi.com/LO9UBy7lwUzAhsVlDuX5oLwnFkSd5B9WH42LaqhOeILfZUjCEFaYbZHixhWnkFieQiQuuKTZCDBqHZSBywBVyA%3D%3D"
+    },
+    {
+      "platform": "Citi",
       "doc_id": "30441185",
       "title": "European Rates Weekly: Supply and Demand Themes for H2",
       "summary": "This week, We focus on H2 supply and demand dynamics. EGB and SSA issuance should remain strong, though SSA net funding needs will ease. On the demand side, changes to reserve requirements and UK bank capital rules could materially affect demand for EGBs and gilts. More details herein.",
@@ -91,18 +208,6 @@
       ],
       "publish_time": "2026-07-02 17:07",
       "thumbnail": "https://ir.citi.com/MtivNNER-XfuRQCEWr7kOsfW7nSEPcRGj9DvZ5I4ufK5HUkRPqCdSXND-V5cXl6aCCtpZ4JERBbF-eET689eNg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441417",
-      "title": "European Economics: The Return of Political Risk in Italy",
-      "summary": "Italy’s recent political stability has helped bring foreign investors back. Is the next general election in 2027 going to throw this stability off course? We examine this and other key questions around the 2027 general election, including timing, likely outcomes and policy implications.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNDE3",
-      "tags": [
-        "Elections"
-      ],
-      "publish_time": "2026-07-06 01:00",
-      "thumbnail": "https://ir.citi.com/LO9UBy7lwUzAhsVlDuX5oLwnFkSd5B9WH42LaqhOeILfZUjCEFaYbZHixhWnkFieQiQuuKTZCDBqHZSBywBVyA%3D%3D"
     },
     {
       "platform": "Citi",
@@ -308,210 +413,6 @@
       ],
       "publish_time": "2026-06-29 16:27",
       "thumbnail": "https://ir.citi.com/wPim9V4SYvSdhv7LlU5DcVL3nv_6e6nZnQ1a9KjbQuO31nQQl3aRzSdLhFVxzsgZ7rtYEOS-tkjJI7FQqTbhYw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440314",
-      "title": "U.S. Banks: Second-Quarter Earnings Preview",
-      "summary": "As part of our earnings preview, we delve into a key recent debate: “What's more important, net interest margin or net interest income?” We also unveil a trio of rating changes: upgrading TCBI (Neutral from Sell) while downgrading BKU (Sell from Neutral) and TFC (Neutral from Buy).",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMzE0",
-      "tags": [
-        "Diversified Banks",
-        "Regional Banks",
-        "Banks",
-        "Short-Term View",
-        "Rating Change",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-06-30 05:00",
-      "thumbnail": "https://ir.citi.com/lVfyIusA3wLSdDmBvCV7v02o4732p04ORPJk81vPexpRrUybbjDitx_QeoVUtqgBu2RYnh0qo83t1scPoPkEDQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440500",
-      "title": "U.S. Hiring Remains Soft Despite Stronger Payrolls",
-      "summary": "Job openings remained elevated in the May JOLTS report but have been quite volatile and not necessarily a reliable sign of demand for workers. Indeed.com job postings suggest a pullback in openings ahead. More important in May's JOLTS report? Signs that labor-market churn remains very low.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwNTAw",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Labor Market"
-      ],
-      "publish_time": "2026-06-30 11:51",
-      "thumbnail": "https://ir.citi.com/gewPjeQXGFtMYSeLsIGJ-3ELA1fpPt9P0qdMQZGr7LWEumEUsdEeuQiUjAjpqWJYaF_LQX8fY60ADCNY7G7PuA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440337",
-      "title": "We're Raising Our Forecasts for South Korea's GDP",
-      "summary": "We're raising our forecast for South Korea's 2026 GDP by 0.4 ppt to 3.5% given surprisingly resilient April-May hard data and a potential second fiscal stimulus. We also raise our 2027 and 2028 GDP forecasts 0.2 ppt each to 3.0% and 2.5%, respectively. We offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMzM3",
-      "tags": [
-        "Economic Growth",
-        "South Korea Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-06-29 21:03",
-      "thumbnail": "https://ir.citi.com/rwuB7U9Lm4q9PKNtJCK6CiIgGu4mjleqfprl_ly3BGRqaz_cnmwqDnPLY07_oeWmtX-eIUcB_r46Xb0yk7J4QQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440328",
-      "title": "North America Trucking: Private Trucker Panel Takeaways",
-      "summary": "We hosted a discussion about the state of the trucking industry with executives from private carriers Cheema Freightlines and Paper Transport, and found confidence in improving conditions given “permanent and structural changes in capacity.” We detail our key takeaways in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMzI4",
-      "tags": [
-        "Trucking",
-        "Theme Investing"
-      ],
-      "publish_time": "2026-06-30 05:00",
-      "thumbnail": "https://ir.citi.com/8C1ZugJZmehPMLBjCWdOMEDVRajUNfb2UUDzVokomVb3rPAsGC9Gnb0m4hmdLrt9FSkATtMCgfU_oxNVr7-QWg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30439374",
-      "title": "Must C: Overcoming Gridlock 2.0",
-      "summary": "Power-grid expansion appears unable to keep pace with strong demand and supply growth, constrained by supply-chain challenges and many regions' permitting frameworks. In this report we explore solutions to ease grid constraints and accelerate AI deployment and energy-security transitions.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5Mzc0",
-      "tags": [
-        "Power infrastructure",
-        "Energy",
-        "Must C",
-        "Artificial Intelligence (AI)",
-        "Energy Transition",
-        "Supply Chains",
-        "Regulation"
-      ],
-      "publish_time": "2026-06-28 17:00",
-      "thumbnail": "https://ir.citi.com/uH0hbh2CinMq6tklciYjGWeiEkgItof-ZbGt_8Gdl__yThspdiPeUBWFa2CHNedKHuAG1DqKcMUdV4tcVKPtYQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440216",
-      "title": "Mexico Faces Lack of a Short-Term Catalyst, Eyes USMCA Updates",
-      "summary": "USMCA talks have missed the deadline and may extend into 2027, suppressing investment. We reiterate our 2026 year-end S&P IPC target price of 70,000 and set a mid-2027 target of 73,000, with the S&P IPC likely range-bound in the second half. We offer notes on other asset classes herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMjE2",
-      "tags": [
-        "Mexico Economics",
-        "Trade",
-        "Central Banks",
-        "Monetary Policy",
-        "Macro Strategy",
-        "Emerging Markets"
-      ],
-      "publish_time": "2026-06-29 13:15",
-      "thumbnail": "https://ir.citi.com/QGMc1lDWxMVaWL8GSGl-_MVYn9WFd1sWrDS0_GTEp_jzDhZJFzeReTUkUPYpEPyfZIkLrGHpIQQGNTjMJlLK9g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440199",
-      "title": "Global Emerging Markets Strategy: The EM Strategist",
-      "summary": "We believe high-yielding emerging markets can stay resilient despite rising U.S. real yields and a stronger USD. Many EM central banks have maintained less dovish policies than anticipated, supporting high real rates, building substantial FX reserves and creating selective opportunities.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMTk5",
-      "tags": [
-        "The EM Strategist",
-        "Emerging Markets",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-06-29 10:32",
-      "thumbnail": "https://ir.citi.com/B_JHMm6qyVXnBtQeiqEmz68xjT_ABUEVhbPNmHBRxF447eiUySwT_IlC7kvil_ik1qPA_jY1LnOM2GaEcVw-jg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440047",
-      "title": "U.S. Semiconductors: DRAM Supply Is the New Ranking Metric",
-      "summary": "Following earnings, we update our AI compute semis rankings. With DRAM memory shortages the biggest constrain on compute supply, our updated rankings assign the highest weight to memory supply allocation. NVDA is our top mega-cap, followed by AVGO; AMD tops large caps, with CBRS second.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMDQ3",
-      "tags": [
-        "Semiconductors",
-        "Artificial Intelligence (AI)",
-        "Results Read-Across and Call Backs"
-      ],
-      "publish_time": "2026-06-29 05:00",
-      "thumbnail": "https://ir.citi.com/26iFrEw9UTaH-8LL86PbsjQaCpseM-mnTK9S_mA8rQn69yO-Et2NMYFdW1oxaaL4vAypwuqovHkM1tsTSbUG4A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440025",
-      "title": "Global Quantitative Insights: Factors, Flows & Fault Lines",
-      "summary": "Price Momentum continues to anchor global style outperformance, proving the most resilient factor year-to-date. Shorter-term reversals, however, suggest a transitionary phase for style leadership may be approaching, a shift we explore in detail in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMDI1",
-      "tags": [
-        "Model Portfolio",
-        "Flows",
-        "Macro Strategy",
-        "Global Quantitative Insights"
-      ],
-      "publish_time": "2026-06-29 02:55",
-      "thumbnail": "https://ir.citi.com/hrz9Vy1tZ1NzJaZyUuZaQf3-k8BvzBAjXlW01teiyRDVRUemjdoNyk0TdBURXfRrDlwmr9rP2cpER3naMvypcQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30439712",
-      "title": "We're Upgrading Murata to Buy",
-      "summary": "We upgrade Murata to Buy and raise our target price, reflecting revisions to earnings forecasts, changes to valuation assumptions and a shift in our base year. We don't anticipate company-led price revisions for general-purpose products, but such revisions would create additional upside.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NzEy",
-      "tags": [
-        "Rating Change",
-        "Target Price Change",
-        "Estimate Change",
-        "Artificial Intelligence (AI)",
-        "Connectors and Other Components"
-      ],
-      "publish_time": "2026-06-29 02:35",
-      "thumbnail": "https://ir.citi.com/o2HgCSyoYQ-dD02WArwvYmByB6ETokgejm7JbfsXyjmj495G-D8Qj30FCRWt4SANIRNenuTcCC7uol7Fmo_Tzw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30439902",
-      "title": "We Initiate Coverage of INNIO Group at Neutral",
-      "summary": "We think INNIO’s well-established position as a public “pure play” reciprocating-engine manufacturer supports a significant multi-year earnings growth opportunity, but see the near-term risk/reward as relatively balanced. We initiate coverage with a Neutral rating and a $42 target price.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5OTAy",
-      "tags": [
-        "Infrastructure Investment",
-        "Initiation of Coverage",
-        "Electrical Equipment"
-      ],
-      "publish_time": "2026-06-29 04:00",
-      "thumbnail": "https://ir.citi.com/xVZFWXd7A3qkAKrdU2roGDhayvKW8f9VwA6wMEvy08kb7qY1HfkHmeTvh1ot1nvn53Pi0Y6lQd_saSTPvqiDoA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440115",
-      "title": "Africa Economics & Strategy Weekly: Questions About Tanzania",
-      "summary": "After meetings with government and the private sector, we examine whether new economic trends are restoring a more seasonal pattern to the Tanzanian shilling following a period marked by considerable volatility. We also consider several unresolved questions about Tanzania's macro outlook.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwMTE1",
-      "tags": [
-        "Africa Economics & Strategy Weekly",
-        "Fiscal Policy",
-        "Economic Growth",
-        "Economic Analysis"
-      ],
-      "publish_time": "2026-06-29 05:14",
-      "thumbnail": "https://ir.citi.com/sMGwccFSAKwV4s0nM3ExblCwE21LhrhllcVDg8Ux19jepbiO7FHk9XEsUdbICtKc8JGFB9RlPkQserb33SzZKw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30439421",
-      "title": "Emerging Markets Economic Outlook & Strategy: The Next Shock",
-      "summary": "A Super El Niño could mean a significant inflationary shock for emerging markets, complicating the macro outlook even as lower energy prices offer relief. The primary risk stems from food inflation, disproportionately impacting those with high food CPI weights and net import reliance.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDM5NDIx",
-      "tags": [
-        "Flagship",
-        "Emerging Markets Economic Outlook & Strategy",
-        "Emerging Markets",
-        "Inflation",
-        "Central Banks",
-        "Monetary Policy",
-        "Fiscal Policy"
-      ],
-      "publish_time": "2026-06-26 05:45",
-      "thumbnail": "https://ir.citi.com/SWuXHm1eZg3ZQX2B_pJiqHu_RA8CfQpLTQ1fKU0vSKy7uVZHTV7oMr5z1KES0JNqcvKrq-SE0A3kXPz1h7z1Rw%3D%3D"
     }
   ]
 }
