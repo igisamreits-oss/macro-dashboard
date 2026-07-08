@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T22:34:39.235462+00:00",
+  "fetched_at": "2026-07-08T10:34:47.485060+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,9 +36,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-06"
@@ -113,17 +113,17 @@
         }
       ],
       "tags": [
-        "Power Equipment and Utilities",
         "Korea Auto, EV battery, Nuclear and Utility",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Australia Metals & Mining",
+        "Technology - Consumer Electronics/Industrial Electronics/Precisions",
         "Asia Autos & EV Battery",
-        "Asia Oils",
-        "Infrastructure, Industrials & Transport",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "Infrastructure, Industrials & Transport",
+        "Asia Oils",
         "ASEAN Tech Hardware / Technology",
-        "Technology - Consumer Electronics/Industrial Electronics/Precisions"
+        "Australia Metals & Mining",
+        "Power Equipment and Utilities",
+        "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-06-25"
     },
@@ -178,8 +178,8 @@
       "tags": [
         "Communications Infrastructure",
         "Internet - Large Cap / Mid & Small Cap",
-        "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense"
+        "Aerospace & Defense",
+        "Telecom Services, Cable & Satellite"
       ],
       "publish_time": "2026-07-07"
     },
@@ -215,8 +215,8 @@
       "tags": [
         "Communications Infrastructure",
         "Internet - Large Cap / Mid & Small Cap",
-        "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense"
+        "Aerospace & Defense",
+        "Telecom Services, Cable & Satellite"
       ],
       "publish_time": "2026-07-07"
     },
@@ -320,9 +320,9 @@
         }
       ],
       "tags": [
+        "Oil & Gas Exploration & Production",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Large Cap Oil & Gas Exploration & Production",
-        "Oil & Gas Exploration & Production",
         "European Oil & Gas"
       ],
       "publish_time": "2026-06-29"
@@ -386,9 +386,9 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
         "Utilities and Midstream/Utilities and Power",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
@@ -428,11 +428,11 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "Utilities and Midstream/Utilities and Power",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream/Utilities and Power",
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -495,8 +495,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-03"
@@ -531,8 +531,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-25"
