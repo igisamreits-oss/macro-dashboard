@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T10:34:51.345402+00:00",
+  "fetched_at": "2026-07-09T22:35:17.415541+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,115 +36,12 @@
         }
       ],
       "tags": [
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-06"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5327509-0",
-      "publication_id": "GPS-5359411-0",
-      "title": "APAC Energy Transition",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5327509-0",
-      "authors": [
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        },
-        {
-          "name": "Stephen Tsui, CFA",
-          "team": "Power Equipment and Utilities",
-          "email": "stephen.tsui@jpmorgan.com"
-        },
-        {
-          "name": "Junya Ayada",
-          "team": "Technology - Consumer Electronics/Industrial Electronics/Precisions",
-          "email": "junya.ayada@jpmorgan.com"
-        },
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        },
-        {
-          "name": "Jenny Qiu, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "jenny.qiu@jpmorgan.com"
-        },
-        {
-          "name": "Lei Mu",
-          "team": "Asia Oils",
-          "email": "lei.mu@jpmorgan.com"
-        },
-        {
-          "name": "Samuel Tan",
-          "team": "ASEAN Tech Hardware / Technology",
-          "email": "samuel.tan@jpmorgan.com"
-        },
-        {
-          "name": "Sonny Lee",
-          "team": "Korea Auto, EV battery, Nuclear and Utility",
-          "email": "sonny.lee@jpmorgan.com"
-        },
-        {
-          "name": "Branko Skocic",
-          "team": "Australia Metals & Mining",
-          "email": "branko.skocic@jpmorgan.com"
-        },
-        {
-          "name": "Rebecca Wen",
-          "team": "Asia Autos & EV Battery",
-          "email": "rebecca.y.wen@jpmorgan.com"
-        },
-        {
-          "name": "Parsley Ong",
-          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
-          "email": "parsley.rh.ong@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Power Equipment and Utilities",
-        "ASEAN Tech Hardware / Technology",
-        "Korea Auto, EV battery, Nuclear and Utility",
-        "Australia Metals & Mining",
-        "Asia Oils",
-        "Technology - Consumer Electronics/Industrial Electronics/Precisions",
-        "Asia Autos & EV Battery",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Infrastructure, Industrials & Transport",
-        "Head of Asia Energy & Chemicals | Asia EV Battery"
-      ],
-      "publish_time": "2026-06-25"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5343300-0",
-      "publication_id": "GPS-5359411-0",
-      "title": "Social License",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5343300-0",
-      "authors": [
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research"
-      ],
-      "publish_time": "2026-06-25"
     },
     {
       "platform": "JPM",
@@ -176,10 +73,10 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense",
         "Telecom Services, Cable & Satellite",
         "Communications Infrastructure",
-        "Aerospace & Defense"
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -213,10 +110,10 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense",
         "Telecom Services, Cable & Satellite",
         "Communications Infrastructure",
-        "Aerospace & Defense"
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -243,6 +140,76 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-07-02"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5358863-0",
+      "publication_id": "GPS-5363381-0",
+      "title": "Healthcare Services",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5358863-0",
+      "authors": [
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
+        },
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-07-09"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5346322-0",
+      "publication_id": "KAL-1-VKN9RU26",
+      "title": "North American Midstream",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346322-0",
+      "authors": [
+        {
+          "name": "Jeremy Tonet, CFA",
+          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "jeremy.b.tonet@jpmorgan.com"
+        },
+        {
+          "name": "Vrathan Reddy",
+          "team": "Utilities and Midstream",
+          "email": "vrathan.reddy@jpmchase.com"
+        },
+        {
+          "name": "Eli Jossen, CFA",
+          "team": "Utilities and Midstream",
+          "email": "eli.jossen@jpmchase.com"
+        },
+        {
+          "name": "Francina Kolluri",
+          "team": "Utilities, Midstream, LNG, and Nuclear",
+          "email": "francina.kolluri@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities, Midstream, LNG, and Nuclear"
+      ],
+      "publish_time": "2026-06-26"
     },
     {
       "platform": "JPM",
@@ -285,19 +252,19 @@
       ],
       "tags": [
         "Large Cap Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "European Oil & Gas",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-29"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5346322-0",
-      "publication_id": "KAL-1-VKN9RU26",
-      "title": "North American Midstream",
+      "doc_id": "GPS-5346318-0",
+      "publication_id": "KAL-1-ZQ7ANICT",
+      "title": "North American Utilities",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346322-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346318-0",
       "authors": [
         {
           "name": "Jeremy Tonet, CFA",
@@ -305,9 +272,9 @@
           "email": "jeremy.b.tonet@jpmorgan.com"
         },
         {
-          "name": "Vrathan Reddy",
-          "team": "Utilities and Midstream",
-          "email": "vrathan.reddy@jpmchase.com"
+          "name": "Aidan C Kelly",
+          "team": "Utilities and Midstream/Utilities and Power",
+          "email": "aidan.x.kelly@jpmchase.com"
         },
         {
           "name": "Eli Jossen, CFA",
@@ -315,46 +282,18 @@
           "email": "eli.jossen@jpmchase.com"
         },
         {
-          "name": "Francina Kolluri",
-          "team": "Utilities, Midstream, LNG, and Nuclear",
-          "email": "francina.kolluri@jpmchase.com"
+          "name": "Diana Niles",
+          "team": "North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "diana.niles@jpmorgan.com"
         }
       ],
       "tags": [
         "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
-      "publish_time": "2026-06-26"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5346335-0",
-      "publication_id": "KAL-1-ZQ7ANICT",
-      "title": "Clean Energy & Power Infrastructure",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346335-0",
-      "authors": [
-        {
-          "name": "Mark Strouse, CFA",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "mark.w.strouse@jpmorgan.com"
-        },
-        {
-          "name": "Michael G Fairbanks",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "michael.fairbanks@jpmchase.com"
-        },
-        {
-          "name": "Anna Zhu",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "anna.zhu@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
-      ],
-      "publish_time": "2026-06-26"
+      "publish_time": "2026-06-25"
     },
     {
       "platform": "JPM",
@@ -391,50 +330,42 @@
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream/Utilities and Power",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream",
+        "Utilities, Midstream, LNG, and Nuclear",
+        "North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5346318-0",
+      "doc_id": "GPS-5346335-0",
       "publication_id": "KAL-1-ZQ7ANICT",
-      "title": "North American Utilities",
+      "title": "Clean Energy & Power Infrastructure",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346318-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346335-0",
       "authors": [
         {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
+          "name": "Mark Strouse, CFA",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "mark.w.strouse@jpmorgan.com"
         },
         {
-          "name": "Aidan C Kelly",
-          "team": "Utilities and Midstream/Utilities and Power",
-          "email": "aidan.x.kelly@jpmchase.com"
+          "name": "Michael G Fairbanks",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "michael.fairbanks@jpmchase.com"
         },
         {
-          "name": "Eli Jossen, CFA",
-          "team": "Utilities and Midstream",
-          "email": "eli.jossen@jpmchase.com"
-        },
-        {
-          "name": "Diana Niles",
-          "team": "North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "diana.niles@jpmorgan.com"
+          "name": "Anna Zhu",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "anna.zhu@jpmorgan.com"
         }
       ],
       "tags": [
-        "Utilities and Midstream/Utilities and Power",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
-      "publish_time": "2026-06-25"
+      "publish_time": "2026-06-26"
     },
     {
       "platform": "JPM",
@@ -466,47 +397,11 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-03"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5347733-0",
-      "publication_id": "GPS-5349398-0",
-      "title": "China Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5347733-0",
-      "authors": [
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Alex Yao",
-          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
-          "email": "alex.yao@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
-      ],
-      "publish_time": "2026-06-25"
     },
     {
       "platform": "JPM",
