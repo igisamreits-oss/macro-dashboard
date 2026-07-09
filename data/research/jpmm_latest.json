@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-08T22:35:21.367527+00:00",
+  "fetched_at": "2026-07-09T10:34:51.345402+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,10 +36,10 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-06"
     },
@@ -113,17 +113,17 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Korea Auto, EV battery, Nuclear and Utility",
-        "Power Equipment and Utilities",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Technology - Consumer Electronics/Industrial Electronics/Precisions",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Asia Autos & EV Battery",
-        "Australia Metals & Mining",
+        "Power Equipment and Utilities",
         "ASEAN Tech Hardware / Technology",
+        "Korea Auto, EV battery, Nuclear and Utility",
+        "Australia Metals & Mining",
+        "Asia Oils",
+        "Technology - Consumer Electronics/Industrial Electronics/Precisions",
+        "Asia Autos & EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "Infrastructure, Industrials & Transport",
-        "Asia Oils"
+        "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-06-25"
     },
@@ -176,10 +176,10 @@
         }
       ],
       "tags": [
-        "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense",
         "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure"
+        "Telecom Services, Cable & Satellite",
+        "Communications Infrastructure",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -213,10 +213,10 @@
         }
       ],
       "tags": [
-        "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense",
         "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure"
+        "Telecom Services, Cable & Satellite",
+        "Communications Infrastructure",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -284,10 +284,10 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Oil & Gas Exploration & Production",
         "Large Cap Oil & Gas Exploration & Production",
-        "European Oil & Gas"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "European Oil & Gas",
+        "Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-29"
     },
@@ -321,8 +321,8 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-26"
@@ -391,11 +391,11 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
+        "Utilities and Midstream",
         "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream"
+        "Utilities and Midstream/Utilities and Power",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -429,39 +429,10 @@
         }
       ],
       "tags": [
+        "Utilities and Midstream/Utilities and Power",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power"
-      ],
-      "publish_time": "2026-06-25"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5344263-0",
-      "publication_id": "KAL-1-ZQ7ANICT",
-      "title": "Metals & Mining",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5344263-0",
-      "authors": [
-        {
-          "name": "Bill Peterson",
-          "team": "Metals & Mining",
-          "email": "bill.peterson@jpmchase.com"
-        },
-        {
-          "name": "Bennett Moore",
-          "team": "Metals & Mining",
-          "email": "bennett.moore@jpmchase.com"
-        },
-        {
-          "name": "Rock Hoffman",
-          "team": "Metals & Mining",
-          "email": "rock.hoffman@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Metals & Mining"
+        "North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-25"
     },
@@ -495,9 +466,9 @@
         }
       ],
       "tags": [
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-03"
     },
@@ -531,9 +502,9 @@
         }
       ],
       "tags": [
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-25"
     },
