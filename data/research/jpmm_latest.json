@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-09T22:35:17.415541+00:00",
+  "fetched_at": "2026-07-10T10:34:43.537676+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,10 +36,10 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-06"
     },
@@ -73,10 +73,10 @@
         }
       ],
       "tags": [
-        "Aerospace & Defense",
-        "Telecom Services, Cable & Satellite",
         "Communications Infrastructure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Telecom Services, Cable & Satellite",
+        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -110,10 +110,10 @@
         }
       ],
       "tags": [
-        "Aerospace & Defense",
-        "Telecom Services, Cable & Satellite",
         "Communications Infrastructure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Telecom Services, Cable & Satellite",
+        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -206,8 +206,8 @@
       ],
       "tags": [
         "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-26"
     },
@@ -252,120 +252,41 @@
       ],
       "tags": [
         "Large Cap Oil & Gas Exploration & Production",
+        "Oil & Gas Exploration & Production",
         "European Oil & Gas",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Oil & Gas Exploration & Production"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-06-29"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5346318-0",
-      "publication_id": "KAL-1-ZQ7ANICT",
-      "title": "North American Utilities",
+      "doc_id": "GPS-5361123-0",
+      "publication_id": "GPS-5363102-0",
+      "title": "Hong Kong Equity Strategy",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346318-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5361123-0",
       "authors": [
         {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
         },
         {
-          "name": "Aidan C Kelly",
-          "team": "Utilities and Midstream/Utilities and Power",
-          "email": "aidan.x.kelly@jpmchase.com"
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
         },
         {
-          "name": "Eli Jossen, CFA",
-          "team": "Utilities and Midstream",
-          "email": "eli.jossen@jpmchase.com"
-        },
-        {
-          "name": "Diana Niles",
-          "team": "North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "diana.niles@jpmorgan.com"
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
         }
       ],
       "tags": [
-        "Utilities and Midstream",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream/Utilities and Power",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
-      "publish_time": "2026-06-25"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5346328-0",
-      "publication_id": "KAL-1-ZQ7ANICT",
-      "title": "IPPs/Nuclear",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346328-0",
-      "authors": [
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Vrathan Reddy",
-          "team": "Utilities and Midstream",
-          "email": "vrathan.reddy@jpmchase.com"
-        },
-        {
-          "name": "Francina Kolluri",
-          "team": "Utilities, Midstream, LNG, and Nuclear",
-          "email": "francina.kolluri@jpmchase.com"
-        },
-        {
-          "name": "Aidan C Kelly",
-          "team": "Utilities and Midstream/Utilities and Power",
-          "email": "aidan.x.kelly@jpmchase.com"
-        },
-        {
-          "name": "Diana Niles",
-          "team": "North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "diana.niles@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Utilities and Midstream/Utilities and Power",
-        "Utilities and Midstream",
-        "Utilities, Midstream, LNG, and Nuclear",
-        "North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
-      ],
-      "publish_time": "2026-06-25"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5346335-0",
-      "publication_id": "KAL-1-ZQ7ANICT",
-      "title": "Clean Energy & Power Infrastructure",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346335-0",
-      "authors": [
-        {
-          "name": "Mark Strouse, CFA",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "mark.w.strouse@jpmorgan.com"
-        },
-        {
-          "name": "Michael G Fairbanks",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "michael.fairbanks@jpmchase.com"
-        },
-        {
-          "name": "Anna Zhu",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "anna.zhu@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
-      ],
-      "publish_time": "2026-06-26"
+      "publish_time": "2026-07-08"
     },
     {
       "platform": "JPM",
@@ -397,35 +318,54 @@
         }
       ],
       "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-03"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5343357-0",
-      "publication_id": "GPS-5350038-0",
-      "title": "Japan",
+      "doc_id": "GPS-5344924-0",
+      "publication_id": "KAL-1-DBBFAC3A",
+      "title": "Japan Equity Strategy: 2H 2026 Outlook",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5343357-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5344924-0",
       "authors": [
         {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
+          "name": "Rie Nishihara",
+          "team": "Head of Japan Equity Strategy, Chief Japan Equity Strategist",
+          "email": "rie.nishihara@jpmorgan.com"
         },
         {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
+          "name": "Yong Guo, CFA",
+          "team": "Equity Macro Research",
+          "email": "yong.guo@jpmorgan.com"
+        },
+        {
+          "name": "Mislav Matejka, CFA",
+          "team": "Equity Strategy",
+          "email": "mislav.matejka@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Dubravko Lakos-Bujas",
+          "team": "Head of Global Markets Strategy",
+          "email": "dubravko.lakos-bujas@jpmorgan.com"
         }
       ],
       "tags": [
-        "Economic and Policy Research"
+        "Equity Strategy",
+        "Equity Macro Research",
+        "Head of Global Markets Strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of Japan Equity Strategy, Chief Japan Equity Strategist"
       ],
-      "publish_time": "2026-06-26"
+      "publish_time": "2026-06-30"
     }
   ]
 }
