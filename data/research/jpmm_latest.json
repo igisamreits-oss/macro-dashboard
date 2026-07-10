@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T10:34:43.537676+00:00",
+  "fetched_at": "2026-07-10T22:34:40.040899+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,12 +36,84 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "China & HK Equity strategy",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-06"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5363368-0",
+      "publication_id": "GPS-5365044-0",
+      "title": "Transportation & Logistics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5363368-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-07-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5365044-0",
+      "publication_id": "GPS-5365044-0",
+      "title": "REPLAY | 2Q26 Transports & Logistics Earnings Preview",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365044-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-07-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5357765-0",
+      "publication_id": "GPS-5365061-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5357765-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-07-10"
     },
     {
       "platform": "JPM",
@@ -73,10 +145,10 @@
         }
       ],
       "tags": [
-        "Communications Infrastructure",
-        "Telecom Services, Cable & Satellite",
         "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Telecom Services, Cable & Satellite",
+        "Aerospace & Defense",
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -110,10 +182,10 @@
         }
       ],
       "tags": [
-        "Communications Infrastructure",
-        "Telecom Services, Cable & Satellite",
         "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Telecom Services, Cable & Satellite",
+        "Aerospace & Defense",
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -177,42 +249,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5346322-0",
-      "publication_id": "KAL-1-VKN9RU26",
-      "title": "North American Midstream",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5346322-0",
-      "authors": [
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Vrathan Reddy",
-          "team": "Utilities and Midstream",
-          "email": "vrathan.reddy@jpmchase.com"
-        },
-        {
-          "name": "Eli Jossen, CFA",
-          "team": "Utilities and Midstream",
-          "email": "eli.jossen@jpmchase.com"
-        },
-        {
-          "name": "Francina Kolluri",
-          "team": "Utilities, Midstream, LNG, and Nuclear",
-          "email": "francina.kolluri@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Utilities and Midstream",
-        "Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
-      ],
-      "publish_time": "2026-06-26"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5350065-0",
       "publication_id": "KAL-1-VKN9RU26",
       "title": "JPM E&P, Integrateds, and Refiners",
@@ -251,10 +287,10 @@
         }
       ],
       "tags": [
-        "Large Cap Oil & Gas Exploration & Production",
-        "Oil & Gas Exploration & Production",
         "European Oil & Gas",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Large Cap Oil & Gas Exploration & Production",
+        "Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-29"
     },
@@ -283,8 +319,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-08"
     },
@@ -318,8 +354,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-03"
@@ -359,11 +395,11 @@
         }
       ],
       "tags": [
-        "Equity Strategy",
-        "Equity Macro Research",
+        "Head of Japan Equity Strategy, Chief Japan Equity Strategist",
         "Head of Global Markets Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of Japan Equity Strategy, Chief Japan Equity Strategist"
+        "Equity Macro Research",
+        "Equity Strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-30"
     }
