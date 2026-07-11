@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T22:31:35.196338+00:00",
+  "fetched_at": "2026-07-11T10:31:35.127111+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -172,7 +172,7 @@
       "consensus": 6.6,
       "release_date": "2026-06-30",
       "actual_release_date": "2026-07-10",
-      "next_release_date": "2026-07-10",
+      "next_release_date": "2026-08-07",
       "next_release_time": "21:30"
     },
     "uk_unemp_ilo": {
@@ -553,9 +553,9 @@
       "as_of": "2026-07-10"
     },
     "se_pol_stib3m": {
-      "value": 2.013,
-      "change_1d": 0.004,
-      "as_of": "2026-07-09"
+      "value": 2.01,
+      "change_1d": -0.003,
+      "as_of": "2026-07-10"
     },
     "us_be_10y": {
       "value": 2.2538,
