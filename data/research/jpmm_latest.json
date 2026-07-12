@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-11T10:35:38.084054+00:00",
+  "fetched_at": "2026-07-12T01:09:35.481696+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -37,9 +37,9 @@
       ],
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
       ],
       "publish_time": "2026-07-06"
     },
@@ -145,10 +145,10 @@
         }
       ],
       "tags": [
-        "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense",
         "Communications Infrastructure",
-        "Aerospace & Defense"
+        "Telecom Services, Cable & Satellite",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -182,10 +182,10 @@
         }
       ],
       "tags": [
-        "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense",
         "Communications Infrastructure",
-        "Aerospace & Defense"
+        "Telecom Services, Cable & Satellite",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -288,9 +288,9 @@
       ],
       "tags": [
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "European Oil & Gas",
         "Large Cap Oil & Gas Exploration & Production",
-        "Oil & Gas Exploration & Production",
-        "European Oil & Gas"
+        "Oil & Gas Exploration & Production"
       ],
       "publish_time": "2026-06-29"
     },
@@ -395,11 +395,11 @@
         }
       ],
       "tags": [
-        "Equity Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of Japan Equity Strategy, Chief Japan Equity Strategist",
         "Head of Global Markets Strategy",
         "Equity Macro Research",
-        "Head of Japan Equity Strategy, Chief Japan Equity Strategist"
+        "Equity Strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-30"
     }
