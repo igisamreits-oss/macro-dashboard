@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-07-12T01:08:32.982199+00:00",
+  "fetched_at": "2026-07-12T13:08:34.385623+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "8e90aa5c-c2df-44e7-ab1b-b3fb51907d2f",
+      "title": "Australia and New Zealand Economics Analyst: House Prices to Fall, Incomes to Stall, Spending to Slow",
+      "summary": "A slowdown in household consumption growth is a key domestic macro risk to watch. We forecast consumer spending growth to decelerate 120bp to 1.3%yoy by end-2026, driven by a decline in household wealth and softer real income growth.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/12/8e90aa5c-c2df-44e7-ab1b-b3fb51907d2f.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        },
+        {
+          "name": "Will Maher",
+          "department": "Asia Economics",
+          "division": "Research"
+        },
+        {
+          "name": "Oscar To",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-07-12"
+    },
     {
       "platform": "GS",
       "doc_id": "655856d1-cb66-40ab-be00-fe0d176913ea",
@@ -124,8 +152,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "Tactical Research"
+        "Tactical Research",
+        "Equity Research Management"
       ],
       "publish_time": "2026-07-01"
     },
@@ -351,9 +379,9 @@
         }
       ],
       "tags": [
+        "REITs",
         "Equity Research Management",
-        "Latam Steel & Basic Materials",
-        "REITs"
+        "Latam Steel & Basic Materials"
       ],
       "publish_time": "2026-06-17"
     },
@@ -543,13 +571,13 @@
         }
       ],
       "tags": [
+        "Semiconductors & IT Services",
         "Aerospace & Defense",
         "Software",
         "GS Sustain",
-        "Clean Energy",
+        "Utilities & Ipps",
         "REITs",
-        "Semiconductors & IT Services",
-        "Utilities & Ipps"
+        "Clean Energy"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1238,39 +1266,6 @@
         },
         {
           "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "04dccf31-7279-4135-bfbf-ddc16096da19",
-      "title": "Lineage Inc. (LINE): NAREIT management meeting takeaways: 2026 on track with expectations",
-      "summary": "On June 2nd, 2026, we met with LINE management. We reviewed demand (drivers such as import/export volumes and food inflation, and the impact on occupancy and pricing), supply (including developments, idle facilities, alt...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/04dccf31-7279-4135-bfbf-ddc16096da19.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
