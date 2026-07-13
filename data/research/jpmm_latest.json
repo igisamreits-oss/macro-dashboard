@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T10:34:54.700535+00:00",
+  "fetched_at": "2026-07-13T22:35:52.216681+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,8 +36,8 @@
         }
       ],
       "tags": [
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy"
       ],
@@ -146,9 +146,9 @@
       ],
       "tags": [
         "Communications Infrastructure",
+        "Aerospace & Defense",
         "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -183,11 +183,83 @@
       ],
       "tags": [
         "Communications Infrastructure",
+        "Aerospace & Defense",
         "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5365930-0",
+      "publication_id": "GPS-5367092-0",
+      "title": "Global Capital Goods",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365930-0",
+      "authors": [
+        {
+          "name": "Tami Zakaria, CFA",
+          "team": "Machinery, Engineering & Construction",
+          "email": "tami.zakaria@jpmchase.com"
+        },
+        {
+          "name": "Alec R McGuire",
+          "team": "Machinery, Engineering & Construction",
+          "email": "alec.mcguire@jpmorgan.com"
+        },
+        {
+          "name": "Raquel Betesh",
+          "team": "Machinery, Engineering & Construction",
+          "email": "raquel.betesh@jpmchase.com"
+        },
+        {
+          "name": "Tomohiko Sano",
+          "team": "North America Small and Mid Cap Industrials",
+          "email": "tomohiko.sano@jpmorgan.com"
+        },
+        {
+          "name": "Brendan Shea, CFA",
+          "team": "North America Small and Mid Cap Industrials",
+          "email": "brendan.shea@jpmorgan.com"
+        },
+        {
+          "name": "Ethan Coyle",
+          "team": "North America Small and Mid Cap Industrials",
+          "email": "ethan.coyle@jpmchase.com"
+        },
+        {
+          "name": "Phil Buller",
+          "team": "European Capital Goods",
+          "email": "phil.buller@jpmorgan.com"
+        },
+        {
+          "name": "Chitrita C Sinha",
+          "team": "European Capital Goods",
+          "email": "chitrita.sinha@jpmorgan.com"
+        },
+        {
+          "name": "Akash Gupta",
+          "team": "European Capital Goods",
+          "email": "akash.z.gupta@jpmorgan.com"
+        },
+        {
+          "name": "Jeremy Caspar",
+          "team": "European Capital Goods",
+          "email": "jeremy.caspar@jpmorgan.com"
+        },
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "European Capital Goods",
+        "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials",
+        "Infrastructure, Industrials & Transport"
+      ],
+      "publish_time": "2026-07-13"
     },
     {
       "platform": "JPM",
@@ -246,6 +318,35 @@
         "Managed Care and Facilities"
       ],
       "publish_time": "2026-07-09"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5363459-0",
+      "publication_id": "GPS-5367094-0",
+      "title": "Aerospace & Defense",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5363459-0",
+      "authors": [
+        {
+          "name": "Seth M. Seifman, CFA",
+          "team": "Aerospace & Defense",
+          "email": "seth.m.seifman@jpmorgan.com"
+        },
+        {
+          "name": "Rocco J Barbero",
+          "team": "Aerospace & Defense",
+          "email": "rocco.j.barbero@jpmorgan.com"
+        },
+        {
+          "name": "Alexander Ladd",
+          "team": "Aerospace & Defense",
+          "email": "alex.ladd@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Aerospace & Defense"
+      ],
+      "publish_time": "2026-07-13"
     },
     {
       "platform": "JPM",
@@ -348,13 +449,47 @@
         }
       ],
       "tags": [
-        "Equity Strategy",
-        "Equity Macro Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of Japan Equity Strategy, Chief Japan Equity Strategist",
+        "Equity Macro Research",
         "Head of Global Markets Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Equity Strategy"
       ],
       "publish_time": "2026-06-30"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5365392-0",
+      "publication_id": "GPS-5367097-0",
+      "title": "2026 Summer Chemicals, Agriculture & Packaging Outlook",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365392-0",
+      "authors": [
+        {
+          "name": "Jeffrey J. Zekauskas",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "jeffrey.zekauskas@jpmorgan.com"
+        },
+        {
+          "name": "Silke Kueck",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "silke.x.kueck@jpmorgan.com"
+        },
+        {
+          "name": "Katie Zhang",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "katie.zhang@jpmchase.com"
+        },
+        {
+          "name": "Lydia Huang",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "lydia.huang@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging"
+      ],
+      "publish_time": "2026-07-13"
     }
   ]
 }

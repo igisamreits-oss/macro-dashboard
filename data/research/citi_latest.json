@@ -1,6 +1,130 @@
 {
-  "fetched_at": "2026-07-13T10:32:48.024320+00:00",
+  "fetched_at": "2026-07-13T22:33:24.564004+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30442955",
+      "title": "Global Equity Quarterly: Back to the Broadening Debate",
+      "summary": "Global equities have climbed ~10% year to date, though leadership has been concentrated in Tech. Many of our conversations are returning to the likelihood of “broadening” performance in the second half. We look at what's needed for broadening to succeed and discuss strategies herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQyOTU1",
+      "tags": [
+        "Flagship",
+        "Global Equity Quarterly",
+        "Macro Strategy",
+        "Annual Outlook",
+        "Artificial Intelligence (AI)",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-07-10 18:00",
+      "thumbnail": "https://ir.citi.com/Cxa-NlOih_AreXx2A7kQ__5z_8K3M6zneM9JKxno89wH6WdkBO-4ziIsd5chBLs_SelEhsAAdilhKCTMOXu9WA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443133",
+      "title": "Apple Preview: Pricing, AI and iPhone Launch in Focus",
+      "summary": "We're constructive on AAPL and expect continued market share gains despite a slowing devices market. Selective price increases should support margins, while Apple Intelligence and Siri enhancements may boost engagement and services growth. The September iPhone launch is a key catalyst.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTMz",
+      "tags": [
+        "Consumer Electronics",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-07-12 21:30",
+      "thumbnail": "https://ir.citi.com/9b7JjTq7-YNzznEgu14WJbJbMeMwhyJws2FnXzTFE0EvfoweNWIp8orq29b-wwbXjmLokr8x--U6aJakunhJUA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443158",
+      "title": "U.S. Autos: Positive 2Q Outlook",
+      "summary": "Auto stocks underperformed in 2Q, but North America (NA) sales, pricing and production were better than expected, with favorable dealer inventory. While Europe and China remained weaker, trends met expectations. Low expectations and stronger NA results support a positive 2Q earnings setup.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTU4",
+      "tags": [
+        "Auto Manufacturers",
+        "Auto Parts & Equipment",
+        "Annual Outlook",
+        "Consumer Spending"
+      ],
+      "publish_time": "2026-07-12 22:26",
+      "thumbnail": "https://ir.citi.com/yPD9xgNPwBd9PRqH5guRzwz3fKvlfQDBxvF3SCyt170RSb25J6AFns_uBgNrGUJcqq1z28Nj_wI9G5qf3xxExg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443134",
+      "title": "U.S. Industrials 2Q Preview: Data Centers Still In Focus, Broadening In Sight",
+      "summary": "We expect AI and data center demand, coupled with a broadening short-cycle recovery, to support solid 2Q earnings and accelerating organic growth in 2026. Following a sector pullback, we see more attractive entry points in favored names and open a positive Catalyst Watch on ITW.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTM0",
+      "tags": [
+        "Electrical Equipment",
+        "Industrial Conglomerates",
+        "Machinery",
+        "Estimate Change",
+        "Catalyst Watch",
+        "Short-Term View",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-07-13 04:02",
+      "thumbnail": "https://ir.citi.com/RL6YxN6D1RO6mmBhrBy5DkTboQKivTM2NkhZMc7cgerVAvDQ_2BQLzNO-kiJiEd_wmSq-XjRGuckSqijotvuDg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443081",
+      "title": "U.S. Components & Hardware: Agentic AI Inflection Supports Storage and Optical Momentum",
+      "summary": "Strong AI-driven demand continues to support storage, hardware OEMs and networking infrastructure. Storage remains the highest-conviction area given favorable supply-demand fundamentals, while agentic AI is driving demand for dense systems and supporting optical and networking growth.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDgx",
+      "tags": [
+        "Connectors & Other Components",
+        "Electronic Components & Equipment",
+        "Hardware & Storage",
+        "Short-Term View",
+        "Target Price Change",
+        "Estimate Change",
+        "Cloud Computing",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-07-13 03:42",
+      "thumbnail": "https://ir.citi.com/lkbF1c0RoqfvXltXF888QUkpfQuA1ExpokSV1kNiAx5WzCY8ssLmG870m3eFnLZo6fSCBf63FiNSOxhPvmThOw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443069",
+      "title": "U.S. Machinery 2Q Earnings Preview: Let the Good Times Roll?",
+      "summary": "Machinery stocks have outperformed YTD, raising the bar for 2Q results. We expect most companies to beat, raise or at least maintain guidance as improving construction and truck demand offsets macro uncertainty. Recent policy clarity also supports higher estimates for commercial vehicles.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDY5",
+      "tags": [
+        "Machinery",
+        "Shrt-Term View",
+        "Tartget Price Change"
+      ],
+      "publish_time": "2026-07-13 04:00",
+      "thumbnail": "https://ir.citi.com/Y7mGdZyJKV5Re46Kn4VMytNxk7YXlAeThxY1LRvVRy5crasrsQQczgtxhWC-kjFKNcPHfSIwbdOSq8tm9KZBzA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443037",
+      "title": "U.S. Economics Weekly: Shifting Balance of Risks",
+      "summary": "Falling oil prices, softer inflation data and lower core PCE revisions should ease inflation concerns.  Softer labor market data in coming months should renew Fed officials and market focus on downside risk to employment. This should lead rate markets to price out hikes and price in cuts.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDM3",
+      "tags": [
+        "Economic Forecast",
+        "Economic Analysis"
+      ],
+      "publish_time": "2026-07-10 14:40",
+      "thumbnail": "https://ir.citi.com/tcrP-c9GACI9-PGXRPn8nYaW2OjnGzfZTUFhXqKac1X-760sFb900qXg2FxMwbXmLPgdFogpPaqQh32vHNA9bw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443063",
+      "title": "U.S. Rates Weekly: Red Card for Rate Hikes",
+      "summary": "We remain received in the July FOMC meeting with a front-end flattener hedge as CPI should be supportive, combined with our view on seasonal jobs weakness. We look at the implications of this backdrop and consider what a lack of forward guidance will do to rates pricing.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDYz",
+      "tags": [
+        "U.S. Rates Weekly",
+        "Flagship",
+        "Relative Value",
+        "Trade Idea"
+      ],
+      "publish_time": "2026-07-10 18:20",
+      "thumbnail": "https://ir.citi.com/p0JVOTDxcNpq-pLu7btN4FfUQ-plS386KZFltNHx37Yu1v1zEtPAng4QYKRV6I1DwWG0YPXXX0D3n17iGOUNqQ%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30442763",
@@ -604,107 +728,6 @@
       ],
       "publish_time": "2026-07-06 12:59",
       "thumbnail": "https://ir.citi.com/GMN_1LDf2B9icUYwH2AfThwExPwd1iFweyAtrK_vSj4bwn3Tkmcx771s0hRHzHwcHGjwM51xL9Bc8cUl7CcpRA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441521",
-      "title": "U.S. Semis and Equipment: 2Q26 Earnings Preview",
-      "summary": "We expect further earnings upside across semis and semi equipment names, supported by improving end demand and reasonable valuations despite strong SOX performance. We favor AMD, TXN and AMAT into earnings. We also add an upside Catalyst Watch on MU and a downside Catalyst Watch on QCOM.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNTIx",
-      "tags": [
-        "Semiconductors",
-        "Semiconductor Equipment",
-        "Catalyst Watch",
-        "Earnings Preview",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-07-06 05:00",
-      "thumbnail": "https://ir.citi.com/z5mvs0HKYZ5Gv_fsqzEdq8MgI4S3LhpHpf8bselQVzF0bmuNY43ufQ5uZUaO2D1Jo1t1VGek5Ym3zIpflE0Vtw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441533",
-      "title": "U.S. Light Vehicle Sales & Inventory Update",
-      "summary": "June U.S. light vehicle sales came in at the high end of expectations, with demand remaining strong and pricing supported by disciplined inventory levels. We view recent demand and pricing trends as positive for auto dealers heading into earnings season. We break down the trends herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNTMz",
-      "tags": [
-        "U.S. Autos",
-        "Light Vehicle Sales"
-      ],
-      "publish_time": "2026-07-06 01:19",
-      "thumbnail": "https://ir.citi.com/C23VQmUHmkg5DK65_cnkxqlf3M_g3iVFnewkzcCBi773nwlJbjXcWyeesrvocmjxunhjO1eZqv9QDK55pyVzUA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30440839",
-      "title": "Pan-Asia Focus List: Third-Quarter Refresh",
-      "summary": "We refresh our Pan-Asia Focus List for the third quarter with our analysts’ most non-consensus, high-conviction Buy and Sell ideas. New Buy ideas are Geely, ICICI Bank, ASMPT, Samsung Electronics, Hengli Hydraulic, Keppel, Ajinomoto, Fanuc, CATL, Kingboard Laminates and Kia.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQwODM5",
-      "tags": [
-        "Focus List",
-        "Model Portfolio"
-      ],
-      "publish_time": "2026-07-03 11:41",
-      "thumbnail": "https://ir.citi.com/03sbNk5D58GeHVk1oe9fK8PJK_Ku1EFF3gh1KNJGqZpopnlzPcdW9WF0kPViUtzvsD991jzLUAXISBPyGRo5xw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441420",
-      "title": "Continental Nears Deal to Sell ContiTech for €4bn",
-      "summary": "Continental is nearing a deal to sell ContiTech for about €4bn, broadly in line with our expectations. We believe the sale could lift the Buy-rated shares toward our €80 target price, supported by potential value realization, a strong dividend yield and attractive shareholder returns.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNDIw",
-      "tags": [],
-      "publish_time": "2026-07-03 12:43",
-      "thumbnail": "https://ir.citi.com/ixUWbwu_lgZs7TP_O-RtN1BhAyVkxXdv87tGbjPMTWp6iN1uuSHPO-C3PhCKKOBWT4AmC75QNZpTxpPnRRH3tg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441425",
-      "title": "European Gaming: Taking Stock After the World Cup Group Stages",
-      "summary": "Handle growth appears strong for sports betting operators following the World Cup group stages. However, results have been mixed for margins, with favorites winning more often than in 2022, though a high number of draws may provide some offset. We explore further implications herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNDI1",
-      "tags": [
-        "European Gaming",
-        "World Cup"
-      ],
-      "publish_time": "2026-07-06 00:00",
-      "thumbnail": "https://ir.citi.com/OfyMVaq_8xL6OI4rCS0ih9UsjCmfn7GUNc3rNlwr8X9T7vl5y6icK0xi9TxG8i3pL3j3KMD5sMzhwFreJO_dDw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441395",
-      "title": "TSMC: 2Q26 Analyst Meeting Preview",
-      "summary": "We think TSMC may further raise its 2026 growth target and long-term revenue outlook, supported by strong AI-driven demand. Margins should remain resilient, utilization broad-based, and wafer pricing on an uptrend. We continue to view TSMC as a key beneficiary of AI semiconductor growth.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMzk1",
-      "tags": [],
-      "publish_time": "2026-07-03 11:05",
-      "thumbnail": "https://ir.citi.com/FaY-2iAnuqRenkDg0cYWeWTfOvOShKWDeQkf2BY17_-fvc3mvlmA66XNqplsvmKod6YBGUPtdJSAjNcWc8KV2w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441222",
-      "title": "Global Macro Strategy: Growing pAIns",
-      "summary": "After June NFP, a near-term Fed hike looks much less likely. We take profits on USDNOK, Kospi and EM Asia positions. We stay overweight U.S. equities and tactically long Europe. Copper’s breakout vs gold may not be a bullish cyclical signal. EMFX carry faces crowdedness and JPY risks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxMjIy",
-      "tags": [
-        "Macro Strategy",
-        "Trade Idea",
-        "Flagship"
-      ],
-      "publish_time": "2026-07-03 02:41",
-      "thumbnail": "https://ir.citi.com/Xa_Cg-b5vCBAbl6lAu6f-Om2j1iAWZWdcgANXhIOI1OiQg3aLKkUeP0qgUVjwuQdQOoFk9A3PMuocgAaBmPzvQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30441417",
-      "title": "European Economics: The Return of Political Risk in Italy",
-      "summary": "Italy’s recent political stability has helped bring foreign investors back. Is the next general election in 2027 going to throw this stability off course? We examine this and other key questions around the 2027 general election, including timing, likely outcomes and policy implications.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQxNDE3",
-      "tags": [
-        "Elections"
-      ],
-      "publish_time": "2026-07-06 01:00",
-      "thumbnail": "https://ir.citi.com/LO9UBy7lwUzAhsVlDuX5oLwnFkSd5B9WH42LaqhOeILfZUjCEFaYbZHixhWnkFieQiQuuKTZCDBqHZSBywBVyA%3D%3D"
     }
   ]
 }
