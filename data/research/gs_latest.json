@@ -1,6 +1,29 @@
 {
-  "fetched_at": "2026-07-12T13:08:34.385623+00:00",
+  "fetched_at": "2026-07-13T10:33:49.097328+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "db9ced4d-f440-49e1-9cdb-f855ab5a9b86",
+      "title": "Singapore Real Estate: 2Q26 preview: Opportunity post rates-driven correction; Upgrade MPACT, Downgrade MLT",
+      "summary": "Despite headwinds from higher for longer interest rates, Singapore real estate has been resilient supported by relatively steady domestic rates and a firm currency, outperforming most developed market peers even as it tr...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/13/db9ced4d-f440-49e1-9cdb-f855ab5a9b86.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-13"
+    },
     {
       "platform": "GS",
       "doc_id": "8e90aa5c-c2df-44e7-ab1b-b3fb51907d2f",
@@ -572,12 +595,12 @@
       ],
       "tags": [
         "Semiconductors & IT Services",
-        "Aerospace & Defense",
-        "Software",
-        "GS Sustain",
-        "Utilities & Ipps",
         "REITs",
-        "Clean Energy"
+        "Software",
+        "Clean Energy",
+        "Utilities & Ipps",
+        "GS Sustain",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1233,39 +1256,6 @@
         },
         {
           "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "d4d3d503-f891-4d43-a1aa-4b0a4b95a430",
-      "title": "Kilroy Realty Corp. (KRC): Nareit management meeting takeaways: Leasing volumes remain strong with rent trends varying by market",
-      "summary": "On June 2, 2026, we hosted a meeting with Kilroy management. Key topics included the leasing pipeline, West Coast demand and AI impacts, KOP2, renewal activity and occupancy, Flower Mart, and TI trends. See inside for more detail.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/d4d3d503-f891-4d43-a1aa-4b0a4b95a430.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }

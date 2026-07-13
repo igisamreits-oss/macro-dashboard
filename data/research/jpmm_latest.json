@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T13:09:36.815646+00:00",
+  "fetched_at": "2026-07-13T10:34:54.700535+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,10 +36,10 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-06"
     },
@@ -145,9 +145,9 @@
         }
       ],
       "tags": [
+        "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
         "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure",
         "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
@@ -182,9 +182,9 @@
         }
       ],
       "tags": [
+        "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
         "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure",
         "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
@@ -249,53 +249,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5350065-0",
-      "publication_id": "KAL-1-VKN9RU26",
-      "title": "JPM E&P, Integrateds, and Refiners",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5350065-0",
-      "authors": [
-        {
-          "name": "Arun Jayaram",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "arun.jayaram@jpmchase.com"
-        },
-        {
-          "name": "Pankaj Bhatter, CFA",
-          "team": "Large Cap Oil & Gas Exploration & Production",
-          "email": "pankaj.bhatter@jpmchase.com"
-        },
-        {
-          "name": "Jack Jerusalmi",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "jack.jerusalmi@jpmorgan.com"
-        },
-        {
-          "name": "Kartikey H Pandey",
-          "team": "Oil & Gas Exploration & Production",
-          "email": "kartikey.pandey@jpmorgan.com"
-        },
-        {
-          "name": "Matthew Lofting, CFA",
-          "team": "European Oil & Gas",
-          "email": "matthew.lofting@jpmorgan.com"
-        },
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Oil & Gas Exploration & Production",
-        "European Oil & Gas",
-        "Large Cap Oil & Gas Exploration & Production",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
-      ],
-      "publish_time": "2026-06-29"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5361123-0",
       "publication_id": "GPS-5363102-0",
       "title": "Hong Kong Equity Strategy",
@@ -319,8 +272,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-08"
     },
@@ -354,9 +307,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-03"
     },
@@ -395,11 +348,11 @@
         }
       ],
       "tags": [
-        "Equity Macro Research",
         "Equity Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Equity Macro Research",
         "Head of Japan Equity Strategy, Chief Japan Equity Strategist",
-        "Head of Global Markets Strategy"
+        "Head of Global Markets Strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-06-30"
     }
