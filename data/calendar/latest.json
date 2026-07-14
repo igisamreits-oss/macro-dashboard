@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-13T22:36:24.231086+00:00",
-  "window_start": "2026-07-06",
-  "window_end": "2026-08-10",
+  "fetched_at": "2026-07-14T02:07:14.359721+00:00",
+  "window_start": "2026-07-07",
+  "window_end": "2026-08-11",
   "source": "schedule.yml",
   "events": [
     {
@@ -51,6 +51,13 @@
       "country": "JP",
       "indicator_id": "boj",
       "time_kst": "12:00",
+      "note": ""
+    },
+    {
+      "date": "2026-08-11",
+      "country": "AU",
+      "indicator_id": "rba",
+      "time_kst": "13:30",
       "note": ""
     }
   ]
