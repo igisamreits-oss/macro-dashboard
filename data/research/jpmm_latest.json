@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T10:34:42.622419+00:00",
+  "fetched_at": "2026-07-14T22:34:42.236459+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,12 +36,31 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
       ],
       "publish_time": "2026-07-06"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5365044-0",
+      "publication_id": "GPS-5365044-0",
+      "title": "REPLAY | 2Q26 Transports & Logistics Earnings Preview",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365044-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-07-10"
     },
     {
       "platform": "JPM",
@@ -65,25 +84,6 @@
           "name": "Brandon Wexler",
           "team": "Airfreight & Surface Transportation / Shipping",
           "email": "brandon.wexler@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Airfreight & Surface Transportation / Shipping"
-      ],
-      "publish_time": "2026-07-10"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5365044-0",
-      "publication_id": "GPS-5365044-0",
-      "title": "REPLAY | 2Q26 Transports & Logistics Earnings Preview",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365044-0",
-      "authors": [
-        {
-          "name": "Brian P. Ossenbeck, CFA",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brian.p.ossenbeck@jpmorgan.com"
         }
       ],
       "tags": [
@@ -145,10 +145,10 @@
         }
       ],
       "tags": [
+        "Communications Infrastructure",
         "Aerospace & Defense",
-        "Telecom Services, Cable & Satellite",
         "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure"
+        "Telecom Services, Cable & Satellite"
       ],
       "publish_time": "2026-07-07"
     },
@@ -182,10 +182,10 @@
         }
       ],
       "tags": [
+        "Communications Infrastructure",
         "Aerospace & Defense",
-        "Telecom Services, Cable & Satellite",
         "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure"
+        "Telecom Services, Cable & Satellite"
       ],
       "publish_time": "2026-07-07"
     },
@@ -254,10 +254,10 @@
         }
       ],
       "tags": [
-        "North America Small and Mid Cap Industrials",
-        "Machinery, Engineering & Construction",
+        "Infrastructure, Industrials & Transport",
         "European Capital Goods",
-        "Infrastructure, Industrials & Transport"
+        "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials"
       ],
       "publish_time": "2026-07-13"
     },
@@ -380,6 +380,45 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5366760-0",
+      "publication_id": "KAL-1-STYB30UP",
+      "title": "JPM ANMUTH - US Internet 2Q26 Preview",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5366760-0",
+      "authors": [
+        {
+          "name": "Doug Anmuth",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "douglas.anmuth@jpmorgan.com"
+        },
+        {
+          "name": "Dae K Lee, CFA",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "dae.k.lee@jpmorgan.com"
+        },
+        {
+          "name": "Bryan M. Smilek",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "bryan.smilek@jpmorgan.com"
+        },
+        {
+          "name": "Neeraj S Kookada, CFA",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "neeraj.s.kookada@jpmchase.com"
+        },
+        {
+          "name": "Margaret Hoffman",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "margaret.hoffman@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Internet - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-07-14"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5355590-0",
       "publication_id": "GPS-5358359-0",
       "title": "China Equity Strategy",
@@ -408,9 +447,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-03"
     },
