@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T22:35:52.216681+00:00",
+  "fetched_at": "2026-07-14T10:34:42.622419+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -37,9 +37,9 @@
       ],
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-06"
     },
@@ -145,10 +145,10 @@
         }
       ],
       "tags": [
-        "Communications Infrastructure",
         "Aerospace & Defense",
         "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -182,10 +182,10 @@
         }
       ],
       "tags": [
-        "Communications Infrastructure",
         "Aerospace & Defense",
         "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -254,9 +254,9 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
-        "Machinery, Engineering & Construction",
         "North America Small and Mid Cap Industrials",
+        "Machinery, Engineering & Construction",
+        "European Capital Goods",
         "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-07-13"
@@ -373,8 +373,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-08"
     },
@@ -409,53 +409,10 @@
       ],
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-03"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5344924-0",
-      "publication_id": "KAL-1-DBBFAC3A",
-      "title": "Japan Equity Strategy: 2H 2026 Outlook",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5344924-0",
-      "authors": [
-        {
-          "name": "Rie Nishihara",
-          "team": "Head of Japan Equity Strategy, Chief Japan Equity Strategist",
-          "email": "rie.nishihara@jpmorgan.com"
-        },
-        {
-          "name": "Yong Guo, CFA",
-          "team": "Equity Macro Research",
-          "email": "yong.guo@jpmorgan.com"
-        },
-        {
-          "name": "Mislav Matejka, CFA",
-          "team": "Equity Strategy",
-          "email": "mislav.matejka@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Dubravko Lakos-Bujas",
-          "team": "Head of Global Markets Strategy",
-          "email": "dubravko.lakos-bujas@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of Japan Equity Strategy, Chief Japan Equity Strategist",
-        "Equity Macro Research",
-        "Head of Global Markets Strategy",
-        "Equity Strategy"
-      ],
-      "publish_time": "2026-06-30"
     },
     {
       "platform": "JPM",
