@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T22:34:14.729320+00:00",
+  "fetched_at": "2026-07-16T10:34:18.339409+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,9 +36,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-06"
@@ -145,10 +145,10 @@
         }
       ],
       "tags": [
-        "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
+        "Aerospace & Defense",
         "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -182,10 +182,10 @@
         }
       ],
       "tags": [
-        "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
+        "Aerospace & Defense",
         "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -255,35 +255,11 @@
       ],
       "tags": [
         "European Capital Goods",
-        "North America Small and Mid Cap Industrials",
         "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials",
         "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-07-13"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5352446-0",
-      "publication_id": "GPS-5355691-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5352446-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-07-02"
     },
     {
       "platform": "JPM",
@@ -373,8 +349,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-08"
     },
@@ -447,8 +423,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-03"
