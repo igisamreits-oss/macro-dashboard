@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T10:34:18.339409+00:00",
+  "fetched_at": "2026-07-16T22:34:07.997191+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -147,8 +147,8 @@
       "tags": [
         "Telecom Services, Cable & Satellite",
         "Aerospace & Defense",
-        "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure"
+        "Communications Infrastructure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -184,8 +184,8 @@
       "tags": [
         "Telecom Services, Cable & Satellite",
         "Aerospace & Defense",
-        "Internet - Large Cap / Mid & Small Cap",
-        "Communications Infrastructure"
+        "Communications Infrastructure",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -254,10 +254,10 @@
         }
       ],
       "tags": [
+        "Infrastructure, Industrials & Transport",
         "European Capital Goods",
-        "Machinery, Engineering & Construction",
         "North America Small and Mid Cap Industrials",
-        "Infrastructure, Industrials & Transport"
+        "Machinery, Engineering & Construction"
       ],
       "publish_time": "2026-07-13"
     },
@@ -294,6 +294,42 @@
         "Managed Care and Facilities"
       ],
       "publish_time": "2026-07-09"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5369353-0",
+      "publication_id": "GPS-5371747-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5369353-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
+      ],
+      "publish_time": "2026-07-15"
     },
     {
       "platform": "JPM",
@@ -353,6 +389,40 @@
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5367652-0",
+      "publication_id": "KAL-1-1XT5FWW3",
+      "title": "Hardware & Networking",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5367652-0",
+      "authors": [
+        {
+          "name": "Joseph Cardoso",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "joseph.cardoso@jpmchase.com"
+        },
+        {
+          "name": "Manmohanpreet Singh",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "manmohanpreet.singh@jpmchase.com"
+        },
+        {
+          "name": "Marc Vitenzon",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "marc.vitenzon@jpmchase.com"
+        },
+        {
+          "name": "Akanksh Chauhan",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "akanksh.chauhan@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "IT Hardware/ Telecom & Networking Equipment"
+      ],
+      "publish_time": "2026-07-16"
     },
     {
       "platform": "JPM",

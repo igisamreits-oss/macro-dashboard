@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T10:33:17.804670+00:00",
+  "fetched_at": "2026-07-16T22:33:08.314572+00:00",
   "items": [
     {
       "platform": "GS",
@@ -56,16 +56,6 @@
         "Real Estate"
       ],
       "publish_time": "2026-07-13"
-    },
-    {
-      "platform": "GS",
-      "doc_id": null,
-      "title": "",
-      "summary": "",
-      "link": null,
-      "authors": [],
-      "tags": [],
-      "publish_time": null
     },
     {
       "platform": "GS",
@@ -218,8 +208,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "Tactical Research"
+        "Tactical Research",
+        "Equity Research Management"
       ],
       "publish_time": "2026-07-01"
     },
@@ -445,8 +435,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
         "Latam Steel & Basic Materials",
+        "Equity Research Management",
         "REITs"
       ],
       "publish_time": "2026-06-17"
@@ -637,13 +627,13 @@
         }
       ],
       "tags": [
+        "Utilities & Ipps",
+        "Semiconductors & IT Services",
+        "Aerospace & Defense",
         "REITs",
         "Clean Energy",
-        "GS Sustain",
-        "Semiconductors & IT Services",
         "Software",
-        "Utilities & Ipps",
-        "Aerospace & Defense"
+        "GS Sustain"
       ],
       "publish_time": "2026-06-15"
     },
@@ -1230,6 +1220,34 @@
       "title": "Mid-America Apartment Communities (MAA): NAREIT Management Meeting Takeaways",
       "summary": "On June 02, 2026, at NAREIT REITweek in New York we met with MAA's senior management including Mr. Bradley Hill, President & CEO, Mr. Clay Holder, CFO, Mr. Tim Argo, Chief Strategy & Analysis Officer, Mr. Robert DelPriore, CAO and Mr.",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/76cd68e4-ee4a-4710-a991-b807c0ba0f84.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-03"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "d7bdb4f3-8a0d-490b-a013-a11d76a7a6d7",
+      "title": "Camden Property Trust (CPT): NAREIT Management meeting takeaways",
+      "summary": "On June 02, 2026, as part of NAREIT REITweek we met with CPT management including Mr. Alex Jesset, CEO, Ms. Laurie Baker, Pres & COO, and Ms. Kim Callahan, SVP-IR. Key topics included discussion around improving renewal ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/d7bdb4f3-8a0d-490b-a013-a11d76a7a6d7.html",
       "authors": [
         {
           "name": "Julien Blouin",
