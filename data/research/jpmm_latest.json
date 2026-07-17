@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T22:34:07.997191+00:00",
+  "fetched_at": "2026-07-17T13:08:26.441544+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -37,9 +37,9 @@
       ],
       "tags": [
         "China & HK Equity strategy",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
       ],
       "publish_time": "2026-07-06"
     },
@@ -145,10 +145,10 @@
         }
       ],
       "tags": [
-        "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense",
+        "Internet - Large Cap / Mid & Small Cap",
         "Communications Infrastructure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Telecom Services, Cable & Satellite",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -182,10 +182,10 @@
         }
       ],
       "tags": [
-        "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense",
+        "Internet - Large Cap / Mid & Small Cap",
         "Communications Infrastructure",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Telecom Services, Cable & Satellite",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -254,9 +254,9 @@
         }
       ],
       "tags": [
+        "North America Small and Mid Cap Industrials",
         "Infrastructure, Industrials & Transport",
         "European Capital Goods",
-        "North America Small and Mid Cap Industrials",
         "Machinery, Engineering & Construction"
       ],
       "publish_time": "2026-07-13"
@@ -462,42 +462,6 @@
         "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-14"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5355590-0",
-      "publication_id": "GPS-5358359-0",
-      "title": "China Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5355590-0",
-      "authors": [
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Alex Yao",
-          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
-          "email": "alex.yao@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
-      ],
-      "publish_time": "2026-07-03"
     },
     {
       "platform": "JPM",

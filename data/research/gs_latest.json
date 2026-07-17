@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T22:33:08.314572+00:00",
+  "fetched_at": "2026-07-17T13:07:26.099400+00:00",
   "items": [
     {
       "platform": "GS",
@@ -15,16 +15,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }
@@ -45,11 +35,6 @@
           "name": "Xuan Tan",
           "department": "Real Estate",
           "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -66,16 +51,6 @@
       "authors": [
         {
           "name": "Andrew Boak",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Will Maher",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Oscar To",
           "department": "Asia Economics",
           "division": "Research"
         }
@@ -101,16 +76,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -127,16 +92,6 @@
       "authors": [
         {
           "name": "Andrew Boak",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Will Maher",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Oscar To",
           "department": "Asia Economics",
           "division": "Research"
         }
@@ -160,16 +115,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
@@ -208,8 +153,8 @@
         }
       ],
       "tags": [
-        "Tactical Research",
-        "Equity Research Management"
+        "Equity Research Management",
+        "Tactical Research"
       ],
       "publish_time": "2026-07-01"
     },
@@ -222,11 +167,6 @@
       "authors": [
         {
           "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
           "department": "Real Estate",
           "division": "Research"
         }
@@ -252,16 +192,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -283,16 +213,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
@@ -318,16 +238,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -351,16 +261,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -382,16 +282,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }
@@ -419,11 +309,6 @@
           "division": "Research"
         },
         {
-          "name": "Marcio Farid",
-          "department": "Latam Steel & Basic Materials",
-          "division": "Research"
-        },
-        {
           "name": "Caitlin Burrows",
           "department": "REITs",
           "division": "Research"
@@ -435,7 +320,6 @@
         }
       ],
       "tags": [
-        "Latam Steel & Basic Materials",
         "Equity Research Management",
         "REITs"
       ],
@@ -457,16 +341,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -483,11 +357,6 @@
       "authors": [
         {
           "name": "Sachiko Okada",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Sayako Tominaga",
           "department": "Real Estate",
           "division": "Research"
         }
@@ -508,16 +377,6 @@
           "name": "Julien Blouin",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -534,11 +393,6 @@
       "authors": [
         {
           "name": "Sachiko Okada",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Sayako Tominaga",
           "department": "Real Estate",
           "division": "Research"
         }
@@ -568,11 +422,6 @@
         {
           "name": "Brendan Corbett",
           "department": "GS Sustain",
-          "division": "Research"
-        },
-        {
-          "name": "Tyler Bisset",
-          "department": "Clean Energy",
           "division": "Research"
         },
         {
@@ -609,31 +458,16 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Keshav Choudhary",
-          "department": "Clean Energy",
-          "division": "Research"
-        },
-        {
-          "name": "Connor Dessert",
-          "department": "Aerospace & Defense",
-          "division": "Research"
         }
       ],
       "tags": [
-        "Utilities & Ipps",
         "Semiconductors & IT Services",
         "Aerospace & Defense",
-        "REITs",
+        "Utilities & Ipps",
+        "GS Sustain",
         "Clean Energy",
         "Software",
-        "GS Sustain"
+        "REITs"
       ],
       "publish_time": "2026-06-15"
     },
@@ -651,16 +485,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }
@@ -681,16 +505,6 @@
           "name": "Julien Blouin",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -707,16 +521,6 @@
       "authors": [
         {
           "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
           "department": "REITs",
           "division": "Research"
         }
@@ -737,16 +541,6 @@
           "name": "Julien Blouin",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -763,11 +557,6 @@
       "authors": [
         {
           "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
           "department": "Real Estate",
           "division": "Research"
         }
@@ -788,16 +577,6 @@
           "name": "Julien Blouin",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -814,16 +593,6 @@
       "authors": [
         {
           "name": "Andrew Boak",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Will Maher",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Oscar To",
           "department": "Asia Economics",
           "division": "Research"
         }
@@ -849,16 +618,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -880,16 +639,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
@@ -915,16 +664,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -946,16 +685,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
@@ -981,16 +710,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -1012,16 +731,6 @@
         },
         {
           "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }
@@ -1047,16 +756,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -1075,16 +774,6 @@
           "name": "Julien Blouin",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -1101,16 +790,6 @@
       "authors": [
         {
           "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
           "department": "REITs",
           "division": "Research"
         }
@@ -1136,16 +815,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -1162,16 +831,6 @@
       "authors": [
         {
           "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
           "department": "REITs",
           "division": "Research"
         }
@@ -1197,16 +856,6 @@
           "name": "Jeremy Kuhl",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -1225,16 +874,6 @@
           "name": "Julien Blouin",
           "department": "REITs",
           "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
         }
       ],
       "tags": [
@@ -1251,16 +890,6 @@
       "authors": [
         {
           "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
           "department": "REITs",
           "division": "Research"
         }
