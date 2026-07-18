@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T01:08:15.549534+00:00",
+  "fetched_at": "2026-07-18T13:08:02.777161+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,10 +36,10 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-06"
     },
@@ -169,10 +169,10 @@
         }
       ],
       "tags": [
-        "Aerospace & Defense",
-        "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Communications Infrastructure",
+        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -206,10 +206,10 @@
         }
       ],
       "tags": [
-        "Aerospace & Defense",
-        "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Communications Infrastructure",
+        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -278,10 +278,10 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
-        "Machinery, Engineering & Construction",
+        "Infrastructure, Industrials & Transport",
         "North America Small and Mid Cap Industrials",
-        "Infrastructure, Industrials & Transport"
+        "Machinery, Engineering & Construction",
+        "European Capital Goods"
       ],
       "publish_time": "2026-07-13"
     },
@@ -349,8 +349,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-15"
@@ -409,8 +409,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-08"
     },

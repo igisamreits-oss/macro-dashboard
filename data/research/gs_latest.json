@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T01:07:16.022750+00:00",
+  "fetched_at": "2026-07-18T13:07:03.218758+00:00",
   "items": [
     {
       "platform": "GS",
@@ -153,8 +153,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "Tactical Research"
+        "Tactical Research",
+        "Equity Research Management"
       ],
       "publish_time": "2026-07-01"
     },
@@ -320,8 +320,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "REITs"
+        "REITs",
+        "Equity Research Management"
       ],
       "publish_time": "2026-06-17"
     },
@@ -463,11 +463,11 @@
       "tags": [
         "Semiconductors & IT Services",
         "Clean Energy",
-        "Utilities & Ipps",
+        "Software",
         "GS Sustain",
-        "Aerospace & Defense",
+        "Utilities & Ipps",
         "REITs",
-        "Software"
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-06-15"
     },
