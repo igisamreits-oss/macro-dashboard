@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T13:08:26.441544+00:00",
+  "fetched_at": "2026-07-18T01:08:15.549534+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -42,6 +42,30 @@
         "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
       ],
       "publish_time": "2026-07-06"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5369372-0",
+      "publication_id": "GPS-5372698-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5369372-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-07-17"
     },
     {
       "platform": "JPM",
@@ -145,10 +169,10 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense",
         "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense"
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -182,10 +206,10 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense",
         "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
-        "Aerospace & Defense"
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-07"
     },
@@ -254,10 +278,10 @@
         }
       ],
       "tags": [
-        "North America Small and Mid Cap Industrials",
-        "Infrastructure, Industrials & Transport",
         "European Capital Goods",
-        "Machinery, Engineering & Construction"
+        "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials",
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-07-13"
     },
@@ -444,7 +468,7 @@
         },
         {
           "name": "Bryan M. Smilek",
-          "team": "Internet - Large Cap / Mid & Small Cap",
+          "team": "Internet - Mid & Small Cap",
           "email": "bryan.smilek@jpmorgan.com"
         },
         {
@@ -459,6 +483,7 @@
         }
       ],
       "tags": [
+        "Internet - Mid & Small Cap",
         "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-07-14"
