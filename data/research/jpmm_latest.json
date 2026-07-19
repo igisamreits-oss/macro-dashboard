@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T13:08:02.777161+00:00",
+  "fetched_at": "2026-07-19T01:08:07.874111+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,10 +36,10 @@
         }
       ],
       "tags": [
-        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Asia Equity and Quantitative Strategy;  Head of Korea and Taiwan Equity Strategy"
       ],
       "publish_time": "2026-07-06"
     },
@@ -170,9 +170,9 @@
       ],
       "tags": [
         "Telecom Services, Cable & Satellite",
-        "Communications Infrastructure",
         "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Aerospace & Defense",
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -207,9 +207,9 @@
       ],
       "tags": [
         "Telecom Services, Cable & Satellite",
-        "Communications Infrastructure",
         "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
+        "Aerospace & Defense",
+        "Communications Infrastructure"
       ],
       "publish_time": "2026-07-07"
     },
@@ -279,8 +279,8 @@
       ],
       "tags": [
         "Infrastructure, Industrials & Transport",
-        "North America Small and Mid Cap Industrials",
         "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials",
         "European Capital Goods"
       ],
       "publish_time": "2026-07-13"
