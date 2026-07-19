@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T01:07:07.974217+00:00",
+  "fetched_at": "2026-07-19T13:07:10.252579+00:00",
   "items": [
     {
       "platform": "GS",
@@ -461,13 +461,13 @@
         }
       ],
       "tags": [
-        "GS Sustain",
+        "REITs",
         "Utilities & Ipps",
-        "Semiconductors & IT Services",
         "Software",
-        "Clean Energy",
         "Aerospace & Defense",
-        "REITs"
+        "Clean Energy",
+        "Semiconductors & IT Services",
+        "GS Sustain"
       ],
       "publish_time": "2026-06-15"
     },
