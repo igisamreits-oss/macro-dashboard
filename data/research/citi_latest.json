@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T13:06:10.327132+00:00",
+  "fetched_at": "2026-07-20T10:32:12.809953+00:00",
   "items": [
     {
       "platform": "Citi",
@@ -593,34 +593,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30443133",
-      "title": "Apple Preview: Pricing, AI and iPhone Launch in Focus",
-      "summary": "We're constructive on AAPL and expect continued market share gains despite a slowing devices market. Selective price increases should support margins, while Apple Intelligence and Siri enhancements may boost engagement and services growth. The September iPhone launch is a key catalyst.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTMz",
-      "tags": [
-        "Consumer Electronics",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-07-12 21:30",
-      "thumbnail": "https://ir.citi.com/9b7JjTq7-YNzznEgu14WJbJbMeMwhyJws2FnXzTFE0EvfoweNWIp8orq29b-wwbXjmLokr8x--U6aJakunhJUA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443158",
-      "title": "U.S. Autos: Positive 2Q Outlook",
-      "summary": "Auto stocks underperformed in 2Q, but North America (NA) sales, pricing and production were better than expected, with favorable dealer inventory. While Europe and China remained weaker, trends met expectations. Low expectations and stronger NA results support a positive 2Q earnings setup.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTU4",
-      "tags": [
-        "Auto Manufacturers",
-        "Auto Parts & Equipment",
-        "Annual Outlook",
-        "Consumer Spending"
-      ],
-      "publish_time": "2026-07-12 22:26",
-      "thumbnail": "https://ir.citi.com/yPD9xgNPwBd9PRqH5guRzwz3fKvlfQDBxvF3SCyt170RSb25J6AFns_uBgNrGUJcqq1z28Nj_wI9G5qf3xxExg%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30443134",
       "title": "U.S. Industrials 2Q Preview: Data Centers Still In Focus, Broadening In Sight",
       "summary": "We expect AI and data center demand, coupled with a broadening short-cycle recovery, to support solid 2Q earnings and accelerating organic growth in 2026. Following a sector pullback, we see more attractive entry points in favored names and open a positive Catalyst Watch on ITW.",
@@ -655,6 +627,34 @@
       ],
       "publish_time": "2026-07-13 03:42",
       "thumbnail": "https://ir.citi.com/pfFClB3qbaNKYQxz7GGuK-2FQdsfmWXAl8zzpFZv6mU-hwvNr5YDQ_egFg80f5z96XzCZkb_AhRc4YUNRGkM6Q%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443133",
+      "title": "Apple Preview: Pricing, AI and iPhone Launch in Focus",
+      "summary": "We're constructive on AAPL and expect continued market share gains despite a slowing devices market. Selective price increases should support margins, while Apple Intelligence and Siri enhancements may boost engagement and services growth. The September iPhone launch is a key catalyst.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTMz",
+      "tags": [
+        "Consumer Electronics",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-07-12 21:30",
+      "thumbnail": "https://ir.citi.com/9b7JjTq7-YNzznEgu14WJbJbMeMwhyJws2FnXzTFE0EvfoweNWIp8orq29b-wwbXjmLokr8x--U6aJakunhJUA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30443158",
+      "title": "U.S. Autos: Positive 2Q Outlook",
+      "summary": "Auto stocks underperformed in 2Q, but North America (NA) sales, pricing and production were better than expected, with favorable dealer inventory. While Europe and China remained weaker, trends met expectations. Low expectations and stronger NA results support a positive 2Q earnings setup.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTU4",
+      "tags": [
+        "Auto Manufacturers",
+        "Auto Parts & Equipment",
+        "Annual Outlook",
+        "Consumer Spending"
+      ],
+      "publish_time": "2026-07-12 22:26",
+      "thumbnail": "https://ir.citi.com/yPD9xgNPwBd9PRqH5guRzwz3fKvlfQDBxvF3SCyt170RSb25J6AFns_uBgNrGUJcqq1z28Nj_wI9G5qf3xxExg%3D%3D"
     },
     {
       "platform": "Citi",
