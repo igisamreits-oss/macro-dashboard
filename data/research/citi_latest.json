@@ -1,6 +1,69 @@
 {
-  "fetched_at": "2026-07-20T10:32:12.809953+00:00",
+  "fetched_at": "2026-07-20T22:32:07.610418+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30444673",
+      "title": "EM Equity Strategy Compass: The Broadening Question",
+      "summary": "Despite recent volatility, MSCI EM is up c20% YTD, though gains remain narrow. Broadening in 2H26 depends on cyclical improvement in macro data and EPS revisions, and a pause in Tech outperformance. We upgrade China to Overweight and neutralize Korea while Staying Overweight Taiwan.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ0Njcz",
+      "tags": [
+        "Deep Dive",
+        "EM Equity Strategy"
+      ],
+      "publish_time": "2026-07-19 16:00",
+      "thumbnail": "https://ir.citi.com/55Fn3fRn6DepUdU3KcmrO4570hPYm5MldxpVfXqssFIiI_P5RBujgiQ4DBEB1ehAOiVdtqexkOb1nn1-vUmVRw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30444782",
+      "title": "U.S. Equity Strategy: Framing the Growth Narrative",
+      "summary": "This note refreshes our work on “clusters” as a better framework for large-cap positioning. The Growth cluster now represents 55% of S&P 500 market cap and ~48% of earnings. Growth valuations are lower versus history than those of Cyclicals and Defensives.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ0Nzgy",
+      "tags": [
+        "U.S. Equity Strategy"
+      ],
+      "publish_time": "2026-07-17 16:36",
+      "thumbnail": "https://ir.citi.com/FnKE6K-AhC6ddSE01OndTrVlWZghJz_hgrnWnqzbOaYBbMbNGgmf-kxf-RSz7tGb9CanPXPJaM28GpmD_T6tag%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30444824",
+      "title": "Global Semiconductors: Kimi K3, Another Jevon's Paradox",
+      "summary": "Moonshot AI launched Kimi K3, the world’s largest open-weight model with 2.8T parameters. We expect Kimi K3 to drive memory demand for Server DDR5 and eSSD through growth in KV cache demand and AI-agent token volumes. We maintain a constructive view on the memory market.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ0ODI0",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Semiconductors"
+      ],
+      "publish_time": "2026-07-19 17:52",
+      "thumbnail": "https://ir.citi.com/7DSLjHfYWbicNT_-5RV1ixU5LXs1Al5g8kkKuewc9LyH7BZSe1fbaEn49rOZWxHB26IgRTgNKEK24YwLh5J6IA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30444691",
+      "title": "Artificial Intelligence: Citi’s Inference Ahead — Open Reaches the Frontier",
+      "summary": "Open-weight models continue to narrow the gap with proprietary models, raising concerns over AI Labs’ economics as the cost of intelligence declines. Higher costs will continue to encourage efforts at routing to more efficient models, driving enterprise adoption and infrastructure needs.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ0Njkx",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Application Software"
+      ],
+      "publish_time": "2026-07-19 11:12",
+      "thumbnail": "https://ir.citi.com/Lq7XJh_TD7b0IZra2vaFRrUO53eoUCf95vqf6PDhLIYX7iuS40kcvFZMBmzMxCumjjm4VU_JP9ObUAmUIDLcgA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30444784",
+      "title": "U.S. Economics Weekly: The Inflation Heatwave Is Breaking",
+      "summary": "Core CPI slowed to 2.6% year over year and is on track to reach 2.3% or below in coming months. The economy is not overheating or generating broad-based inflation. Cooler jobs and inflation data make rate hikes unlikely, and we continue to expect the Fed’s next move to be a rate cut.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ0Nzg0",
+      "tags": [
+        "U.S. Economics"
+      ],
+      "publish_time": "2026-07-17 16:08",
+      "thumbnail": "https://ir.citi.com/VTZ-l4kiCONcZjz2tkzL0CZgNsT56xC1AwZETnGlaacpkpOUWILituNE_q9Tc57Hw9q2wAnAKHplDKmpz3uxDg%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30444758",
@@ -576,23 +639,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30442955",
-      "title": "Global Equity Quarterly: Back to the Broadening Debate",
-      "summary": "Global equities have climbed ~10% year to date, though leadership has been concentrated in Tech. Many of our conversations are returning to the likelihood of “broadening” performance in the second half. We look at what's needed for broadening to succeed and discuss strategies herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQyOTU1",
-      "tags": [
-        "Flagship",
-        "Global Equity Quarterly",
-        "Macro Strategy",
-        "Annual Outlook",
-        "Artificial Intelligence (AI)",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-07-10 18:00",
-      "thumbnail": "https://ir.citi.com/Cxa-NlOih_AreXx2A7kQ__5z_8K3M6zneM9JKxno89wH6WdkBO-4ziIsd5chBLs_SelEhsAAdilhKCTMOXu9WA%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30443134",
       "title": "U.S. Industrials 2Q Preview: Data Centers Still In Focus, Broadening In Sight",
       "summary": "We expect AI and data center demand, coupled with a broadening short-cycle recovery, to support solid 2Q earnings and accelerating organic growth in 2026. Following a sector pullback, we see more attractive entry points in favored names and open a positive Catalyst Watch on ITW.",
@@ -630,34 +676,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30443133",
-      "title": "Apple Preview: Pricing, AI and iPhone Launch in Focus",
-      "summary": "We're constructive on AAPL and expect continued market share gains despite a slowing devices market. Selective price increases should support margins, while Apple Intelligence and Siri enhancements may boost engagement and services growth. The September iPhone launch is a key catalyst.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTMz",
-      "tags": [
-        "Consumer Electronics",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-07-12 21:30",
-      "thumbnail": "https://ir.citi.com/9b7JjTq7-YNzznEgu14WJbJbMeMwhyJws2FnXzTFE0EvfoweNWIp8orq29b-wwbXjmLokr8x--U6aJakunhJUA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443158",
-      "title": "U.S. Autos: Positive 2Q Outlook",
-      "summary": "Auto stocks underperformed in 2Q, but North America (NA) sales, pricing and production were better than expected, with favorable dealer inventory. While Europe and China remained weaker, trends met expectations. Low expectations and stronger NA results support a positive 2Q earnings setup.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTU4",
-      "tags": [
-        "Auto Manufacturers",
-        "Auto Parts & Equipment",
-        "Annual Outlook",
-        "Consumer Spending"
-      ],
-      "publish_time": "2026-07-12 22:26",
-      "thumbnail": "https://ir.citi.com/yPD9xgNPwBd9PRqH5guRzwz3fKvlfQDBxvF3SCyt170RSb25J6AFns_uBgNrGUJcqq1z28Nj_wI9G5qf3xxExg%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30443069",
       "title": "U.S. Machinery 2Q Earnings Preview: Let the Good Times Roll?",
       "summary": "Machinery stocks have outperformed YTD, raising the bar for 2Q results. We expect most companies to beat, raise or at least maintain guidance as improving construction and truck demand offsets macro uncertainty. Recent policy clarity also supports higher estimates for commercial vehicles.",
@@ -669,34 +687,6 @@
       ],
       "publish_time": "2026-07-13 04:00",
       "thumbnail": "https://ir.citi.com/Y7mGdZyJKV5Re46Kn4VMytNxk7YXlAeThxY1LRvVRy5crasrsQQczgtxhWC-kjFKNcPHfSIwbdOSq8tm9KZBzA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443037",
-      "title": "U.S. Economics Weekly: Shifting Balance of Risks",
-      "summary": "Falling oil prices, softer inflation data and lower core PCE revisions should ease inflation concerns.  Softer labor market data in coming months should renew Fed officials and market focus on downside risk to employment. This should lead rate markets to price out hikes and price in cuts.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDM3",
-      "tags": [
-        "Economic Forecast",
-        "Economic Analysis"
-      ],
-      "publish_time": "2026-07-10 14:40",
-      "thumbnail": "https://ir.citi.com/tcrP-c9GACI9-PGXRPn8nYaW2OjnGzfZTUFhXqKac1X-760sFb900qXg2FxMwbXmLPgdFogpPaqQh32vHNA9bw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443063",
-      "title": "U.S. Rates Weekly: Red Card for Rate Hikes",
-      "summary": "We remain received in the July FOMC meeting with a front-end flattener hedge as CPI should be supportive, combined with our view on seasonal jobs weakness. We look at the implications of this backdrop and consider what a lack of forward guidance will do to rates pricing.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDYz",
-      "tags": [
-        "U.S. Rates Weekly",
-        "Flagship",
-        "Relative Value",
-        "Trade Idea"
-      ],
-      "publish_time": "2026-07-10 18:20",
-      "thumbnail": "https://ir.citi.com/p0JVOTDxcNpq-pLu7btN4FfUQ-plS386KZFltNHx37Yu1v1zEtPAng4QYKRV6I1DwWG0YPXXX0D3n17iGOUNqQ%3D%3D"
     }
   ]
 }

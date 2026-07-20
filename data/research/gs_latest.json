@@ -1,6 +1,75 @@
 {
-  "fetched_at": "2026-07-20T10:33:14.539678+00:00",
+  "fetched_at": "2026-07-20T22:33:07.511546+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "b69f0cbc-dbc5-4dff-a9dc-5a2d7d1c8fe9",
+      "title": "Americas Real Estate: REITs: 2Q26 Retail Preview: Durable earnings power, with continued upside potential; K-shaped economy winner",
+      "summary": "Ahead of retail REIT earnings, which begin on July 23 with PECO reporting after the market close, we review key topics across the sector. Key themes include: Strength in the Retail supply vs. demand picture. Resulting SS...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/20/b69f0cbc-dbc5-4dff-a9dc-5a2d7d1c8fe9.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-20"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "9b2f4cb3-38ef-42a3-9e07-d2a78d3fe7dd",
+      "title": "Americas Real Estate: REITs: Residential REITs 2Q26 Earnings Preview",
+      "summary": "In this note, we take a deep dive into real-time residential REIT trends heading into 2H26. Sunbelt demand is improving, with absorption near record levels and finally outpacing deliveries in 2Q26; however, the rent grow...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/20/9b2f4cb3-38ef-42a3-9e07-d2a78d3fe7dd.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-20"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "a87028f4-68f3-4101-90b4-2041b5863cab",
+      "title": "Americas Real Estate: REITs: REIT valuations screen more expensive after recent performance, reflecting a HALO market shift",
+      "summary": "Given recent stock price movement, we take a quick look at US REIT valuations – at a sector level – in three ways: 1) FFO multiples, 2) equity risk premiums (ERPs), and 3) dividend yields. See inside for details.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/20/a87028f4-68f3-4101-90b4-2041b5863cab.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-20"
+    },
     {
       "platform": "GS",
       "doc_id": "7cecbb56-1665-4707-afc9-53a9f816d407",
@@ -153,8 +222,8 @@
         }
       ],
       "tags": [
-        "Tactical Research",
-        "Equity Research Management"
+        "Equity Research Management",
+        "Tactical Research"
       ],
       "publish_time": "2026-07-01"
     },
@@ -320,8 +389,8 @@
         }
       ],
       "tags": [
-        "REITs",
-        "Equity Research Management"
+        "Equity Research Management",
+        "REITs"
       ],
       "publish_time": "2026-06-17"
     },
@@ -463,10 +532,10 @@
       "tags": [
         "Clean Energy",
         "Aerospace & Defense",
+        "Semiconductors & IT Services",
         "Utilities & Ipps",
         "Software",
         "GS Sustain",
-        "Semiconductors & IT Services",
         "REITs"
       ],
       "publish_time": "2026-06-15"
@@ -828,65 +897,6 @@
       "title": "Omega Healthcare Investors Inc. (OHI): NAREIT Management Meeting Takeaways",
       "summary": "On June 2, 2026, at NAREIT in New York we met with OHI's senior management, including Mr. Taylor Pickett, CEO, Mr. Vikas Gupta, CIO and Mr. David Griffin, Sr. Director, Corporate Strategy & Investor Relations. The meetin...",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/66adfb66-cbf9-4f26-ac87-5ccae9448068.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "623818c6-3132-4ff4-b1bb-dc87f2b02ae8",
-      "title": "Hudson Pacific Properties Inc. (HPP): Nareit management meeting takeaways: Leasing volume outpacing expirations, looking for visibility in TI reductions",
-      "summary": "On June 2, 2026, we hosted a meeting with HPP management. Key topics included leasing volume and retention, rent spreads and rate trends, the balance sheet, development, Quixote, current G&A levels, and the core FFOPS guidance range.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/623818c6-3132-4ff4-b1bb-dc87f2b02ae8.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "76cd68e4-ee4a-4710-a991-b807c0ba0f84",
-      "title": "Mid-America Apartment Communities (MAA): NAREIT Management Meeting Takeaways",
-      "summary": "On June 02, 2026, at NAREIT REITweek in New York we met with MAA's senior management including Mr. Bradley Hill, President & CEO, Mr. Clay Holder, CFO, Mr. Tim Argo, Chief Strategy & Analysis Officer, Mr. Robert DelPriore, CAO and Mr.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/76cd68e4-ee4a-4710-a991-b807c0ba0f84.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "d7bdb4f3-8a0d-490b-a013-a11d76a7a6d7",
-      "title": "Camden Property Trust (CPT): NAREIT Management meeting takeaways",
-      "summary": "On June 02, 2026, as part of NAREIT REITweek we met with CPT management including Mr. Alex Jesset, CEO, Ms. Laurie Baker, Pres & COO, and Ms. Kim Callahan, SVP-IR. Key topics included discussion around improving renewal ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/d7bdb4f3-8a0d-490b-a013-a11d76a7a6d7.html",
       "authors": [
         {
           "name": "Julien Blouin",
