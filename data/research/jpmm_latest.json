@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T22:34:08.210206+00:00",
+  "fetched_at": "2026-07-21T10:34:17.353646+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -127,47 +127,10 @@
         }
       ],
       "tags": [
-        "Aerospace & Defense",
         "Communications Infrastructure",
         "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap"
-      ],
-      "publish_time": "2026-07-07"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5359413-0",
-      "publication_id": "KAL-1-2JTRT7LJ",
-      "title": "SpaceX",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5359413-0",
-      "authors": [
-        {
-          "name": "Doug Anmuth",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "douglas.anmuth@jpmorgan.com"
-        },
-        {
-          "name": "Seth M. Seifman, CFA",
-          "team": "Aerospace & Defense",
-          "email": "seth.m.seifman@jpmorgan.com"
-        },
-        {
-          "name": "Sebastiano C Petti",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "sebastiano.c.petti@jpmorgan.com"
-        },
-        {
-          "name": "Richard Choe",
-          "team": "Communications Infrastructure",
-          "email": "richard.choe@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Aerospace & Defense",
-        "Communications Infrastructure",
-        "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-07-07"
     },
@@ -236,9 +199,9 @@
         }
       ],
       "tags": [
-        "Infrastructure, Industrials & Transport",
-        "European Capital Goods",
         "North America Small and Mid Cap Industrials",
+        "European Capital Goods",
+        "Infrastructure, Industrials & Transport",
         "Machinery, Engineering & Construction"
       ],
       "publish_time": "2026-07-13"
@@ -307,9 +270,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-15"
     },
@@ -367,8 +330,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-08"
     },
@@ -441,8 +404,8 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-07-14"
     },
