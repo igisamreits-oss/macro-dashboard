@@ -1,6 +1,76 @@
 {
-  "fetched_at": "2026-07-21T10:32:16.575867+00:00",
+  "fetched_at": "2026-07-22T10:32:11.926366+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30445271",
+      "title": "Oil Monitor: Will We See More Strategic Stocks Released?",
+      "summary": "The IEA/OECD release of 400 million barrels of oil and products is almost done, having increased supply and reduced fear in the market. As discussed herein, we'd expect another material release by September should Strait of Hormuz flows or energy infrastructure be materially compromised.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ1Mjcx",
+      "tags": [
+        "Commodities Strategy",
+        "Oil Monitor",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-07-21 03:15",
+      "thumbnail": "https://ir.citi.com/tt7Yw8lMK1fjm2YNM2-5ogd1xfHXlPNWV8EM6_kfP2dtulPWEzSanY4-Wl4r4acXfWUlZTStJIl-GIACzqsYJQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30445201",
+      "title": "UK Economics: Good Cop, Bad Cop?",
+      "summary": "Andy Burnham is now UK Prime Minister, with John Healey his new Chancellor of the Exchequer. We present some fiscal options the government may consider and provide some rough calculations on how much it could cost the new government to raise the personal allowance on income-tax thresholds.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ1MjAx",
+      "tags": [
+        "Elections",
+        "Fiscal Policy",
+        "UK Economics"
+      ],
+      "publish_time": "2026-07-20 18:39",
+      "thumbnail": "https://ir.citi.com/0a8zCRCHTmkGBkLWSmEA_t4b5StIoMVBhwWh-dIqhbdj4nMLuOz8gNNUYKXQjBcYcbt2tVOmiAvaKrqxmAGdHg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30445379",
+      "title": "Africa Weekly: A New Informal Pound Band for Egypt?",
+      "summary": "We consider the second-half economic outlook for Egypt, with a particular focus on whether the Central Bank of Egypt will try to establish a new informal band of the Egyptian pound, as we think was the case after the March 2024 devaluation.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ1Mzc5",
+      "tags": [
+        "Africa Economics & Strategy Weekly",
+        "Economic Analysis",
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation"
+      ],
+      "publish_time": "2026-07-21 10:25",
+      "thumbnail": "https://ir.citi.com/n7ex8JIJ07oQ_LWLgsiRuHaCMILtgOzbRQr3qWRo09tkI3kMtDyR1A_l_N1m-0b_VMLppYMIQ90AxCOcxwk3eg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30445191",
+      "title": "Equity Markets Positioning Model: Vulnerabilities Remain",
+      "summary": "The recent technology-led selloff triggered a deterioration in positioning across most major equity markets, with long unwinds, new shorts and rising unrealized losses driving flows. Upcoming earnings will be key in determining whether positioning stabilizes or unwinds further.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ1MTkx",
+      "tags": [
+        "Equity Markets Positioning Model",
+        "Model Portfolio"
+      ],
+      "publish_time": "2026-07-20 20:54",
+      "thumbnail": "https://ir.citi.com/NDmc1zUPfNiWsuYCEYtcOqKU-KjYIzrFncLznsWYm9Sy12A6a-gj0SWFm7SjAO1KIXKevTMOcZkC5KWaG4kScw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30444922",
+      "title": "We Initiate Coverage of AerCap Holdings at Buy",
+      "summary": "We initiate coverage of AerCap Holdings at Buy. AER is the global leader in aviation leasing and is exposed to the same aerospace megatrends driving many names we cover, but has a unique scale and history of dealmaking as well as an unusually cheap valuation that's never made sense to us.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ0OTIy",
+      "tags": [
+        "Initiation of Coverage",
+        "Airlines"
+      ],
+      "publish_time": "2026-07-20 06:57",
+      "thumbnail": "https://ir.citi.com/B7ggLVvFO2pM2pY3YXAnxJPNTruAdYsEAg15Pl4zgGUu6oiVIT92EYnoEf4Ui6L5xUW5PmUB4vGcPzG9tn91Ow%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30444673",
@@ -484,209 +554,6 @@
       ],
       "publish_time": "2026-07-14 10:20",
       "thumbnail": "https://ir.citi.com/-gewryDAFsjrBkrALmtolx9KwkwOHyFmybeytsnXZYNolsABAWexoe6wAv_YG42W9N4tnodX0QaU2e6_Z248aA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443663",
-      "title": "IBM Offers Rare Negative Pre-Announcement",
-      "summary": "IBM issued a rare negative preannouncement, warning of a stark revenue miss driven by large deal delays. Customer capex shifted to servers, storage and memory, weighing on Z-mainframe demand and cannibalizing software spending, especially in Transaction Processing.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNjYz",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Supply Chains",
-        "Cloud Computing",
-        "Systems Software"
-      ],
-      "publish_time": "2026-07-14 09:06",
-      "thumbnail": "https://ir.citi.com/nDr18_DXi0inEbrWlISWn01a8QfYOYZqj0RfmOaCneYU3xpmxcld_T_YibSL22zFdKOVYscwhsfG3wF7QBEzpQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443689",
-      "title": "U.S. Economics: We Think Softer Core CPI Is Just the Start",
-      "summary": "Core CPI was essentially flat in June, softer than consensus expectations. Surprisingly cool June CPI, slowing in core PCE, and softer jobs data all but rule out a July rate hike; we expect similar data in coming months will lead markets to price out the chance of rate hikes altogether.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNjg5",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Inflation",
-        "Central Banks",
-        "Monetary Policy",
-        "Labor Market"
-      ],
-      "publish_time": "2026-07-14 10:35",
-      "thumbnail": "https://ir.citi.com/27CzI0vSJ4u8Zl00FNpf42buvn_gZ-Vfy2qw29P1evnplbLfmyTfSsfEzb4hw0HnlksIPdw2rYGsSMbndPk2Ow%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443561",
-      "title": "China Economics: AI Supercycle Powers a Structural Export Upswing",
-      "summary": "China’s trade growth surprised sharply to the upside in June, driven primarily by robust demand for AI hardware and surging semiconductor prices, while the global energy transition continued to bolster green-tech shipments. We see this export upswing as becoming increasingly structural.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNTYx",
-      "tags": [
-        "Trade",
-        "Supply Chains",
-        "Trump 2.0",
-        "China Economics",
-        "Economic Analysis",
-        "Artificial Intelligence (AI)",
-        "Energy Transition"
-      ],
-      "publish_time": "2026-07-14 03:54",
-      "thumbnail": "https://ir.citi.com/Y-K4XITt8FvbVjipFOzuHOnlB96irPB7tXGsZLKqzjZZHSaiBpBPsBa5vNutl41InDwIRBRtr_v--gZaEu28HA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443330",
-      "title": "Is This the End of BMW's China Dream?",
-      "summary": "BMW's very weak second-quarter unit sales were driven by a 28% year-over-year decline in China sales. BMW has been vocal about expecting a \"stabilization\" in its China business, but we see little evidence of that. In this note, we look at what may lie ahead and pose some key questions.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMzMw",
-      "tags": [
-        "Auto Manufacturers",
-        "Target Price Change",
-        "Estimate Change"
-      ],
-      "publish_time": "2026-07-13 09:42",
-      "thumbnail": "https://ir.citi.com/OhGQRmUauik0mq8ZjPHD0gWTCg2N2l9-B4M0NYet2W2cUxKbDThKm4QTcfqoxnjXTouRpsAUBLEhb6JTMC-5Hw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443422",
-      "title": "Oil Monitor: U.S.-Iran Tensions Escalate to Renewed Confrontation",
-      "summary": "U.S.-Iran tensions over the Strait of Hormuz have escalated to renewed military confrontation, with President Trump announcing re-imposition of a blockade and other measures. Our base case is this renewed confrontation will stop short of mutual energy and public-infrastructure destruction.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNDIy",
-      "tags": [
-        "Commodities Strategy",
-        "Geopolitics",
-        "Oil Monitor"
-      ],
-      "publish_time": "2026-07-13 15:36",
-      "thumbnail": "https://ir.citi.com/iE7eNoEjYRLRvCSJvXrSuBf-8nOiF-ndBYrOpcALTePOXWrhjMkwLyHMpwq5YayMNa-9Ekba11S9h-wek55Vrg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443126",
-      "title": "Taiwan Electronic Components & Equipment: Investors' Questions",
-      "summary": "Investor feedback has generally been constructive following our Dynapack initiation and BBU sector report, with Dynapack viewed as an interesting stock idea and most investors interested in the BBU theme. We highlight several key questions we've received and offer our answers.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTI2",
-      "tags": [
-        "Electronic Components & Equipment",
-        "Artificial Intelligence (AI)",
-        "Supply Chains"
-      ],
-      "publish_time": "2026-07-12 17:12",
-      "thumbnail": "https://ir.citi.com/6s7HeMz5ot-KgX3NZI0PeLsDJBW3DnK-pmSA8cfZYZIlERM1we6YgtIHw3X7juyaylufxYZsqaU7ExfFtzzC6A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443458",
-      "title": "U.S. Oil & Gas Equipment and Services: Second-Quarter Preview",
-      "summary": "Oilfield-services stocks are contending with the on-off nature of the U.S.-Iran conflict, with the uncertainty making it difficult for investors to re-engage. But we see opportunities and seek to identify investment narratives with the best risk/return skew, as detailed in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNDU4",
-      "tags": [
-        "Oil & Gas Equipment and Services",
-        "Short-Term View",
-        "Target Price Change",
-        "Earnings Preview",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-07-14 05:00",
-      "thumbnail": "https://ir.citi.com/WzvtifiyhU0h2fkncBR4pFAlgqfOWJ9aMhbW6d3s3wO11_RyJC-oRcP1FMKgUuAPW3NlflRxrl7x6fx4LK5WAQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443525",
-      "title": "Global Gas and Power Insights: Henry Hub Price Premium to Erode",
-      "summary": "U.S. Henry Hub prices are more likely to fall in the weeks to come. We offer an analysis of price levels, cash price behavior and, in particular, the December-January and January-February price spreads. We estimate that Jan ’27 prices look to have among the most premium that can be eroded.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNTI1",
-      "tags": [
-        "Global Gas and Power Insights",
-        "Commodities Strategy"
-      ],
-      "publish_time": "2026-07-14 01:50",
-      "thumbnail": "https://ir.citi.com/Vn2zts3E1tn_7B2pEa-xEaD9FvShHOCCr04BXl19kXEKsAQHDKFVLY4Oyw8pYw9Yi_rnrYTLi6_EPscrD21JIQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443406",
-      "title": "U.S. Beverages and Household & Personal Care: Earnings Preview",
-      "summary": "We expect muted trends in the U.S. and Europe given the impact of higher gas/energy prices on consumer sentiment, net of stronger trends in emerging markets. On the margin side, the recent decline in oil prices provides more flexibility to the group, but we also note upcoming headwinds.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNDA2",
-      "tags": [
-        "Beverages",
-        "Household & Personal Care",
-        "Short-Term View",
-        "Catalyst Watch",
-        "Target Price Change",
-        "Card Insights"
-      ],
-      "publish_time": "2026-07-14 05:00",
-      "thumbnail": "https://ir.citi.com/TFB-lgnsQ_RGEmu0IQrq-8D0l9kR3y1f-9sRmMA_moKqLdHX8ao0LHgM1yPDM-huWL65IjHgISx-nztvezuUCQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443475",
-      "title": "Equity Markets Positioning Model: Positioning Divergence Widens",
-      "summary": "Global equity positioning remains highly fragmented, with meaningful divergence across regions. In the U.S., recent gains haven't been matched by stronger positioning, suggesting limited conviction; we also see weakening positioning momentum across technology-sensitive markets.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzNDc1",
-      "tags": [
-        "Model Portfolio",
-        "Equity Markets Positioning Model"
-      ],
-      "publish_time": "2026-07-13 20:45",
-      "thumbnail": "https://ir.citi.com/SCA4CAgaSE1HpDUomkTncjVphzkuStf_oYltJV600ykH-BgNDHEiXbrPCwjPV63SzXshj9ADTNDa_WnLioI2fA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443134",
-      "title": "U.S. Industrials 2Q Preview: Data Centers Still In Focus, Broadening In Sight",
-      "summary": "We expect AI and data center demand, coupled with a broadening short-cycle recovery, to support solid 2Q earnings and accelerating organic growth in 2026. Following a sector pullback, we see more attractive entry points in favored names and open a positive Catalyst Watch on ITW.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMTM0",
-      "tags": [
-        "Electrical Equipment",
-        "Industrial Conglomerates",
-        "Machinery",
-        "Estimate Change",
-        "Catalyst Watch",
-        "Short-Term View",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-07-13 04:02",
-      "thumbnail": "https://ir.citi.com/RL6YxN6D1RO6mmBhrBy5DkTboQKivTM2NkhZMc7cgerVAvDQ_2BQLzNO-kiJiEd_wmSq-XjRGuckSqijotvuDg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443081",
-      "title": "U.S. Components & Hardware: Agentic AI Inflection Supports Storage and Optical Momentum",
-      "summary": "Strong AI-driven demand continues to support storage, hardware OEMs and networking infrastructure. Storage remains the highest-conviction area given favorable supply-demand fundamentals, while agentic AI is driving demand for dense systems and supporting optical and networking growth.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDgx",
-      "tags": [
-        "Connectors & Other Components",
-        "Electronic Components & Equipment",
-        "Hardware & Storage",
-        "Short-Term View",
-        "Target Price Change",
-        "Estimate Change",
-        "Cloud Computing",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-07-13 03:42",
-      "thumbnail": "https://ir.citi.com/pfFClB3qbaNKYQxz7GGuK-2FQdsfmWXAl8zzpFZv6mU-hwvNr5YDQ_egFg80f5z96XzCZkb_AhRc4YUNRGkM6Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30443069",
-      "title": "U.S. Machinery 2Q Earnings Preview: Let the Good Times Roll?",
-      "summary": "Machinery stocks have outperformed YTD, raising the bar for 2Q results. We expect most companies to beat, raise or at least maintain guidance as improving construction and truck demand offsets macro uncertainty. Recent policy clarity also supports higher estimates for commercial vehicles.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQzMDY5",
-      "tags": [
-        "Machinery",
-        "Shrt-Term View",
-        "Tartget Price Change"
-      ],
-      "publish_time": "2026-07-13 04:00",
-      "thumbnail": "https://ir.citi.com/Y7mGdZyJKV5Re46Kn4VMytNxk7YXlAeThxY1LRvVRy5crasrsQQczgtxhWC-kjFKNcPHfSIwbdOSq8tm9KZBzA%3D%3D"
     }
   ]
 }

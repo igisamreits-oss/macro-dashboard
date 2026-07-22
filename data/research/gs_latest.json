@@ -1,6 +1,70 @@
 {
-  "fetched_at": "2026-07-21T10:33:16.960912+00:00",
+  "fetched_at": "2026-07-22T10:33:12.011658+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "6ae1aa90-2b8e-46cc-a1e5-aa744aecd9e1",
+      "title": "Japan Real Estate: Reflecting higher cap rates and office rents in earnings estimates/TPs; six rating changes (Tokyu Fudosan up to Buy)",
+      "summary": "Half a year into 2026, the growth rate for office asking rents has exceeded the market environment assumptions in our 2026 outlook report, while the 10-year JGB yield has risen more than expected due to factors including...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/6ae1aa90-2b8e-46cc-a1e5-aa744aecd9e1.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "9ab3d25c-9d99-4369-a48a-b73e5a8a9739",
+      "title": "Link REIT (0823.HK): Divesting 50% stake of office tower in 100 Market Street Sydney at 6.5% NPI yield. Potential share repurchase up to 2%",
+      "summary": "Before the market opened on July 22nd, Link REIT announced its disposal of 50% interest in an office tower at 100 Market Street Sydney to Aware Real Estate for A$225.9mn, based on the appraised value of the property as of end-May 2026.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/9ab3d25c-9d99-4369-a48a-b73e5a8a9739.html",
+      "authors": [
+        {
+          "name": "Simon Cheung",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Alpha Wang",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Leah Pan",
+          "department": "Conglomerates",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Conglomerates"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "0eda34c0-36a8-4702-b687-f68cdd90bff1",
+      "title": "Australia and New Zealand Economics Analyst: Launching Probabilistic Forecasts for Quarterly Trimmed Mean Inflation",
+      "summary": "High inflation remains the key policy concern for the RBA. We launch probabilistic forecasts for quarterly trimmed mean inflation, the RBA’s preferred measure of underlying inflation, to help inform the near-term inflation outlook.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/0eda34c0-36a8-4702-b687-f68cdd90bff1.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-07-22"
+    },
     {
       "platform": "GS",
       "doc_id": "b69f0cbc-dbc5-4dff-a9dc-5a2d7d1c8fe9",
@@ -222,8 +286,8 @@
         }
       ],
       "tags": [
-        "Tactical Research",
-        "Equity Research Management"
+        "Equity Research Management",
+        "Tactical Research"
       ],
       "publish_time": "2026-07-01"
     },
@@ -389,8 +453,8 @@
         }
       ],
       "tags": [
-        "REITs",
-        "Equity Research Management"
+        "Equity Research Management",
+        "REITs"
       ],
       "publish_time": "2026-06-17"
     },
@@ -530,13 +594,13 @@
         }
       ],
       "tags": [
-        "REITs",
-        "Utilities & Ipps",
-        "GS Sustain",
-        "Clean Energy",
-        "Software",
         "Aerospace & Defense",
-        "Semiconductors & IT Services"
+        "Semiconductors & IT Services",
+        "REITs",
+        "Clean Energy",
+        "GS Sustain",
+        "Software",
+        "Utilities & Ipps"
       ],
       "publish_time": "2026-06-15"
     },
@@ -838,65 +902,6 @@
       "title": "Janus Living Inc. (JAN): NAREIT Management Meeting Takeaways",
       "summary": "On June 03, 2026, at NAREIT in New York we met with JAN's senior management, including Mr. Brinker, President & CEO, and Mr. Moses. The topics of our conversation included recent capital markets activity, portfolio perfo...",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/988d1a2c-b5e2-4756-bf03-d5dded247e4b.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "5a152351-b815-434d-8a20-c7d6d69a09a9",
-      "title": "Ventas Inc. (VTR): NAREIT Management Meeting Takeaways",
-      "summary": "On June 3, 2026, at NAREIT in New York we met with VTR's senior management, including Ms. Cafaro, Chairman & CEO, Mr. Probst, EVP & CFO, and Mr. Hutchins EVP - Senior Housing & CIO. The topics of our conversation include...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/5a152351-b815-434d-8a20-c7d6d69a09a9.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "a302173d-937c-45c3-a48b-2b1e9ad94db7",
-      "title": "Safehold Inc. (SAFE): NAREIT management meeting takeaways: Trying to increase deal volume while managing leverage",
-      "summary": "On June 2, 2026, we hosted a meeting with SAFE management. Key topics included the business strategy, transaction environment & asset quality focus, balance sheet, capital allocation, and funding plans.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/a302173d-937c-45c3-a48b-2b1e9ad94db7.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "66adfb66-cbf9-4f26-ac87-5ccae9448068",
-      "title": "Omega Healthcare Investors Inc. (OHI): NAREIT Management Meeting Takeaways",
-      "summary": "On June 2, 2026, at NAREIT in New York we met with OHI's senior management, including Mr. Taylor Pickett, CEO, Mr. Vikas Gupta, CIO and Mr. David Griffin, Sr. Director, Corporate Strategy & Investor Relations. The meetin...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/66adfb66-cbf9-4f26-ac87-5ccae9448068.html",
       "authors": [
         {
           "name": "Julien Blouin",

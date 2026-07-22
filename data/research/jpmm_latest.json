@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-21T10:34:17.353646+00:00",
+  "fetched_at": "2026-07-22T10:34:12.328345+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -24,6 +24,93 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-07-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5373189-0",
+      "publication_id": "KAL-1-T95EV9VB",
+      "title": "2Q26 U.S. Wireless and Broadband Preview",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5373189-0",
+      "authors": [
+        {
+          "name": "Sebastiano C Petti",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "sebastiano.c.petti@jpmorgan.com"
+        },
+        {
+          "name": "Shayna Nguyen",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "shayna.nguyen@jpmchase.com"
+        },
+        {
+          "name": "John Stid",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "john.stid@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Telecom Services, Cable & Satellite"
+      ],
+      "publish_time": "2026-07-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5373287-0",
+      "publication_id": "KAL-1-T95EV9VB",
+      "title": "2Q26 Canadian Communications Preview",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5373287-0",
+      "authors": [
+        {
+          "name": "Sebastiano C Petti",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "sebastiano.c.petti@jpmorgan.com"
+        },
+        {
+          "name": "Shayna Nguyen",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "shayna.nguyen@jpmchase.com"
+        },
+        {
+          "name": "John Stid",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "john.stid@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Telecom Services, Cable & Satellite"
+      ],
+      "publish_time": "2026-07-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5375355-0",
+      "publication_id": "KAL-1-T95EV9VB",
+      "title": "Telecom Services, Cable & Satellite 2Q26 Preview Webinar",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5375355-0",
+      "authors": [
+        {
+          "name": "Sebastiano C Petti",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "sebastiano.c.petti@jpmorgan.com"
+        },
+        {
+          "name": "John Stid",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "john.stid@jpmorgan.com"
+        },
+        {
+          "name": "Shayna Nguyen",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "shayna.nguyen@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Telecom Services, Cable & Satellite"
+      ],
+      "publish_time": "2026-07-21"
     },
     {
       "platform": "JPM",
@@ -99,43 +186,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5359344-0",
-      "publication_id": "KAL-1-2JTRT7LJ",
-      "title": "SpaceX Initiation Presentation",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5359344-0",
-      "authors": [
-        {
-          "name": "Doug Anmuth",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "douglas.anmuth@jpmorgan.com"
-        },
-        {
-          "name": "Seth M. Seifman, CFA",
-          "team": "Aerospace & Defense",
-          "email": "seth.m.seifman@jpmorgan.com"
-        },
-        {
-          "name": "Sebastiano C Petti",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "sebastiano.c.petti@jpmorgan.com"
-        },
-        {
-          "name": "Richard Choe",
-          "team": "Communications Infrastructure",
-          "email": "richard.choe@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Communications Infrastructure",
-        "Telecom Services, Cable & Satellite",
-        "Internet - Large Cap / Mid & Small Cap",
-        "Aerospace & Defense"
-      ],
-      "publish_time": "2026-07-07"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5365930-0",
       "publication_id": "GPS-5367092-0",
       "title": "Global Capital Goods",
@@ -200,9 +250,9 @@
       ],
       "tags": [
         "North America Small and Mid Cap Industrials",
-        "European Capital Goods",
         "Infrastructure, Industrials & Transport",
-        "Machinery, Engineering & Construction"
+        "Machinery, Engineering & Construction",
+        "European Capital Goods"
       ],
       "publish_time": "2026-07-13"
     },
@@ -270,9 +320,9 @@
         }
       ],
       "tags": [
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-15"
     },
@@ -304,36 +354,6 @@
         "Aerospace & Defense"
       ],
       "publish_time": "2026-07-13"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5361123-0",
-      "publication_id": "GPS-5363102-0",
-      "title": "Hong Kong Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5361123-0",
-      "authors": [
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
-      ],
-      "publish_time": "2026-07-08"
     },
     {
       "platform": "JPM",
