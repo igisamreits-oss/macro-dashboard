@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-07-22T10:34:42.338198+00:00",
-  "window_start": "2026-07-15",
-  "window_end": "2026-08-19",
+  "fetched_at": "2026-07-22T22:31:13.970606+00:00",
+  "window_start": "2026-07-16",
+  "window_end": "2026-08-20",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-07-15",
-      "country": "CA",
-      "indicator_id": "boc",
-      "time_kst": "22:45",
-      "note": ""
-    },
     {
       "date": "2026-07-23",
       "country": "EU",

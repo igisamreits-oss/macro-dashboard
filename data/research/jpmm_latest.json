@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T10:34:12.328345+00:00",
+  "fetched_at": "2026-07-22T22:34:04.991791+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -114,6 +114,25 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5365044-0",
+      "publication_id": "GPS-5365044-0",
+      "title": "REPLAY | 2Q26 Transports & Logistics Earnings Preview",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365044-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-07-10"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5363368-0",
       "publication_id": "GPS-5365044-0",
       "title": "Transportation & Logistics",
@@ -134,25 +153,6 @@
           "name": "Brandon Wexler",
           "team": "Airfreight & Surface Transportation / Shipping",
           "email": "brandon.wexler@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Airfreight & Surface Transportation / Shipping"
-      ],
-      "publish_time": "2026-07-10"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5365044-0",
-      "publication_id": "GPS-5365044-0",
-      "title": "REPLAY | 2Q26 Transports & Logistics Earnings Preview",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365044-0",
-      "authors": [
-        {
-          "name": "Brian P. Ossenbeck, CFA",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brian.p.ossenbeck@jpmorgan.com"
         }
       ],
       "tags": [
@@ -250,9 +250,9 @@
       ],
       "tags": [
         "North America Small and Mid Cap Industrials",
-        "Infrastructure, Industrials & Transport",
         "Machinery, Engineering & Construction",
-        "European Capital Goods"
+        "European Capital Goods",
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-07-13"
     },
@@ -320,9 +320,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-15"
     },
