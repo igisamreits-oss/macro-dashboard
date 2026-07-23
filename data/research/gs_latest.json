@@ -1,6 +1,93 @@
 {
-  "fetched_at": "2026-07-22T22:33:05.913409+00:00",
+  "fetched_at": "2026-07-23T10:33:14.976375+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "361233e2-8387-48a4-891b-4e30a7c8cd6e",
+      "title": "SL Green Realty Corp. (SLG): 2Q26 First Take: Headline beat and raise including an unexpected line item, while economic occupancy rises",
+      "summary": "SLG reported 2Q26 NAREIT FFOPS of $1.43, +4.5%/+17.8% ahead of GS/FactSet consensus estimates of $1.36/$1.21. We calculate that FFO result includes a $0.44/share positive impact from a new line item: Basis difference and...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/23/361233e2-8387-48a4-891b-4e30a7c8cd6e.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "7a5c4c59-828f-47d6-bf81-ebf812c555a7",
+      "title": "Keppel DC REIT (KEPE.SI): 1H26 above: Strong earnings growth and balance sheet; Buy",
+      "summary": "Keppel DC REIT (KDCREIT)'s 1H26 DPU of 5.71S¢ was +11.3% YoY and +8.9% HoH, above at 52% of full-year GSe and IBES consensus. While reversion was softer at 5%/10% for 2Q/6M26, forward renewal of Gore Hill should bring that up to low-teens in 3Q26.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/23/7a5c4c59-828f-47d6-bf81-ebf812c555a7.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "27da8baf-cc83-44c6-b388-8784e6b04f94",
+      "title": "Essential Properties Realty Trust (EPRT): 2Q26 First Take: Solid 2Q acquisitions and cap rates, with a FY guidance bump up (Buy)",
+      "summary": "EPRT reported 2Q26 AFFOPS of $0.50, in line/-2.0% vs. GS/FactSet consensus estimate of $0.50/$0.51. More importantly, the Company completed $332.4mn of acquisitions in 2Q at an average cash/GAAP cap rate of 7.8%/9.1%, wh...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/27da8baf-cc83-44c6-b388-8784e6b04f94.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "3461a415-208e-417c-8ad4-fac73612d949",
+      "title": "First Industrial Realty Trust (FR): 2Q26 First Take: Development lease up progressing & strong leasing spreads, guidance increased",
+      "summary": "FR reported 2Q26 FFOPS of $0.82, +2.5%/3.8% vs. FactSet consensus/GSe of $0.80/$0.79, and +7.9% y/y. FR increased 2026 FFO guidance (excluding the costs related to a contested proxy campaign) $0.02 at the midpoint (also ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/3461a415-208e-417c-8ad4-fac73612d949.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-22"
+    },
     {
       "platform": "GS",
       "doc_id": "6ae1aa90-2b8e-46cc-a1e5-aa744aecd9e1",
@@ -594,13 +681,13 @@
         }
       ],
       "tags": [
-        "GS Sustain",
+        "Utilities & Ipps",
         "REITs",
         "Aerospace & Defense",
-        "Software",
         "Clean Energy",
         "Semiconductors & IT Services",
-        "Utilities & Ipps"
+        "GS Sustain",
+        "Software"
       ],
       "publish_time": "2026-06-15"
     },
@@ -826,93 +913,6 @@
         "REITs"
       ],
       "publish_time": "2026-06-04"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "c5f6d892-c035-4deb-9995-bad7f2a156ec",
-      "title": "Essential Properties Realty Trust (EPRT): Nareit management meeting takeaways: Managing to consistent ~8% AFFO/share growth",
-      "summary": "On June 3, 2026, we hosted a meeting with EPRT management. Key topics included company priorities, YTD and FY26 acquisition volume/pipeline, EPRT's balance sheet and refi options, tenant mix and health, transaction marke...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/c5f6d892-c035-4deb-9995-bad7f2a156ec.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-04"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "b8138989-db4a-4a91-9e9f-3a35fbc92bd8",
-      "title": "Public Storage Inc. (PSA): Nareit management meeting takeaways: Positive LA update and continued acquisition potential",
-      "summary": "On June 3, 2026, we hosted a meeting with Public Storage management. Key topics included operating update (move in and move out rates, churn, occupancy), supply and market performance (including an update on LA) and acqu...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/b8138989-db4a-4a91-9e9f-3a35fbc92bd8.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "dd33d620-ffa4-433e-a19b-f621c42ba572",
-      "title": "Extra Space Storage Inc. (EXR): NAREIT management meeting takeaways: Declining new supply a tailwind, awaiting a demand catalyst",
-      "summary": "On June 3, 2026, we hosted a meeting with EXR management. Key topics included demand trends (reasons for self storage, customer distress, length of stay), supply, pricing strategies (move in rates and ECRI), and acquisit...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/dd33d620-ffa4-433e-a19b-f621c42ba572.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "988d1a2c-b5e2-4756-bf03-d5dded247e4b",
-      "title": "Janus Living Inc. (JAN): NAREIT Management Meeting Takeaways",
-      "summary": "On June 03, 2026, at NAREIT in New York we met with JAN's senior management, including Mr. Brinker, President & CEO, and Mr. Moses. The topics of our conversation included recent capital markets activity, portfolio perfo...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/03/988d1a2c-b5e2-4756-bf03-d5dded247e4b.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-03"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T22:34:04.991791+00:00",
+  "fetched_at": "2026-07-23T10:34:15.599675+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -251,44 +251,10 @@
       "tags": [
         "North America Small and Mid Cap Industrials",
         "Machinery, Engineering & Construction",
-        "European Capital Goods",
-        "Infrastructure, Industrials & Transport"
+        "Infrastructure, Industrials & Transport",
+        "European Capital Goods"
       ],
       "publish_time": "2026-07-13"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5358863-0",
-      "publication_id": "GPS-5363381-0",
-      "title": "Healthcare Services",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5358863-0",
-      "authors": [
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "John Stansel, CFA",
-          "team": "Managed Care and Facilities",
-          "email": "john.stansel@jpmorgan.com"
-        },
-        {
-          "name": "Benjamin Rossi",
-          "team": "Managed Care and Facilities",
-          "email": "benjamin.rossi@jpmorgan.com"
-        },
-        {
-          "name": "Cole Harris",
-          "team": "Managed Care and Facilities",
-          "email": "cole.harris@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Managed Care and Facilities"
-      ],
-      "publish_time": "2026-07-09"
     },
     {
       "platform": "JPM",
@@ -321,8 +287,8 @@
       ],
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-15"
     },
