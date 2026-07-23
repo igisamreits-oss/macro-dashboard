@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T10:34:15.599675+00:00",
+  "fetched_at": "2026-07-23T22:34:15.718010+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -249,12 +249,49 @@
         }
       ],
       "tags": [
-        "North America Small and Mid Cap Industrials",
         "Machinery, Engineering & Construction",
         "Infrastructure, Industrials & Transport",
+        "North America Small and Mid Cap Industrials",
         "European Capital Goods"
       ],
       "publish_time": "2026-07-13"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5378003-0",
+      "publication_id": "KAL-1-3PWHBLXS",
+      "title": "Global Alternative Energy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5378003-0",
+      "authors": [
+        {
+          "name": "Mark Strouse, CFA",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "mark.w.strouse@jpmorgan.com"
+        },
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        },
+        {
+          "name": "Akash Gupta",
+          "team": "European Capital Goods",
+          "email": "akash.z.gupta@jpmorgan.com"
+        },
+        {
+          "name": "Rebecca Wen",
+          "team": "Asia Autos & EV Battery",
+          "email": "rebecca.y.wen@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Asia Autos & EV Battery",
+        "European Capital Goods",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
+      ],
+      "publish_time": "2026-07-23"
     },
     {
       "platform": "JPM",
@@ -287,8 +324,8 @@
       ],
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-15"
     },
@@ -390,8 +427,123 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Internet - Mid & Small Cap"
+        "Internet - Mid & Small Cap",
+        "Internet - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-07-14"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5366244-0",
+      "publication_id": "GPS-5379105-0",
+      "title": "Asia Insurance",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5366244-0",
+      "authors": [
+        {
+          "name": "MW Kim",
+          "team": "Insurance",
+          "email": "mw.kim@jpmorgan.com"
+        },
+        {
+          "name": "Matthew Hughart",
+          "team": "Asia Pacific Credit Research",
+          "email": "matthew.hughart@jpmorgan.com"
+        },
+        {
+          "name": "Koki Sato",
+          "team": "Insurance, Securities, Diversified Financials",
+          "email": "koki.sato@jpmorgan.com"
+        },
+        {
+          "name": "Madhukar Ladha",
+          "team": "India Financials",
+          "email": "madhukar.ladha@jpmorgan.com"
+        },
+        {
+          "name": "Jemmy S Huang",
+          "team": "Asia Financials",
+          "email": "jemmy.s.huang@jpmorgan.com"
+        },
+        {
+          "name": "Dan Wang",
+          "team": "Insurance",
+          "email": "dan.wang@jpmorgan.com"
+        },
+        {
+          "name": "Julia Kim",
+          "team": "Insurance",
+          "email": "julia.c.kim@jpmorgan.com"
+        },
+        {
+          "name": "Emma Xing",
+          "team": "Asia Pacific Credit Research",
+          "email": "emma.xing@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Asia Pacific Credit Research",
+        "Insurance, Securities, Diversified Financials",
+        "India Financials",
+        "Asia Financials",
+        "Insurance"
+      ],
+      "publish_time": "2026-07-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5361079-0",
+      "publication_id": "GPS-5379105-0",
+      "title": "Asia Insurance",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5361079-0",
+      "authors": [
+        {
+          "name": "MW Kim",
+          "team": "Insurance",
+          "email": "mw.kim@jpmorgan.com"
+        },
+        {
+          "name": "Matthew Hughart",
+          "team": "Asia Pacific Credit Research",
+          "email": "matthew.hughart@jpmorgan.com"
+        },
+        {
+          "name": "Jemmy S Huang",
+          "team": "Asia Financials",
+          "email": "jemmy.s.huang@jpmorgan.com"
+        },
+        {
+          "name": "Koki Sato",
+          "team": "Insurance, Securities, Diversified Financials",
+          "email": "koki.sato@jpmorgan.com"
+        },
+        {
+          "name": "Dan Wang",
+          "team": "Insurance",
+          "email": "dan.wang@jpmorgan.com"
+        },
+        {
+          "name": "Julia Kim",
+          "team": "Insurance",
+          "email": "julia.c.kim@jpmorgan.com"
+        },
+        {
+          "name": "Emma Xing",
+          "team": "Asia Pacific Credit Research",
+          "email": "emma.xing@jpmorgan.com"
+        },
+        {
+          "name": "Amanda Chang",
+          "team": "Asia Financials",
+          "email": "amanda.chang@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Asia Pacific Credit Research",
+        "Insurance",
+        "Asia Financials",
+        "Insurance, Securities, Diversified Financials"
       ],
       "publish_time": "2026-07-14"
     },

@@ -1,6 +1,29 @@
 {
-  "fetched_at": "2026-07-23T10:33:14.976375+00:00",
+  "fetched_at": "2026-07-23T22:33:10.960300+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "e5a46ac0-e8cf-4dd4-88bc-b1e76abc2cdb",
+      "title": "Americas Real Estate: REITs: First Industrial (FR) 2Q26 update: Development starts in focus; FR and TRNO PT increase",
+      "summary": "Following 2Q26 FR earnings we update our estimates and go through takeaways from the FR earnings call: tenant demand, development starts and lease-up, market performance, and guidance. Given the stronger than expected 2Q...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/23/e5a46ac0-e8cf-4dd4-88bc-b1e76abc2cdb.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-23"
+    },
     {
       "platform": "GS",
       "doc_id": "361233e2-8387-48a4-891b-4e30a7c8cd6e",
@@ -540,8 +563,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "REITs"
+        "REITs",
+        "Equity Research Management"
       ],
       "publish_time": "2026-06-17"
     },
@@ -681,13 +704,13 @@
         }
       ],
       "tags": [
-        "Utilities & Ipps",
         "REITs",
-        "Aerospace & Defense",
         "Clean Energy",
         "Semiconductors & IT Services",
+        "Software",
+        "Utilities & Ipps",
         "GS Sustain",
-        "Software"
+        "Aerospace & Defense"
       ],
       "publish_time": "2026-06-15"
     },
@@ -874,29 +897,6 @@
       "title": "Simon Property Group (SPG): Nareit management meeting takeaways: Leasing acceleration & strong early signals from Brickell City Centre",
       "summary": "On June 3, 2026, we hosted a meeting with Simon management. Key topics included merchandising and leasing strategy, luxury-specific strategy, renewals, physical store halo effects on e-commerce, Brickell City Centre, out...",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/3b0cbef0-a5ec-44ba-b2d7-944c72645a46.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-06-04"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "50f9e53c-7d7e-41da-b7ea-d8e0b7831080",
-      "title": "Broadstone Net Lease Inc. (BNL): Nareit management meeting takeaways: Leaning into BTS development, and unique redevelopments",
-      "summary": "On June 3, 2026, we hosted a meeting with BNL management. Key topics included build to suit development, the Charles River acquisition/redevelopment (and the potential for additional similar deals), updates on the Claire...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/50f9e53c-7d7e-41da-b7ea-d8e0b7831080.html",
       "authors": [
         {
           "name": "Caitlin Burrows",
