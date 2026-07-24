@@ -1,4 +1,913 @@
 {
-  "fetched_at": "2026-07-24T10:33:08.317119+00:00",
-  "items": []
+  "fetched_at": "2026-07-24T22:33:10.099390+00:00",
+  "items": [
+    {
+      "platform": "GS",
+      "doc_id": "9e242f23-00cb-4919-a3bd-5274676751d6",
+      "title": "Americas Healthcare REITs: 2Q26 Preview: Life Science funding greenshoots, leasing remains subdued",
+      "summary": "We highlight recent data and commentary regarding the three main verticals of the Healthcare REIT portfolios: Life Science, Senior Housing (incl. Skilled Nursing), and OMF. Data across all three appears encouraging, with...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/24/9e242f23-00cb-4919-a3bd-5274676751d6.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-24"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "ade06656-5af8-479d-a78d-ee264a59c388",
+      "title": "Essential Properties Realty Trust (EPRT): 2Q26 Update: Minimal estimate shifts reflect steady portfolio trends and consistent growth",
+      "summary": "Following 2Q26 earnings, we provide earnings call takeaways, discuss recent investor feedback and our views, and update our estimates and price target. We believe EPRT's ability to consistently achieve mid- to high-singl...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/24/ade06656-5af8-479d-a78d-ee264a59c388.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-24"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "92a03bda-4c2c-4b19-80d8-54da28714e42",
+      "title": "Phillips Edison & Co. (PECO): 2Q26 First Take: Slight beat and raise for all the right reasons (SS NOI, acquisitions) & some ATM utilization",
+      "summary": "PECO reported Core 2Q26 FFOPS of $0.69, in-line/1.4% above the GS/FactSet consensus estimates of $0.69/$0.68, and +8.4% y/y. Portfolio economic occupancy remains high, at 96.9% (+20bps q/q and +30bps y/y), while TTM leas...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/24/92a03bda-4c2c-4b19-80d8-54da28714e42.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-24"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e5a46ac0-e8cf-4dd4-88bc-b1e76abc2cdb",
+      "title": "Americas Real Estate: REITs: First Industrial (FR) 2Q26 update: Development starts in focus; FR and TRNO PT increase",
+      "summary": "Following 2Q26 FR earnings we update our estimates and go through takeaways from the FR earnings call: tenant demand, development starts and lease-up, market performance, and guidance. Given the stronger than expected 2Q...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/23/e5a46ac0-e8cf-4dd4-88bc-b1e76abc2cdb.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "361233e2-8387-48a4-891b-4e30a7c8cd6e",
+      "title": "SL Green Realty Corp. (SLG): 2Q26 First Take: Headline beat and raise including an unexpected line item, while economic occupancy rises",
+      "summary": "SLG reported 2Q26 NAREIT FFOPS of $1.43, +4.5%/+17.8% ahead of GS/FactSet consensus estimates of $1.36/$1.21. We calculate that FFO result includes a $0.44/share positive impact from a new line item: Basis difference and...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/23/361233e2-8387-48a4-891b-4e30a7c8cd6e.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "7a5c4c59-828f-47d6-bf81-ebf812c555a7",
+      "title": "Keppel DC REIT (KEPE.SI): 1H26 above: Strong earnings growth and balance sheet; Buy",
+      "summary": "Keppel DC REIT (KDCREIT)'s 1H26 DPU of 5.71S¢ was +11.3% YoY and +8.9% HoH, above at 52% of full-year GSe and IBES consensus. While reversion was softer at 5%/10% for 2Q/6M26, forward renewal of Gore Hill should bring that up to low-teens in 3Q26.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/23/7a5c4c59-828f-47d6-bf81-ebf812c555a7.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "27da8baf-cc83-44c6-b388-8784e6b04f94",
+      "title": "Essential Properties Realty Trust (EPRT): 2Q26 First Take: Solid 2Q acquisitions and cap rates, with a FY guidance bump up (Buy)",
+      "summary": "EPRT reported 2Q26 AFFOPS of $0.50, in line/-2.0% vs. GS/FactSet consensus estimate of $0.50/$0.51. More importantly, the Company completed $332.4mn of acquisitions in 2Q at an average cash/GAAP cap rate of 7.8%/9.1%, wh...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/27da8baf-cc83-44c6-b388-8784e6b04f94.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "3461a415-208e-417c-8ad4-fac73612d949",
+      "title": "First Industrial Realty Trust (FR): 2Q26 First Take: Development lease up progressing & strong leasing spreads, guidance increased",
+      "summary": "FR reported 2Q26 FFOPS of $0.82, +2.5%/3.8% vs. FactSet consensus/GSe of $0.80/$0.79, and +7.9% y/y. FR increased 2026 FFO guidance (excluding the costs related to a contested proxy campaign) $0.02 at the midpoint (also ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/3461a415-208e-417c-8ad4-fac73612d949.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "6ae1aa90-2b8e-46cc-a1e5-aa744aecd9e1",
+      "title": "Japan Real Estate: Reflecting higher cap rates and office rents in earnings estimates/TPs; six rating changes (Tokyu Fudosan up to Buy)",
+      "summary": "Half a year into 2026, the growth rate for office asking rents has exceeded the market environment assumptions in our 2026 outlook report, while the 10-year JGB yield has risen more than expected due to factors including...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/6ae1aa90-2b8e-46cc-a1e5-aa744aecd9e1.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "9ab3d25c-9d99-4369-a48a-b73e5a8a9739",
+      "title": "Link REIT (0823.HK): Divesting 50% stake of office tower in 100 Market Street Sydney at 6.5% NPI yield. Potential share repurchase up to 2%",
+      "summary": "Before the market opened on July 22nd, Link REIT announced its disposal of 50% interest in an office tower at 100 Market Street Sydney to Aware Real Estate for A$225.9mn, based on the appraised value of the property as of end-May 2026.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/9ab3d25c-9d99-4369-a48a-b73e5a8a9739.html",
+      "authors": [
+        {
+          "name": "Simon Cheung",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Alpha Wang",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Leah Pan",
+          "department": "Conglomerates",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Conglomerates"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "0eda34c0-36a8-4702-b687-f68cdd90bff1",
+      "title": "Australia and New Zealand Economics Analyst: Launching Probabilistic Forecasts for Quarterly Trimmed Mean Inflation",
+      "summary": "High inflation remains the key policy concern for the RBA. We launch probabilistic forecasts for quarterly trimmed mean inflation, the RBA’s preferred measure of underlying inflation, to help inform the near-term inflation outlook.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/22/0eda34c0-36a8-4702-b687-f68cdd90bff1.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-07-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "b69f0cbc-dbc5-4dff-a9dc-5a2d7d1c8fe9",
+      "title": "Americas Real Estate: REITs: 2Q26 Retail Preview: Durable earnings power, with continued upside potential; K-shaped economy winner",
+      "summary": "Ahead of retail REIT earnings, which begin on July 23 with PECO reporting after the market close, we review key topics across the sector. Key themes include: Strength in the Retail supply vs. demand picture. Resulting SS...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/20/b69f0cbc-dbc5-4dff-a9dc-5a2d7d1c8fe9.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-20"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "9b2f4cb3-38ef-42a3-9e07-d2a78d3fe7dd",
+      "title": "Americas Real Estate: REITs: Residential REITs 2Q26 Earnings Preview",
+      "summary": "In this note, we take a deep dive into real-time residential REIT trends heading into 2H26. Sunbelt demand is improving, with absorption near record levels and finally outpacing deliveries in 2Q26; however, the rent grow...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/20/9b2f4cb3-38ef-42a3-9e07-d2a78d3fe7dd.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-20"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "a87028f4-68f3-4101-90b4-2041b5863cab",
+      "title": "Americas Real Estate: REITs: REIT valuations screen more expensive after recent performance, reflecting a HALO market shift",
+      "summary": "Given recent stock price movement, we take a quick look at US REIT valuations – at a sector level – in three ways: 1) FFO multiples, 2) equity risk premiums (ERPs), and 3) dividend yields. See inside for details.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/20/a87028f4-68f3-4101-90b4-2041b5863cab.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-20"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "7cecbb56-1665-4707-afc9-53a9f816d407",
+      "title": "Americas Real Estate: REITs: June '26 Office Update: New York touring demand dips while SF shows incremental growth",
+      "summary": "We review the latest updates on (1) VTS office tour activity through June '26, (2) Return to office trends by market, and (3) San Francisco and NYC office leasing data.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/15/7cecbb56-1665-4707-afc9-53a9f816d407.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-15"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "db9ced4d-f440-49e1-9cdb-f855ab5a9b86",
+      "title": "Singapore Real Estate: 2Q26 preview: Opportunity post rates-driven correction; Upgrade MPACT, Downgrade MLT",
+      "summary": "Despite headwinds from higher for longer interest rates, Singapore real estate has been resilient supported by relatively steady domestic rates and a firm currency, outperforming most developed market peers even as it tr...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/13/db9ced4d-f440-49e1-9cdb-f855ab5a9b86.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-13"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "8e90aa5c-c2df-44e7-ab1b-b3fb51907d2f",
+      "title": "Australia and New Zealand Economics Analyst: House Prices to Fall, Incomes to Stall, Spending to Slow",
+      "summary": "A slowdown in household consumption growth is a key domestic macro risk to watch. We forecast consumer spending growth to decelerate 120bp to 1.3%yoy by end-2026, driven by a decline in household wealth and softer real income growth.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/12/8e90aa5c-c2df-44e7-ab1b-b3fb51907d2f.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-07-12"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "655856d1-cb66-40ab-be00-fe0d176913ea",
+      "title": "Terreno Realty Corp. (TRNO): 2Q26 Operating update: Occupancy & spreads above GS expectations",
+      "summary": "TRNO released its 2Q26 operating update on July 8. Here we discuss the results and trends in detail and make minor adjustments to our model.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/10/655856d1-cb66-40ab-be00-fe0d176913ea.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-10"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "342e5e95-d4ef-45c9-a729-3a44fe3e96b1",
+      "title": "Australia and New Zealand Economics Analyst: Calibrating Our Nowcasts to Track Slower Consumption",
+      "summary": "We forecast consumer spending growth to decelerate 120bp to 1.3%yoy by end-2026, driven by a decline in household wealth and softer real income growth. A steeper slowdown in household consumption growth is a key domestic macro risk to watch.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/10/342e5e95-d4ef-45c9-a729-3a44fe3e96b1.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-07-10"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "1d629f6c-c67a-4f36-b729-01b1ccd6a664",
+      "title": "Americas Real Estate: REITs: Revising FY26 industrial absorption estimate higher, while LMI pricing shows potential inflection point",
+      "summary": "Investors remain focused on industrial demand and supply, wondering when demand can outweigh new supply creating market rent growth - and whether that will prompt more development starts. As a result, we review: Industri...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/06/1d629f6c-c67a-4f36-b729-01b1ccd6a664.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "2f096fb4-8219-4915-b6d5-86f134ccf93f",
+      "title": "US Conviction List - Directors' Cut: July 2026 Update",
+      "summary": "We add Estee Lauder Co. (EL), Nextpower (NXT), and Wells Fargo (WFC) to the US Conviction List, while removing Brixmor Property Group (BRX), Duke Energy (DUK), and nVENT Electric (NVT). We have a brief summary of these a...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/01/2f096fb4-8219-4915-b6d5-86f134ccf93f.html",
+      "authors": [
+        {
+          "name": "Steven Kron",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Christopher Hussey",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Sarah Herr",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Deep Mehta",
+          "department": "Tactical Research",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Equity Research Management",
+        "Tactical Research"
+      ],
+      "publish_time": "2026-07-01"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "bb1cd509-d3c3-4a4e-b0cc-7443baf62a65",
+      "title": "Frasers Centrepoint Trust (FCRT.SI): Proposed divestment of White Sands lowers gearing but dilutive; Neutral",
+      "summary": "Fraser Centrepoint Trust (FCT) announced the proposed divestment of White Sands for S$467m at an implied FY25 NPI yield of 4.6% and 8.4% premium to independent valuation. Divestment proceeds will be used towards debt rep...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/01/bb1cd509-d3c3-4a4e-b0cc-7443baf62a65.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-01"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "8625133f-bee9-4257-872d-6a12578cc6c6",
+      "title": "Essential Properties Realty Trust (EPRT): Updating estimates following debt issuance and dividend increase",
+      "summary": "We update our EPRT model to reflect the issuance of $400mn of unsecured debt at 5.375%, effective June 15. We also make minor edits to assumptions about the volume and timing of property acquisitions, funding, and EPRT's...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/30/8625133f-bee9-4257-872d-6a12578cc6c6.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "44803201-3e62-48f8-88f5-78423c0520f7",
+      "title": "Americas Real Estate: REITs: Rates move, REITs do what? A look across performance and correlations",
+      "summary": "As interest rates move, investors often ask how REITs are likely to perform. To address this, we assess across periods of increasing and decreasing interest rates: (1) REIT performance relative to the S&P 500, (2) Subsec...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/26/44803201-3e62-48f8-88f5-78423c0520f7.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-26"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "fa9c653c-ce33-41cf-8a73-563476c32218",
+      "title": "Lineage Inc. (LINE): USDA check-in for May '26: Strong y/y trends continue, while seasonal headwinds are somewhat muted",
+      "summary": "Given investor focus on LINE's occupancy and inventory trends, we share USDA May data (released on 6/25/26), compare it versus historical trends, and review how 2026 seasonality is trending. We realize there are many way...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/25/fa9c653c-ce33-41cf-8a73-563476c32218.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-25"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "5054563f-555b-494f-b218-bf9b464f3d3a",
+      "title": "Prologis Inc. (PLD): Announced attempted acquisition of SEGRO",
+      "summary": "PLD announced a proposal to acquire SEGRO in an all-stock transaction valued at an enterprise value of approximately £12.6bn. On June 23, 2026, the Board of SEGRO rejected the proposal. See inside for details of the anno...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/24/5054563f-555b-494f-b218-bf9b464f3d3a.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-24"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "94125504-a203-441f-b9b9-65c3a57be64d",
+      "title": "Vornado Realty Trust (VNO): Model Update",
+      "summary": "Following 1Q26 earnings, we provide earnings call takeaways, update our model and price target, and show valuation trends.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/18/94125504-a203-441f-b9b9-65c3a57be64d.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-18"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "f8b8905f-d57c-4554-a408-dab797f0ba48",
+      "title": "On the Road with Goldman Sachs: Materials & Real Estate Across the Americas",
+      "summary": "In this podcast series, On the Road with Goldman Sachs, we catch up with our analysts who have been on the road, in the field, and kicking the tires with companies, customers, and everyone in between. In this week's podc...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/17/f8b8905f-d57c-4554-a408-dab797f0ba48.html",
+      "authors": [
+        {
+          "name": "Sarah Herr",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Christopher Hussey",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Equity Research Management",
+        "REITs"
+      ],
+      "publish_time": "2026-06-17"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "c1167d6f-238a-4317-b275-076ebb1cb240",
+      "title": "Atlanta management meetings and property tour takeaways (FR, LINE, SPG)",
+      "summary": "On June 15th and 16th, 2026, we traveled to Atlanta and met with FR and LINE management, toured a LINE facility, and walked SPG's Phipps Plaza and Lenox Sqaure properties. With FR management, we reviewed leasing activity...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/17/c1167d6f-238a-4317-b275-076ebb1cb240.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-17"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e36bff96-cbe9-4d9d-b676-2833dc1c900e",
+      "title": "Japan Hotel REIT (8985.T): Earnings estimates and target price revised based on latest results and monthly data; Buy",
+      "summary": "We revise our earnings estimates and target price based on FY12/25 results, the new property acquisition (Hyatt Regency Tokyo), recent inbound tourist trends, and monthly data for the 29 hotels with variable rents owned by the company.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/17/e36bff96-cbe9-4d9d-b676-2833dc1c900e.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-06-17"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "8831decc-4900-409b-9261-7084988cbb62",
+      "title": "Americas Real Estate: REITs: Sunbelt Resi Field Trip Takeaways",
+      "summary": "Following our Resi Field Trip in Atlanta this week with INVH and MAA, we provide our key takeaways and compare them against real time residential REIT data. Multiple key sunbelt markets including Atlanta have seen a rece...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/16/8831decc-4900-409b-9261-7084988cbb62.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e63ce975-20b7-4f51-9ab5-c1a8a1987343",
+      "title": "Sekisui House Reit Inc. (3309.T): In line: Domestic residential solid, but monitoring US rental condo market/property sales trends, Neutral",
+      "summary": "The REIT announced FP4/26 earnings after the market close on June 15. FP4/26 DPU of ¥3,407 was slightly below GSe (¥3,447) but largely in line with expectations. The REIT's DPU guidance for FP10/26 and FP4/27 is ¥1,908 and ¥1,880, respectively.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/16/e63ce975-20b7-4f51-9ab5-c1a8a1987343.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-06-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "8de15270-22a0-4e11-aa06-2657263841c7",
+      "title": "Power & Resources Reliability: AZ/CA meetings bullish power, infrastructure and critical materials demand, prioritization",
+      "summary": "On June 9-11, we met with nine corporates in Arizona and California levered to Power & Resources Reliability, including a rare earth mine tour with MP Materials that represents 90%+ of US NdPr oxide supply and ~20% of no...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/15/8de15270-22a0-4e11-aa06-2657263841c7.html",
+      "authors": [
+        {
+          "name": "Brian Singer",
+          "department": "GS Sustain",
+          "division": "Research"
+        },
+        {
+          "name": "Brian Lee",
+          "department": "Clean Energy",
+          "division": "Research"
+        },
+        {
+          "name": "Brendan Corbett",
+          "department": "GS Sustain",
+          "division": "Research"
+        },
+        {
+          "name": "Gabriela Borges",
+          "department": "Software",
+          "division": "Research"
+        },
+        {
+          "name": "Max Gamperl",
+          "department": "Software",
+          "division": "Research"
+        },
+        {
+          "name": "Noah Poponak",
+          "department": "Aerospace & Defense",
+          "division": "Research"
+        },
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jim Schneider",
+          "department": "Semiconductors & IT Services",
+          "division": "Research"
+        },
+        {
+          "name": "Carly Davenport",
+          "department": "Utilities & Ipps",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "GS Sustain",
+        "Aerospace & Defense",
+        "Clean Energy",
+        "REITs",
+        "Semiconductors & IT Services",
+        "Utilities & Ipps",
+        "Software"
+      ],
+      "publish_time": "2026-06-15"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "b5961835-6217-4ca4-acd8-592934fc4384",
+      "title": "Americas Real Estate: REITs: May '26 Office Update: Touring up nationwide y/y, but when considering Trophy & Class A only, both SF & NYC were down",
+      "summary": "We review the latest updates on (1) VTS office tour activity through May '26, (2) Return to office trends by market, and (3) San Francisco and NYC office leasing data.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/10/b5961835-6217-4ca4-acd8-592934fc4384.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-10"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "0b3d264a-4090-463f-ad6f-a9360bdadd8f",
+      "title": "National Healthcare Properties Inc. (NHP): NAREIT Management Meeting Takeaways",
+      "summary": "On June 03, 2026, at NAREIT in New York we met with NHP's senior management, including Mr. Anderson, CEO, President & Director & Mr. Babin, CFO & Treasurer. The topics of our conversation included acquisition pipelines, ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/0b3d264a-4090-463f-ad6f-a9360bdadd8f.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e1e764c0-d575-497c-905d-991c862a15d1",
+      "title": "Invitation Homes Inc. (INVH): NAREIT Management Meeting Takeaways",
+      "summary": "On June 03, 2026, at NAREIT REITweek in New York we met with INVH's senior management including Mr. Dallas Tanner, Pres and CEO, Mr. Jonathan Olsen, EVP and CFO, Mr. Scott Eisen, EVP and COO, and Mr. Scott McLaughlin, SVP-IR and Tax.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/e1e764c0-d575-497c-905d-991c862a15d1.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "dc8687f3-4b04-4b35-aee9-746f6a768253",
+      "title": "American Homes 4 Rent (AMH): NAREIT Management Meeting Takeaways",
+      "summary": "On June 03, 2026, as part of NAREIT we met with AMH's management including Mr. Bryan Smith, CEO, Mr. Christopher Lau, CFO, Mr. Lincoln Parmer, COO and Mr. Nick Fromm, VP-IR. Key discussion pointers included improving reg...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/dc8687f3-4b04-4b35-aee9-746f6a768253.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "144c04a1-b71f-4bc1-9704-545610fb75ed",
+      "title": "CapitaLand Ascendas REIT (CAPD.SI): Potential occupancy weakness with thesis around inorganic growth played out; Downgrade to Neutral",
+      "summary": "We believe the recent acceleration in tech company layoffs could suggest further weakening of CLAR's occupancy, with technology tenants making up one-third of its rental revenue. Factoring in lower occupancy, we lower CL...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/144c04a1-b71f-4bc1-9704-545610fb75ed.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "27b33be5-a31c-4ae6-8794-fba8269f4a35",
+      "title": "Essex Property Trust Inc. (ESS): NAREIT Management Meeting Takeaways",
+      "summary": "On, June 03, 2026, at NAREIT REITweek in New York we attended a meeting with ESS senior management including Ms. Angela Kleiman (President & CEO), Ms. Barb Pak (EVP & CFO), and Mr. Rylan Burns (EVP & CIO). Conversation t...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/27b33be5-a31c-4ae6-8794-fba8269f4a35.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-06-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "097685d2-0ef9-4696-955b-ea8a79a1e9fe",
+      "title": "Australia and New Zealand Economics Analyst: RBNZ’s Hawkish Reaction Function Reset: A Mini Pre-Emptive Tightening Cycle",
+      "summary": "A clear hawkish shift in the RBNZ’s reaction function, pivoting from their standing framework. The surprise 3-3 vote to ‘hold’ at the RBNZ’s May Monetary Policy Committee (MPC) meeting featured an unmistakable hawkish pi...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/06/04/097685d2-0ef9-4696-955b-ea8a79a1e9fe.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-06-04"
+    }
+  ]
 }

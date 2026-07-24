@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T10:34:10.685310+00:00",
+  "fetched_at": "2026-07-24T22:34:11.503580+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -114,49 +114,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5365044-0",
-      "publication_id": "GPS-5365044-0",
-      "title": "REPLAY | 2Q26 Transports & Logistics Earnings Preview",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365044-0",
-      "authors": [
-        {
-          "name": "Brian P. Ossenbeck, CFA",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brian.p.ossenbeck@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Airfreight & Surface Transportation / Shipping"
-      ],
-      "publish_time": "2026-07-10"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5357765-0",
-      "publication_id": "GPS-5365061-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5357765-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-07-10"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5365930-0",
       "publication_id": "GPS-5367092-0",
       "title": "Global Capital Goods",
@@ -222,8 +179,8 @@
       "tags": [
         "European Capital Goods",
         "Machinery, Engineering & Construction",
-        "Infrastructure, Industrials & Transport",
-        "North America Small and Mid Cap Industrials"
+        "North America Small and Mid Cap Industrials",
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-07-13"
     },
@@ -258,9 +215,9 @@
       ],
       "tags": [
         "European Capital Goods",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Autos & EV Battery"
+        "Asia Autos & EV Battery",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -294,9 +251,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-15"
     },
@@ -405,6 +362,30 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5376207-0",
+      "publication_id": "GPS-5381332-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5376207-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-07-24"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5361079-0",
       "publication_id": "GPS-5379105-0",
       "title": "Asia Insurance",
@@ -453,10 +434,10 @@
         }
       ],
       "tags": [
-        "Insurance, Securities, Diversified Financials",
         "Asia Financials",
         "Insurance",
-        "Asia Pacific Credit Research"
+        "Asia Pacific Credit Research",
+        "Insurance, Securities, Diversified Financials"
       ],
       "publish_time": "2026-07-14"
     },
@@ -510,13 +491,42 @@
         }
       ],
       "tags": [
-        "Insurance, Securities, Diversified Financials",
+        "Asia Financials",
         "Insurance",
         "Asia Pacific Credit Research",
-        "Asia Financials",
-        "India Financials"
+        "India Financials",
+        "Insurance, Securities, Diversified Financials"
       ],
       "publish_time": "2026-07-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5374736-0",
+      "publication_id": "KAL-1-NG4OZL3X",
+      "title": "Transportation & Logistics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5374736-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-07-24"
     },
     {
       "platform": "JPM",
