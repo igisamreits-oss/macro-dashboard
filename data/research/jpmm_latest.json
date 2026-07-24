@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T22:34:15.718010+00:00",
+  "fetched_at": "2026-07-24T10:34:10.685310+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -133,35 +133,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5363368-0",
-      "publication_id": "GPS-5365044-0",
-      "title": "Transportation & Logistics",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5363368-0",
-      "authors": [
-        {
-          "name": "Brian P. Ossenbeck, CFA",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brian.p.ossenbeck@jpmorgan.com"
-        },
-        {
-          "name": "Grady Carr",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "grady.carr@jpmchase.com"
-        },
-        {
-          "name": "Brandon Wexler",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brandon.wexler@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Airfreight & Surface Transportation / Shipping"
-      ],
-      "publish_time": "2026-07-10"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5357765-0",
       "publication_id": "GPS-5365061-0",
       "title": "Japan",
@@ -249,10 +220,10 @@
         }
       ],
       "tags": [
+        "European Capital Goods",
         "Machinery, Engineering & Construction",
         "Infrastructure, Industrials & Transport",
-        "North America Small and Mid Cap Industrials",
-        "European Capital Goods"
+        "North America Small and Mid Cap Industrials"
       ],
       "publish_time": "2026-07-13"
     },
@@ -286,10 +257,10 @@
         }
       ],
       "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Asia Autos & EV Battery",
         "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Autos & EV Battery"
       ],
       "publish_time": "2026-07-23"
     },
@@ -434,64 +405,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5366244-0",
-      "publication_id": "GPS-5379105-0",
-      "title": "Asia Insurance",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5366244-0",
-      "authors": [
-        {
-          "name": "MW Kim",
-          "team": "Insurance",
-          "email": "mw.kim@jpmorgan.com"
-        },
-        {
-          "name": "Matthew Hughart",
-          "team": "Asia Pacific Credit Research",
-          "email": "matthew.hughart@jpmorgan.com"
-        },
-        {
-          "name": "Koki Sato",
-          "team": "Insurance, Securities, Diversified Financials",
-          "email": "koki.sato@jpmorgan.com"
-        },
-        {
-          "name": "Madhukar Ladha",
-          "team": "India Financials",
-          "email": "madhukar.ladha@jpmorgan.com"
-        },
-        {
-          "name": "Jemmy S Huang",
-          "team": "Asia Financials",
-          "email": "jemmy.s.huang@jpmorgan.com"
-        },
-        {
-          "name": "Dan Wang",
-          "team": "Insurance",
-          "email": "dan.wang@jpmorgan.com"
-        },
-        {
-          "name": "Julia Kim",
-          "team": "Insurance",
-          "email": "julia.c.kim@jpmorgan.com"
-        },
-        {
-          "name": "Emma Xing",
-          "team": "Asia Pacific Credit Research",
-          "email": "emma.xing@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Asia Pacific Credit Research",
-        "Insurance, Securities, Diversified Financials",
-        "India Financials",
-        "Asia Financials",
-        "Insurance"
-      ],
-      "publish_time": "2026-07-21"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5361079-0",
       "publication_id": "GPS-5379105-0",
       "title": "Asia Insurance",
@@ -540,12 +453,70 @@
         }
       ],
       "tags": [
-        "Asia Pacific Credit Research",
-        "Insurance",
+        "Insurance, Securities, Diversified Financials",
         "Asia Financials",
-        "Insurance, Securities, Diversified Financials"
+        "Insurance",
+        "Asia Pacific Credit Research"
       ],
       "publish_time": "2026-07-14"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5366244-0",
+      "publication_id": "GPS-5379105-0",
+      "title": "Asia Insurance",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5366244-0",
+      "authors": [
+        {
+          "name": "MW Kim",
+          "team": "Insurance",
+          "email": "mw.kim@jpmorgan.com"
+        },
+        {
+          "name": "Matthew Hughart",
+          "team": "Asia Pacific Credit Research",
+          "email": "matthew.hughart@jpmorgan.com"
+        },
+        {
+          "name": "Koki Sato",
+          "team": "Insurance, Securities, Diversified Financials",
+          "email": "koki.sato@jpmorgan.com"
+        },
+        {
+          "name": "Madhukar Ladha",
+          "team": "India Financials",
+          "email": "madhukar.ladha@jpmorgan.com"
+        },
+        {
+          "name": "Jemmy S Huang",
+          "team": "Asia Financials",
+          "email": "jemmy.s.huang@jpmorgan.com"
+        },
+        {
+          "name": "Dan Wang",
+          "team": "Insurance",
+          "email": "dan.wang@jpmorgan.com"
+        },
+        {
+          "name": "Julia Kim",
+          "team": "Insurance",
+          "email": "julia.c.kim@jpmorgan.com"
+        },
+        {
+          "name": "Emma Xing",
+          "team": "Asia Pacific Credit Research",
+          "email": "emma.xing@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Insurance, Securities, Diversified Financials",
+        "Insurance",
+        "Asia Pacific Credit Research",
+        "Asia Financials",
+        "India Financials"
+      ],
+      "publish_time": "2026-07-21"
     },
     {
       "platform": "JPM",
