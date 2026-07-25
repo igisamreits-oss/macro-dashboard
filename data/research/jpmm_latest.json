@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T22:34:11.503580+00:00",
+  "fetched_at": "2026-07-25T13:08:10.793543+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -177,9 +177,9 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
         "Machinery, Engineering & Construction",
         "North America Small and Mid Cap Industrials",
+        "European Capital Goods",
         "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-07-13"
@@ -214,10 +214,10 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Autos & EV Battery",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "European Capital Goods",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Asia Autos & EV Battery"
       ],
       "publish_time": "2026-07-23"
     },
@@ -251,9 +251,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-15"
     },
@@ -434,10 +434,10 @@
         }
       ],
       "tags": [
-        "Asia Financials",
         "Insurance",
         "Asia Pacific Credit Research",
-        "Insurance, Securities, Diversified Financials"
+        "Insurance, Securities, Diversified Financials",
+        "Asia Financials"
       ],
       "publish_time": "2026-07-14"
     },
@@ -491,11 +491,11 @@
         }
       ],
       "tags": [
-        "Asia Financials",
         "Insurance",
-        "Asia Pacific Credit Research",
         "India Financials",
-        "Insurance, Securities, Diversified Financials"
+        "Asia Financials",
+        "Insurance, Securities, Diversified Financials",
+        "Asia Pacific Credit Research"
       ],
       "publish_time": "2026-07-21"
     },
