@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T13:08:10.793543+00:00",
+  "fetched_at": "2026-07-26T01:08:04.574555+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -177,9 +177,9 @@
         }
       ],
       "tags": [
+        "European Capital Goods",
         "Machinery, Engineering & Construction",
         "North America Small and Mid Cap Industrials",
-        "European Capital Goods",
         "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-07-13"
@@ -214,10 +214,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "European Capital Goods",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Asia Autos & EV Battery"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Autos & EV Battery",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -251,9 +251,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-15"
     },
@@ -355,8 +355,8 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-07-14"
     },
@@ -383,63 +383,6 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-07-24"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5361079-0",
-      "publication_id": "GPS-5379105-0",
-      "title": "Asia Insurance",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5361079-0",
-      "authors": [
-        {
-          "name": "MW Kim",
-          "team": "Insurance",
-          "email": "mw.kim@jpmorgan.com"
-        },
-        {
-          "name": "Matthew Hughart",
-          "team": "Asia Pacific Credit Research",
-          "email": "matthew.hughart@jpmorgan.com"
-        },
-        {
-          "name": "Jemmy S Huang",
-          "team": "Asia Financials",
-          "email": "jemmy.s.huang@jpmorgan.com"
-        },
-        {
-          "name": "Koki Sato",
-          "team": "Insurance, Securities, Diversified Financials",
-          "email": "koki.sato@jpmorgan.com"
-        },
-        {
-          "name": "Dan Wang",
-          "team": "Insurance",
-          "email": "dan.wang@jpmorgan.com"
-        },
-        {
-          "name": "Julia Kim",
-          "team": "Insurance",
-          "email": "julia.c.kim@jpmorgan.com"
-        },
-        {
-          "name": "Emma Xing",
-          "team": "Asia Pacific Credit Research",
-          "email": "emma.xing@jpmorgan.com"
-        },
-        {
-          "name": "Amanda Chang",
-          "team": "Asia Financials",
-          "email": "amanda.chang@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Insurance",
-        "Asia Pacific Credit Research",
-        "Insurance, Securities, Diversified Financials",
-        "Asia Financials"
-      ],
-      "publish_time": "2026-07-14"
     },
     {
       "platform": "JPM",
@@ -491,13 +434,70 @@
         }
       ],
       "tags": [
-        "Insurance",
+        "Insurance, Securities, Diversified Financials",
         "India Financials",
         "Asia Financials",
-        "Insurance, Securities, Diversified Financials",
-        "Asia Pacific Credit Research"
+        "Asia Pacific Credit Research",
+        "Insurance"
       ],
       "publish_time": "2026-07-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5361079-0",
+      "publication_id": "GPS-5379105-0",
+      "title": "Asia Insurance",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5361079-0",
+      "authors": [
+        {
+          "name": "MW Kim",
+          "team": "Insurance",
+          "email": "mw.kim@jpmorgan.com"
+        },
+        {
+          "name": "Matthew Hughart",
+          "team": "Asia Pacific Credit Research",
+          "email": "matthew.hughart@jpmorgan.com"
+        },
+        {
+          "name": "Jemmy S Huang",
+          "team": "Asia Financials",
+          "email": "jemmy.s.huang@jpmorgan.com"
+        },
+        {
+          "name": "Koki Sato",
+          "team": "Insurance, Securities, Diversified Financials",
+          "email": "koki.sato@jpmorgan.com"
+        },
+        {
+          "name": "Dan Wang",
+          "team": "Insurance",
+          "email": "dan.wang@jpmorgan.com"
+        },
+        {
+          "name": "Julia Kim",
+          "team": "Insurance",
+          "email": "julia.c.kim@jpmorgan.com"
+        },
+        {
+          "name": "Emma Xing",
+          "team": "Asia Pacific Credit Research",
+          "email": "emma.xing@jpmorgan.com"
+        },
+        {
+          "name": "Amanda Chang",
+          "team": "Asia Financials",
+          "email": "amanda.chang@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Insurance, Securities, Diversified Financials",
+        "Insurance",
+        "Asia Pacific Credit Research",
+        "Asia Financials"
+      ],
+      "publish_time": "2026-07-14"
     },
     {
       "platform": "JPM",
