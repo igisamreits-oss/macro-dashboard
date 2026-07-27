@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T10:34:22.307644+00:00",
+  "fetched_at": "2026-07-27T22:34:14.647340+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -114,78 +114,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5365930-0",
-      "publication_id": "GPS-5367092-0",
-      "title": "Global Capital Goods",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365930-0",
-      "authors": [
-        {
-          "name": "Tami Zakaria, CFA",
-          "team": "Machinery, Engineering & Construction",
-          "email": "tami.zakaria@jpmchase.com"
-        },
-        {
-          "name": "Alec R McGuire",
-          "team": "Machinery, Engineering & Construction",
-          "email": "alec.mcguire@jpmorgan.com"
-        },
-        {
-          "name": "Raquel Betesh",
-          "team": "Machinery, Engineering & Construction",
-          "email": "raquel.betesh@jpmchase.com"
-        },
-        {
-          "name": "Tomohiko Sano",
-          "team": "North America Small and Mid Cap Industrials",
-          "email": "tomohiko.sano@jpmorgan.com"
-        },
-        {
-          "name": "Brendan Shea, CFA",
-          "team": "North America Small and Mid Cap Industrials",
-          "email": "brendan.shea@jpmorgan.com"
-        },
-        {
-          "name": "Ethan Coyle",
-          "team": "North America Small and Mid Cap Industrials",
-          "email": "ethan.coyle@jpmchase.com"
-        },
-        {
-          "name": "Phil Buller",
-          "team": "European Capital Goods",
-          "email": "phil.buller@jpmorgan.com"
-        },
-        {
-          "name": "Chitrita C Sinha",
-          "team": "European Capital Goods",
-          "email": "chitrita.sinha@jpmorgan.com"
-        },
-        {
-          "name": "Akash Gupta",
-          "team": "European Capital Goods",
-          "email": "akash.z.gupta@jpmorgan.com"
-        },
-        {
-          "name": "Jeremy Caspar",
-          "team": "European Capital Goods",
-          "email": "jeremy.caspar@jpmorgan.com"
-        },
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Machinery, Engineering & Construction",
-        "European Capital Goods",
-        "Infrastructure, Industrials & Transport",
-        "North America Small and Mid Cap Industrials"
-      ],
-      "publish_time": "2026-07-13"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5378003-0",
       "publication_id": "KAL-1-3PWHBLXS",
       "title": "Global Alternative Energy",
@@ -214,10 +142,10 @@
         }
       ],
       "tags": [
-        "Asia Autos & EV Battery",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Autos & EV Battery",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -406,10 +334,10 @@
       ],
       "tags": [
         "Insurance, Securities, Diversified Financials",
-        "Asia Pacific Credit Research",
         "India Financials",
-        "Insurance",
-        "Asia Financials"
+        "Asia Pacific Credit Research",
+        "Asia Financials",
+        "Insurance"
       ],
       "publish_time": "2026-07-21"
     },
@@ -463,10 +391,10 @@
         }
       ],
       "tags": [
-        "Asia Financials",
-        "Asia Pacific Credit Research",
         "Insurance, Securities, Diversified Financials",
-        "Insurance"
+        "Insurance",
+        "Asia Financials",
+        "Asia Pacific Credit Research"
       ],
       "publish_time": "2026-07-14"
     },
