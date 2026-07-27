@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-26T13:08:12.720082+00:00",
+  "fetched_at": "2026-07-27T10:34:22.307644+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -177,10 +177,10 @@
         }
       ],
       "tags": [
-        "North America Small and Mid Cap Industrials",
-        "European Capital Goods",
         "Machinery, Engineering & Construction",
-        "Infrastructure, Industrials & Transport"
+        "European Capital Goods",
+        "Infrastructure, Industrials & Transport",
+        "North America Small and Mid Cap Industrials"
       ],
       "publish_time": "2026-07-13"
     },
@@ -214,10 +214,10 @@
         }
       ],
       "tags": [
+        "Asia Autos & EV Battery",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "European Capital Goods",
-        "Asia Autos & EV Battery"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -256,35 +256,6 @@
         "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-15"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5363459-0",
-      "publication_id": "GPS-5367094-0",
-      "title": "Aerospace & Defense",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5363459-0",
-      "authors": [
-        {
-          "name": "Seth M. Seifman, CFA",
-          "team": "Aerospace & Defense",
-          "email": "seth.m.seifman@jpmorgan.com"
-        },
-        {
-          "name": "Rocco J Barbero",
-          "team": "Aerospace & Defense",
-          "email": "rocco.j.barbero@jpmorgan.com"
-        },
-        {
-          "name": "Alexander Ladd",
-          "team": "Aerospace & Defense",
-          "email": "alex.ladd@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Aerospace & Defense"
-      ],
-      "publish_time": "2026-07-13"
     },
     {
       "platform": "JPM",
@@ -434,10 +405,10 @@
         }
       ],
       "tags": [
-        "Asia Pacific Credit Research",
         "Insurance, Securities, Diversified Financials",
-        "Insurance",
+        "Asia Pacific Credit Research",
         "India Financials",
+        "Insurance",
         "Asia Financials"
       ],
       "publish_time": "2026-07-21"
@@ -492,9 +463,9 @@
         }
       ],
       "tags": [
-        "Insurance, Securities, Diversified Financials",
-        "Asia Pacific Credit Research",
         "Asia Financials",
+        "Asia Pacific Credit Research",
+        "Insurance, Securities, Diversified Financials",
         "Insurance"
       ],
       "publish_time": "2026-07-14"
@@ -527,40 +498,6 @@
         "Airfreight & Surface Transportation / Shipping"
       ],
       "publish_time": "2026-07-24"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5365392-0",
-      "publication_id": "GPS-5367097-0",
-      "title": "2026 Summer Chemicals, Agriculture & Packaging Outlook",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5365392-0",
-      "authors": [
-        {
-          "name": "Jeffrey J. Zekauskas",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "jeffrey.zekauskas@jpmorgan.com"
-        },
-        {
-          "name": "Silke Kueck",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "silke.x.kueck@jpmorgan.com"
-        },
-        {
-          "name": "Katie Zhang",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "katie.zhang@jpmchase.com"
-        },
-        {
-          "name": "Lydia Huang",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "lydia.huang@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging"
-      ],
-      "publish_time": "2026-07-13"
     }
   ]
 }
