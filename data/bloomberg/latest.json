@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T22:31:21.092789+00:00",
+  "fetched_at": "2026-07-28T10:31:15.375719+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -388,7 +388,7 @@
       "consensus": null,
       "release_date": "2026-07-24",
       "actual_release_date": "2026-07-27",
-      "next_release_date": "2026-07-27",
+      "next_release_date": "2026-08-04",
       "next_release_time": "21:00"
     },
     "uk_gfk": {
@@ -528,74 +528,74 @@
       "as_of": "2026-07-24"
     },
     "uk_pol_sonia": {
-      "value": 3.7307,
-      "change_1d": -0.0003,
-      "as_of": "2026-07-24"
+      "value": 3.7312,
+      "change_1d": 0.0005,
+      "as_of": "2026-07-27"
     },
     "eu_pol_estr": {
-      "value": 2.186,
-      "change_1d": 0.001,
-      "as_of": "2026-07-24"
+      "value": 2.185,
+      "change_1d": -0.001,
+      "as_of": "2026-07-27"
     },
     "kr_pol_cd91": {
       "value": 2.92,
-      "change_1d": 0.01,
-      "as_of": "2026-07-27"
+      "change_1d": 0.0,
+      "as_of": "2026-07-28"
     },
     "sg_pol_sora": {
-      "value": 1.1746,
-      "change_1d": -0.1837,
-      "as_of": "2026-07-24"
+      "value": 1.0585,
+      "change_1d": -0.1161,
+      "as_of": "2026-07-27"
     },
     "hk_pol_hibor3m": {
-      "value": 2.9302,
-      "change_1d": 0.017,
-      "as_of": "2026-07-27"
+      "value": 2.95,
+      "change_1d": 0.0198,
+      "as_of": "2026-07-28"
     },
     "se_pol_stib3m": {
-      "value": 2.045,
-      "change_1d": 0.008,
-      "as_of": "2026-07-24"
+      "value": 2.06,
+      "change_1d": 0.015,
+      "as_of": "2026-07-27"
     },
     "us_be_10y": {
-      "value": 2.2028,
-      "change_1d": -0.0435,
-      "as_of": "2026-07-27"
+      "value": 2.2019,
+      "change_1d": -0.0009,
+      "as_of": "2026-07-28"
     },
     "uk_be_10y": {
-      "value": 3.202,
-      "change_1d": -0.045,
-      "as_of": "2026-07-27"
+      "value": 3.175,
+      "change_1d": -0.027,
+      "as_of": "2026-07-28"
     },
     "eu_be_10y": {
-      "value": 1.035,
-      "change_1d": -0.001,
-      "as_of": "2026-07-27"
+      "value": 1.04,
+      "change_1d": 0.005,
+      "as_of": "2026-07-28"
     },
     "de_be_10y": {
-      "value": 2.0107,
-      "change_1d": -0.074,
-      "as_of": "2026-07-27"
+      "value": 1.9942,
+      "change_1d": -0.0165,
+      "as_of": "2026-07-28"
     },
     "fr_be_10y": {
-      "value": 2.132,
-      "change_1d": -0.041,
-      "as_of": "2026-07-27"
+      "value": 2.109,
+      "change_1d": -0.023,
+      "as_of": "2026-07-28"
     },
     "au_be_10y": {
-      "value": 2.347,
-      "change_1d": -0.04,
-      "as_of": "2026-07-27"
+      "value": 2.332,
+      "change_1d": -0.015,
+      "as_of": "2026-07-28"
     },
     "jp_be_10y": {
-      "value": 2.003,
-      "change_1d": -0.001,
-      "as_of": "2026-07-27"
+      "value": 2.004,
+      "change_1d": 0.001,
+      "as_of": "2026-07-28"
     },
     "se_be_10y": {
-      "value": 1.757,
-      "change_1d": 0.005,
-      "as_of": "2026-07-27"
+      "value": 1.756,
+      "change_1d": -0.001,
+      "as_of": "2026-07-28"
     },
     "us_mort_30y": {
       "value": 6.58,
@@ -607,37 +607,37 @@
     "fomc": {
       "rate": 3.75,
       "consensus_rate": 3.75,
-      "implied_1y": 4.122,
+      "implied_1y": 4.1093,
       "next_meeting": null
     },
     "ecb": {
       "rate": 2.25,
       "consensus_rate": null,
-      "implied_1y": 2.5925,
+      "implied_1y": 2.5836,
       "next_meeting": null
     },
     "boe": {
       "rate": 3.75,
       "consensus_rate": 3.75,
-      "implied_1y": 4.1875,
+      "implied_1y": 4.1688,
       "next_meeting": null
     },
     "rba": {
       "rate": 4.35,
       "consensus_rate": null,
-      "implied_1y": 4.6775,
+      "implied_1y": 4.6336,
       "next_meeting": null
     },
     "boj": {
       "rate": 1.0,
       "consensus_rate": null,
-      "implied_1y": 1.2837,
+      "implied_1y": 1.2631,
       "next_meeting": null
     },
     "boc": {
       "rate": 2.25,
       "consensus_rate": 2.25,
-      "implied_1y": 2.5678,
+      "implied_1y": 2.5635,
       "next_meeting": null
     }
   }

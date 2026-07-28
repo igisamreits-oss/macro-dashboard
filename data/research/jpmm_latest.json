@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T22:34:14.647340+00:00",
+  "fetched_at": "2026-07-28T10:34:21.495980+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -142,10 +142,10 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Asia Autos & EV Battery",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "European Capital Goods",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -179,9 +179,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-15"
     },
@@ -218,46 +218,6 @@
         "IT Hardware/ Telecom & Networking Equipment"
       ],
       "publish_time": "2026-07-16"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5366760-0",
-      "publication_id": "KAL-1-STYB30UP",
-      "title": "JPM ANMUTH - US Internet 2Q26 Preview",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5366760-0",
-      "authors": [
-        {
-          "name": "Doug Anmuth",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "douglas.anmuth@jpmorgan.com"
-        },
-        {
-          "name": "Dae K Lee, CFA",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "dae.k.lee@jpmorgan.com"
-        },
-        {
-          "name": "Bryan M. Smilek",
-          "team": "Internet - Mid & Small Cap",
-          "email": "bryan.smilek@jpmorgan.com"
-        },
-        {
-          "name": "Neeraj S Kookada, CFA",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "neeraj.s.kookada@jpmchase.com"
-        },
-        {
-          "name": "Margaret Hoffman",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "margaret.hoffman@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
-      ],
-      "publish_time": "2026-07-14"
     },
     {
       "platform": "JPM",
@@ -333,70 +293,13 @@
         }
       ],
       "tags": [
-        "Insurance, Securities, Diversified Financials",
-        "India Financials",
         "Asia Pacific Credit Research",
+        "Insurance",
+        "Insurance, Securities, Diversified Financials",
         "Asia Financials",
-        "Insurance"
+        "India Financials"
       ],
       "publish_time": "2026-07-21"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5361079-0",
-      "publication_id": "GPS-5379105-0",
-      "title": "Asia Insurance",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5361079-0",
-      "authors": [
-        {
-          "name": "MW Kim",
-          "team": "Insurance",
-          "email": "mw.kim@jpmorgan.com"
-        },
-        {
-          "name": "Matthew Hughart",
-          "team": "Asia Pacific Credit Research",
-          "email": "matthew.hughart@jpmorgan.com"
-        },
-        {
-          "name": "Jemmy S Huang",
-          "team": "Asia Financials",
-          "email": "jemmy.s.huang@jpmorgan.com"
-        },
-        {
-          "name": "Koki Sato",
-          "team": "Insurance, Securities, Diversified Financials",
-          "email": "koki.sato@jpmorgan.com"
-        },
-        {
-          "name": "Dan Wang",
-          "team": "Insurance",
-          "email": "dan.wang@jpmorgan.com"
-        },
-        {
-          "name": "Julia Kim",
-          "team": "Insurance",
-          "email": "julia.c.kim@jpmorgan.com"
-        },
-        {
-          "name": "Emma Xing",
-          "team": "Asia Pacific Credit Research",
-          "email": "emma.xing@jpmorgan.com"
-        },
-        {
-          "name": "Amanda Chang",
-          "team": "Asia Financials",
-          "email": "amanda.chang@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Insurance, Securities, Diversified Financials",
-        "Insurance",
-        "Asia Financials",
-        "Asia Pacific Credit Research"
-      ],
-      "publish_time": "2026-07-14"
     },
     {
       "platform": "JPM",
