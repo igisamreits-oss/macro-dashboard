@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T10:34:21.495980+00:00",
+  "fetched_at": "2026-07-28T22:34:15.677179+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -24,6 +24,40 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-07-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5383885-0",
+      "publication_id": "KAL-1-MJQMZVVH",
+      "title": "Media",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5383885-0",
+      "authors": [
+        {
+          "name": "David Karnovsky, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "david.karnovsky@jpmorgan.com"
+        },
+        {
+          "name": "Alexey Philippov, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "alexey.philippov@jpmorgan.com"
+        },
+        {
+          "name": "Douglas Wardlaw",
+          "team": "Media, Entertainment and Advertising",
+          "email": "douglas.wardlaw@jpmchase.com"
+        },
+        {
+          "name": "Kiscada A Hastings",
+          "team": "Media, Entertainment and Advertising",
+          "email": "kiscada.hastings@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Media, Entertainment and Advertising"
+      ],
+      "publish_time": "2026-07-28"
     },
     {
       "platform": "JPM",
@@ -142,10 +176,10 @@
         }
       ],
       "tags": [
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Asia Autos & EV Battery",
         "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Asia Autos & EV Battery"
       ],
       "publish_time": "2026-07-23"
     },
@@ -180,8 +214,8 @@
       ],
       "tags": [
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-07-15"
     },
@@ -293,11 +327,11 @@
         }
       ],
       "tags": [
-        "Asia Pacific Credit Research",
-        "Insurance",
         "Insurance, Securities, Diversified Financials",
+        "Asia Pacific Credit Research",
+        "India Financials",
         "Asia Financials",
-        "India Financials"
+        "Insurance"
       ],
       "publish_time": "2026-07-21"
     },
