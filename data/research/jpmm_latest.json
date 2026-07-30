@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T10:34:29.263197+00:00",
+  "fetched_at": "2026-07-30T22:34:37.382738+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -176,10 +176,10 @@
         }
       ],
       "tags": [
-        "Asia Autos & EV Battery",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "European Capital Goods"
+        "Asia Autos & EV Battery",
+        "European Capital Goods",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -257,13 +257,42 @@
         }
       ],
       "tags": [
-        "Asia Financials",
-        "Asia Pacific Credit Research",
-        "Insurance",
         "Insurance, Securities, Diversified Financials",
-        "India Financials"
+        "Asia Financials",
+        "India Financials",
+        "Insurance",
+        "Asia Pacific Credit Research"
       ],
       "publish_time": "2026-07-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5344282-0",
+      "publication_id": "KAL-1-XDIL6SDC",
+      "title": "Harvey AI Corp",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5344282-0",
+      "authors": [
+        {
+          "name": "Aaron Steiker",
+          "team": "Private Company Research",
+          "email": "aaron.steiker@jpmorgan.com"
+        },
+        {
+          "name": "Brenda Duverce",
+          "team": "Private Company Research",
+          "email": "brenda.duverce@jpmorgan.com"
+        },
+        {
+          "name": "Lula Sheena, CFA",
+          "team": "Private Company Research",
+          "email": "lula.sheena@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Private Company Research"
+      ],
+      "publish_time": "2026-07-29"
     },
     {
       "platform": "JPM",
