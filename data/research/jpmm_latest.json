@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T22:34:21.425665+00:00",
+  "fetched_at": "2026-07-30T10:34:29.263197+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -176,46 +176,12 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
+        "Asia Autos & EV Battery",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Autos & EV Battery"
+        "European Capital Goods"
       ],
       "publish_time": "2026-07-23"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5367652-0",
-      "publication_id": "KAL-1-1XT5FWW3",
-      "title": "Hardware & Networking",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5367652-0",
-      "authors": [
-        {
-          "name": "Joseph Cardoso",
-          "team": "IT Hardware/ Telecom & Networking Equipment",
-          "email": "joseph.cardoso@jpmchase.com"
-        },
-        {
-          "name": "Manmohanpreet Singh",
-          "team": "IT Hardware/ Telecom & Networking Equipment",
-          "email": "manmohanpreet.singh@jpmchase.com"
-        },
-        {
-          "name": "Marc Vitenzon",
-          "team": "IT Hardware/ Telecom & Networking Equipment",
-          "email": "marc.vitenzon@jpmchase.com"
-        },
-        {
-          "name": "Akanksh Chauhan",
-          "team": "IT Hardware/ Telecom & Networking Equipment",
-          "email": "akanksh.chauhan@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "IT Hardware/ Telecom & Networking Equipment"
-      ],
-      "publish_time": "2026-07-16"
     },
     {
       "platform": "JPM",
@@ -292,9 +258,9 @@
       ],
       "tags": [
         "Asia Financials",
+        "Asia Pacific Credit Research",
         "Insurance",
         "Insurance, Securities, Diversified Financials",
-        "Asia Pacific Credit Research",
         "India Financials"
       ],
       "publish_time": "2026-07-21"
