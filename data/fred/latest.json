@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T10:34:59.432010+00:00",
+  "fetched_at": "2026-07-30T22:35:09.262290+00:00",
   "indicators": {
     "us_cpi_yoy": {
       "actual": 3.5,
@@ -16,17 +16,17 @@
       "source": "fred"
     },
     "us_pce_yoy": {
-      "actual": 4.1,
-      "prior": 3.8,
+      "actual": 3.7,
+      "prior": 4.1,
       "consensus": null,
-      "release_date": "2026-05-01",
+      "release_date": "2026-06-01",
       "source": "fred"
     },
     "us_core_pce_yoy": {
-      "actual": 3.4,
-      "prior": 3.3,
+      "actual": 3.3,
+      "prior": 3.4,
       "consensus": null,
-      "release_date": "2026-05-01",
+      "release_date": "2026-06-01",
       "source": "fred"
     }
   },
@@ -35,7 +35,7 @@
       "rate": 3.75,
       "next_meeting": null,
       "consensus_rate": null,
-      "as_of": "2026-07-29",
+      "as_of": "2026-07-30",
       "source": "fred"
     }
   }

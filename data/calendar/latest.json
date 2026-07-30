@@ -1,9 +1,16 @@
 {
-  "fetched_at": "2026-07-30T22:31:36.922181+00:00",
-  "window_start": "2026-07-24",
-  "window_end": "2026-08-28",
+  "fetched_at": "2026-07-30T22:35:09.346986+00:00",
+  "window_start": "2026-07-23",
+  "window_end": "2026-08-27",
   "source": "schedule.yml",
   "events": [
+    {
+      "date": "2026-07-23",
+      "country": "EU",
+      "indicator_id": "ecb",
+      "time_kst": "21:15",
+      "note": ""
+    },
     {
       "date": "2026-07-29",
       "country": "AU",
