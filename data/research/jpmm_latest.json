@@ -1,30 +1,6 @@
 {
-  "fetched_at": "2026-07-30T22:34:37.382738+00:00",
+  "fetched_at": "2026-07-31T10:34:25.407528+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5369372-0",
-      "publication_id": "GPS-5372698-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5369372-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-07-17"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5383885-0",
@@ -176,10 +152,10 @@
         }
       ],
       "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Asia Autos & EV Battery",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -257,11 +233,11 @@
         }
       ],
       "tags": [
-        "Insurance, Securities, Diversified Financials",
-        "Asia Financials",
         "India Financials",
+        "Asia Pacific Credit Research",
+        "Asia Financials",
         "Insurance",
-        "Asia Pacific Credit Research"
+        "Insurance, Securities, Diversified Financials"
       ],
       "publish_time": "2026-07-21"
     },
