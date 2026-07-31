@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T10:34:25.407528+00:00",
+  "fetched_at": "2026-07-31T22:34:19.176304+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -34,6 +34,42 @@
         "Media, Entertainment and Advertising"
       ],
       "publish_time": "2026-07-28"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5386974-0",
+      "publication_id": "CFP-PC-11811-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5386974-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+      ],
+      "publish_time": "2026-07-30"
     },
     {
       "platform": "JPM",
@@ -153,9 +189,9 @@
       ],
       "tags": [
         "Asia Autos & EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "European Capital Goods",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -233,11 +269,11 @@
         }
       ],
       "tags": [
-        "India Financials",
-        "Asia Pacific Credit Research",
         "Asia Financials",
         "Insurance",
-        "Insurance, Securities, Diversified Financials"
+        "Insurance, Securities, Diversified Financials",
+        "Asia Pacific Credit Research",
+        "India Financials"
       ],
       "publish_time": "2026-07-21"
     },
