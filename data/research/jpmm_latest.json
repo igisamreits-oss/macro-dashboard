@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T01:08:11.638659+00:00",
+  "fetched_at": "2026-08-02T13:08:14.668982+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -188,10 +188,10 @@
         }
       ],
       "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Asia Autos & EV Battery",
-        "European Capital Goods"
+        "European Capital Goods",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
     },
@@ -269,11 +269,11 @@
         }
       ],
       "tags": [
-        "Asia Financials",
-        "Insurance",
-        "Insurance, Securities, Diversified Financials",
         "India Financials",
-        "Asia Pacific Credit Research"
+        "Asia Pacific Credit Research",
+        "Insurance",
+        "Asia Financials",
+        "Insurance, Securities, Diversified Financials"
       ],
       "publish_time": "2026-07-21"
     },
