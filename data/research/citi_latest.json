@@ -1,4 +1,456 @@
 {
-  "fetched_at": "2026-08-03T10:32:14.964031+00:00",
-  "items": []
+  "fetched_at": "2026-08-03T22:32:21.479081+00:00",
+  "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30449457",
+      "title": "European Equity Strategy: Upgrades, Delivery and Dispersion",
+      "summary": "European earnings have largely met expectations, but an unusually powerful pre-reporting upgrade cycle had already raised the bar for positive surprises, and the market response has been highly discerning: rewards for companies delivering earnings and significant penalties for misses.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5NDU3",
+      "tags": [
+        "Equity Strategy"
+      ],
+      "publish_time": "2026-07-31 10:52",
+      "thumbnail": "https://ir.citi.com/rg6xwj4vqk57khx3sSHk6JhhGs-OIjKOIDKmSCgGcvG_EBMC5RdFNuhXBP9Ilqf2GJn_D2E7nFwecWmmw__gqQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449537",
+      "title": "Artificial Intelligence: Pricing, Financing, Routing and Securing",
+      "summary": "AI lab strategies are shifting from maximizing benchmark scores toward developing models designed to address the full stack of enterprise needs across price, function and speed. This is amplifying enterprises’ need for an orchestration layer for model routing, governance, and security.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5NTM3",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Application Software"
+      ],
+      "publish_time": "2026-07-31 17:19",
+      "thumbnail": "https://ir.citi.com/OM4Zg3lfRVejO9r29gjKxwy5dkSQAEcpBbtbqtdI0mKmUi_S2eMoD_lTZyH5cbMBzqECG1qlbsaAGiHEnliN9A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30447410",
+      "title": "Macro-to-Micro: A Look at Iron Ore's Cost Curve",
+      "summary": "We update our proprietary 2026 iron ore cost curve, which points to an industry effective cost support of ~$85 a ton. Our analysis offers bottom-up support for identifying potential price troughs and periods when equity valuations imply iron ore prices below cost-curve-supported levels.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ3NDEw",
+      "tags": [
+        "Diversified Metals & Mining",
+        "Commodities Strategy",
+        "Macro-to-Micro"
+      ],
+      "publish_time": "2026-08-03 01:00",
+      "thumbnail": "https://ir.citi.com/rr3B0ZrgHahzXNE3UYOobj7ogcJGZQQSu8DcO6GZMH4EXGRDJPL0nEkDAQb8O_pbrRLyFZA8djv-Yk-k6muGZg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449729",
+      "title": "We're Downgrading Willis Towers Watson to Neutral",
+      "summary": "We're downgrading Willis Towers Watson to Neutral. The stock now appears to more reasonably discount the outlook, while we lack a differentiated view on the company’s current prospects. We also offer analysis of WTW's investment in AI capabilities.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5NzI5",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Insurance -- Brokers",
+        "Results Read-Across and Call Backs",
+        "Rating Change",
+        "Estimate Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-08-03 05:00",
+      "thumbnail": "https://ir.citi.com/_v1nuGVcs8fLJbe9Ace4BAjJscg5fvmJgMPFfzlWq336AAw4K2qT2-e_khSaCUZm-nU2vJhU_ZaW1Bpn8CwOlQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449766",
+      "title": "U.S. Semis and Semiconductor Equipment: Earnings So Far",
+      "summary": "SOX is up 60% year to date vs. the S&P 500 +9% but down sharply -21% quarter to date vs. S&P500 flat as semis ran into high investor expectations. We look at how demand is holding up for various end markets and recap four key observations and stock actions.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5NzY2",
+      "tags": [
+        "Semiconductors",
+        "Semiconductor Equipment"
+      ],
+      "publish_time": "2026-08-03 05:00",
+      "thumbnail": "https://ir.citi.com/Eyk3ABNwP61qE-YCHf4WvbHARQolAuMVs2BDVqFKqEl5Ovmqfi0xCE1OjoY2cC_lxJecpoASa9wx2SBDSd6rTg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449783",
+      "title": "U.S. Oil & Gas: How Much Power Growth Is Discounted?",
+      "summary": "The sharp pullback in behind-the-meter power providers has erased most year-to-date gains. Is the market correct to assume growth is at risk, or does the sell-off present an opportunity to re-engage on this growth theme? As we explain, we still believe a rising tide can lift all boats.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5Nzgz",
+      "tags": [
+        "Oil & Gas Equipment and Services",
+        "Energy Efficiency"
+      ],
+      "publish_time": "2026-08-03 05:00",
+      "thumbnail": "https://ir.citi.com/e0mCo59KrHWqq5POfTb6n53tdet40iyrq5ZHRl6h9G8Xq12hdHa_hyYA5GZ1kpzxJ-jZAGzwXy3mSN_G7N5gZA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449558",
+      "title": "Global Quantitative Insights: Inside the Momentum Sell-Off",
+      "summary": "The sharp reversal in Momentum has commanded a lot of attention, with investors rotating away from AI tech-oriented winners and back to valuation-sensitive exposures. We explain why we see this as a reset in leadership rather than a definitive end to the broader Growth and Momentum cycle.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5NTU4",
+      "tags": [
+        "Quantitative Insights",
+        "Quantitative Strategy"
+      ],
+      "publish_time": "2026-07-31 18:18",
+      "thumbnail": "https://ir.citi.com/lUXQOU6c-6u2nF_zWR8fE3x1gVfZDLHyVdfkLQ-taFoCisQvcsZF_iS1XRWBWhjW7dQMvq4M6Ls_BqxzNV-t4g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449450",
+      "title": "U.S. Economics Weekly: Dovish Data, Fed Contradict Hawkish Market",
+      "summary": "The Fed opting to hold rates steady and Warsh’s dovish comments led to volatility in markets that had run with a hawkish narrative disconnected from data and the Fed official consensus. The cooling inflation backdrop will be increasingly hard to ignore, keeping 2026 rate hikes unlikely.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5NDUw",
+      "tags": [
+        "U.S. Economics Weekly",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation"
+      ],
+      "publish_time": "2026-07-31 11:00",
+      "thumbnail": "https://ir.citi.com/HGtAGBa8DxCNO1wWkRS22jphJEYsJQNc59swFBVUECKCpIcuphUFbjbKmA4LJ1Oq0Pyhr5g1I8-Ba6PpdAtRgg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449352",
+      "title": "Global Macro Strategy: The Messi Theory of Interest Rates",
+      "summary": "Mervyn King gave us the Maradona Theory of Interest Rates to describe active forward guidance; Kevin Warsh is giving us the Messi Theory of Interest Rates for no guidance. As explored herein, Warsh's game plan could allow markets, rather than the Fed, to tighten financial conditions.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5MzUy",
+      "tags": [
+        "Relative Value",
+        "Trade Idea",
+        "Flagship",
+        "Global Macro Strategy"
+      ],
+      "publish_time": "2026-07-31 10:24",
+      "thumbnail": "https://ir.citi.com/uN33mplsdWEOSfxJXNyLKlO7oRGerLXnI3QtVRRVbeMWq8MNf16XNjo5C1Wxe-_za4mevnCQCTjiy8dvshiNSg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449449",
+      "title": "PULSE Monitor: Stock Picker’s Dilemma",
+      "summary": "As earnings season rolls along, expected positive surprises remain the norm but with significant single stock volatility on follow-through. One of the more interesting storylines as we wrap up July is the year-to-date performance dispersion between large-cap Growth and Value.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5NDQ5",
+      "tags": [
+        "PULSE Monitor",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-07-31 10:39",
+      "thumbnail": "https://ir.citi.com/NTFx56wux2vPbs-4s2PxwV6Z5w-XBfbX3WDg1FnHQMBnmPyo2zy1FbN4_9YHdVx0S0A3ZS02J9pg13mT6GJ5VA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30449204",
+      "title": "Amazon Sees AWS \"Booming\" As Growth Accelerates Meaningfully",
+      "summary": "We emerge from Amazon's second-quarter results incrementally positive. AWS revenue growth accelerated to 37% year over year, spurred by AI revenue, chip sales and accelerating core cloud demand. As discussed in this note, we believe these trends can continue.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5MjA0",
+      "tags": [
+        "Internet",
+        "Target Price Change",
+        "Estimate Change",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-07-31 04:37",
+      "thumbnail": "https://ir.citi.com/ZnAp_yrKJZYS_zPEYtmqT8n3O60le_w3jaMO72M7HEqB5ctHXHLW9vGB_WiBDMl7zClpfPMZbiwmQgzaSe_o8g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448978",
+      "title": "Cross-Border Strength Pushes Mastercard's Margins Higher",
+      "summary": "Mastercard maintained its net revenue growth momentum despite initial headwinds in cross-border travel volumes caused by the Middle East conflict. Looking ahead, we believe that BVNK’s expected third-quarter closing should help MA develop a greater and more integrated stablecoin platform.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4OTc4",
+      "tags": [
+        "FinTech Infrastructure",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-07-30 18:25",
+      "thumbnail": "https://ir.citi.com/KHEPv1LZ5F_NbaMO3xibtGns0VHc65Rt1dqrt6YgvlXSYXG4j8TC3D196zx4Ol66B4hFSnVGw8aU8jpN4E2JZw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448953",
+      "title": "U.S. Application Software: Takeaways From Our CFO Survey",
+      "summary": "Our July CFO survey finds measured optimism as software spend expectations moderated vs. 2025, yet year-to-date budget revisions trended positively. The defining theme? An unmistakable commitment to AI, as the share of organizations allocating 20%+ of budget to AI surged to 33% from 3%.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4OTUz",
+      "tags": [
+        "Application Software",
+        "Artificial Intelligence (AI)",
+        "Cloud Computing",
+        "Innovation Lab"
+      ],
+      "publish_time": "2026-07-30 19:10",
+      "thumbnail": "https://ir.citi.com/M5sHbySl62HuXcA67eAErDOFlGMxgmp0HS93E4QfP8fSQQ3yOmUHl0hMPr0gtm4HiYB4gUJ0kSQnYAGB8na5qA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448996",
+      "title": "U.S. Banks: What to Watch for in the Second Half",
+      "summary": "“What's more important: NIM or NII?” was the debate throughout second-quarter earnings, and we think the conversation is far from settled given the current interest-rate environment. We discuss that as well as what our recent work on 12-month forward-looking fixed-rate repricing suggests.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4OTk2",
+      "tags": [
+        "Diversified Banks",
+        "Regional Banks",
+        "Banks"
+      ],
+      "publish_time": "2026-07-31 05:00",
+      "thumbnail": "https://ir.citi.com/8-5DNDzv0Mpq96wZI4Nx7Tf3eYePt5JmJWxy37jHsa-49Kb97wvMinSVzzY-fJhHCI1Ef6zjjT9RZENfHpTo5A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448796",
+      "title": "U.S. Economics: Another Dovish Inflation Report",
+      "summary": "Core PCE inflation surprised lower at 0.13% month over month following cooler than expected CPI and PPI June reports, as the market narrative that the Fed will need to hike to lower inflation remains divorced from economic data. We see 3.3% year-over-year core PCE as an obvious outlier.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4Nzk2",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Growth",
+        "Inflation",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-07-30 10:18",
+      "thumbnail": "https://ir.citi.com/eAoWC_oMcTqa6cyBVlo-xViFiyoqAfYN4HLArXlt2EQX7rCzBjKQuKYNh6iFl5iCRZFm3U6RpIpRB8QrrXJXBQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448806",
+      "title": "U.S. Economics: Look at the Trend, Not Level, of Initial Claims",
+      "summary": "While the level of U.S. initial jobless claims is very low and suggestive of still-low layoffs, we think the trend is more important. What we're seeing looks very similar to last year's patterns, and so leaves us expecting a rising unemployment rate in the late summer/early fall.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4ODA2",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Labor Market",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-07-30 10:24",
+      "thumbnail": "https://ir.citi.com/0gdblUA9GwWjQGD4L2rhtNrmnf1v4kP31ajnh0-JGSvcjVprvfH2YMWlFpU9ruUnGBvJ9Xrkm5OjIr1HD0Bxcw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448789",
+      "title": "UK Economics: A Committee That Really Doesn't Want to Hike",
+      "summary": "The UK left rates unchanged, with July's monetary policy report showing little appetite for raising the bank rate. In their communication, policymakers focused on the growing slack in the real economy to justify their stance. But we think their inflation profile is too weak.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4Nzg5",
+      "tags": [
+        "Central Banks",
+        "Monetary Policy",
+        "UK Economics",
+        "Economic Analysis",
+        "Inflation"
+      ],
+      "publish_time": "2026-07-30 10:39",
+      "thumbnail": "https://ir.citi.com/afx8VoxKw7a1qvvmiLG9SXWH0GaMO0z1I5CqJbmU0UzC1Zx1gtBOdHieh-0WG0LLLkuND_rf5lIrkOqr4KtMKg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448741",
+      "title": "India Equity Strategy: Reviewing First-Quarter Earnings So Far",
+      "summary": "So far India's first-quarter results have been ahead on earnings though subdued on an absolute basis. Indian equities, particular Tech, have been net beneficiaries in the global AI rotation trade. We review other factors we see at play that leave us staying constructive overall.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4NzQx",
+      "tags": [
+        "Computer Services & IT Consulting",
+        "Equity Strategy",
+        "Artificial Intelligence (AI)",
+        "India Equity Strategy"
+      ],
+      "publish_time": "2026-07-30 22:00",
+      "thumbnail": "https://ir.citi.com/atClJlqY7fQxFz98t41XmDUb4AMKtM9KFkAJfeaClb4TFoS0gUfrByuDrfKHsG4Pr8-S7ol1QYaD9mp_QmUFRw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448919",
+      "title": "European Rates Weekly: Holding the Line",
+      "summary": "Like Fed Chair Warsh, UK Governor Bailey seems keen to hold. We come out of the July Bank of England meeting with stronger conviction in receiving September MPC SONIA and wary of steepening risk for gilts ahead. We also look at € spreads and the persistent stickiness of Schatz.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4OTE5",
+      "tags": [
+        "Trade Idea",
+        "Monetary Policy",
+        "Macro Strategy",
+        "Flagship",
+        "European Rates Weekly"
+      ],
+      "publish_time": "2026-07-30 15:53",
+      "thumbnail": "https://ir.citi.com/U9abuzNGUycO2PvCTJeq9MypkiCUy4nClFBcGgVA89zTgDTDGhmHfy9-W6xdQL0AgdmvRSopyfwQzWIUbJk0LQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448318",
+      "title": "Fed Holds, Warsh Dovishly Points Away From Hikes",
+      "summary": "The Fed held rates steady, as expected, but a surprise came with Warsh's dovish suggestion that he's watching a “broader range” of inflation metrics and that markets may have already done the work of tightening conditions. We continue to expect rate cuts in October, December and January.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4MzE4",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks",
+        "Monetary Policy",
+        "Labor Market"
+      ],
+      "publish_time": "2026-07-29 16:33",
+      "thumbnail": "https://ir.citi.com/Kxb4JXkI8YCsoWT8DUu_Uk18HV6yi0Lx1rkuFN6IAR6nqE8LDJ5g60Ti9CrXyM-VRjpyi8rEJdmQjwaIjRur4A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448594",
+      "title": "We're Raising Our Microsoft Estimates and Target Price",
+      "summary": "Microsoft’s strong 4Q26 results offered a solid rebuttal to the bear case, with broad-based upside across revenue, earnings, and guidance. Azure and Copilot were standout drivers, while profitability and efficiency improved. We raise our FY27 estimates and lift our target price to $600.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4NTk0",
+      "tags": [
+        "Systems Software",
+        "Artificial Intelligence (AI)",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-07-30 05:10",
+      "thumbnail": "https://ir.citi.com/9D3-jp_QDuJmst8GMS40D1uov11Wp48YgPOCzvhxAfFf81Jfxs1xCnW-3c-JeRmfsv0rfGTur3xOg3Vi2XQL0g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30446658",
+      "title": "Japan Equity Strategy: Tech Adjustment in Final Phase",
+      "summary": "Tech stocks corrected sharply from late June, with the Nikkei falling from its highs. Yet high-beta sectors performed well and TOPIX was flat, suggesting broader risk aversion hasn't intensified. Additional downside looks limited, and we still expect a tech-led bull market by year-end.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ2NjU4",
+      "tags": [
+        "Japan Equity Strategy"
+      ],
+      "publish_time": "2026-07-30 02:35",
+      "thumbnail": "https://ir.citi.com/6NVsBRNfQ4KCdCQEgFFk11D6vWx44kOOgXqp8zE0gIaRObEkpBpfSUagAxi1qWX7f4ONbbb7EuynA1nk3RvyYw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448634",
+      "title": "Emerging Markets Strategy Weekly: The Fed Wants It Steeper",
+      "summary": "Markets may sell some USD in the near term if the Fed stays on hold. Short-term noise doesn’t eradicate our theory of a medium-term U.S.-Iran compromise. We believe the Fed will be comfortable to keep rates unchanged throughout the year. In equities, value continues to outperform growth.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4NjM0",
+      "tags": [
+        "Emerging Markets Strategy"
+      ],
+      "publish_time": "2026-07-30 10:35",
+      "thumbnail": "https://ir.citi.com/MTdBs6v0xBF--hLAy2lAwv-7pGXPLgNwEeQjh1tCZTMuNMinXdRvvL0f3mVvRxAj6ewl3qYwGTonJ92bqSgBcQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448647",
+      "title": "China Economics: Rate Cut Green Light, Fiscal Acceleration Ahead",
+      "summary": "The Politburo convened its mid-year meeting today to discuss economic issues. The readout came in broadly in line with our expectations — stronger policy rhetoric, but light on specific actions. We summarize our takeaways in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4NjQ3",
+      "tags": [
+        "Economic Analysis",
+        "Central Banks",
+        "Economic Forecast"
+      ],
+      "publish_time": "2026-07-30 07:35",
+      "thumbnail": "https://ir.citi.com/Li0X45uvlLuiBrhLdr5p_lNtqzdp7svodHqs12PjEPx8J5ODXRVHe01lv1XoTV_-xpgC1xhJDO3UFcbPHmUiDQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30448022",
+      "title": "We're Upgrading Ford to Buy",
+      "summary": "We're upgrading Ford to Buy, as we see a turnabout in momentum for the company. Accelerating production of the F-series, lower warranty accruals, an improved aluminum supply and moderating material costs are all positive signs for 2026's second half. We offer further analysis within.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4MDIy",
+      "tags": [
+        "Auto Manufacturers",
+        "Rating Change",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-07-29 07:09",
+      "thumbnail": "https://ir.citi.com/qHsCue-0vYwh8oMpFcZdL_klXjuDnL_5pw6iKLC7R42XjvkEu8Vb8eu4b3gUDbMQlaEwwg6y7QAGrq685mGggQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30447753",
+      "title": "The Speculative Grade Beat: Reversing Our AI Recommendation",
+      "summary": "Our January overweight call on AI delivered, as AI returned 8.5% against the index's 2.6% through June. But the picture changed in July as AI lagged by nearly 300 basis points, revealing more fragility than headlines initially suggested. We reverse our recommendation to underweight.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ3NzUz",
+      "tags": [
+        "Flagship",
+        "The Speculative Grade Beat",
+        "Artificial Intelligence (AI)",
+        "Credit Analysis"
+      ],
+      "publish_time": "2026-07-29 07:00",
+      "thumbnail": "https://ir.citi.com/DmWSDtr0D4Cw859RhIve40AhYZp9-sB-pvv5W1y23mglizN_tnDgEcMkHg4lIlUAGtMl0Q8ClMHdTSkM495lMw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30447862",
+      "title": "Seagate Delivers a Beat & Raise Quarter",
+      "summary": "Seagate delivered better-than-expected results and guidance, as demand remains exceptionally strong from hyperscalers, AI workloads and growing data retention and a number of factors continue to drive margin expansion. We raise our target price on Buy-rated STX to $1,300.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ3ODYy",
+      "tags": [
+        "Hardware & Storage",
+        "Short-Term View",
+        "Target Price Change",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-07-29 00:48",
+      "thumbnail": "https://ir.citi.com/5_JUPQgfbATBwzRjmqCPBrgpn8EbpMpU90rK-ZUG9hNSmbqvqy45356rMtemEGaH0jK1bViUqb3lOyefgm6U4Q%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30447878",
+      "title": "Visa Sees Value-Added Services Growth Separating Itself",
+      "summary": "Visa delivered another quarter marked by broad-based outperformance: Consumer spending remained resilient and we particularly note continued acceleration in Value-Added Services. Indications point to FY27 as another strong year above recent growth rates; we raise our target price to $440.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ3ODc4",
+      "tags": [
+        "FinTech Infrastructure",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-07-29 01:04",
+      "thumbnail": "https://ir.citi.com/JHSMTv4LO-qb3WvKQnHvaVVD5jjl1gL4CJ3RiHJv9pC4B99TN5Tz9VBSYAsQMK_W-ROkxk9-xEXWVNU4oNhSzQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30447635",
+      "title": "U.S. Equity Strategy: AI’s Subtle S&P 500 Impacts",
+      "summary": "Our “cluster” approach to aligning the S&P 500 per Growth, Cyclical and Defensive components raises important index considerations, as explored herein. Overall, the underlying AI influence on U.S. equities is testing conventional investment perspectives and asset-allocation decisions.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ3NjM1",
+      "tags": [
+        "U.S. Equity Strategy",
+        "Artificial Intelligence (AI)",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-07-28 12:28",
+      "thumbnail": "https://ir.citi.com/B2NEyVoirhSc-m2Cyueoe2AkoE--ETcN76vfomW749MA4MN8Ji4l4EKTyqjpXsUmMafSja6iUYhDT20Pzc4Sdg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30447402",
+      "title": "Cadence Design Systems' Revenue Momentum Looks Set to Continue",
+      "summary": "Cadence Design Systems reported a solid beat-and-raise quarter and raised FY26 revenue guidance to $6.30 billion, up 19% year-over-year. We see revenue momentum extending through 2027 and so raise our EPS estimates and increase our target price for Buy-rated CDNS to $420.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ3NDAy",
+      "tags": [
+        "Application Software",
+        "Basket",
+        "Catalyst Watch",
+        "Rating Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-07-28 03:11",
+      "thumbnail": "https://ir.citi.com/vK8rV-ay6_kjQn3GPpER53XIsQnfAkzzwMc0uNAENt0L5W1aNpk5z3rDUFGvbtKHIgi-Mj3hG6Wu09aODNK-6w%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30447263",
+      "title": "Quantitative Global Macro Strategy: Selectively Concentrated",
+      "summary": "Asset allocators remain pro-risk but increasingly selective and concentrated. Under the hood, investors retain conviction in AI-led growth while diversifying away from expensive, concentrated U.S. exposure. In this note we also analyze the macro picture and consider other asset classes.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ3MjYz",
+      "tags": [
+        "Model Portfolio",
+        "Quantitative Global Macro Strategy",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-07-27 15:17",
+      "thumbnail": "https://ir.citi.com/FLOOLiqSy4YKT7a1yF58m9TEWwMFxll0n7l9pc7GsYQqp98QsOqDMEqroOnKw1nfZysxGKQ5rxnzazFRLeH1jw%3D%3D"
+    }
+  ]
 }

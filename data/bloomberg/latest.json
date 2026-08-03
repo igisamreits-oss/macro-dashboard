@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T10:31:18.190193+00:00",
+  "fetched_at": "2026-08-03T22:31:26.799454+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -109,7 +109,7 @@
       "actual": 2.2,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-08-03",
+      "release_date": "2026-08-04",
       "source": "bdp"
     },
     "jp_cpi_yoy": {
@@ -413,7 +413,7 @@
       "actual": 42.7,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-08-03",
+      "release_date": "2026-08-04",
       "source": "bdp"
     },
     "se_consumer_conf": {
@@ -518,9 +518,9 @@
   },
   "snapshots": {
     "us_pol_sofr": {
-      "value": 3.65,
-      "change_1d": 0.0,
-      "as_of": "2026-07-30"
+      "value": 3.66,
+      "change_1d": 0.01,
+      "as_of": "2026-07-31"
     },
     "ca_pol_corra": {
       "value": 2.31,
@@ -558,28 +558,28 @@
       "as_of": "2026-07-31"
     },
     "us_be_10y": {
-      "value": 2.2784,
-      "change_1d": -0.0062,
+      "value": 2.2622,
+      "change_1d": -0.0224,
       "as_of": "2026-08-03"
     },
     "uk_be_10y": {
-      "value": 3.208,
-      "change_1d": -0.02,
+      "value": 3.187,
+      "change_1d": -0.041,
       "as_of": "2026-08-03"
     },
     "eu_be_10y": {
-      "value": 1.05,
-      "change_1d": -0.036,
+      "value": 1.06,
+      "change_1d": -0.026,
       "as_of": "2026-08-03"
     },
     "de_be_10y": {
-      "value": 1.9876,
-      "change_1d": -0.0468,
+      "value": 1.984,
+      "change_1d": -0.0504,
       "as_of": "2026-08-03"
     },
     "fr_be_10y": {
-      "value": 2.122,
-      "change_1d": -0.036,
+      "value": 2.127,
+      "change_1d": -0.031,
       "as_of": "2026-08-03"
     },
     "au_be_10y": {
@@ -593,8 +593,8 @@
       "as_of": "2026-08-03"
     },
     "se_be_10y": {
-      "value": 1.758,
-      "change_1d": -0.001,
+      "value": 1.757,
+      "change_1d": -0.002,
       "as_of": "2026-08-03"
     },
     "us_mort_30y": {
@@ -607,31 +607,31 @@
     "fomc": {
       "rate": 3.75,
       "consensus_rate": null,
-      "implied_1y": 4.0366,
+      "implied_1y": 4.0365,
       "next_meeting": null
     },
     "ecb": {
       "rate": 2.25,
       "consensus_rate": null,
-      "implied_1y": 2.5806,
+      "implied_1y": 2.5885,
       "next_meeting": null
     },
     "boe": {
       "rate": 3.75,
       "consensus_rate": null,
-      "implied_1y": 4.1036,
+      "implied_1y": 4.0998,
       "next_meeting": null
     },
     "rba": {
       "rate": 4.35,
       "consensus_rate": null,
-      "implied_1y": 4.563,
+      "implied_1y": 4.561,
       "next_meeting": null
     },
     "boj": {
       "rate": 1.0,
       "consensus_rate": null,
-      "implied_1y": 1.3375,
+      "implied_1y": 1.3387,
       "next_meeting": null
     },
     "boc": {
