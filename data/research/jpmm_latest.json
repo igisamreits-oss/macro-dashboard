@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T23:13:56.296501+00:00",
+  "fetched_at": "2026-08-03T10:34:15.666212+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -65,9 +65,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-07-30"
     },
@@ -188,10 +188,10 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Asia Autos & EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "European Capital Goods"
       ],
       "publish_time": "2026-07-23"
     },
@@ -269,11 +269,11 @@
         }
       ],
       "tags": [
+        "Asia Financials",
         "Insurance",
-        "Asia Pacific Credit Research",
-        "Insurance, Securities, Diversified Financials",
         "India Financials",
-        "Asia Financials"
+        "Insurance, Securities, Diversified Financials",
+        "Asia Pacific Credit Research"
       ],
       "publish_time": "2026-07-21"
     },
