@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T22:34:22.439596+00:00",
+  "fetched_at": "2026-08-04T10:34:16.883309+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -73,93 +73,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5373189-0",
-      "publication_id": "KAL-1-T95EV9VB",
-      "title": "2Q26 U.S. Wireless and Broadband Preview",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5373189-0",
-      "authors": [
-        {
-          "name": "Sebastiano C Petti",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "sebastiano.c.petti@jpmorgan.com"
-        },
-        {
-          "name": "Shayna Nguyen",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "shayna.nguyen@jpmchase.com"
-        },
-        {
-          "name": "John Stid",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "john.stid@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Telecom Services, Cable & Satellite"
-      ],
-      "publish_time": "2026-07-21"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5373287-0",
-      "publication_id": "KAL-1-T95EV9VB",
-      "title": "2Q26 Canadian Communications Preview",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5373287-0",
-      "authors": [
-        {
-          "name": "Sebastiano C Petti",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "sebastiano.c.petti@jpmorgan.com"
-        },
-        {
-          "name": "Shayna Nguyen",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "shayna.nguyen@jpmchase.com"
-        },
-        {
-          "name": "John Stid",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "john.stid@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Telecom Services, Cable & Satellite"
-      ],
-      "publish_time": "2026-07-21"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5375355-0",
-      "publication_id": "KAL-1-T95EV9VB",
-      "title": "Telecom Services, Cable & Satellite 2Q26 Preview Webinar",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5375355-0",
-      "authors": [
-        {
-          "name": "Sebastiano C Petti",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "sebastiano.c.petti@jpmorgan.com"
-        },
-        {
-          "name": "John Stid",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "john.stid@jpmorgan.com"
-        },
-        {
-          "name": "Shayna Nguyen",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "shayna.nguyen@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Telecom Services, Cable & Satellite"
-      ],
-      "publish_time": "2026-07-21"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5378003-0",
       "publication_id": "KAL-1-3PWHBLXS",
       "title": "Global Alternative Energy",
@@ -190,10 +103,46 @@
       "tags": [
         "European Capital Goods",
         "Asia Autos & EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-07-23"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5390808-0",
+      "publication_id": "CFP-PC-11812-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5390808-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+      ],
+      "publish_time": "2026-07-31"
     },
     {
       "platform": "JPM",
@@ -218,64 +167,6 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-07-24"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5366244-0",
-      "publication_id": "GPS-5379105-0",
-      "title": "Asia Insurance",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5366244-0",
-      "authors": [
-        {
-          "name": "MW Kim",
-          "team": "Insurance",
-          "email": "mw.kim@jpmorgan.com"
-        },
-        {
-          "name": "Matthew Hughart",
-          "team": "Asia Pacific Credit Research",
-          "email": "matthew.hughart@jpmorgan.com"
-        },
-        {
-          "name": "Koki Sato",
-          "team": "Insurance, Securities, Diversified Financials",
-          "email": "koki.sato@jpmorgan.com"
-        },
-        {
-          "name": "Madhukar Ladha",
-          "team": "India Financials",
-          "email": "madhukar.ladha@jpmorgan.com"
-        },
-        {
-          "name": "Jemmy S Huang",
-          "team": "Asia Financials",
-          "email": "jemmy.s.huang@jpmorgan.com"
-        },
-        {
-          "name": "Dan Wang",
-          "team": "Insurance",
-          "email": "dan.wang@jpmorgan.com"
-        },
-        {
-          "name": "Julia Kim",
-          "team": "Insurance",
-          "email": "julia.c.kim@jpmorgan.com"
-        },
-        {
-          "name": "Emma Xing",
-          "team": "Asia Pacific Credit Research",
-          "email": "emma.xing@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Asia Financials",
-        "Insurance, Securities, Diversified Financials",
-        "Asia Pacific Credit Research",
-        "India Financials",
-        "Insurance"
-      ],
-      "publish_time": "2026-07-21"
     },
     {
       "platform": "JPM",
