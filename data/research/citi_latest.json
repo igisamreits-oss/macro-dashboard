@@ -1,6 +1,71 @@
 {
-  "fetched_at": "2026-08-07T10:32:10.073569+00:00",
+  "fetched_at": "2026-08-07T22:32:05.673251+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30451973",
+      "title": "Global Equity Strategy: The Case for Continued Broadening",
+      "summary": "The building blocks for broader market leadership are emerging: improving cyclical conditions, stronger economic surprises, broader earnings upgrades, and a pause in narrow Tech/AI leadership. We see broadening as expanded market participation, not a rotation away from Tech/AI.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUxOTcz",
+      "tags": [
+        "Equity Strategy"
+      ],
+      "publish_time": "2026-08-06 18:59",
+      "thumbnail": "https://ir.citi.com/FnKJtcjA67jkkA0f0pepiGchrvOyuN0mJnhJOHxzxWbUEuKHo4aIZ1eOHWfbuC7g-Fh1iGelw_EmFgvJDcNWIw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30452199",
+      "title": "U.S. Airlines: Supermajors Best Positioned to Outperform",
+      "summary": "We're updating EPS estimates, price targets, and views following earnings season. Fundamentals have improved since the fuel shock, but mixed trends create a complex backdrop. We favor supermajors and reiterate bullish views on DAL, UAL, and AAL, while downgrading JBLU to Sell/High Risk.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUyMTk5",
+      "tags": [
+        "Airlines",
+        "Estimate Change",
+        "Rating Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-08-07 04:19",
+      "thumbnail": "https://ir.citi.com/8cjTltXlMceScT2rPQNE8Bt3q80cy05fZxgp2FpZK22KzCktxYZdmxAykuFLXZ9D5cvq44VVr1XP5pPWkAIVbw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30452009",
+      "title": "Datadog's C2Q26 Results Reinforce Our Buy Rating",
+      "summary": "DDOG posted strong results, with demand from AI-native and traditional customers validating surging observability needs. Slower growth in contracted revenue and a big customer's usage reduction raise concerns, but conservative guidance and strong execution support sustained mid-30% growth.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUyMDA5",
+      "tags": [
+        "Datadog"
+      ],
+      "publish_time": "2026-08-06 16:52",
+      "thumbnail": "https://ir.citi.com/QFMI8-rOjKFVXCOfHgVF5u7ctJn3EKOaGgXTG0CoPjPxZSihtNbt47ImvFeY0UsHbjI-yleMubtFQYcujcc10A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30452165",
+      "title": "Japan Economics: Regime Shift in BoJ Policy",
+      "summary": "We believe coordinated U.S.-Japan currency intervention marks a turning point, leading us to adopt a more aggressive BoJ outlook. We now expect rate hikes to begin in September and continue through next year, with the policy rate reaching 2%, though the risk of faster hikes remains.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUyMTY1",
+      "tags": [
+        "Economic Analysis",
+        "Monetary Policy",
+        "Central Banks"
+      ],
+      "publish_time": "2026-08-06 22:09",
+      "thumbnail": "https://ir.citi.com/ua1ST9YhujS50BxhoRb5LJ2JDoImZUaxAiOTK_rhsnkECZS1-2QdT81AGtDhOzcEAhGwySvXbUdH-WTEyZrTmQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30451992",
+      "title": "Mexico Economics: Banxico Reinforcing Stable Rates",
+      "summary": "Banxico kept rates at 6.50% and maintained guidance. A slightly more hawkish inflation outlook reinforces a preference to hold rates steady, not signal hikes. We expect rates to remain at 6.50% through 2027, with persistent services inflation and the Mexico-U.S. rate gap limiting easing.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUxOTky",
+      "tags": [
+        "Central Banks"
+      ],
+      "publish_time": "2026-08-06 16:34",
+      "thumbnail": "https://ir.citi.com/2x3XwLMLNe2vwRLhWzKvl-tHsOfo3BIdiB4aQbe0lrMlovV-1Aw4QfkiC3nfzySTc-11LZQRgvwXGRa-4gABGw%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30451943",
@@ -481,128 +546,6 @@
       ],
       "publish_time": "2026-07-31 10:39",
       "thumbnail": "https://ir.citi.com/NTFx56wux2vPbs-4s2PxwV6Z5w-XBfbX3WDg1FnHQMBnmPyo2zy1FbN4_9YHdVx0S0A3ZS02J9pg13mT6GJ5VA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30449204",
-      "title": "Amazon Sees AWS \"Booming\" As Growth Accelerates Meaningfully",
-      "summary": "We emerge from Amazon's second-quarter results incrementally positive. AWS revenue growth accelerated to 37% year over year, spurred by AI revenue, chip sales and accelerating core cloud demand. As discussed in this note, we believe these trends can continue.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ5MjA0",
-      "tags": [
-        "Internet",
-        "Target Price Change",
-        "Estimate Change",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-07-31 04:37",
-      "thumbnail": "https://ir.citi.com/ZnAp_yrKJZYS_zPEYtmqT8n3O60le_w3jaMO72M7HEqB5ctHXHLW9vGB_WiBDMl7zClpfPMZbiwmQgzaSe_o8g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448978",
-      "title": "Cross-Border Strength Pushes Mastercard's Margins Higher",
-      "summary": "Mastercard maintained its net revenue growth momentum despite initial headwinds in cross-border travel volumes caused by the Middle East conflict. Looking ahead, we believe that BVNK’s expected third-quarter closing should help MA develop a greater and more integrated stablecoin platform.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4OTc4",
-      "tags": [
-        "FinTech Infrastructure",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-07-30 18:25",
-      "thumbnail": "https://ir.citi.com/KHEPv1LZ5F_NbaMO3xibtGns0VHc65Rt1dqrt6YgvlXSYXG4j8TC3D196zx4Ol66B4hFSnVGw8aU8jpN4E2JZw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448953",
-      "title": "U.S. Application Software: Takeaways From Our CFO Survey",
-      "summary": "Our July CFO survey finds measured optimism as software spend expectations moderated vs. 2025, yet year-to-date budget revisions trended positively. The defining theme? An unmistakable commitment to AI, as the share of organizations allocating 20%+ of budget to AI surged to 33% from 3%.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4OTUz",
-      "tags": [
-        "Application Software",
-        "Artificial Intelligence (AI)",
-        "Cloud Computing",
-        "Innovation Lab"
-      ],
-      "publish_time": "2026-07-30 19:10",
-      "thumbnail": "https://ir.citi.com/M5sHbySl62HuXcA67eAErDOFlGMxgmp0HS93E4QfP8fSQQ3yOmUHl0hMPr0gtm4HiYB4gUJ0kSQnYAGB8na5qA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448996",
-      "title": "U.S. Banks: What to Watch for in the Second Half",
-      "summary": "“What's more important: NIM or NII?” was the debate throughout second-quarter earnings, and we think the conversation is far from settled given the current interest-rate environment. We discuss that as well as what our recent work on 12-month forward-looking fixed-rate repricing suggests.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4OTk2",
-      "tags": [
-        "Diversified Banks",
-        "Regional Banks",
-        "Banks"
-      ],
-      "publish_time": "2026-07-31 05:00",
-      "thumbnail": "https://ir.citi.com/8-5DNDzv0Mpq96wZI4Nx7Tf3eYePt5JmJWxy37jHsa-49Kb97wvMinSVzzY-fJhHCI1Ef6zjjT9RZENfHpTo5A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448796",
-      "title": "U.S. Economics: Another Dovish Inflation Report",
-      "summary": "Core PCE inflation surprised lower at 0.13% month over month following cooler than expected CPI and PPI June reports, as the market narrative that the Fed will need to hike to lower inflation remains divorced from economic data. We see 3.3% year-over-year core PCE as an obvious outlier.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4Nzk2",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Growth",
-        "Inflation",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-07-30 10:18",
-      "thumbnail": "https://ir.citi.com/eAoWC_oMcTqa6cyBVlo-xViFiyoqAfYN4HLArXlt2EQX7rCzBjKQuKYNh6iFl5iCRZFm3U6RpIpRB8QrrXJXBQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448806",
-      "title": "U.S. Economics: Look at the Trend, Not Level, of Initial Claims",
-      "summary": "While the level of U.S. initial jobless claims is very low and suggestive of still-low layoffs, we think the trend is more important. What we're seeing looks very similar to last year's patterns, and so leaves us expecting a rising unemployment rate in the late summer/early fall.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4ODA2",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Labor Market",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-07-30 10:24",
-      "thumbnail": "https://ir.citi.com/0gdblUA9GwWjQGD4L2rhtNrmnf1v4kP31ajnh0-JGSvcjVprvfH2YMWlFpU9ruUnGBvJ9Xrkm5OjIr1HD0Bxcw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448789",
-      "title": "UK Economics: A Committee That Really Doesn't Want to Hike",
-      "summary": "The UK left rates unchanged, with July's monetary policy report showing little appetite for raising the bank rate. In their communication, policymakers focused on the growing slack in the real economy to justify their stance. But we think their inflation profile is too weak.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4Nzg5",
-      "tags": [
-        "Central Banks",
-        "Monetary Policy",
-        "UK Economics",
-        "Economic Analysis",
-        "Inflation"
-      ],
-      "publish_time": "2026-07-30 10:39",
-      "thumbnail": "https://ir.citi.com/afx8VoxKw7a1qvvmiLG9SXWH0GaMO0z1I5CqJbmU0UzC1Zx1gtBOdHieh-0WG0LLLkuND_rf5lIrkOqr4KtMKg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448741",
-      "title": "India Equity Strategy: Reviewing First-Quarter Earnings So Far",
-      "summary": "So far India's first-quarter results have been ahead on earnings though subdued on an absolute basis. Indian equities, particular Tech, have been net beneficiaries in the global AI rotation trade. We review other factors we see at play that leave us staying constructive overall.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4NzQx",
-      "tags": [
-        "Computer Services & IT Consulting",
-        "Equity Strategy",
-        "Artificial Intelligence (AI)",
-        "India Equity Strategy"
-      ],
-      "publish_time": "2026-07-30 22:00",
-      "thumbnail": "https://ir.citi.com/3AIOS2zk69onwA6ZyQMEeHyqQvKzJB5JRJte5LPOTZrS1yaLbgfoLPQrr9cZP-Vc7sMbSagFPxcSdLIQ8YOMgg%3D%3D"
     }
   ]
 }
