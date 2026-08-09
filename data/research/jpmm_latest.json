@@ -1,4 +1,140 @@
 {
-  "fetched_at": "2026-08-08T13:08:19.834426+00:00",
-  "items": []
+  "fetched_at": "2026-08-09T01:08:23.599380+00:00",
+  "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5383885-0",
+      "publication_id": "KAL-1-MJQMZVVH",
+      "title": "Media",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5383885-0",
+      "authors": [
+        {
+          "name": "David Karnovsky, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "david.karnovsky@jpmorgan.com"
+        },
+        {
+          "name": "Alexey Philippov, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "alexey.philippov@jpmorgan.com"
+        },
+        {
+          "name": "Douglas Wardlaw",
+          "team": "Media, Entertainment and Advertising",
+          "email": "douglas.wardlaw@jpmchase.com"
+        },
+        {
+          "name": "Kiscada A Hastings",
+          "team": "Media, Entertainment and Advertising",
+          "email": "kiscada.hastings@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Media, Entertainment and Advertising"
+      ],
+      "publish_time": "2026-07-28"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5386974-0",
+      "publication_id": "CFP-PC-11811-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5386974-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5390808-0",
+      "publication_id": "CFP-PC-11812-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5390808-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
+      ],
+      "publish_time": "2026-07-31"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5344282-0",
+      "publication_id": "KAL-1-XDIL6SDC",
+      "title": "Harvey AI Corp",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5344282-0",
+      "authors": [
+        {
+          "name": "Aaron Steiker",
+          "team": "Private Company Research",
+          "email": "aaron.steiker@jpmorgan.com"
+        },
+        {
+          "name": "Brenda Duverce",
+          "team": "Private Company Research",
+          "email": "brenda.duverce@jpmorgan.com"
+        },
+        {
+          "name": "Lula Sheena, CFA",
+          "team": "Private Company Research",
+          "email": "lula.sheena@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Private Company Research"
+      ],
+      "publish_time": "2026-07-29"
+    }
+  ]
 }
