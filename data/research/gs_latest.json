@@ -1,4 +1,1215 @@
 {
-  "fetched_at": "2026-08-09T13:07:15.976442+00:00",
-  "items": []
+  "fetched_at": "2026-08-10T10:33:13.268702+00:00",
+  "items": [
+    {
+      "platform": "GS",
+      "doc_id": "43ea25e6-53c1-4b06-bae0-e518c60188cb",
+      "title": "Hudson Pacific Properties Inc. (HPP): 2Q26 Update: 2Q FFO beat, with smaller FY guidance increase (driven by G&A) as 2H SS NOI headwinds are expected",
+      "summary": "HPP reported 2Q26 Core FFOPS of $0.35, 11.0%/25.8% above the GS/Factset consensus estimate of $0.32/$0.28, +31% y/y, and +39.6% q/q. The beat versus our estimate was driven by higher-than-expected occupancy in the quarte...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/07/43ea25e6-53c1-4b06-bae0-e518c60188cb.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-07"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "78d41127-73c7-4b8c-9cd5-d68f9ce697c1",
+      "title": "Ventas Inc. (VTR): Updating 2Q26 Estimates and Price Target",
+      "summary": "We are updating our VTR estimates to reflect the company's 2Q26 results & increased 2026 guidance. Ventas raised their 2026 guidance expectations with normalized FFO at the midpoint now anticipated at $3.88 (range of $3.85-$3.90) vs.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/78d41127-73c7-4b8c-9cd5-d68f9ce697c1.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "fe323c4f-96b6-483f-8a37-f7d189f90620",
+      "title": "Omega Healthcare Investors Inc. (OHI): Updating Estimates for 2Q26 Results",
+      "summary": "We are updating our OHI estimates to reflect the company's 2Q26 results and increased 2026 guidance. Our new AFFO estimates are now +1%, +2%, and +2% vs. Visible Alpha consensus in 2026, 2027, and 2028. We reiterate our ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/fe323c4f-96b6-483f-8a37-f7d189f90620.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "95048253-1407-48db-9086-dc38640fa3f9",
+      "title": "Vornado Realty Trust (VNO): 2Q26 Update: FFOPS uplift pulled slightly forward",
+      "summary": "Following 2Q26 earnings, we provide earnings call takeaways, update our model and price target, and show valuation trends. See inside for details.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/95048253-1407-48db-9086-dc38640fa3f9.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "cda49460-613d-4630-872a-904f29db20d3",
+      "title": "Safehold Inc. (SAFE): 2Q26 Update: Revising EPS estimates up slightly given buybacks and investment activity",
+      "summary": "Following 2Q26 earnings, we update our estimates for SAFE. We estimate Core EPS will decline by 3.5% in 2026, impacted by headwinds from SAFE's Park Hotel lease, and will grow at +5.5%/+5.6% in 2027/2028 as incremental ground leases are funded.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/cda49460-613d-4630-872a-904f29db20d3.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "84e541c7-29df-4af2-bd71-3624a7ec7cef",
+      "title": "Americas Real Estate: REITs: July '26 Office Update: Touring down in most markets m/m and y/y, but SF shows strength and LA picks up from low base",
+      "summary": "We review the latest updates on (1) VTS office tour activity through July '26, (2) Return to office trends by market, and (3) San Francisco and NYC office leasing data.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/84e541c7-29df-4af2-bd71-3624a7ec7cef.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "edf11537-5085-4ab9-bd82-50e518da5287",
+      "title": "VICI Properties Inc. (VICI): 2Q26 Update: Continued accretion from strategic funding",
+      "summary": "Post 2Q26 earnings results, we update our model. We estimate 4.7% AFFO/share growth in 2026, which in addition to VICI's dividend yield of 6.8% is compelling in our view. See inside for details.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/edf11537-5085-4ab9-bd82-50e518da5287.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "b45ac1f7-63c2-4f4a-9c55-22699eb5fc8d",
+      "title": "Tanger Inc. (SKT): 2Q26 Update: Continued operating strength with future Saks upside",
+      "summary": "We update our model following earnings, increase our price target, and discuss earnings call takeaways. We estimate SKT's core FFO growth will be 7.8% in 2026, followed by 4.7% in 2027, where sooner than anticipated prop...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/b45ac1f7-63c2-4f4a-9c55-22699eb5fc8d.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-06"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "21fd8d40-3344-45b7-9b25-123c53a2c9f6",
+      "title": "National Healthcare Properties Inc. (NHP): 2Q26 First Take: SS NOI guide raised, acquisitions guide unchanged",
+      "summary": "National Healthcare Properties reported 2Q26 Core FFO of $0.18, +14%/+29% vs. GSe/VA Consensus at $0.16/$0.14, driven by lower interest expense and higher interest and other income. Same‑store NOI grew +20.1% YoY in 2Q, ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/21fd8d40-3344-45b7-9b25-123c53a2c9f6.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-05"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "45f1c129-27ce-43a3-a18d-45998079bd64",
+      "title": "Lineage Inc. (LINE): 2Q26 First Take: AFFO beat and guidance raise despite unanticipated Big Bear (LA) & GIS (1x) headwinds",
+      "summary": "On 8/5/26 LINE reported 2Q26 AFFO/share of $0.76, which was +11.8%/10.1% above the GS/FactSet consensus estimates of $0.68/$0.69. The upside versus our forecast was primarily driven by sooner-than-expected G&A savings an...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/45f1c129-27ce-43a3-a18d-45998079bd64.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-05"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e366e65a-f518-45d0-b09b-ac5ad780079c",
+      "title": "CapitaLand Ascendas REIT (CAPD.SI): Reversion guidance up to HSD despite weaker occupancy; Neutral",
+      "summary": "CapitaLand Ascendas REIT (CLAR)'s 1H26 DPU was +0.1%/-0.6% YoY/HoH, in-line at 50%/49% of GSe/IBES full-year forecasts. Portfolio operating metrics were mixed, with rent reversion strong at +8.5% and occupancy lower QoQ ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/e366e65a-f518-45d0-b09b-ac5ad780079c.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-08-05"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "c685bae2-a07d-4b86-bc59-2d217d9cb1c9",
+      "title": "Macerich Co. (MAC): 2Q26 First Take: FFOPS in-line & store openings progressing, but with tenant allowances and leasing costs high",
+      "summary": "MAC reported 2Q26 Nareit FFOPS of $0.32, or core FFOPS of $0.35, which was +1.9%/flat versus GSe/FactSet consensus. Tenant improvements and leasing commissions increased 76% y/y in 2Q, where we expect y/y increases will ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/c685bae2-a07d-4b86-bc59-2d217d9cb1c9.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-05"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e9e11cd7-cf6f-4b68-b5dd-56a02ebd9710",
+      "title": "Tanger Inc. (SKT): 2Q26 First Take: 2Q beat (+5%) with a smaller FY FFO & SS NOI guidance raise",
+      "summary": "SKT reported 2Q26 FFO of $0.64, which was +4.9% vs. GSe/FactSet consensus of $0.61. Less than $0.01 of the beat vs. the GS estimate was driven by accounting adjustments related to SKT's acquisition of five Saks Off 5th l...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/e9e11cd7-cf6f-4b68-b5dd-56a02ebd9710.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-05"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "db40c28e-f30a-4963-b64d-5c384313542b",
+      "title": "Janus Living Inc. (JAN): 2Q26 First Take: SS NOI beats, and acquisition pace picks up",
+      "summary": "Janus reported 2Q26 Core FFO of $0.24, +8%/+4% vs. GSe/VA Consensus at $0.22/$0.23, where SS NOI growth came in +240bps above GSe and +390bps vs consensus which was mildly offset by lower acquisition volumes. Janus incre...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/04/db40c28e-f30a-4963-b64d-5c384313542b.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "9ad19659-d278-4d2f-8236-16e8dc5a9a4f",
+      "title": "Gaming and Leisure Properties Inc. (GLPI): 2Q26 Update: Development funding proceeding as expected",
+      "summary": "Post 2Q26 results, we update our model and review topics from the earnings call, including 2026 guidance, development pipeline and competition, as well as tenant activity. We now estimate 2026 AFFOPS of $4.12 (+6.0% YoY)...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/04/9ad19659-d278-4d2f-8236-16e8dc5a9a4f.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "71c020e6-bb63-404c-bb81-cbee4e7c490e",
+      "title": "Millrose Properties Inc. (MRP): 2Q26 First Take: Lower net deployments, but encouraging runrate AFFO",
+      "summary": "MRP reported core EPS/AFFO of $0.76/$0.77, missing GSe by -2.6%/-3.8%, driven by lower option fee revenue from lower net deployments. Non-Lennar deployment was $554.6mn (vs. GSe $768.6mn) and Lennar at $566.4mn (vs. GSe $627.2mn).",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/04/71c020e6-bb63-404c-bb81-cbee4e7c490e.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e5fefecd-cc52-49b1-9aa4-4aad399fd3d8",
+      "title": "Vornado Realty Trust (VNO): 2Q26 First Take: FFO beat with positive SS NOI",
+      "summary": "VNO reported 2Q26 NAREIT FFOPS of $0.74, and Core FFOPS of $0.67, which is 12%/18% above the GS/VisibleAlpha consensus estimate of $0.60/$0.57. The beat vs our estimate was driven by higher than expected NOI (consolidated and JV).",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/03/e5fefecd-cc52-49b1-9aa4-4aad399fd3d8.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-03"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "46b37fc9-596b-4e0e-a7a0-add39e96c6d1",
+      "title": "Alexandria Real Estate Equities Inc. (ARE): 2Q26 First Take: Operating metrics beat, dispositions further delayed",
+      "summary": "Alexandria reported 2Q26 normalized FFO of $1.73 per share, above GSe and VA Consensus estimates of $1.62/$1.63, where continued delay of disposition timing, stronger than expected operating metrics, and better than expe...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/03/46b37fc9-596b-4e0e-a7a0-add39e96c6d1.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-03"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "1438432a-3de1-4640-af4d-c9c785aa6389",
+      "title": "Broadstone Net Lease Inc. (BNL): 2Q26 Update: Colorado BTS boosts investment visibility; Project Triboro and incremental 2H26 announcements remain the next catalysts",
+      "summary": "Following BNL’s 2Q26 earnings, we discuss highlights from the earnings call, update our model, and increase our price target. We estimate BNL's AFFOPS to grow by 3.2% in 2026, and accelerate to +5.9%/7.5% in 2027/2028, d...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/31/1438432a-3de1-4640-af4d-c9c785aa6389.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-31"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "f6e4cf3d-3d34-47c9-a1fe-8b1ab089015b",
+      "title": "Safehold Inc. (SAFE): 2Q26 First Take: Originations accelerate, Brookfield JV adds capital flexibility",
+      "summary": "SAFE reported 2Q26 EPS of $0.42, above/inline with the GS/FactSet estimate of $0.41/$0.42 and +7.5% y/y. The quarter was notable for stronger investment activity, new private capital formation through the Brookfield JV, and share repurchases.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/31/f6e4cf3d-3d34-47c9-a1fe-8b1ab089015b.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-31"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "329a0cd4-9b08-40ab-82c4-ca8b389d5614",
+      "title": "Public Storage Inc. (PSA): 2Q26 Update: Expecting 2H26 improvement that will carry into 2027",
+      "summary": "Following PSA earnings, we discuss highlights from the earnings call and update our estimates. Management provided details on guidance, market performance, acquisitions, and funding. We estimate Core FFO growth to be rel...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/329a0cd4-9b08-40ab-82c4-ca8b389d5614.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "6db690d0-39e2-4fbd-a95e-dbd508e17d03",
+      "title": "Gaming and Leisure Properties Inc. (GLPI): 2Q26 First Take: Guidance increase to match consensus",
+      "summary": "GLPI reported 2Q26 AFFOPS of $1.03, 1% or a penny above GS/FactSet estimate of $1.02. The beat to GS estimate was driven by lower G&A and higher interest income. GLPI raised its FY 2026 AFFOPS guidance to $4.10-$4.12 (fr...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/6db690d0-39e2-4fbd-a95e-dbd508e17d03.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "49b842d9-d3ce-4c60-8d81-1dd540ee3811",
+      "title": "Camden Property Trust (CPT): 2Q26 First Take: New lease and blends disappoint",
+      "summary": "CPT reported 2Q26 Core FFO of $1.68, +1% ahead of GS and Visible Alpha consensus of $1.66/$1.67, driven by slightly stronger than expected SS revenue growth. Same-store revenues grew +0.2% YoY (above GS and consensus exp...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/49b842d9-d3ce-4c60-8d81-1dd540ee3811.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "8a105764-990e-4e75-9519-d697851d22ec",
+      "title": "American Homes 4 Rent (AMH): 2Q26 First Take: Raised guidance and solid start to 3Q26",
+      "summary": "AMH announced Core FFO of $0.49, beating GSe/VA consensus $0.47/$0.48 estimates by +4.2%/+2.6%, where the beat versus our estimates was primarily driven by higher than expected same store revenue growth, partially offset...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/8a105764-990e-4e75-9519-d697851d22ec.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "53d38f8f-b208-4487-93d1-6412ff547e8c",
+      "title": "UDR Inc. (UDR): Updating estimates and price target for 2Q26 results",
+      "summary": "We adjust our UDR estimates after updating our model for 2Q26 results. The shifts to our estimates primarily relate to updated 2026 guidance and management commentary (which highlights improvement in blends for both sunb...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/53d38f8f-b208-4487-93d1-6412ff547e8c.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "ac5d361e-dd65-4ad6-aa3d-cb81e7a7337d",
+      "title": "Brixmor Property Group (BRX): 2Q26 Update: Proactive recaptures create short-term occupancy drag, but leasing spreads, SNO pipeline and acquisitions support the outlook",
+      "summary": "Following BRX’s 2Q26 earnings, we discuss highlights from the earnings call, and update our model and price target. We revise our estimates marginally and, when including these changes, estimate average FFO growth of 5.8% each year through 2028.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/ac5d361e-dd65-4ad6-aa3d-cb81e7a7337d.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "f9986e7a-a5b4-4605-bd15-a36b71cae757",
+      "title": "Extra Space Storage Inc. (EXR): 2Q26 Update: Slow and steady growth",
+      "summary": "Following EXR earnings, we discuss highlights from the earnings call and update our estimates. Management provided details on guidance (SS revenue, SS expense, acquisitions), supply, and demand. Our model estimates LSD F...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/f9986e7a-a5b4-4605-bd15-a36b71cae757.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "04adba87-f511-4e83-b254-9c4343e1f394",
+      "title": "Broadstone Net Lease Inc. (BNL): 2Q26 First Take: Investment guidance up while the SS portfolio remains solid",
+      "summary": "BNL reported 2Q26 AFFO/share of $0.39 (+3.7% y/y), inline with the GS/Factset consensus estimate. The Company increased its midpoint 2026 AFFO/share guidance 60bps, suggesting y/y growth of 4.1%, and increased its guidan...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/04adba87-f511-4e83-b254-9c4343e1f394.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-30"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "f7f44dcd-7a02-4f34-ab6c-93f0bda6a8bf",
+      "title": "Omega Healthcare Investors Inc. (OHI): 2Q26 First Take: Solid beat and raise quarter",
+      "summary": "Omega Healthcare Investors reported 2Q26 Adjusted FFO of $0.83, above GSe/VA Cons of $0.79/$0.81 per share, reflecting higher pro-rata NOI and lower interest expense and G&A. Omega revised previously issued AFFO guidance...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/f7f44dcd-7a02-4f34-ab6c-93f0bda6a8bf.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-29"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e256dc56-acd8-499f-be4b-5bbf0e1afec4",
+      "title": "Public Storage Inc. (PSA): 2Q26 First Take: FY Guidance increase across line items despite 2Q miss",
+      "summary": "PSA reported 2Q26 core FFOPS of $4.17, -1.9%/-1.7% below consensus/GS estimate of $4.25/$4.24 and -2.6% y/y. The miss versus the GS estimate was driven by higher self storage cost of operations and G&A (incentives for st...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/e256dc56-acd8-499f-be4b-5bbf0e1afec4.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-29"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "6c076d02-99d2-4372-b08d-a9fb847c9931",
+      "title": "Americas Real Estate: REITs: MAA/ESS/INVH: Sunbelt recovery continues to lag West Coast and SFR",
+      "summary": "INVH, MAA, and ESS reported mixed 2Q26 results, with Core FFO vs consensus ahead for INVH and ESS and in line for MAA. Same-store NOI was generally supported by better expense performance, though softer revenue trends we...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/6c076d02-99d2-4372-b08d-a9fb847c9931.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-29"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "d6648ae6-81b7-4c12-b0c7-a67a81a6793e",
+      "title": "Ventas Inc. (VTR): 2Q26 First Take: Acquisitions heat up, as does competition for deals",
+      "summary": "Ventas reported 2Q26 normalized FFO of $0.97 per share, vs GSe/consensus at $0.98/$0.96 respectively, driven primarily by lower than expected cap rate on acquisitions and partially offset by stronger OMF results. Ventas ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/d6648ae6-81b7-4c12-b0c7-a67a81a6793e.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-29"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "d5de05bc-eff9-4120-9d92-fb7b16259262",
+      "title": "Kilroy Realty Corp. (KRC): 2Q26 Update: Positive West-Coast commentary contrasts with a lower KRC leasing quarter",
+      "summary": "Following 2Q26 earnings, we update our KRC model and price target, and highlight key takeaways from the earnings call.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/d5de05bc-eff9-4120-9d92-fb7b16259262.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-29"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "d5adc1e0-aac5-4d00-a22e-0860ff91388d",
+      "title": "Keppel REIT (KASA.SI): 1H26 DPU decline in line with forecast, announced divestment of KR Ginza II; Sell",
+      "summary": "Keppel Reit's 1H26 DPU of 2.61S¢ was -4% YoY and +4% HoH, in-line at 50%/51% of GSe and IBES consensus. Rent reversion remains healthy despite slight moderation QoQ to +12.8%, with occupancy -110bps QoQ to 96% on decline at Pinnacle Office Park.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/d5adc1e0-aac5-4d00-a22e-0860ff91388d.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-29"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "fe4df473-7f96-4c3a-b3f1-67242984318e",
+      "title": "BXP Inc. (BXP): 2Q26 First Take: Occupancy and leasing spreads rise, FY guidance raised, positive SS NOI growth",
+      "summary": "BXP reported 2Q26 FFOPS of $1.78, +8.7%/+7.1% vs GS/FactSet consensus of $1.63/$1.70, and +3.8% y/y. The result was $0.08 ahead of BXP's guidance, driven by higher occupancy and lower operating expenses. The company shif...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/fe4df473-7f96-4c3a-b3f1-67242984318e.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-29"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "4fbd96ba-38e0-48c7-bafc-2fbe9bf18cfd",
+      "title": "Extra Space Storage Inc. (EXR): 2Q26 First Take: Expected guidance increase (SS revenue, SS NOI, and FFO), with lower expenses too",
+      "summary": "EXR reported 2Q26 core FFOPS of $2.15, +3.9%/4.4% vs. FactSet consensus/GSe and +4.9% y/y. The beat vs. GS estimates was driven by lower self-storage operating expense, which is expected to continue given reduced expense guidance.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/4fbd96ba-38e0-48c7-bafc-2fbe9bf18cfd.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-28"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "89e8bcb4-997c-4b22-9d92-05380afcd93f",
+      "title": "Mapletree Logistics Trust (MAPL.SI): 1QFY27 in line: Weaker operating metrics but progress on divestments; Neutral",
+      "summary": "MLT's 1QFY27 DPU is +0.2% YoY and -0.2% QoQ, in line at 25%/26% of GSe/IBES consensus full-year forecasts. Operating metrics were muted with occupancy -50bps QoQ to 96.4% and rent reversion at +0.9%. Mainland China rever...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/89e8bcb4-997c-4b22-9d92-05380afcd93f.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-28"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "1754bc1c-6765-407e-b10c-dafaf42aba1e",
+      "title": "UI Boustead REIT (UIBO.SI): 1QFY27 in-line: Below IPO forecast but encouraging occupancy improvement; Neutral",
+      "summary": "UIBREIT reported business update for the period between IPO (12 Mar 2026) and 30 June 2026. Gross revenue and NPI came in at S$37.2m/S$29.2m at 3.6%/4.3% below IPO forecast, but share of results from JV came in at 30% above.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/1754bc1c-6765-407e-b10c-dafaf42aba1e.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-28"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "5d2539fd-7247-4777-9d90-059e42c2a762",
+      "title": "Kilroy Realty Corp. (KRC): 2Q26 First Take: 2Q leasing volume down q/q and relatively stable on TTM, no change to FY26 SS NOI or FFO guidance",
+      "summary": "KRC reported 2Q26 NAREIT FFOPS of $0.92 (-18.5% y/y), which was +2.7% ahead of the GSe. Note the result includes an expected $5.9mn ($0.05/share) impact from a settlement related to a tenant bankruptcy, received in April...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/5d2539fd-7247-4777-9d90-059e42c2a762.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-07-28"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "26355d66-33ae-495a-8501-b67c75f1acde",
+      "title": "Frasers Centrepoint Trust (FCRT.SI): 3QFY26: Effective capital recycling with stable operations; Neutral",
+      "summary": "Frasers Centrepoint Trust (FCT) reported 3QFY26 business update, with portfolio occupancy marginally down 20bps QoQ to 99.6%. YTD shopper traffic/tenant sales growth were healthy at +2%/+1.8% YoY, with lower tenant sales...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/26355d66-33ae-495a-8501-b67c75f1acde.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-07-28"
+    }
+  ]
 }
