@@ -1,6 +1,123 @@
 {
-  "fetched_at": "2026-08-10T10:33:13.268702+00:00",
+  "fetched_at": "2026-08-10T22:33:12.783593+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "64cc5e29-bd23-4edc-9be4-7ed5ee86f47b",
+      "title": "BXP Inc. (BXP): 2Q26 Update: Strong leasing points to FFO growth but AFFO headwinds in future quarters",
+      "summary": "Following 2Q26 earnings, we update our BXP model and price target, and highlight key takeaways from the earnings call.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/64cc5e29-bd23-4edc-9be4-7ed5ee86f47b.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-10"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "2c3d031a-8c9c-4181-b27f-8c6ba99713b9",
+      "title": "CPT/ESS/MAA: Updating estimates after 2Q, diverging expectations for 2H26",
+      "summary": "We are updating our ESS, MAA, and CPT estimates to reflect 2Q26 results. ESS delivered stronger-than-expected blended lease growth (+3.6% vs. +3.1% cons) driven by Northern California strength, with management raising Co...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/2c3d031a-8c9c-4181-b27f-8c6ba99713b9.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-10"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "0140dcbe-7143-4627-b1c6-d886c407aa65",
+      "title": "National Healthcare Properties Inc. (NHP): Raising Estimates and PT Following 2Q26 - Reiterate Buy",
+      "summary": "We are updating our NHP estimates following 2Q26 results. We reiterate our Buy rating, and highlight that NHP remains the highest total return stock in our coverage at +44%. We believe NHP has significant additional mult...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/0140dcbe-7143-4627-b1c6-d886c407aa65.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-10"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "2f2b6d3f-282a-484a-95ee-e16c4d2b07d5",
+      "title": "SFR REITs Inflection: Raising estimates and PT after 2Q26",
+      "summary": "BTR and shadow supply (for-sale converting to for-rent) headwinds are easing evidenced in single family rental listings finally declining YoY (particularly in Phoenix and Florida, where INVH has outsized exposures). In t...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/2f2b6d3f-282a-484a-95ee-e16c4d2b07d5.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-10"
+    },
     {
       "platform": "GS",
       "doc_id": "43ea25e6-53c1-4b06-bae0-e518c60188cb",
@@ -1106,108 +1223,6 @@
       ],
       "tags": [
         "REITs"
-      ],
-      "publish_time": "2026-07-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "89e8bcb4-997c-4b22-9d92-05380afcd93f",
-      "title": "Mapletree Logistics Trust (MAPL.SI): 1QFY27 in line: Weaker operating metrics but progress on divestments; Neutral",
-      "summary": "MLT's 1QFY27 DPU is +0.2% YoY and -0.2% QoQ, in line at 25%/26% of GSe/IBES consensus full-year forecasts. Operating metrics were muted with occupancy -50bps QoQ to 96.4% and rent reversion at +0.9%. Mainland China rever...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/89e8bcb4-997c-4b22-9d92-05380afcd93f.html",
-      "authors": [
-        {
-          "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
-      ],
-      "publish_time": "2026-07-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "1754bc1c-6765-407e-b10c-dafaf42aba1e",
-      "title": "UI Boustead REIT (UIBO.SI): 1QFY27 in-line: Below IPO forecast but encouraging occupancy improvement; Neutral",
-      "summary": "UIBREIT reported business update for the period between IPO (12 Mar 2026) and 30 June 2026. Gross revenue and NPI came in at S$37.2m/S$29.2m at 3.6%/4.3% below IPO forecast, but share of results from JV came in at 30% above.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/1754bc1c-6765-407e-b10c-dafaf42aba1e.html",
-      "authors": [
-        {
-          "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
-      ],
-      "publish_time": "2026-07-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "5d2539fd-7247-4777-9d90-059e42c2a762",
-      "title": "Kilroy Realty Corp. (KRC): 2Q26 First Take: 2Q leasing volume down q/q and relatively stable on TTM, no change to FY26 SS NOI or FFO guidance",
-      "summary": "KRC reported 2Q26 NAREIT FFOPS of $0.92 (-18.5% y/y), which was +2.7% ahead of the GSe. Note the result includes an expected $5.9mn ($0.05/share) impact from a settlement related to a tenant bankruptcy, received in April...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/5d2539fd-7247-4777-9d90-059e42c2a762.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "26355d66-33ae-495a-8501-b67c75f1acde",
-      "title": "Frasers Centrepoint Trust (FCRT.SI): 3QFY26: Effective capital recycling with stable operations; Neutral",
-      "summary": "Frasers Centrepoint Trust (FCT) reported 3QFY26 business update, with portfolio occupancy marginally down 20bps QoQ to 99.6%. YTD shopper traffic/tenant sales growth were healthy at +2%/+1.8% YoY, with lower tenant sales...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/26355d66-33ae-495a-8501-b67c75f1acde.html",
-      "authors": [
-        {
-          "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
       ],
       "publish_time": "2026-07-28"
     }
