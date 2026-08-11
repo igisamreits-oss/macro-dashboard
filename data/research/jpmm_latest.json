@@ -1,40 +1,6 @@
 {
-  "fetched_at": "2026-08-10T22:34:11.981237+00:00",
+  "fetched_at": "2026-08-11T10:34:14.525963+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5383885-0",
-      "publication_id": "KAL-1-MJQMZVVH",
-      "title": "Media",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5383885-0",
-      "authors": [
-        {
-          "name": "David Karnovsky, CFA",
-          "team": "Media, Entertainment and Advertising",
-          "email": "david.karnovsky@jpmorgan.com"
-        },
-        {
-          "name": "Alexey Philippov, CFA",
-          "team": "Media, Entertainment and Advertising",
-          "email": "alexey.philippov@jpmorgan.com"
-        },
-        {
-          "name": "Douglas Wardlaw",
-          "team": "Media, Entertainment and Advertising",
-          "email": "douglas.wardlaw@jpmchase.com"
-        },
-        {
-          "name": "Kiscada A Hastings",
-          "team": "Media, Entertainment and Advertising",
-          "email": "kiscada.hastings@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Media, Entertainment and Advertising"
-      ],
-      "publish_time": "2026-07-28"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5386974-0",
@@ -65,9 +31,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-30"
     },
@@ -101,9 +67,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-31"
     },

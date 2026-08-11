@@ -1,6 +1,72 @@
 {
-  "fetched_at": "2026-08-10T22:33:12.783593+00:00",
+  "fetched_at": "2026-08-11T10:33:14.108603+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "070fbb4f-fe0c-402c-9877-33d5d05f623a",
+      "title": "Simon Property Group (SPG): 2Q26 Recap: Strong Domestic Property NOI growth, RE FFOPS guidance raised, FAD up 9% YTD",
+      "summary": "SPG reported 2Q26 Real Estate FFO/share of $3.29 (+7.6% y/y), which was -0.6%/+1.9% versus the GS/Visible Alpha Consensus estimates of $3.31/$3.23. SPG raised the midpoint of its FY26 RE FFO/share 57bps, to $13.25 (GS/co...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/11/070fbb4f-fe0c-402c-9877-33d5d05f623a.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-11"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "5a5db416-7b2c-4e96-adb4-b3afd1f66647",
+      "title": "Terreno Realty Corp. (TRNO): Management meeting takeaways and 2Q26 update",
+      "summary": "Following the release of TRNO's 10Q on August 5, we hosted a meeting with TRNO management on August 7, 2026. Key topics included tenant demand, geographic market performance, acquisition opportunities, supply, and funding.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/5a5db416-7b2c-4e96-adb4-b3afd1f66647.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-10"
+    },
     {
       "platform": "GS",
       "doc_id": "64cc5e29-bd23-4edc-9be4-7ed5ee86f47b",
@@ -1159,72 +1225,6 @@
         "Real Estate"
       ],
       "publish_time": "2026-07-29"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "fe4df473-7f96-4c3a-b3f1-67242984318e",
-      "title": "BXP Inc. (BXP): 2Q26 First Take: Occupancy and leasing spreads rise, FY guidance raised, positive SS NOI growth",
-      "summary": "BXP reported 2Q26 FFOPS of $1.78, +8.7%/+7.1% vs GS/FactSet consensus of $1.63/$1.70, and +3.8% y/y. The result was $0.08 ahead of BXP's guidance, driven by higher occupancy and lower operating expenses. The company shif...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/fe4df473-7f96-4c3a-b3f1-67242984318e.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-29"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "4fbd96ba-38e0-48c7-bafc-2fbe9bf18cfd",
-      "title": "Extra Space Storage Inc. (EXR): 2Q26 First Take: Expected guidance increase (SS revenue, SS NOI, and FFO), with lower expenses too",
-      "summary": "EXR reported 2Q26 core FFOPS of $2.15, +3.9%/4.4% vs. FactSet consensus/GSe and +4.9% y/y. The beat vs. GS estimates was driven by lower self-storage operating expense, which is expected to continue given reduced expense guidance.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/28/4fbd96ba-38e0-48c7-bafc-2fbe9bf18cfd.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-28"
     }
   ]
 }
