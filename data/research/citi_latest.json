@@ -1,6 +1,68 @@
 {
-  "fetched_at": "2026-08-11T10:32:12.536548+00:00",
+  "fetched_at": "2026-08-11T22:32:04.107533+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30453238",
+      "title": "We're Downgrading Allstate to Sell",
+      "summary": "We're downgrading Allstate to Sell from Neutral, as we question what ALL's normalized return and growth rate are and what they're worth. We think Allstate is significantly overearning today and are cautious that growth can improve further. We offer further analysis in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUzMjM4",
+      "tags": [
+        "Insurance - Property & Casualty",
+        "Rating Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-08-11 05:00",
+      "thumbnail": "https://ir.citi.com/2bHqD3t3FqF3tCkj2OqCY5h9USbk_PNG2TzI3jLnQ0KAU2h97bZQBoAwK1blLmf2ikBFG587FpU9JqzyXEZFOg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30453155",
+      "title": "Global FX Strategy: Hawkish Asymmetry",
+      "summary": "Despite turning more neutral USD in our forecasts, we have viewed the asymmetry into data as USD-positive as markets price risk of a more hawkish Fed. We think this setup persists into U.S. CPI but the shelf life on this asymmetry is running out and could expire if disinflation continues.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUzMTU1",
+      "tags": [
+        "Macro Strategy",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-08-10 14:04",
+      "thumbnail": "https://ir.citi.com/gmTIREo2DT4V7oTGt_5xPkIBarn6OgSCZ13J1r-nspW6nW3_gjXGbs5dUw6TZzSMTvNfPzTzLw84z7XeITGCUw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30453335",
+      "title": "Australia Economics: A Hawkish Hold",
+      "summary": "Australia held rates steady, a decision that came with a distinctly hawkish tone. The board signaled a low tolerance for inflation persistence, focusing on upside risks from a tight labor market and geopolitics. Given a low bar, we expect a final 25-basis-point hike in November.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUzMzM1",
+      "tags": [
+        "Australia Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks",
+        "Monetary Policy",
+        "Labor Market",
+        "Geopolitics",
+        "Inflation"
+      ],
+      "publish_time": "2026-08-11 03:52",
+      "thumbnail": "https://ir.citi.com/n_cQT3Pn-kf0AF7v8JxH0d-Vlbzh7oK2LQ-6xkitwJxhZJ8AaGwDkEX17RhNC-i0O1Mm8rDf8MEmsGOQf_HFYQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30452478",
+      "title": "Deep Dive: How Sustainable Is HK ADT Growth?",
+      "summary": "We offer a Deep Dive into the last five years of HK ADT growth, given that it's arguably the most important earnings and share-price driver of HKEX. We see multiple structural drivers to support sustainably higher trading activity, especially with support from a vibrant IPO market.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUyNDc4",
+      "tags": [
+        "Deep Dive",
+        "Liquidity",
+        "Diversified & Specialty Finance",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-08-09 20:15",
+      "thumbnail": "https://ir.citi.com/uWZTqA2OC2I4C6I2A2h72tvAHUMxDST3V3TWAe5AINso9Uo2BdwbcYdw2BMowbAADyzFv6t34DmYN1pADznm2w%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30452831",
@@ -450,133 +512,6 @@
       ],
       "publish_time": "2026-08-05 05:27",
       "thumbnail": "https://ir.citi.com/IcrOLweaJJungiqd89suXjK-njI5k3W3vK3zBsbjwj-62Uj1XRoe2FglfaDXzk_52dQY7yYhOlcOnktMifJNPQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450137",
-      "title": "Artificial Intelligence: Capex + Time = Profits",
-      "summary": "Hyperscaler cloud revenue accelerated to +48% in the second quarter from +39% in the first amid a continued acceleration in enterprise adoption. But consensus continues to underestimate future revenue growth and profitability tied to AI. The math is simple: capex + time = profits.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwMTM3",
-      "tags": [
-        "AI Infrastructure",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-08-04 04:30",
-      "thumbnail": "https://ir.citi.com/jf3NFd3Yor5Syy6Ho3zjvYDa4R4el5X6t-ajasSBFHBxPgw8q-ffAwQypXxaPZW4yc8zLx9OlDffZ_090KDXDA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450170",
-      "title": "Food for Thought: How Are EVs Impacting Brazil's Fuels Demand?",
-      "summary": "The rapid acceleration of EV sales in Brazil raises an increasingly pressing question for the fuels sector: When does this shift begin to structurally and visibly erode Otto Cycle fuels demand? Our answer is that the impact, while modest in aggregate terms, is already real and rising.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwMTcw",
-      "tags": [
-        "Deep Dive",
-        "Electric Vehicless",
-        "Green Mobility",
-        "Energy Efficiency",
-        "Agricultural Products",
-        "Oil & Gas Refiners and Marketers"
-      ],
-      "publish_time": "2026-08-04 10:36",
-      "thumbnail": "https://ir.citi.com/vodVe7pasZyhw0Y25avANfUvQ1T4RxZbsK8wrx8p1uPv_EvyzvTNFyymjHxY0bl1oZoH8bwQ9cuocxTYerUSig%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450402",
-      "title": "AI Chipmakers to Pivot from Scale-Up to Scale-Out",
-      "summary": "Amid persistent memory shortages, we expect AI chipmakers to increasingly scale out by deploying more GPUs with lower HBM content. We also expect HBM supply to remain tight, as memory suppliers stay disciplined in expanding output amid attractive server economics.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwNDAy",
-      "tags": [
-        "Semiconductors",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-08-04 11:36",
-      "thumbnail": "https://ir.citi.com/-sDk2z7sj0I-iPnC6d1uOo4sjMjnnUhd8C92fr4-SGb2NIgQ0X8pI93bL-H5lOu1B3vvtKlt_pim9XGvfhfxWA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450057",
-      "title": "Metal Matters: Exploring Our Base Case for Gold",
-      "summary": "In our base case, gold prices stagnate or even decline over the next month before rallying to $4,500 an ounce in the fourth quarter and to $5,000 by next year's first half. In this note we look at the reasons for gold's sell-off and what we see shaping prices in the months ahead.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwMDU3",
-      "tags": [
-        "Commodities Strategy",
-        "Market Forecasts",
-        "Macro Strategy",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-08-03 16:33",
-      "thumbnail": "https://ir.citi.com/E8HSbFK08afXxwEnjRBZcT4fxP3uytyHgdGB9kF93AFhFKv9jttBWSZEoQy1P_PaMkq30a--e8h2qsZaHwRDKg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30448027",
-      "title": "We're Initiating Coverage of Brunello Cucinelli at Buy",
-      "summary": "We're initiating coverage of Brunello Cucinelli with a Buy rating and a €110 target price. As explored herein, we believe BCU's competitive advantages can endure longer than the market discounts and think current brand-related concerns are overdone, offering an attractive entry point.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDQ4MDI3",
-      "tags": [
-        "Initiation of Coverage",
-        "Innovation Lab",
-        "Luxury Goods"
-      ],
-      "publish_time": "2026-08-04 00:00",
-      "thumbnail": "https://ir.citi.com/MHev3DQyl2czws5kYgXw6xKmNnsy5hQD1DKdCk_Tf8Wc9lEvg6A_hxrKqPIjjLgS-AP54bfbUrXnQxJRf0HXhA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450164",
-      "title": "Agnico Eagle Mines' Track Record Keeps Us Constructive",
-      "summary": "We've heard investor worries that Agnico might be starting to overextend, with multiple potential projects on deck and Finland now added to the mix. It's a fair question, but AEM has a long track record running arguably the best gold miner in the world, and so we stick with our Buy rating.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwMTY0",
-      "tags": [
-        "Estimate Change",
-        "Gold"
-      ],
-      "publish_time": "2026-08-03 19:04",
-      "thumbnail": "https://ir.citi.com/6za_haeRg1YLhr9BWBKG62nOs1Pj0D3WOVIId6H8KFClzeyFE_-4uKToWfcY-P2oIgVphrfIyOtPYX4EpAGRsg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450115",
-      "title": "Equity Markets Positioning Model: Rebuild Continues for Europe",
-      "summary": "Positioning continues to move further out of sync with index performance. Europe stands out as the only major region experiencing a meaningful improvement in risk appetite, supported by fresh long accumulation and favorable earnings delivery. We also offer analysis for the U.S. and Asia.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwMTE1",
-      "tags": [
-        "Model Portfolio",
-        "Equity Markets Positioning Model"
-      ],
-      "publish_time": "2026-08-03 16:33",
-      "thumbnail": "https://ir.citi.com/u3bagFO9PObbozydujpcoiWKqQErJfOEqTmQp4FvVauI97QCViiLBwdc0QYM4Ql_s1AA-kxpx90Vu83kGmO3Rw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450125",
-      "title": "Global FX Strategy: What's Next for JPY?",
-      "summary": "The intervention-driven JPY rally may be reaching its limit for now. Ultimately, we see interventions alone as insufficient to turn the JPY tide. That will require a more aggressive policy from the Bank of Japan and/or relief on the fiscal front. We offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwMTI1",
-      "tags": [
-        "Macro Strategy",
-        "Global FX Strategy"
-      ],
-      "publish_time": "2026-08-03 17:07",
-      "thumbnail": "https://ir.citi.com/RNrHwNS_4tp0XqtROFWR-HEzfgs8FAoMALOHSWmiImZnQ5RF1kz7OFlxxUmGpG4Cv_T4hbGUw4EyyFfn0S5u-w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30450353",
-      "title": "Africa Weekly: The Outlook for the Eco and the Ghana Cedi",
-      "summary": "We consider the implications of the recent announcement by the regional union ECOWAS to move ahead with the introduction of its proposed Eco currency. We also explore evolving changes in the system for auctioning foreign exchange in Ghana and how they might affect the value of the cedi.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUwMzUz",
-      "tags": [
-        "Africa Economics & Strategy Weekly",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Fiscal Policy",
-        "Inflation"
-      ],
-      "publish_time": "2026-08-04 09:00",
-      "thumbnail": "https://ir.citi.com/odRyD_DFpqWaji85QJ-1hx6tdjjcF_uyXZnXMInOH8mVBnP3_eDsjXVcvAnIPmHzdSFjxN8AZbI7yI3k4W2Iiw%3D%3D"
     }
   ]
 }
