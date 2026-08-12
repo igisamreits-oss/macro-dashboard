@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T22:34:05.463801+00:00",
+  "fetched_at": "2026-08-12T10:33:23.853406+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -72,35 +72,6 @@
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-07-31"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5344282-0",
-      "publication_id": "KAL-1-XDIL6SDC",
-      "title": "Harvey AI Corp",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5344282-0",
-      "authors": [
-        {
-          "name": "Aaron Steiker",
-          "team": "Private Company Research",
-          "email": "aaron.steiker@jpmorgan.com"
-        },
-        {
-          "name": "Brenda Duverce",
-          "team": "Private Company Research",
-          "email": "brenda.duverce@jpmorgan.com"
-        },
-        {
-          "name": "Lula Sheena, CFA",
-          "team": "Private Company Research",
-          "email": "lula.sheena@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Private Company Research"
-      ],
-      "publish_time": "2026-07-29"
     }
   ]
 }
