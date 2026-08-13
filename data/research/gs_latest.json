@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-13T10:33:12.900380+00:00",
+  "fetched_at": "2026-08-13T22:33:10.823573+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "47cf54d8-cbdd-4014-b8dd-3a92dbf40992",
+      "title": "Americas Real Estate: REITs: San Francisco Resi Field Trip Takeaways",
+      "summary": "Following our San Francisco Resi Field Trip today with Essex Property Trust, we outline some of our key takeaways. We highlight rent growth dynamics in the city are even stronger than we appreciated driven by AI job crea...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/13/47cf54d8-cbdd-4014-b8dd-3a92dbf40992.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-13"
+    },
     {
       "platform": "GS",
       "doc_id": "0c1ee5e5-d4b4-4a9e-9204-e445b3de9862",
@@ -1202,34 +1230,6 @@
         "REITs"
       ],
       "publish_time": "2026-07-30"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "f7f44dcd-7a02-4f34-ab6c-93f0bda6a8bf",
-      "title": "Omega Healthcare Investors Inc. (OHI): 2Q26 First Take: Solid beat and raise quarter",
-      "summary": "Omega Healthcare Investors reported 2Q26 Adjusted FFO of $0.83, above GSe/VA Cons of $0.79/$0.81 per share, reflecting higher pro-rata NOI and lower interest expense and G&A. Omega revised previously issued AFFO guidance...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/29/f7f44dcd-7a02-4f34-ab6c-93f0bda6a8bf.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-29"
     }
   ]
 }
