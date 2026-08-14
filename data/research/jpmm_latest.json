@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T10:34:04.183356+00:00",
+  "fetched_at": "2026-08-14T22:33:58.429058+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,42 +50,6 @@
         "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-08-13"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5390808-0",
-      "publication_id": "CFP-PC-11812-0",
-      "title": "China Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5390808-0",
-      "authors": [
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Alex Yao",
-          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
-          "email": "alex.yao@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy"
-      ],
-      "publish_time": "2026-07-31"
     }
   ]
 }
