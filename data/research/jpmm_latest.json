@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T13:08:11.133739+00:00",
+  "fetched_at": "2026-08-17T03:46:07.279414+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -46,10 +46,34 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Internet - Mid & Small Cap"
+        "Internet - Mid & Small Cap",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-08-13"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5402644-0",
+      "publication_id": "GPS-5410326-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5402644-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-08-14"
     }
   ]
 }
