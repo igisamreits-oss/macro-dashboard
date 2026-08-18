@@ -316,8 +316,8 @@ footer a { color: var(--accent); text-decoration: none; }
     <h1>Global REIT Macro Dashboard</h1>
   </div>
   <div class="meta">
-    Last update: <strong>2026-08-18 19:34</strong> KST<br>
-    Calendar: 2026-08-11 ~ 2026-09-15
+    Last update: <strong>2026-08-19 07:34</strong> KST<br>
+    Calendar: 2026-08-12 ~ 2026-09-16
   </div>
 </header>
 
@@ -325,19 +325,16 @@ footer a { color: var(--accent); text-decoration: none; }
   <button class="tab-btn active" data-tab="macro" role="tab">📊 Macro</button>
   <button class="tab-btn" data-tab="research" role="tab">
     📑 Research
-<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(83)</span>  </button>
+<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(84)</span>  </button>
 </div>
 
 <div class="tab-content active" id="tab-macro">
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
-  <h2>📅 Economic Calendar <small>2026-08-11 ~ 2026-09-15</small></h2>
+  <h2>📅 Economic Calendar <small>2026-08-12 ~ 2026-09-16</small></h2>
   <div class="calendar">
     <div class="calendar-grid">
       <div class="cal-cell cal-header">Country</div>
-      <div class="cal-cell cal-header  ">
-        08/11<br>화
-      </div>
       <div class="cal-cell cal-header  ">
         08/12<br>수
       </div>
@@ -356,10 +353,10 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         08/17<br>월
       </div>
-      <div class="cal-cell cal-header today ">
+      <div class="cal-cell cal-header  ">
         08/18<br>화
       </div>
-      <div class="cal-cell cal-header  ">
+      <div class="cal-cell cal-header today ">
         08/19<br>수
       </div>
       <div class="cal-cell cal-header  ">
@@ -443,23 +440,11 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         09/15<br>화
       </div>
+      <div class="cal-cell cal-header  ">
+        09/16<br>수
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇺🇸</span> US
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-3 past"
-              data-name="Existing Home Sales (M)"
-              data-name-ko="기존주택매매 (백만호)"
-              data-flag="🇺🇸"
-              data-country="United States"
-              data-date="2026-08-11"
-              data-time=""
-              data-cat="🏘️ 주택지표"
-              data-imp="3"
-              data-note="Jul 2026 data"
-              data-past="true">
-          기존주택매매 (백만호)
-        </span>
       </div>
       <div class="cal-cell">
         <span class="cal-event imp-3 past"
@@ -513,7 +498,20 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 "
+        <span class="cal-event imp-3 past"
+              data-name="Housing Starts (k)"
+              data-name-ko="주택착공 (천호)"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-08-18"
+              data-time=""
+              data-cat="🏘️ 주택지표"
+              data-imp="3"
+              data-note="Jul 2026 data"
+              data-past="true">
+          주택착공 (천호)
+        </span>
+        <span class="cal-event imp-3 past"
               data-name="Housing Starts (k)"
               data-name-ko="주택착공 (천호)"
               data-flag="🇺🇸"
@@ -523,7 +521,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🏘️ 주택지표"
               data-imp="3"
               data-note="next release"
-              data-past="false">
+              data-past="true">
           주택착공 (천호)
         </span>
       </div>
@@ -700,10 +698,36 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 "
+              data-name="NAHB Housing Market Index"
+              data-name-ko="NAHB (50 기준)"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-09-16"
+              data-time="23:00"
+              data-cat="🏘️ 주택지표"
+              data-imp="3"
+              data-note="next release"
+              data-past="false">
+          NAHB (50 기준)
+        </span>
+        <span class="cal-event imp-3 "
+              data-name="Retail Sales MoM SA"
+              data-name-ko="소매판매 MoM"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-09-16"
+              data-time="21:30"
+              data-cat="🛒 소매판매"
+              data-imp="3"
+              data-note="next release"
+              data-past="false">
+          소매판매 MoM
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇪🇺</span> EU
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -853,6 +877,8 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇬🇧</span> UK
       </div>
@@ -869,9 +895,7 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 "
+        <span class="cal-event imp-2 past"
               data-name="ILO Unemployment Rate"
               data-name-ko="실업률 (3M MA)"
               data-flag="🇬🇧"
@@ -881,10 +905,10 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="👥 실업률"
               data-imp="2"
               data-note="Jun 2026 data"
-              data-past="false">
+              data-past="true">
           실업률 (3M MA)
         </span>
-        <span class="cal-event imp-2 "
+        <span class="cal-event imp-2 past"
               data-name="ILO Unemployment Rate"
               data-name-ko="실업률 (3M MA)"
               data-flag="🇬🇧"
@@ -894,7 +918,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="👥 실업률"
               data-imp="2"
               data-note="next release"
-              data-past="false">
+              data-past="true">
           실업률 (3M MA)
         </span>
       </div>
@@ -1019,10 +1043,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇩🇪</span> DE
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1084,6 +1108,8 @@ footer a { color: var(--accent); text-decoration: none; }
               data-past="false">
           건설 PMI (50)
         </span>
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1218,8 +1244,6 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
         <span class="cal-event imp-1 "
               data-name="Consumer Confidence SA"
               data-name-ko="소비자신뢰"
@@ -1283,10 +1307,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇸🇬</span> SG
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1397,10 +1421,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇭🇰</span> HK
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1498,23 +1522,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇦🇺</span> AU
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-3 past"
-              data-name="RBA Cash Rate"
-              data-name-ko="RBA"
-              data-flag="🇦🇺"
-              data-country="Australia"
-              data-date="2026-08-11"
-              data-time="13:30"
-              data-cat="🏦 중앙은행"
-              data-imp="3"
-              data-note=""
-              data-past="true">
-          RBA
-        </span>
       </div>
       <div class="cal-cell">
       </div>
@@ -1599,10 +1610,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇯🇵</span> JP
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1752,23 +1763,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇰🇷</span> KR
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 past"
-              data-name="Unemployment Rate"
-              data-name-ko="실업률"
-              data-flag="🇰🇷"
-              data-country="Korea"
-              data-date="2026-08-11"
-              data-time=""
-              data-cat="👥 실업률"
-              data-imp="2"
-              data-note="Jul 2026 data"
-              data-past="true">
-          실업률
-        </span>
       </div>
       <div class="cal-cell">
       </div>
@@ -1853,10 +1851,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇨🇦</span> CA
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -2045,6 +2043,8 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
     </div>
   </div>
 </section>
@@ -2116,9 +2116,9 @@ function closeEvModal() {
         &middot; cons 3.75%
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>3.96%</strong>
+        12M 시장: <strong>3.95%</strong>
         <span class="implied-delta hike">
-          +21bp
+          +20bp
           (~0.8 인상)
         </span>
       </div>
@@ -2132,10 +2132,10 @@ function closeEvModal() {
         Next: <strong>2026-09-10</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>2.63%</strong>
+        12M 시장: <strong>2.65%</strong>
         <span class="implied-delta hike">
-          +38bp
-          (~1.5 인상)
+          +40bp
+          (~1.6 인상)
         </span>
       </div>
     </div>
@@ -2148,9 +2148,9 @@ function closeEvModal() {
         Next: <strong>TBD</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>4.14%</strong>
+        12M 시장: <strong>4.16%</strong>
         <span class="implied-delta hike">
-          +39bp
+          +41bp
           (~1.6 인상)
         </span>
       </div>
@@ -2161,7 +2161,7 @@ function closeEvModal() {
       <div class="cb-rate">
 1.39%      </div>
       <div class="cb-next">
-        Next: <strong>2026-08-21</strong>
+        Next: <strong>2026-08-22</strong>
       </div>
     </div>
     <div class="cb-card ">
@@ -2206,10 +2206,10 @@ function closeEvModal() {
         &middot; cons 2.25%
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>2.62%</strong>
+        12M 시장: <strong>2.60%</strong>
         <span class="implied-delta hike">
-          +38bp
-          (~1.5 인상)
+          +35bp
+          (~1.4 인상)
         </span>
       </div>
     </div>
@@ -2231,10 +2231,10 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-3.62%            </td>
-            <td class="change-zero">
-+0.00            </td>
-            <td><small style="color:var(--text-dim)">2026-08-14</small></td>
+3.66%            </td>
+            <td class="change-pos">
++0.04            </td>
+            <td><small style="color:var(--text-dim)">2026-08-17</small></td>
           </tr>
           <tr>
             <td class="name">
@@ -2242,10 +2242,10 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.26%            </td>
-            <td class="change-neg">
--0.01            </td>
-            <td><small style="color:var(--text-dim)">2026-08-14</small></td>
+2.27%            </td>
+            <td class="change-pos">
++0.01            </td>
+            <td><small style="color:var(--text-dim)">2026-08-17</small></td>
           </tr>
           <tr>
             <td class="name">
@@ -2327,9 +2327,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.29%            </td>
+2.31%            </td>
             <td class="change-pos">
-+0.00            </td>
++0.02            </td>
             <td><small style="color:var(--text-dim)">2026-08-18</small></td>
           </tr>
           <tr>
@@ -2351,7 +2351,7 @@ function closeEvModal() {
             <td class="value-cell">
 1.06%            </td>
             <td class="change-neg">
--0.01            </td>
+-0.00            </td>
             <td><small style="color:var(--text-dim)">2026-08-18</small></td>
           </tr>
           <tr>
@@ -2360,9 +2360,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.14%            </td>
+2.13%            </td>
             <td class="change-pos">
-+0.05            </td>
++0.04            </td>
             <td><small style="color:var(--text-dim)">2026-08-18</small></td>
           </tr>
           <tr>
@@ -2371,9 +2371,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.25%            </td>
+2.24%            </td>
             <td class="change-pos">
-+0.04            </td>
++0.02            </td>
             <td><small style="color:var(--text-dim)">2026-08-18</small></td>
           </tr>
           <tr>
@@ -2404,8 +2404,8 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-1.81%            </td>
-            <td class="change-zero">
+1.82%            </td>
+            <td class="change-pos">
 +0.00            </td>
             <td><small style="color:var(--text-dim)">2026-08-18</small></td>
           </tr>
@@ -2994,13 +2994,13 @@ function closeEvModal() {
               Housing Starts (k)<span class="freq-badge M">Monthly</span>
 <small>주택착공 (천호)</small>            </td>
             <td>
-              <small style="color:var(--text-dim)">Jun 2026</small>
-<small style="color:var(--text-dim); display:block; font-size:9px; opacity:0.65">(2026-07-17)</small>            </td>
-            <td>1427</td>
-            <td>1199</td>
-            <td>1310</td>
-            <td class="surprise-pos">
-+117.00            </td>
+              <small style="color:var(--text-dim)">Jul 2026</small>
+<small style="color:var(--text-dim); display:block; font-size:9px; opacity:0.65">(2026-08-18)</small>            </td>
+            <td>1239</td>
+            <td>1415</td>
+            <td>1345</td>
+            <td class="surprise-neg">
+-106.00            </td>
           </tr>
           <tr>
             <td class="name">
@@ -3045,7 +3045,7 @@ function closeEvModal() {
             <td>
               <small style="color:var(--text-dim)">Jun 2026</small>
             </td>
-            <td>255</td>
+            <td>256</td>
             <td>242</td>
             <td><span class="no-data">—</span></td>
             <td class="surprise-zero">
@@ -3640,8 +3640,78 @@ function closeEvModal() {
 <div class="tab-content" id="tab-research">
   <section>
     <h2>📑 Research Feed
-<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-08-18 10:34 UTC</small>    </h2>
+<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-08-18 22:34 UTC</small>    </h2>
     <div class="research-grid">
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-08-18 06:14</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1NDM1" target="_blank" rel="noopener">UK Labor Market: The Cyclical Vs. the Structural</a>        </h3>
+<div class="rs-summary">The UK labor market continues to tell two stories. The first is a cyclical downturn driven by depressed labor demand; the second is an underlying structural tightening possibly driven by problems in job matching and labor supply. That means a difficult environment for the Bank of England.</div>        <div class="rs-tags">
+<span class="rs-tag">Labor Market</span><span class="rs-tag">UK Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-08-18 05:57</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1NDA1" target="_blank" rel="noopener">Global Tech Hardware: Revisiting Smartphone Forecasts</a>        </h3>
+<div class="rs-summary">We tweak our forecasts for global smartphone shipments in 2026 through 2028 by +5%, -5% and -4%, respectively, noting prolonged memory price strength and a higher premium model mix. Amid the downcycle of the smartphone chain, we stay selective and pick defensive players.</div>        <div class="rs-tags">
+<span class="rs-tag">Theme Investing</span><span class="rs-tag">Consumer Electronics</span><span class="rs-tag">Communications Equipment</span><span class="rs-tag">Hardware</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-08-18 02:05</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1MjUw" target="_blank" rel="noopener">North America Hardware & Storage: Second-Quarter Preview</a>        </h3>
+<div class="rs-summary">Hardware OEMs’ earnings should reflect strong results given constructive commentary about infrastructure demand benefitting from AI buildouts and rising CPU usage for agentic AI workloads. Fundamentals remain strong, but expectations are also elevated. We review our preferences herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Hardware & Storage</span><span class="rs-tag">Catalyst Watch</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span><span class="rs-tag">Artificial Intelligence (AI)</span><span class="rs-tag">Earnings Preview</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-08-18</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/08/18/65c27ec8-f563-4eb1-8866-1982746b0079.html" target="_blank" rel="noopener">Mitsui Fudosan Retail Fund Management (8964.T): In line: Internal growth resilient in an inflationary phase, DPU floor raised; Buy</a>        </h3>
+<div class="rs-summary">After the August 17 close, the company reported FP6/26 results. FP6/26 DPS was ¥2,214, roughly in line with our prior estimate of ¥2,213. Management guides for DPS of ¥2,220 for FP12/26 and ¥2,240 for FP6/27. Following r...</div>        <div class="rs-tags">
+<span class="rs-tag">Real Estate</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-08-18</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/08/18/5f09640c-f556-41a7-8a3f-3b88565748ae.html" target="_blank" rel="noopener">Nippon Building Fund (8951.T): In line: Internal growth solid, but Sell on relative yield</a>        </h3>
+<div class="rs-summary">After the market close on 8/17, the company reported FP6/26 results. FP6/26 DPS was ¥2,489, slightly above our prior estimate (¥2,468), but in line. It guides for DPS of ¥2,465 in FP12/26 and ¥2,541 in FP6/27. Following ...</div>        <div class="rs-tags">
+<span class="rs-tag">Real Estate</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-08-17 18:55</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1MzE4" target="_blank" rel="noopener">Brazil Equity Strategy: Second-Quarter Earnings Wrap</a>        </h3>
+<div class="rs-summary">Brazil's second-quarter earnings reinforced a growing disconnect between fundamentals and share-price performance. While Ibovespa companies delivered aggregate revenue and earnings surprises of +1.8% and +5.3%, respectively, stocks fell on average after results, a dynamic explored herein.</div>        <div class="rs-tags">
+<span class="rs-tag">Emerging Markets</span><span class="rs-tag">Flows</span><span class="rs-tag">Brazil Equity Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-08-17 15:52</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1Mjk1" target="_blank" rel="noopener">Equity Markets Positioning Model: Shifting Risks</a>        </h3>
+<div class="rs-summary">Developed-markets positioning remains constructive, but the balance of risks is shifting. New risk flows continue to underpin equity exposure, with Europe attracting some of the strongest incremental demand, while Asia is stabilizing through short covering, not outright risk addition.</div>        <div class="rs-tags">
+<span class="rs-tag">Model Portfolio</span><span class="rs-tag">Equity Markets Positioning Model</span>        </div>
+      </div>
       <div class="research-card">
         <div class="rs-meta">
           <span class="rs-platform">Citi</span>
@@ -3998,7 +4068,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5407656-0" target="_blank" rel="noopener">Internet: August 2026 Sector Update - Slides and Sector FAQs</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Internet - Mid & Small Cap</span><span class="rs-tag">Internet - Large Cap / Mid & Small Cap</span>        </div>
+<span class="rs-tag">Internet - Large Cap / Mid & Small Cap</span><span class="rs-tag">Internet - Mid & Small Cap</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4092,26 +4162,6 @@ function closeEvModal() {
       </div>
       <div class="research-card">
         <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-08-11 05:00</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUzMjM4" target="_blank" rel="noopener">We're Downgrading Allstate to Sell</a>        </h3>
-<div class="rs-summary">We're downgrading Allstate to Sell from Neutral, as we question what ALL's normalized return and growth rate are and what they're worth. We think Allstate is significantly overearning today and are cautious that growth can improve further. We offer further analysis in this note.</div>        <div class="rs-tags">
-<span class="rs-tag">Insurance - Property & Casualty</span><span class="rs-tag">Rating Change</span><span class="rs-tag">Target Price Change</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-08-11 03:52</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUzMzM1" target="_blank" rel="noopener">Australia Economics: A Hawkish Hold</a>        </h3>
-<div class="rs-summary">Australia held rates steady, a decision that came with a distinctly hawkish tone. The board signaled a low tolerance for inflation persistence, focusing on upside risks from a tight labor market and geopolitics. Given a low bar, we expect a final 25-basis-point hike in November.</div>        <div class="rs-tags">
-<span class="rs-tag">Australia Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span><span class="rs-tag">Labor Market</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
           <span class="rs-platform">GS</span>
           <span>2026-08-11</span>
         </div>
@@ -4129,16 +4179,6 @@ function closeEvModal() {
 <a href="https://marquee.gs.com/content/research/en/reports/2026/08/11/070fbb4f-fe0c-402c-9877-33d5d05f623a.html" target="_blank" rel="noopener">Simon Property Group (SPG): 2Q26 Recap: Strong Domestic Property NOI growth, RE FFOPS guidance raised, FAD up 9% YTD</a>        </h3>
 <div class="rs-summary">SPG reported 2Q26 Real Estate FFO/share of $3.29 (+7.6% y/y), which was -0.6%/+1.9% versus the GS/Visible Alpha Consensus estimates of $3.31/$3.23. SPG raised the midpoint of its FY26 RE FFO/share 57bps, to $13.25 (GS/co...</div>        <div class="rs-tags">
 <span class="rs-tag">REITs</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-08-10 14:04</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUzMTU1" target="_blank" rel="noopener">Global FX Strategy: Hawkish Asymmetry</a>        </h3>
-<div class="rs-summary">Despite turning more neutral USD in our forecasts, we have viewed the asymmetry into data as USD-positive as markets price risk of a more hawkish Fed. We think this setup persists into U.S. CPI but the shelf life on this asymmetry is running out and could expire if disinflation continues.</div>        <div class="rs-tags">
-<span class="rs-tag">Macro Strategy</span><span class="rs-tag">Monetary Policy</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4189,16 +4229,6 @@ function closeEvModal() {
 <a href="https://marquee.gs.com/content/research/en/reports/2026/08/10/2f2b6d3f-282a-484a-95ee-e16c4d2b07d5.html" target="_blank" rel="noopener">SFR REITs Inflection: Raising estimates and PT after 2Q26</a>        </h3>
 <div class="rs-summary">BTR and shadow supply (for-sale converting to for-rent) headwinds are easing evidenced in single family rental listings finally declining YoY (particularly in Phoenix and Florida, where INVH has outsized exposures). In t...</div>        <div class="rs-tags">
 <span class="rs-tag">REITs</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-08-09 20:15</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUyNDc4" target="_blank" rel="noopener">Deep Dive: How Sustainable Is HK ADT Growth?</a>        </h3>
-<div class="rs-summary">We offer a Deep Dive into the last five years of HK ADT growth, given that it's arguably the most important earnings and share-price driver of HKEX. We see multiple structural drivers to support sustainably higher trading activity, especially with support from a vibrant IPO market.</div>        <div class="rs-tags">
-<span class="rs-tag">Deep Dive</span><span class="rs-tag">Liquidity</span><span class="rs-tag">Diversified & Specialty Finance</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4450,26 +4480,6 @@ function closeEvModal() {
 <div class="rs-summary">We adjust our UDR estimates after updating our model for 2Q26 results. The shifts to our estimates primarily relate to updated 2026 guidance and management commentary (which highlights improvement in blends for both sunb...</div>        <div class="rs-tags">
 <span class="rs-tag">REITs</span>        </div>
       </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">GS</span>
-          <span>2026-07-30</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://marquee.gs.com/content/research/en/reports/2026/07/30/ac5d361e-dd65-4ad6-aa3d-cb81e7a7337d.html" target="_blank" rel="noopener">Brixmor Property Group (BRX): 2Q26 Update: Proactive recaptures create short-term occupancy drag, but leasing spreads, SNO pipeline and acquisitions support the outlook</a>        </h3>
-<div class="rs-summary">Following BRX’s 2Q26 earnings, we discuss highlights from the earnings call, and update our model and price target. We revise our estimates marginally and, when including these changes, estimate average FFO growth of 5.8% each year through 2028.</div>        <div class="rs-tags">
-<span class="rs-tag">REITs</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">GS</span>
-          <span>2026-07-30</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://marquee.gs.com/content/research/en/reports/2026/07/30/f9986e7a-a5b4-4605-bd15-a36b71cae757.html" target="_blank" rel="noopener">Extra Space Storage Inc. (EXR): 2Q26 Update: Slow and steady growth</a>        </h3>
-<div class="rs-summary">Following EXR earnings, we discuss highlights from the earnings call and update our estimates. Management provided details on guidance (SS revenue, SS expense, acquisitions), supply, and demand. Our model estimates LSD F...</div>        <div class="rs-tags">
-<span class="rs-tag">REITs</span>        </div>
-      </div>
     </div>
   </section>
 </div><!-- /tab-research -->
@@ -4486,7 +4496,7 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 
 <footer>
   Data: Bloomberg &middot; FRED &middot; Central Bank official calendars &middot; Citi Velocity<br>
-  Updated 2026-08-18 19:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
+  Updated 2026-08-19 07:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>

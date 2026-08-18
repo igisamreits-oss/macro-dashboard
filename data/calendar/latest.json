@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-08-18T10:34:43.433694+00:00",
-  "window_start": "2026-08-11",
-  "window_end": "2026-09-15",
+  "fetched_at": "2026-08-18T22:31:13.593721+00:00",
+  "window_start": "2026-08-12",
+  "window_end": "2026-09-16",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-08-11",
-      "country": "AU",
-      "indicator_id": "rba",
-      "time_kst": "13:30",
-      "note": ""
-    },
     {
       "date": "2026-09-02",
       "country": "CA",

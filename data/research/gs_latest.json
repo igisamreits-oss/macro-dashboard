@@ -1,6 +1,62 @@
 {
-  "fetched_at": "2026-08-18T10:33:07.031268+00:00",
+  "fetched_at": "2026-08-18T22:33:04.528259+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "65c27ec8-f563-4eb1-8866-1982746b0079",
+      "title": "Mitsui Fudosan Retail Fund Management (8964.T): In line: Internal growth resilient in an inflationary phase, DPU floor raised; Buy",
+      "summary": "After the August 17 close, the company reported FP6/26 results. FP6/26 DPS was ¥2,214, roughly in line with our prior estimate of ¥2,213. Management guides for DPS of ¥2,220 for FP12/26 and ¥2,240 for FP6/27. Following r...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/18/65c27ec8-f563-4eb1-8866-1982746b0079.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Misato Okamoto",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-08-18"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "5f09640c-f556-41a7-8a3f-3b88565748ae",
+      "title": "Nippon Building Fund (8951.T): In line: Internal growth solid, but Sell on relative yield",
+      "summary": "After the market close on 8/17, the company reported FP6/26 results. FP6/26 DPS was ¥2,489, slightly above our prior estimate (¥2,468), but in line. It guides for DPS of ¥2,465 in FP12/26 and ¥2,541 in FP6/27. Following ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/18/5f09640c-f556-41a7-8a3f-3b88565748ae.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Misato Okamoto",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-08-18"
+    },
     {
       "platform": "GS",
       "doc_id": "6887abf8-c7ab-483b-9085-1cf8a38deb40",
@@ -1151,72 +1207,6 @@
         },
         {
           "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-30"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "ac5d361e-dd65-4ad6-aa3d-cb81e7a7337d",
-      "title": "Brixmor Property Group (BRX): 2Q26 Update: Proactive recaptures create short-term occupancy drag, but leasing spreads, SNO pipeline and acquisitions support the outlook",
-      "summary": "Following BRX’s 2Q26 earnings, we discuss highlights from the earnings call, and update our model and price target. We revise our estimates marginally and, when including these changes, estimate average FFO growth of 5.8% each year through 2028.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/ac5d361e-dd65-4ad6-aa3d-cb81e7a7337d.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-30"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "f9986e7a-a5b4-4605-bd15-a36b71cae757",
-      "title": "Extra Space Storage Inc. (EXR): 2Q26 Update: Slow and steady growth",
-      "summary": "Following EXR earnings, we discuss highlights from the earnings call and update our estimates. Management provided details on guidance (SS revenue, SS expense, acquisitions), supply, and demand. Our model estimates LSD F...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/f9986e7a-a5b4-4605-bd15-a36b71cae757.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }
