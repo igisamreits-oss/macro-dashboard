@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-08-17T13:07:08.119188+00:00",
+  "fetched_at": "2026-08-18T10:33:07.031268+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "6887abf8-c7ab-483b-9085-1cf8a38deb40",
+      "title": "Janus Living Inc. (JAN): Updating Estimates and PT Following 2Q26 Results",
+      "summary": "We update our JAN estimates and price target after updating our model for the company's 2Q26 results and the recent equity offering. Core FFO estimates came in above our and consensus estimates driven by stronger SS NOI growth.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/17/6887abf8-c7ab-483b-9085-1cf8a38deb40.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-17"
+    },
     {
       "platform": "GS",
       "doc_id": "47cf54d8-cbdd-4014-b8dd-3a92dbf40992",
@@ -1189,39 +1217,6 @@
         },
         {
           "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-30"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "04adba87-f511-4e83-b254-9c4343e1f394",
-      "title": "Broadstone Net Lease Inc. (BNL): 2Q26 First Take: Investment guidance up while the SS portfolio remains solid",
-      "summary": "BNL reported 2Q26 AFFO/share of $0.39 (+3.7% y/y), inline with the GS/Factset consensus estimate. The Company increased its midpoint 2026 AFFO/share guidance 60bps, suggesting y/y growth of 4.1%, and increased its guidan...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/04adba87-f511-4e83-b254-9c4343e1f394.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
