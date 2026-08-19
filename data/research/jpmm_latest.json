@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T10:34:08.298951+00:00",
+  "fetched_at": "2026-08-19T22:34:10.237761+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -86,9 +86,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Infrastructure, Industrials & Transport",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-08-14"
     },
