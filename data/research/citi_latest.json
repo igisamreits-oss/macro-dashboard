@@ -1,6 +1,71 @@
 {
-  "fetched_at": "2026-08-19T22:32:09.615161+00:00",
+  "fetched_at": "2026-08-20T10:32:10.475673+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30455607",
+      "title": "U.S. Property & Casualty: Allstate Downgrade Feedback",
+      "summary": "Response to our Allstate downgrade was balanced, but some pushback may reflect reluctance to sell a recent winner rather than a high-conviction bull case. We address five key debate points and expand our normalized framework comparing Progressive and Allstate.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1NjA3",
+      "tags": [
+        "Insurance - Property & Casualty",
+        "Investor Feedback and Sentiment"
+      ],
+      "publish_time": "2026-08-19 05:00",
+      "thumbnail": "https://ir.citi.com/FisXQnPaBqzD_Ym4Qpcz4G9ldF8-pwlH2a2TApS93X6pi7HrCjaGj2DTRMzjb69P2FUVBZemqXUP4_gZ68Q4-g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30455693",
+      "title": "Nvidia Earnings Preview: Focus on AI Financing",
+      "summary": "Nvidia reports on August 26. We raise our sales estimates above the Street's and expect the stock to trade higher after earnings. We believe Nvidia has secured high-bandwidth memory supply and is now focused on addressing land, power, and shell bottlenecks to help expand AI factories.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1Njkz",
+      "tags": [
+        "Semiconductors"
+      ],
+      "publish_time": "2026-08-19 04:00",
+      "thumbnail": "https://ir.citi.com/QkoPOBuVRPnu1WCjCo32wYmJRvyV7WtpXLbnj3cNlvVms7st9wnPrmA70fY2bNK_TKddACKVJGEF4EpmQpOtYA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30455657",
+      "title": "Broadcom Earnings Preview: Focus on Updated 2027 AI Sales Outlook",
+      "summary": "Broadcom reports on September 2. We model July quarter revenue/EPS modestly above consensus and July quarter modestly below. We keep our $116 bn FY27 AI revenue forecast and lift FY27/28 EPS on stronger software infrastructure sales growth. We maintain our Buy rating and $500 target price.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1NjU3",
+      "tags": [
+        "Semiconductors"
+      ],
+      "publish_time": "2026-08-19 05:00",
+      "thumbnail": "https://ir.citi.com/6_xDX4io0nZKpSwrroxWhhtKZRABN6hxQwSQSUeTu5X0qE-c5C8gmLfZy1P222-ezQSUo6sTn9Lvxu3EyHWqcA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30455699",
+      "title": "Japan FX: Our View of the U.S.-Japan Currency Alliance",
+      "summary": "The first act of the U.S.-Japan “currency alliance” was U.S. Treasury intervention to sell EURJPY. We see a growing risk of Japanese MoF intervention if EURJPY reaches ¥185-186/€, while USDJPY remains the key battleground. Equity market conditions may influence timing.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1Njk5",
+      "tags": [
+        "Central Banks",
+        "Flows",
+        "Politics"
+      ],
+      "publish_time": "2026-08-19 02:57",
+      "thumbnail": "https://ir.citi.com/7n9uX9qu-_jC4Pe8cp2909yqt_Y803hIAwIFLj6OGhev8bY3_f_W8nY8iKEbWHu3z_maEIhdkfe8HJD_oWDAqw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30455708",
+      "title": "The Speculative Grade Beat: Private Credit 2.0",
+      "summary": "Nvidia’s plan to mobilize over $500 bn of third-party capital for AI infrastructure highlights private credit’s evolution beyond direct lending. This report maps the shift from Private Credit 1.0 and 1.5 toward a 2.0 model built around platform-scale capital solutions.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1NzA4",
+      "tags": [
+        "High-Yield Credit",
+        "Private Credit",
+        "AI Infrastructure Investment"
+      ],
+      "publish_time": "2026-08-19 08:58",
+      "thumbnail": "https://ir.citi.com/Qspm7QgoUyVNKdv7fBilyT0x3HQolYDo_0jnHHOHjl0lQjCIGPLFaP2qgdF80HDtP1qiKta0ChrR2_VPvJu0pQ%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30455435",
