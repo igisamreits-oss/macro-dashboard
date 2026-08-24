@@ -1,6 +1,49 @@
 {
-  "fetched_at": "2026-08-24T10:33:13.463176+00:00",
+  "fetched_at": "2026-08-24T22:33:11.455155+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": null,
+      "title": "",
+      "summary": "",
+      "link": null,
+      "authors": [],
+      "tags": [],
+      "publish_time": null
+    },
+    {
+      "platform": "GS",
+      "doc_id": "03bd673c-38ed-42c9-b7dd-dbeb61018241",
+      "title": "Lineage Inc. (LINE): USDA check-in for July '26: Somewhat softer July inventory trends versus recent month results",
+      "summary": "Given investor focus on LINE's occupancy and inventory trends, we share USDA July data (released on 8/24/26), compare it versus historical trends, and review how 2026 seasonality is trending. We realize there are many wa...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/24/03bd673c-38ed-42c9-b7dd-dbeb61018241.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-24"
+    },
     {
       "platform": "GS",
       "doc_id": "65c27ec8-f563-4eb1-8866-1982746b0079",
@@ -1138,62 +1181,6 @@
       "title": "Camden Property Trust (CPT): 2Q26 First Take: New lease and blends disappoint",
       "summary": "CPT reported 2Q26 Core FFO of $1.68, +1% ahead of GS and Visible Alpha consensus of $1.66/$1.67, driven by slightly stronger than expected SS revenue growth. Same-store revenues grew +0.2% YoY (above GS and consensus exp...",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/49b842d9-d3ce-4c60-8d81-1dd540ee3811.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-30"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "8a105764-990e-4e75-9519-d697851d22ec",
-      "title": "American Homes 4 Rent (AMH): 2Q26 First Take: Raised guidance and solid start to 3Q26",
-      "summary": "AMH announced Core FFO of $0.49, beating GSe/VA consensus $0.47/$0.48 estimates by +4.2%/+2.6%, where the beat versus our estimates was primarily driven by higher than expected same store revenue growth, partially offset...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/8a105764-990e-4e75-9519-d697851d22ec.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-30"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "53d38f8f-b208-4487-93d1-6412ff547e8c",
-      "title": "UDR Inc. (UDR): Updating estimates and price target for 2Q26 results",
-      "summary": "We adjust our UDR estimates after updating our model for 2Q26 results. The shifts to our estimates primarily relate to updated 2026 guidance and management commentary (which highlights improvement in blends for both sunb...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/53d38f8f-b208-4487-93d1-6412ff547e8c.html",
       "authors": [
         {
           "name": "Julien Blouin",
