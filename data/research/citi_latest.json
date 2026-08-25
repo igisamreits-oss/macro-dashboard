@@ -1,6 +1,100 @@
 {
-  "fetched_at": "2026-08-25T10:32:13.833266+00:00",
+  "fetched_at": "2026-08-25T22:32:05.584241+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30457079",
+      "title": "Global Commodities: Supply-Side Risks Are Converging",
+      "summary": "We remain bullish on grains and oilseeds as supply-side risks are converging. A strengthening Super El Niño, escalating Black Sea disruptions, rising biofuel demand, and elevated fertilizer and energy costs collectively point to tighter agricultural balances over the next six to 12 months.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MDc5",
+      "tags": [
+        "Commodities Strategy",
+        "Macro Strategy",
+        "Market Forecasts",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-08-25 00:34",
+      "thumbnail": "https://ir.citi.com/RyVZiGZ9G5N3p1lke4Lx-JxJCIhgFbRyieLNEqwEoC97wfnXXdXy45kmQEshzH4huF9SCDdhrlrgU44kASb1Bg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30456878",
+      "title": "European Retail: Fulfilling the Margin Potential",
+      "summary": "We're upgrading NXT to Buy as we think it now commands a higher valuation, and reiterate our Buy rating on M&S. In this Deep Dive we take a closer look at M&S vs. Next and the opportunity for online margins.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU2ODc4",
+      "tags": [
+        "Rating Change",
+        "Target Price Change",
+        "Estimate Change",
+        "Deep Dive",
+        "Retailing - Broadlines",
+        "Retailing - Softlines",
+        "Retailing"
+      ],
+      "publish_time": "2026-08-25 00:00",
+      "thumbnail": "https://ir.citi.com/lV1qKToriUQJsGuH_pKV72xjTSjGM0_jldBilEFVRvsAOW2yL8myP0Vm2UPe8SoM7kS1Dt3oSz29tszr4339xA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30456716",
+      "title": "We're Initiating Coverage of Sigenergy at Buy",
+      "summary": "We initiate coverage of Sigenergy at Buy. Sigenergy is one of the fastest-growing companies in the residential energy storage system sector. We like Sigenergy for three reasons, which we explore in this note, and attribute its post-IPO share-price decline to margin-cut concerns.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU2NzE2",
+      "tags": [
+        "Alternative Energy Equipment & Services",
+        "Initiation of Coverage",
+        "Catalyst Watch",
+        "Energy Storage",
+        "Energy Efficiency",
+        "Deep Dive"
+      ],
+      "publish_time": "2026-08-25 04:58",
+      "thumbnail": "https://ir.citi.com/9CPnmqOnkDzsTQt0FogGBiByeedH2u6oWJJErghaFiPOIJD60K_NcEfjA7FIQQQtzLRQiMR8hTISkJKaD26x6A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30457090",
+      "title": "Hot Chips Day 1: Key Themes and Takeaways",
+      "summary": "The key message from the Day 1 of the Hot Chips conference: The semis industry is moving from a GPU-centric AI buildout toward an infrastructure-centric AI buildout, with CPUs, networking, memory, packaging and system integration all becoming increasingly critical alongside accelerators.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MDkw",
+      "tags": [
+        "Corporate Events/Soecial Situations",
+        "Semiconductors",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-08-25 03:03",
+      "thumbnail": "https://ir.citi.com/YPEaECqzgOvgaV5DDw6AUEI3fIFMka0o5VUBcfO2VeK5nQzs-M7cZCms9o-IgeHU-sQ1YAdFF3gpXGkEW20PKg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30457030",
+      "title": "Inflation Weekly: Core Goods Prices Remain in Focus",
+      "summary": "Core goods prices will remain in focus amid still-high energy costs and new tariffs on Canadian imports. Our base case is for upward pressure on goods prices to stay modest. The tariffs could boost inflation slightly, but the effects shouldn't be noticeable for at least a few months.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MDMw",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Inflation",
+        "Inflation Weekly",
+        "Tariffs"
+      ],
+      "publish_time": "2026-08-24 18:00",
+      "thumbnail": "https://ir.citi.com/fdZZ7-JD6ghRP2zBBSl9WyRAUpYsxlO_BLl-p-vQTie_wR4Gk9N4vsqiTE4SI95H2wENERw2wJc8jJw76agckA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30457016",
+      "title": "Equity Markets Positioning Model: Momentum Fades",
+      "summary": "Global positioning remains constructive, but bullish flows are fading. An overview of activity in the U.S., Europe and Asia suggests a transition toward a more selective and fragile risk environment. The key risks are profit-taking in long books and potential squeeze-driven volatility.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MDE2",
+      "tags": [
+        "Equity Markets Positioning Model",
+        "Model Portfolio"
+      ],
+      "publish_time": "2026-08-24 17:03",
+      "thumbnail": "https://ir.citi.com/W_jRaVh2ocenrGt8TkJGxFL18P5RlUDfHmZk6Zld5rXpFfzt4rnBqTZs2m99ikjYUry15rlcY0H3KHT_Tn199g%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30456911",
@@ -513,83 +607,6 @@
       ],
       "publish_time": "2026-08-19 08:58",
       "thumbnail": "https://ir.citi.com/Qspm7QgoUyVNKdv7fBilyT0x3HQolYDo_0jnHHOHjl0lQjCIGPLFaP2qgdF80HDtP1qiKta0ChrR2_VPvJu0pQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30455435",
-      "title": "UK Labor Market: The Cyclical Vs. the Structural",
-      "summary": "The UK labor market continues to tell two stories. The first is a cyclical downturn driven by depressed labor demand; the second is an underlying structural tightening possibly driven by problems in job matching and labor supply. That means a difficult environment for the Bank of England.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1NDM1",
-      "tags": [
-        "Labor Market",
-        "UK Economics",
-        "Economic Analysis",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-08-18 06:14",
-      "thumbnail": "https://ir.citi.com/C3t4TDR2CeJf_hIBd0ptoGLgx4Jz0kht0ZeWccrbBiNygm8s_UEZzc5031r4FH08ab-9IWI6uZh7uQTnzG0n4w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30455250",
-      "title": "North America Hardware & Storage: Second-Quarter Preview",
-      "summary": "Hardware OEMs’ earnings should reflect strong results given constructive commentary about infrastructure demand benefitting from AI buildouts and rising CPU usage for agentic AI workloads. Fundamentals remain strong, but expectations are also elevated. We review our preferences herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1MjUw",
-      "tags": [
-        "Hardware & Storage",
-        "Catalyst Watch",
-        "Target Price Change",
-        "Estimate Change",
-        "Artificial Intelligence (AI)",
-        "Earnings Preview",
-        "Cloud Computing",
-        "Innovation Lab"
-      ],
-      "publish_time": "2026-08-18 02:05",
-      "thumbnail": "https://ir.citi.com/IA0o-2er129UXiJzUqEeDr0BykYp1-GwBTk7JdG8ow8Wv-fPzDA1GgyK3FpPROAiyFCzHPQlZxhhLn87V0XyLw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30455405",
-      "title": "Global Tech Hardware: Revisiting Smartphone Forecasts",
-      "summary": "We tweak our forecasts for global smartphone shipments in 2026 through 2028 by +5%, -5% and -4%, respectively, noting prolonged memory price strength and a higher premium model mix. Amid the downcycle of the smartphone chain, we stay selective and pick defensive players.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1NDA1",
-      "tags": [
-        "Theme Investing",
-        "Consumer Electronics",
-        "Communications Equipment",
-        "Hardware"
-      ],
-      "publish_time": "2026-08-18 05:57",
-      "thumbnail": "https://ir.citi.com/s3edhConbVs85yaVBDXYXTu7V3sCEZmGz-8Y5zK7D4eIxQ64IsxvjENncoWrzylr4wyLq13wCWF71at-tQ2K2A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30455295",
-      "title": "Equity Markets Positioning Model: Shifting Risks",
-      "summary": "Developed-markets positioning remains constructive, but the balance of risks is shifting. New risk flows continue to underpin equity exposure, with Europe attracting some of the strongest incremental demand, while Asia is stabilizing through short covering, not outright risk addition.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1Mjk1",
-      "tags": [
-        "Model Portfolio",
-        "Equity Markets Positioning Model"
-      ],
-      "publish_time": "2026-08-17 15:52",
-      "thumbnail": "https://ir.citi.com/y0vH4edAB4kihbPtZwCie3RRR51ILG_5CGhpcD0L2pMu7ERUx_vJb85ihm1b9LvoTap1RH3xVD3P6r8JBzDj0Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30455318",
-      "title": "Brazil Equity Strategy: Second-Quarter Earnings Wrap",
-      "summary": "Brazil's second-quarter earnings reinforced a growing disconnect between fundamentals and share-price performance. While Ibovespa companies delivered aggregate revenue and earnings surprises of +1.8% and +5.3%, respectively, stocks fell on average after results, a dynamic explored herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU1MzE4",
-      "tags": [
-        "Emerging Markets",
-        "Flows",
-        "Brazil Equity Strategy"
-      ],
-      "publish_time": "2026-08-17 18:55",
-      "thumbnail": "https://ir.citi.com/I7Cyah8Okmh7qBpVBBZ6zLMNT932NWBzU6-SwfXkxHyR7zw_nrGZLOD1yYSkn6JvurPcXpGttjx6fzQ-Mw7nGw%3D%3D"
     }
   ]
 }
