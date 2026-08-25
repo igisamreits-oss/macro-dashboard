@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T22:34:11.184526+00:00",
+  "fetched_at": "2026-08-25T10:34:14.713268+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -26,9 +26,9 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
+        "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation"
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-08-21"
     },
@@ -101,10 +101,46 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-08-13"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5417577-0",
+      "publication_id": "CFP-PC-11813-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5417577-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
+      ],
+      "publish_time": "2026-08-21"
     },
     {
       "platform": "JPM",
@@ -141,8 +177,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Infrastructure, Industrials & Transport",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy"
       ],
       "publish_time": "2026-08-14"
