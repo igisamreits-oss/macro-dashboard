@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T22:33:05.222388+00:00",
+  "fetched_at": "2026-08-26T10:33:08.777626+00:00",
   "items": [
     {
       "platform": "GS",
@@ -10,6 +10,34 @@
       "authors": [],
       "tags": [],
       "publish_time": null
+    },
+    {
+      "platform": "GS",
+      "doc_id": "1c5fa20b-26c9-4499-b86b-972c213852c5",
+      "title": "Alexandria Real Estate Equities Inc. (ARE): Updating Estimates and PT Following 2Q26 Results",
+      "summary": "We update our ARE estimates after updating our model for the company's 2Q26 results which were ahead of our and consensus estimates where stronger-than-expected operating metrics, continued delayed disposition timing and...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/25/1c5fa20b-26c9-4499-b86b-972c213852c5.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-08-25"
     },
     {
       "platform": "GS",
@@ -1166,34 +1194,6 @@
         },
         {
           "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-07-30"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "49b842d9-d3ce-4c60-8d81-1dd540ee3811",
-      "title": "Camden Property Trust (CPT): 2Q26 First Take: New lease and blends disappoint",
-      "summary": "CPT reported 2Q26 Core FFO of $1.68, +1% ahead of GS and Visible Alpha consensus of $1.66/$1.67, driven by slightly stronger than expected SS revenue growth. Same-store revenues grew +0.2% YoY (above GS and consensus exp...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/07/30/49b842d9-d3ce-4c60-8d81-1dd540ee3811.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
           "department": "REITs",
           "division": "Research"
         }
