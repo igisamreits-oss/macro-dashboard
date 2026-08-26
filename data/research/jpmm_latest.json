@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T10:34:09.208616+00:00",
+  "fetched_at": "2026-08-26T22:34:12.298020+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -27,8 +27,8 @@
       ],
       "tags": [
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation"
       ],
       "publish_time": "2026-08-21"
     },
@@ -55,6 +55,40 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-08-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5422698-0",
+      "publication_id": "KAL-1-M3AWZS9H",
+      "title": "IT & BPO Services",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5422698-0",
+      "authors": [
+        {
+          "name": "Tien-tsin Huang, CFA",
+          "team": "Payments, Processors & IT Services",
+          "email": "tien-tsin.huang@jpmorgan.com"
+        },
+        {
+          "name": "Puneet Jain",
+          "team": "Payments, Processors & IT Services",
+          "email": "puneet.x.jain@jpmorgan.com"
+        },
+        {
+          "name": "Brendan Biles",
+          "team": "Payments, Processors & IT Services",
+          "email": "brendan.biles@jpmorgan.com"
+        },
+        {
+          "name": "Abbey Hochreiner",
+          "team": "Payments, Processors & IT Services",
+          "email": "abbey.hochreiner@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Payments, Processors & IT Services"
+      ],
+      "publish_time": "2026-08-26"
     },
     {
       "platform": "JPM",
@@ -136,9 +170,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-08-21"
     },
@@ -177,11 +211,45 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Infrastructure, Industrials & Transport",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-08-14"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5420712-0",
+      "publication_id": "KAL-1-5T5C2FE0",
+      "title": "Healthcare Services",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5420712-0",
+      "authors": [
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
+        },
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-08-26"
     },
     {
       "platform": "JPM",
