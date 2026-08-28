@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T10:34:24.566373+00:00",
+  "fetched_at": "2026-08-28T22:34:09.253810+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -26,9 +26,9 @@
         }
       ],
       "tags": [
+        "APAC Equity Thematic and Sustainable Investing Research",
         "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-08-21"
     },
@@ -121,51 +121,10 @@
       ],
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-08-21"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5410155-0",
-      "publication_id": "GPS-5415383-0",
-      "title": "China Thematic Research",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5410155-0",
-      "authors": [
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        },
-        {
-          "name": "Sunny Su",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "sunny.su@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Infrastructure, Industrials & Transport",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
-      ],
-      "publish_time": "2026-08-14"
     },
     {
       "platform": "JPM",

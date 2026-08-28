@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T10:31:11.806888+00:00",
+  "fetched_at": "2026-08-28T22:31:13.952763+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -109,7 +109,7 @@
       "actual": 2.2,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-08-28",
+      "release_date": "2026-08-29",
       "source": "bdp"
     },
     "jp_cpi_yoy": {
@@ -208,7 +208,7 @@
       "consensus": 2.5,
       "release_date": "2026-07-31",
       "actual_release_date": "2026-08-27",
-      "next_release_date": "2026-08-28",
+      "next_release_date": "2026-10-02",
       "next_release_time": "08:30"
     },
     "kr_unemp": {
@@ -406,14 +406,14 @@
       "consensus": -15.9,
       "release_date": "2026-07-31",
       "actual_release_date": "2026-07-30",
-      "next_release_date": "2026-08-28",
-      "next_release_time": "18:00"
+      "next_release_date": "2026-09-22",
+      "next_release_time": "23:00"
     },
     "jp_consumer_conf": {
       "actual": 42.7,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-08-28",
+      "release_date": "2026-08-29",
       "source": "bdp"
     },
     "se_consumer_conf": {
@@ -422,8 +422,8 @@
       "consensus": null,
       "release_date": "2026-07-31",
       "actual_release_date": "2026-07-30",
-      "next_release_date": "2026-08-28",
-      "next_release_time": "16:00"
+      "next_release_date": "2026-09-29",
+      "next_release_time": "15:00"
     },
     "us_retail_mom": {
       "actual": -0.6,
@@ -512,20 +512,20 @@
       "consensus": null,
       "release_date": "2026-07-31",
       "actual_release_date": "2026-08-28",
-      "next_release_date": "2026-08-28",
+      "next_release_date": "2026-09-30",
       "next_release_time": "15:00"
     }
   },
   "snapshots": {
     "us_pol_sofr": {
       "value": 3.64,
-      "change_1d": -0.02,
-      "as_of": "2026-08-26"
+      "change_1d": 0.0,
+      "as_of": "2026-08-27"
     },
     "ca_pol_corra": {
       "value": 2.25,
       "change_1d": 0.0,
-      "as_of": "2026-08-26"
+      "as_of": "2026-08-27"
     },
     "uk_pol_sonia": {
       "value": 3.7303,
@@ -558,28 +558,28 @@
       "as_of": "2026-08-27"
     },
     "us_be_10y": {
-      "value": 2.3333,
-      "change_1d": -0.0002,
+      "value": 2.3179,
+      "change_1d": -0.0156,
       "as_of": "2026-08-28"
     },
     "uk_be_10y": {
-      "value": 3.304,
-      "change_1d": 0.015,
+      "value": 3.323,
+      "change_1d": 0.034,
       "as_of": "2026-08-28"
     },
     "eu_be_10y": {
-      "value": 1.11,
-      "change_1d": -0.002,
+      "value": 1.116,
+      "change_1d": 0.004,
       "as_of": "2026-08-28"
     },
     "de_be_10y": {
-      "value": 2.1386,
-      "change_1d": 0.0059,
+      "value": 2.1473,
+      "change_1d": 0.0146,
       "as_of": "2026-08-28"
     },
     "fr_be_10y": {
-      "value": 2.238,
-      "change_1d": 0.004,
+      "value": 2.24,
+      "change_1d": 0.006,
       "as_of": "2026-08-28"
     },
     "au_be_10y": {
@@ -593,8 +593,8 @@
       "as_of": "2026-08-28"
     },
     "se_be_10y": {
-      "value": 1.846,
-      "change_1d": -0.004,
+      "value": 1.85,
+      "change_1d": 0.0,
       "as_of": "2026-08-28"
     },
     "us_mort_30y": {
@@ -607,25 +607,25 @@
     "fomc": {
       "rate": 3.75,
       "consensus_rate": 3.75,
-      "implied_1y": 4.0108,
+      "implied_1y": 4.1297,
       "next_meeting": null
     },
     "ecb": {
       "rate": 2.25,
       "consensus_rate": null,
-      "implied_1y": 2.666,
+      "implied_1y": 2.6839,
       "next_meeting": null
     },
     "boe": {
       "rate": 3.75,
       "consensus_rate": null,
-      "implied_1y": 4.1648,
+      "implied_1y": 4.18,
       "next_meeting": null
     },
     "rba": {
       "rate": 4.35,
       "consensus_rate": null,
-      "implied_1y": 4.7057,
+      "implied_1y": 4.7313,
       "next_meeting": null
     },
     "boj": {
@@ -637,7 +637,7 @@
     "boc": {
       "rate": 2.25,
       "consensus_rate": 2.25,
-      "implied_1y": 2.6125,
+      "implied_1y": 2.64,
       "next_meeting": null
     }
   }
