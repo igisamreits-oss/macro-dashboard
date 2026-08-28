@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27T22:34:14.652348+00:00",
+  "fetched_at": "2026-08-28T10:34:24.566373+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -26,9 +26,9 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
+        "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation"
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-08-21"
     },
@@ -120,9 +120,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-08-21"
     },
@@ -162,8 +162,8 @@
       ],
       "tags": [
         "Infrastructure, Industrials & Transport",
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-08-14"
     },
@@ -200,30 +200,6 @@
         "Managed Care and Facilities"
       ],
       "publish_time": "2026-08-26"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5402644-0",
-      "publication_id": "GPS-5410326-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5402644-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-08-14"
     }
   ]
 }
