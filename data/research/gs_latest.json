@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T10:32:49.035236+00:00",
+  "fetched_at": "2026-09-01T22:33:10.017337+00:00",
   "items": [
     {
       "platform": "GS",
@@ -10,6 +10,62 @@
       "authors": [],
       "tags": [],
       "publish_time": null
+    },
+    {
+      "platform": "GS",
+      "doc_id": "ab60d3c3-9583-40dd-9dc2-c4a98a133886",
+      "title": "Macerich Co. (MAC): Post 2Q26 Update: Leasing volume goals nearly met; conversion to permanent occupancy and a rich AFFO multiple are lingering hurdles",
+      "summary": "Following 2Q26 earnings, we review MAC's progress as part of its Path Forward (leasing, dispositions, debt refis, leverage), update our model and price target, and show earnings growth and valuation trends. Our model now...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/01/ab60d3c3-9583-40dd-9dc2-c4a98a133886.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-01"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "e9b9b945-9d56-42bf-a6be-a92655691bd8",
+      "title": "CapitaLand Ascendas REIT (CAPD.SI): Asia Leaders Conference 2026 Takeaways: Improving 2H26 growth with slower pace of acquisition in near term",
+      "summary": "Bottom line: We hosted Capitaland Ascendas REIT (CLAR) CEO, Mr William Tay, at our Asia Leaders Conference on September 1st. Investor focus was on DPU growth outlook and key drivers. Management expects stronger 2H26 DPU ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/01/e9b9b945-9d56-42bf-a6be-a92655691bd8.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-09-01"
     },
     {
       "platform": "GS",
@@ -1095,67 +1151,6 @@
       "title": "Janus Living Inc. (JAN): 2Q26 First Take: SS NOI beats, and acquisition pace picks up",
       "summary": "Janus reported 2Q26 Core FFO of $0.24, +8%/+4% vs. GSe/VA Consensus at $0.22/$0.23, where SS NOI growth came in +240bps above GSe and +390bps vs consensus which was mildly offset by lower acquisition volumes. Janus incre...",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/08/04/db40c28e-f30a-4963-b64d-5c384313542b.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-04"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "9ad19659-d278-4d2f-8236-16e8dc5a9a4f",
-      "title": "Gaming and Leisure Properties Inc. (GLPI): 2Q26 Update: Development funding proceeding as expected",
-      "summary": "Post 2Q26 results, we update our model and review topics from the earnings call, including 2026 guidance, development pipeline and competition, as well as tenant activity. We now estimate 2026 AFFOPS of $4.12 (+6.0% YoY)...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/04/9ad19659-d278-4d2f-8236-16e8dc5a9a4f.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-04"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "71c020e6-bb63-404c-bb81-cbee4e7c490e",
-      "title": "Millrose Properties Inc. (MRP): 2Q26 First Take: Lower net deployments, but encouraging runrate AFFO",
-      "summary": "MRP reported core EPS/AFFO of $0.76/$0.77, missing GSe by -2.6%/-3.8%, driven by lower option fee revenue from lower net deployments. Non-Lennar deployment was $554.6mn (vs. GSe $768.6mn) and Lennar at $566.4mn (vs. GSe $627.2mn).",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/04/71c020e6-bb63-404c-bb81-cbee4e7c490e.html",
       "authors": [
         {
           "name": "Julien Blouin",
