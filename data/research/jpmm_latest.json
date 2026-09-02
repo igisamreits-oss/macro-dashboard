@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T10:34:11.809811+00:00",
+  "fetched_at": "2026-09-02T22:34:06.873041+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -26,8 +26,8 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation"
       ],
       "publish_time": "2026-08-21"
@@ -120,11 +120,46 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-08-21"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5431104-0",
+      "publication_id": "KAL-1-3ZTF6YQW",
+      "title": "Americas Construction Materials",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5431104-0",
+      "authors": [
+        {
+          "name": "Adrian E Huerta",
+          "team": "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
+          "email": "adrian.huerta@jpmorgan.com"
+        },
+        {
+          "name": "Garrett Greenblatt",
+          "team": "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
+          "email": "garrett.greenblatt@jpmorgan.com"
+        },
+        {
+          "name": "Elodie Rall",
+          "team": "European Building & Construction and Infrastructure",
+          "email": "elodie.rall@jpmorgan.com"
+        },
+        {
+          "name": "Zaim Beekawa",
+          "team": "European Building & Construction and Infrastructure",
+          "email": "zaim.beekawa@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "European Building & Construction and Infrastructure",
+        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
+      ],
+      "publish_time": "2026-09-02"
     },
     {
       "platform": "JPM",

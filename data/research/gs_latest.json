@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T10:33:11.183455+00:00",
+  "fetched_at": "2026-09-02T22:33:06.402498+00:00",
   "items": [
     {
       "platform": "GS",
@@ -10,6 +10,34 @@
       "authors": [],
       "tags": [],
       "publish_time": null
+    },
+    {
+      "platform": "GS",
+      "doc_id": "27029306-fa6a-4f7c-b840-9e0189f4efdd",
+      "title": "Millrose Properties Inc. (MRP): Updating Estimates for 2Q26 & Strong Future Deployment",
+      "summary": "We are updating our model estimates and price target after the company reported 2Q26 results, which were modestly below GS estimates on a Core EPS and AFFO basis. Our 2027 estimates shift higher to reflect higher net cap...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/02/27029306-fa6a-4f7c-b840-9e0189f4efdd.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-02"
     },
     {
       "platform": "GS",
@@ -1144,34 +1172,6 @@
         "REITs"
       ],
       "publish_time": "2026-08-05"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "db40c28e-f30a-4963-b64d-5c384313542b",
-      "title": "Janus Living Inc. (JAN): 2Q26 First Take: SS NOI beats, and acquisition pace picks up",
-      "summary": "Janus reported 2Q26 Core FFO of $0.24, +8%/+4% vs. GSe/VA Consensus at $0.22/$0.23, where SS NOI growth came in +240bps above GSe and +390bps vs consensus which was mildly offset by lower acquisition volumes. Janus incre...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/04/db40c28e-f30a-4963-b64d-5c384313542b.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-04"
     }
   ]
 }

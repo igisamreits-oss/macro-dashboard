@@ -1,6 +1,182 @@
 {
-  "fetched_at": "2026-09-02T10:32:09.200972+00:00",
+  "fetched_at": "2026-09-02T22:32:05.806065+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30459124",
+      "title": "China Economics: Back to School, Eyes on September",
+      "summary": "September will be a critical test of whether China's policy push can lead to a cyclical recovery. Meanwhile, we think the window for a rate cut is closing. Instead of budget/bond quota revision, we see actual fund deployment as the key metric to watch for a reversal of de facto austerity.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5MTI0",
+      "tags": [
+        "China Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Fiscal Policy",
+        "Central Banks",
+        "Monetary Policy",
+        "Tariffs",
+        "Trade",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-09-02 11:27",
+      "thumbnail": "https://ir.citi.com/CXrKH2oMbb8prLRJvjbu8bdq_k-Ao4IQ3ZIH8yur4Tjw-1o8sr7xBjvjf6J9Zda3byrR5C3Fi5sucrwkMELj4Q%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459243",
+      "title": "Japan Strategy: \"Bad\" Interest Rate Rises to a Debasement Trade",
+      "summary": "We think the recent sharp decline in Japanese equities stems mainly from rising real interest rates rather than a “debasement trade\" linked to deteriorating Japan-U.S. fiscal conditions. During the adjustment phase, defensive value stocks should outperform. We offer more analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5MjQz",
+      "tags": [
+        "Japan Strategy",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-09-02 12:56",
+      "thumbnail": "https://ir.citi.com/zwbxMeAv6I6TtHfTqqBU2L9NsUVcRnHiCDm-Pjv1Nvc9aEzt5BD34NAUAzHM1c93LTDrFSiRQwlg8buPjj2NwA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30453408",
+      "title": "China Healthcare: Is AI-Led Drug Discovery the Next Big Thing?",
+      "summary": "AI-driven drug discovery is taking off in China and spurring a lot of investor interest given the speed and cost benefits that AI brings. We see AI wet-lab validation vendors as the most attractive in the near term; longer term, we prefer AI-native drug developers such as Insilico.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDUzNDA4",
+      "tags": [
+        "Biotechnology",
+        "Healthcare",
+        "Healthcare IT",
+        "Deep Dive",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-09-02 07:03",
+      "thumbnail": "https://ir.citi.com/d33Ny6sg4DEZ-sn6YRm-wE399ju7teOPRg3LkHS8-rIr9GamaYsZEhfwEVks4wvcAGRThzBk6oPxf1fIa7nKtQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459059",
+      "title": "Surging Demand, Strong Execution Drive Strong Beat for Dell",
+      "summary": "Surging demand across key end markets, combined with strong execution, drove a clear beat for Dell. Guidance increased meaningfully with FY27 revenues/EPS growth of ~70%/150% vs. 47%/74% previously. We raise our estimates and lift our target price for Buy-rated DELL to $600 from $515.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5MDU5",
+      "tags": [
+        "Hardware & Storage",
+        "Catalyst Watch",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-09-02 00:43",
+      "thumbnail": "https://ir.citi.com/14w3x7cEUxBjqjyxN1g-gK59k_FbTKa4tRYlSLmF5gk-gVANL2kHgZtxUL_GnkSakyB1E6fZxI7C9TtmgBNEHg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30458707",
+      "title": "Infineon and STM Are More Than Cyclical Recovery Stories",
+      "summary": "We see more durable earning drivers for Infineon and STMicroelectronics from AI data-center power, automotive content expansion and industrial electrification, with inventory correction largely complete. We prefer Infineon for superior AI power positioning and lower margin execution risk.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4NzA3",
+      "tags": [
+        "Semiconductors",
+        "Target Price Change",
+        "Estimate Change",
+        "Deep Dive",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-09-02 00:00",
+      "thumbnail": "https://ir.citi.com/AW-Jf_zERktKIv1dvp3xQrwRIn_ejHm2q5aA4ZeJU49lNwC1l_fQI3lo7VlQSKExpDfqm2RKocM83enirp5-FQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459101",
+      "title": "River Disruptions: Buying Opportunity or Value Trap for Viking?",
+      "summary": "Viking faces exceedingly strong demand trends but severe disruptions to its bread-and-butter river cruise business. We unveil a proprietary model of gauge station readings for the key Rhine-Danube river corridor. Despite a tricky near-term setup, we see this as a buying opportunity.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5MTAx",
+      "tags": [
+        "Leisure",
+        "Global Travel Spend",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-09-02 06:01",
+      "thumbnail": "https://ir.citi.com/YfkLV04pBU8TL9uGFB6a1TN3xO_cLGJ_FU4L9Kmj8zRFmEPKLqw23gemWNV0vqBHZ2dtxKJLz5dNJyBtMDdZjw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30458932",
+      "title": "ADNOC Gas PLC: Oil Flexibility Drives Gas Upside",
+      "summary": "Recent progress in rich gas developments offers further rationale for the UAE’s decision to diverge from OPEC policy. We now see the UAE accounting for 40% of Middle East gas capex this decade, dwarfing its 15% share of production, with ADNOC Gas a clear beneficiary.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4OTMy",
+      "tags": [
+        "Integrated Oil & Gas",
+        "Economic Growth",
+        "Estimate Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-09-02 00:00",
+      "thumbnail": "https://ir.citi.com/Z-YpU2kFoUqfPd_Ewev607pnVinTYl8OYs7Ng3IgR1KS1JGO5qMMsL3t0-ARdehcPinJySRTXybsaeVsUjyF1g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30458890",
+      "title": "European Tech Hardware & Software: TMT Conference Questions",
+      "summary": "We will host ASML, Capgemini, Infineon, Nokia and STMicroelectronics Sept. 8-10 at our Global TMT Conference in New York. In this note we highlight key themes and share our key questions for the presenting companies.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4ODkw",
+      "tags": [
+        "Corporate Events/Special Situations",
+        "Target Price Change",
+        "Estimate Change",
+        "Software",
+        "Application Software",
+        "Communications Equipment",
+        "Hardware"
+      ],
+      "publish_time": "2026-09-02 00:00",
+      "thumbnail": "https://ir.citi.com/K6AdrZ4pFa7OH7kPUC3aWkwd_Ao9V3UKnMhJLLs5imjlxLjoMbPdrBtGlGZZHuOrvJcxdlNEKLA5B1RSHCzkKA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459038",
+      "title": "North America Transportation: A Global TMT Conference Preview",
+      "summary": "FedEx, CH Robinson and RXO will join us at our Global TMT Conference to discuss how technology is transforming global supply chains and logistics, and how these names are using AI to drive efficiency. We hope to delve deeper into topics often overlooked by traditional transports investors.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5MDM4",
+      "tags": [
+        "Corporate Events/Special Situations",
+        "Theme Investing",
+        "Artificial Intelligence (AI)",
+        "Trucking",
+        "Railroads",
+        "Motorways",
+        "Transportation",
+        "Shipping",
+        "Airports",
+        "Marine Ports & Services",
+        "Logistics -- Air & Surface"
+      ],
+      "publish_time": "2026-09-02 05:00",
+      "thumbnail": "https://ir.citi.com/T4Oy2mph54OveyNuvaKIBRptAs1MNROcyIyz0Ji_TFkxPI4V95u37YDopzAycCrdRPDw2n0rYbtuYGt8EQE5yA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459037",
+      "title": "What Works in Equity Markets: Residualized Momentum",
+      "summary": "Price Momentum strategies are often susceptible to momentum crashes that typically occur during market turning points, macroeconomic regime shifts, or rapid style rotations. We explore how to address some of these vulnerabilities using \"Residualized Momentum,\" with more details herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5MDM3",
+      "tags": [
+        "Model Portfolio",
+        "Macro Strategy",
+        "What Works in Equity Markets"
+      ],
+      "publish_time": "2026-09-01 21:24",
+      "thumbnail": "https://ir.citi.com/hvXgncQ62dnkv-9U8cbqFLxPh4DwCHko5lypP0K5XwfPuaoF15Fx5j19Zt30qsvmg6nmwcXEQJTyCm0v__DRNA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459117",
+      "title": "Asia Pacific Radar Screen: The Value-Momentum Seesaw",
+      "summary": "MSCI Asia Pacific ex Japan recovered 3% in August, bringing yet another reversal in Value vs. Momentum. Relative Value was down 6.6% as Composite Momentum gained 5.4%, giving us an almost flat Radar. Currently the model favors Korea, Hong Kong, and Taiwan. We offer further analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5MTE3",
+      "tags": [
+        "Macro Strategy",
+        "Asia Pacific Radar Screen"
+      ],
+      "publish_time": "2026-09-02 08:29",
+      "thumbnail": "https://ir.citi.com/8Ni5Rc7UeS5NbSPA47l4w9G2ijHtMeM9aP_J_9kFlxdjKndqyot7dYNXHr7Pwcann0TLTLHdmnsbuMhavBYK7g%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30458913",
@@ -470,95 +646,6 @@
       ],
       "publish_time": "2026-08-27 00:45",
       "thumbnail": "https://ir.citi.com/mF3HWxc0DzS8HU3PYPWZWA_9ZXH7F6NxUZs1Zqwszs85b_yleD2uOWk-Et_tUXzADWgvCJdZwKCdce42YmvQtQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457188",
-      "title": "European Banks: Back to School",
-      "summary": "We remain overweight European Banks but would argue we're now closer to the end of the current bull run. Banks are still seeing EPS upgrades, mainly on a superior revenue outlook, but upgrades have now broadened to other sectors, reducing the scarcity value. We offer more analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MTg4",
-      "tags": [
-        "Diversified Banks",
-        "Banks",
-        "Cross Asset Strategy"
-      ],
-      "publish_time": "2026-08-26 00:00",
-      "thumbnail": "https://ir.citi.com/Sd7NU2YO4Rr7Rw5uZdzMN4k2E-tz2AhfD-9gCwoOEuMbDwLJCr14rnLtliWm6msv-8WEz_Hgh3V-MbRL6CPz_w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457187",
-      "title": "Orsted Has a Clearer Path to Profitable Growth",
-      "summary": "We're upgrading Orsted to Buy, seeing stabilizing execution and project delivery as first steps toward a return to growth, for which there's substantial scope. We think shares reflect little value for the unsecured pipeline, meaning investors are effectively receiving a free growth option.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MTg3",
-      "tags": [
-        "Alternative Energy Equipment & Services",
-        "Rating Change",
-        "Target Price Change",
-        "Estimate Change",
-        "Deep Dive"
-      ],
-      "publish_time": "2026-08-26 00:00",
-      "thumbnail": "https://ir.citi.com/pNVZV9ZrFmIbYMesmABc3DfbjNEsJzh4kMdTnimD_wOVVwp4CihLn-TGyRnfc0XBOFR6MrIQdcHusnaTB0IoQg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457344",
-      "title": "Gas Biweekly: Permian to Claim the Gas Crown Too?",
-      "summary": "We see the Permian Basin at an inflection point for natural gas, with a multi-year cycle of infrastructure-led growth set to address the chronic takeaway bottleneck. As we explain in this note, we expect the Permian to emerge as the largest gas-producing basin, adding to its oil crown.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MzQ0",
-      "tags": [
-        "Gas Biweekly",
-        "Energy Transition",
-        "Oil & Gas Exploration and Production"
-      ],
-      "publish_time": "2026-08-26 06:00",
-      "thumbnail": "https://ir.citi.com/3MUMlCphhJnK1ptyI29eEqjdN-gG9Qn8g70rmMTBpkNXs00raO6UxN2carEGwAySsBSAwmrdE1L0SD2Lsg634Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457227",
-      "title": "Repsol Downstream Still Looks Substantially Underpriced",
-      "summary": "A sustained upcycle in oil-refining profitability looks capitalized in the valuations of pure-play U.S. refiners, as well as in Europe's Neste. We see much better value on this theme in Repsol, for reasons we explore in this note. We raise FY26 EPS 11% and lift our target price to €31.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MjI3",
-      "tags": [
-        "Integrated Oil & Gas",
-        "Target Price Change",
-        "Estimate Change"
-      ],
-      "publish_time": "2026-08-26 00:00",
-      "thumbnail": "https://ir.citi.com/ylBGCWWrBzmt-DtwTFGsZrSm-vhvmguAxCkBi_rmGmT_X9AalZ7tZBWowov_nrwqahYdyPD5jTIGS82-_v0VXQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457561",
-      "title": "Upward PCE inflation Revisions to Reverse Next Month",
-      "summary": "Core PCE inflation rose 0.246% month over month in July, a bit stronger than our forecast. Markets reacted more to modest upward revisions to PCE, with year-on-year core PCE flat at 3.34% in July. We caution that core PCE will be revised substantially starting with August data.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3NTYx",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Inflation",
-        "Economic Growth"
-      ],
-      "publish_time": "2026-08-26 10:02",
-      "thumbnail": "https://ir.citi.com/0QhTM946hDGQ0l-ZbpgWvpRl6hQzVw5xQEmbszqN83ESrJSPfPXrc6TskooSyILAHsP9UDNIJu1Kooj_3uDwig%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457182",
-      "title": "Singapore Equity Strategy: Do Buybacks Even Matter?",
-      "summary": "Around 80 of STI Index stocks have a share buyback program in place, but our analysis suggests these strategies haven’t been effective protection against index underperformance, as ~80% of the stocks with buyback programs have underperformed the index. We offer more thoughts in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3MTgy",
-      "tags": [
-        "Singapore Equity Strategy",
-        "Share Buyback",
-        "Income Stocks",
-        "Theme Investing"
-      ],
-      "publish_time": "2026-08-25 08:51",
-      "thumbnail": "https://ir.citi.com/uaKVP-AqqOMXL-0Abciy78aBxtIZOCkz4vUr6LeP-Tl0nNZyc7f9hPGbTBC8O5zksRvIfwbbEVpp1UxPaJ5LYw%3D%3D"
     }
   ]
 }
