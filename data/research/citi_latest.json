@@ -1,6 +1,143 @@
 {
-  "fetched_at": "2026-09-04T10:32:10.138732+00:00",
+  "fetched_at": "2026-09-04T22:32:09.883525+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30459728",
+      "title": "Stable Labor Market Means Later Rate Cuts",
+      "summary": "August's jobs report shows a stable labor market that's not generating inflationary pressure. The seasonal rise in the unemployment rate we expected doesn't appear to be repeating, meaning no urgency for rate cuts. We now expect three 25-basis-point cuts next June, September and December.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5NzI4",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks",
+        "Monetary Policy",
+        "Labor Market",
+        "Inflation"
+      ],
+      "publish_time": "2026-09-04 10:09",
+      "thumbnail": "https://ir.citi.com/S3CmeTq_r1D9ynhuojyCKWUZILZg0ibRhXcBd_7YM5jjj7NdaIWCUh8uAvut6788BdAQGDpo0fuAZGj2IPg1xw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459793",
+      "title": "U.S. Equity Strategy: Second-Half Outlook",
+      "summary": "In mid-June we revised our year-end base-case target to 8100. Our base-case index earnings estimate is now $365 for ’26 and $400 for ’27, but we haven't increased our bull-case target of 8300, as we expect downside risks to increase relative to upside reward as the second half unfolds",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5Nzkz",
+      "tags": [
+        "U.S. Equity Strategy"
+      ],
+      "publish_time": "2026-09-04 15:27",
+      "thumbnail": "https://ir.citi.com/7ioCDfImsegM2YYtpk1BLLbVvOt_8Xblz0zzxnARYrztX2lZD9K9xvUz47QfaF9fxZjDtZpXWrBkmBm2irdxRQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459726",
+      "title": "PULSE Monitor: Should They Vs. Will They?",
+      "summary": "Strong payrolls seemingly add to the Fed chorus for a September hike, but inflation concerns face off with signs of cooling. We'd brush off a one-and-done hike, but a new rate hike cycle seems harder to justify. SIGN highlights include ongoing euphoric sentiment, with more analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5NzI2",
+      "tags": [
+        "PULSE Monitor",
+        "Macro Strategy",
+        "Central Banks",
+        "Monetary Policy",
+        "Labor Market",
+        "Inflation",
+        "Corporate Events/Special Situations",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-09-04 10:21",
+      "thumbnail": "https://ir.citi.com/KKdgUZapA2c-03nihMamfulil773Dj18kiSSIg_0SkiLdHq_Mwf_KNezYKFAqCkfnaKEmOdxAdrcQ9G3U4eWhA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459436",
+      "title": "Data Center GAINs: Born to Run",
+      "summary": "We've refreshed our Global Data Center Industry model to include recent results, accelerating hyperscale investments, strong token demand, faster chip sales, and contributions from China. We forecast an IT Load CAGR of 25% to 370 gigawatts in 2031, as explored in more detail within.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5NDM2",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Telecommunications Infrastructure",
+        "Infrastructure Investment",
+        "Super-Sector Analysis"
+      ],
+      "publish_time": "2026-09-03 21:19",
+      "thumbnail": "https://ir.citi.com/mQfMng2ct3VSsHGYwRiczdhbWEV9kKiTr1-a0hIeam0AmzP0pZJT4BSLx_vkIUCQsKAnLGaUKlZtnwj5cTpcoA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459540",
+      "title": "Global Macro Strategy: The Warsh Shadow Rate",
+      "summary": "While not revealing his reaction function at Jackson Hole, Chair Warsh gave a good indication of the input variables. We construct a “Warsh shadow rate” from these inputs and find it very extended. This has raised the risk for a September hike, though it's not our economists' base case.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5NTQw",
+      "tags": [
+        "Global Macro Strategy",
+        "Flagship",
+        "Central Banks",
+        "Monetary Policy",
+        "Economic Analysis",
+        "Macro Strategy",
+        "Cross Asset Strategy"
+      ],
+      "publish_time": "2026-09-03 18:57",
+      "thumbnail": "https://ir.citi.com/PSkC7jQkgVaSFa6AeTtmJ79fIXEGeB8N9Mch46JR0den4ELG1E0QAs50kTVRW4DLEMUvDX8X57sZsMkfzkMOAA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459424",
+      "title": "China Consumer: We're Revising Our Preferences",
+      "summary": "We review first-half results from China Consumer names and revise our preferences to reflect updated second-half outlooks. Our top buys are Mengniu and Nongfu in staples, and Anta, Midea and Atour in discretionary. Stocks with attractive cash return include Midea, YUMC, H World and Yihai.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5NDI0",
+      "tags": [
+        "Consumer Spending",
+        "Emerging Markets Consumption",
+        "Beverages",
+        "Homebuilding",
+        "Food Manufacturers",
+        "Supermarkets",
+        "Apparel & Footwear",
+        "Household & Personal Care",
+        "Lodging",
+        "Leisure",
+        "Retailing -- Broadlines",
+        "Retailing -- Specialty",
+        "Restaurants"
+      ],
+      "publish_time": "2026-09-03 08:26",
+      "thumbnail": "https://ir.citi.com/21Imb7wUOJicbLThf1MBhRu2W_59GchpCd8VQwE9oXPcJyRWxM-cF_VgiCJzs1Ij591KbFUw9iyfz2aYpnCnOQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459522",
+      "title": "North America Telecom Operators: Global TMT Conference Preview",
+      "summary": "We expect generally positive commentary from telecom operators at our Global TMT Conference. The wireless landscape is stabilizing, data-center demand remains strong, and retail revenue growth is accelerating. We review industry trends and challenges and revisit our top picks.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5NTIy",
+      "tags": [
+        "Corporate Events/Special Situations",
+        "Telecommunications Operators",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-09-03 17:40",
+      "thumbnail": "https://ir.citi.com/0d4ECNfvXz6UtI9b368l5qb87z2xC293BICDvxDxnFMi5mOye-13bSeq5WGh3twKo7clXyJUdQfa1vBxpy4sCg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30459523",
+      "title": "European Rates Weekly: Last of the Robust Hikes?",
+      "summary": "After next week’s ECB meeting, any hikes beyond 2.5% could switch from \"robust\" to \"insurance,\" making them easier to reverse and suggesting scope for inversion in ECB forwards. We also offer thoughts on European natural gas prices, present a pre-election trading plan for OATs, and more.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5NTIz",
+      "tags": [
+        "European Rates Weekly",
+        "Flagship",
+        "Trade Idea",
+        "Macro Strategy",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-09-03 17:03",
+      "thumbnail": "https://ir.citi.com/Jt_6ujWSx_z9cIGsMYF627SZ4jcbDsv6Yn52veuY8E4w9SKJ445KJhweM2RwlNb6-6NUPcVqKgzvs6TKcKnRmQ%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30459509",
@@ -566,124 +703,7 @@
         "Monetary Policy"
       ],
       "publish_time": "2026-08-28 14:30",
-      "thumbnail": "https://ir.citi.com/QYiq1At1I8Q0390BszUdv_LBtAX01XMmmBnS_bPce3AbL9224HIrf4unu9EPbOI-dgKBIyLa5M40KbHJvzXbEQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30458255",
-      "title": "U.S. Equity Strategy: Broadening Trade Nuance",
-      "summary": "The broadening trade discussion remains topical with investors. In this note, we provide a quick side-by-side comparison of S&P 500 Equal Weight vs SMID. Generally, SMID provides more economic sensitivity whereas Equal Weight tends to have more defensive characteristics.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4MjU1",
-      "tags": [
-        "U.S. Equity Strategy",
-        "Macro Strategy",
-        "Small/Mid-Cap"
-      ],
-      "publish_time": "2026-08-28 16:00",
-      "thumbnail": "https://ir.citi.com/zW7pkJ8JYRWBKM6G1QgMtvxdyz4jFsJFhcvWuHOuSZbYd-geV8uK4zoxll8o5Q87BFkvtSuJBzutoWL2X9nmRg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30458305",
-      "title": "Off the Cuff: Jackson Hole Perspective and Implications",
-      "summary": "Chair Warsh's Jackson Hole speech reemphasized commitment to a 2% inflation target. Other commentary pointed to stable economic data, but with some mention that financial conditions aren't restrictive and may be on the easier side. We offer further takeaways from the speech in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4MzA1",
-      "tags": [
-        "Off the Cuff",
-        "Central Banks",
-        "Monetary Policy",
-        "Inflation"
-      ],
-      "publish_time": "2026-08-28 13:13",
-      "thumbnail": "https://ir.citi.com/Fg3QUJyj0NSKlTc2gzjACIRuUBnW2bcX6xuVefx0kQYQgBhQspeg81Aj9R0Mr8sLdfZW7c54YOyvZJGTshrHNw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30458245",
-      "title": "PULSE Monitor: Shuffling the AI Deck",
-      "summary": "The AI trade has seen trading fits and starts, with the longer-term set up and implications still a bit opaque — consistent with our view that the Mag 7 is less relevant as a tradeable cohort. Still, we need both the AI-affected and broadening tailwinds to reach our 8100 S&P 500 target.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4MjQ1",
-      "tags": [
-        "Macro Strategy",
-        "PULSE Monitor",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-08-28 10:35",
-      "thumbnail": "https://ir.citi.com/kO8x7F5XoZYHmZFcmFDZ0-8U3eNfiRvbPk7Sz_vsBVXXDDCY-pAZR4ev-YiHUe9Ej5_cqN6aEyf1iN4zq1Antw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30458033",
-      "title": "Global Macro Strategy: UST Concerns Amid the Global Bond Glut",
-      "summary": "Bessent may get what he wants. Our Global Bond Glut framework sees excess supply as well-priced, with yields having co-moved higher mainly with energy and slightly with equities -- this is an Iran and growth problem. We look at the good and bad news for Bessent, and how to bridge the gap.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4MDMz",
-      "tags": [
-        "Macro Strategy",
-        "Cross Asset Strategy",
-        "Trade Idea",
-        "Flagship",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-08-27 20:22",
-      "thumbnail": "https://ir.citi.com/FsEjgwWO3qwZlOiGCXl-pttMLshsWKprEs1MqpgS8IefTUi7RZZRkVXawLqTkVTZ61G38WSiXE4LXTImPhcZ4w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30458079",
-      "title": "Global FX: Signs of a Bessent Doctrine?",
-      "summary": "The intervention under the “currency alliance” between the U.S. and Japan could be seen as sign of change in global policy, though we believe efforts to rectify global imbalances led by Bessent are likely to adopt an approach completely different from that of 1985's Plaza Accord.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4MDc5",
-      "tags": [
-        "Central Banks",
-        "Flows",
-        "Politics"
-      ],
-      "publish_time": "2026-08-28 00:55",
-      "thumbnail": "https://ir.citi.com/J0YWycjtwDJjoFNDrF_ScRx7QOueRNoxltgaJ05YPJMRw0nZAKsmYgQnNqJQnNnNLh8CfjYOizLC1GVjjpixFw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457546",
-      "title": "Macro-to-Micro: Decoding India's Credit Surge",
-      "summary": "India may be in its second credit surge, with the credit-to-GDP ratio breaking past the last 15 years’ range. We analyze the broader credit trends beyond banking and delve into sectoral decomposition. We focus on rising household debt to understand whether it requires policy intervention.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3NTQ2",
-      "tags": [
-        "Economic Analysis",
-        "Economic Growth",
-        "Macro-to-Micro",
-        "India Economics",
-        "Fiscal Policy"
-      ],
-      "publish_time": "2026-08-27 21:30",
-      "thumbnail": "https://ir.citi.com/7Euo381O9M8i98oobox3x3mablAuNUmFmraeksCovd5rcZuxR0jC9vSYF-V7f_Y_t5X1u7Z-w5OrbJY0eBnmEg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30457897",
-      "title": "European Auto Manufacturers: Is Risk-Reward Finally Improving?",
-      "summary": "The third quarter looks like a tough one for European auto makers, but we believe there's room for a relief rally in the sector from these low levels. Tactically, we think the risk-reward for any such move is most positive with Porsche, BMW and Forvia. We offer further details herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU3ODk3",
-      "tags": [
-        "Auto Manufacturers",
-        "Tariffs",
-        "Annual Outlook"
-      ],
-      "publish_time": "2026-08-28 00:05",
-      "thumbnail": "https://ir.citi.com/-UEqci4oW_1bPWqqONuzhmVcw8li3H5NTduVhvPPL5L6M00iDD6AeXNpnMJpHtHPHJxCGPSmrMF27z9orYtIwA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30458086",
-      "title": "Is the Return to Venezuela About to Accelerate?",
-      "summary": "The U.S. and Venezuela are reportedly discussing the U.S. taking stakes in a number of oilfields, to be developed by private firms. We think this opportunity reflects a broader theme, explored in this note: The next round of material oil volume growth will likely come outside of the U.S.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU4MDg2",
-      "tags": [
-        "Oil & Gas Equipment and Services",
-        "Energy Efficiency",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-08-28 05:00",
-      "thumbnail": "https://ir.citi.com/KaXHAJJh6IFCs38O0RzFfSx2cp779jU6pAu5IfrKIoZWcYUWVBlJwY_yhvVSN-vgyGpnmVDds1oCGefeUq138w%3D%3D"
+      "thumbnail": "https://ir.citi.com/I8UmjIAvt3-xqoM8ESHIwXXYOXJqWAWhx3YPllep4fYu1dAKH51kRpx7hQVw-E-cLpe93flDgFMghtvmt-l1bg%3D%3D"
     }
   ]
 }

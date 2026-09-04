@@ -1,61 +1,6 @@
 {
-  "fetched_at": "2026-09-04T10:34:11.462649+00:00",
+  "fetched_at": "2026-09-04T22:34:08.863639+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5419186-0",
-      "publication_id": "GPS-5419605-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5419186-0",
-      "authors": [
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        },
-        {
-          "name": "Anna Antonova, CFA",
-          "team": "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation",
-          "email": "anna.antonova@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "CEEMEA Metals, Mining & Steel and Utilities and MENA Industrials and Transportation",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
-      ],
-      "publish_time": "2026-08-21"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5415033-0",
-      "publication_id": "GPS-5419858-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5415033-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-08-21"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5422698-0",
