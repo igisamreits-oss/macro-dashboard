@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T22:34:08.863639+00:00",
+  "fetched_at": "2026-09-05T10:34:19.614602+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -65,10 +65,34 @@
         }
       ],
       "tags": [
-        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
-        "European Building & Construction and Infrastructure"
+        "European Building & Construction and Infrastructure",
+        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
       ],
       "publish_time": "2026-09-02"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5430375-0",
+      "publication_id": "GPS-5437932-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5430375-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-09-04"
     },
     {
       "platform": "JPM",
