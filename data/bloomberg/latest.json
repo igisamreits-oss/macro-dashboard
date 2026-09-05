@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T10:31:15.648502+00:00",
+  "fetched_at": "2026-09-05T22:31:10.556363+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -109,7 +109,7 @@
       "actual": 2.2,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-09-05",
+      "release_date": "2026-09-06",
       "source": "bdp"
     },
     "jp_cpi_yoy": {
@@ -413,7 +413,7 @@
       "actual": 42.7,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-09-05",
+      "release_date": "2026-09-06",
       "source": "bdp"
     },
     "se_consumer_conf": {
