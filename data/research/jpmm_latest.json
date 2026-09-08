@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T10:34:15.906519+00:00",
+  "fetched_at": "2026-09-08T22:34:14.410337+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -125,8 +125,8 @@
       ],
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-04"
     },
@@ -163,6 +163,84 @@
         "Managed Care and Facilities"
       ],
       "publish_time": "2026-08-26"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5437772-0",
+      "publication_id": "KAL-1-CM5XS547",
+      "title": "US Large Cap BioPharma",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437772-0",
+      "authors": [
+        {
+          "name": "Chris Schott, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "christopher.t.schott@jpmorgan.com"
+        },
+        {
+          "name": "Ethan Brown",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ethan.brown@jpmchase.com"
+        },
+        {
+          "name": "Hardik Parikh, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "hardik.k.parikh@jpmorgan.com"
+        },
+        {
+          "name": "Taylor Hanley",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "taylor.hanley@jpmchase.com"
+        },
+        {
+          "name": "Ekaterina V Knyazkova, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ekaterina.v.knyazkova@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Pharmaceuticals — Major & Specialty"
+      ],
+      "publish_time": "2026-09-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5437776-0",
+      "publication_id": "KAL-1-CM5XS547",
+      "title": "US Large Cap BioPharma",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437776-0",
+      "authors": [
+        {
+          "name": "Chris Schott, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "christopher.t.schott@jpmorgan.com"
+        },
+        {
+          "name": "Ethan Brown",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ethan.brown@jpmchase.com"
+        },
+        {
+          "name": "Hardik Parikh, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "hardik.k.parikh@jpmorgan.com"
+        },
+        {
+          "name": "Taylor Hanley",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "taylor.hanley@jpmchase.com"
+        },
+        {
+          "name": "Ekaterina V Knyazkova, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ekaterina.v.knyazkova@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Pharmaceuticals — Major & Specialty"
+      ],
+      "publish_time": "2026-09-08"
     }
   ]
 }
