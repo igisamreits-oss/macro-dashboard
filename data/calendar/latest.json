@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-09-09T10:33:48.799621+00:00",
-  "window_start": "2026-09-02",
-  "window_end": "2026-10-07",
+  "fetched_at": "2026-09-09T22:31:14.982980+00:00",
+  "window_start": "2026-09-03",
+  "window_end": "2026-10-08",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-09-02",
-      "country": "CA",
-      "indicator_id": "boc",
-      "time_kst": "22:45",
-      "note": ""
-    },
     {
       "date": "2026-09-10",
       "country": "EU",

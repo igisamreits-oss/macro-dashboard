@@ -1,6 +1,35 @@
 {
-  "fetched_at": "2026-09-09T10:33:22.649036+00:00",
+  "fetched_at": "2026-09-09T22:34:05.464943+00:00",
   "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5441553-0",
+      "publication_id": "KAL-1-LGZEPTJ5",
+      "title": "Consumer & Specialty Finance Investor Presentation",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5441553-0",
+      "authors": [
+        {
+          "name": "Richard Shane",
+          "team": "Consumer Finance",
+          "email": "richard.b.shane@jpmorgan.com"
+        },
+        {
+          "name": "Hong Zhang",
+          "team": "Consumer Finance",
+          "email": "hongliang.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Gregory Scaduto",
+          "team": "Consumer Finance",
+          "email": "gregory.scaduto@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Consumer Finance"
+      ],
+      "publish_time": "2026-09-09"
+    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5431104-0",
@@ -90,9 +119,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-04"
     },
