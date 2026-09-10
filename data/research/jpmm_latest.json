@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T22:34:05.464943+00:00",
+  "fetched_at": "2026-09-10T10:34:06.013892+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -60,8 +60,8 @@
         }
       ],
       "tags": [
-        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
-        "European Building & Construction and Infrastructure"
+        "European Building & Construction and Infrastructure",
+        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
       ],
       "publish_time": "2026-09-02"
     },
@@ -120,18 +120,18 @@
       ],
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-04"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5437772-0",
+      "doc_id": "GPS-5437776-0",
       "publication_id": "KAL-1-CM5XS547",
       "title": "US Large Cap BioPharma",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437772-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437776-0",
       "authors": [
         {
           "name": "Chris Schott, CFA",
@@ -166,11 +166,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5437776-0",
+      "doc_id": "GPS-5437772-0",
       "publication_id": "KAL-1-CM5XS547",
       "title": "US Large Cap BioPharma",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437776-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437772-0",
       "authors": [
         {
           "name": "Chris Schott, CFA",
