@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T10:34:06.013892+00:00",
+  "fetched_at": "2026-09-11T10:34:13.950508+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -32,6 +32,64 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5437944-0",
+      "publication_id": "KAL-1-EDGHFW57",
+      "title": "Meta Platforms Inc",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437944-0",
+      "authors": [
+        {
+          "name": "Doug Anmuth",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "douglas.anmuth@jpmorgan.com"
+        },
+        {
+          "name": "Daniel Pfeiffer",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "daniel.pfeiffer@jpmchase.com"
+        },
+        {
+          "name": "Margaret Hoffman",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "margaret.hoffman@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Internet - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5443313-0",
+      "publication_id": "KAL-1-QKKELST6",
+      "title": "Enterprise Software",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443313-0",
+      "authors": [
+        {
+          "name": "Samik Chatterjee, CFA",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "samik.x.chatterjee@jpmorgan.com"
+        },
+        {
+          "name": "Jaiden R Patel",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "jaiden.patel@jpmchase.com"
+        },
+        {
+          "name": "Mashu Nishi",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "mashu.nishi@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Software - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5431104-0",
       "publication_id": "KAL-1-3ZTF6YQW",
       "title": "Americas Construction Materials",
@@ -60,8 +118,8 @@
         }
       ],
       "tags": [
-        "European Building & Construction and Infrastructure",
-        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
+        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
+        "European Building & Construction and Infrastructure"
       ],
       "publish_time": "2026-09-02"
     },
@@ -119,19 +177,19 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-04"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5437776-0",
+      "doc_id": "GPS-5437772-0",
       "publication_id": "KAL-1-CM5XS547",
       "title": "US Large Cap BioPharma",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437776-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437772-0",
       "authors": [
         {
           "name": "Chris Schott, CFA",
@@ -166,11 +224,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5437772-0",
+      "doc_id": "GPS-5437776-0",
       "publication_id": "KAL-1-CM5XS547",
       "title": "US Large Cap BioPharma",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437772-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437776-0",
       "authors": [
         {
           "name": "Chris Schott, CFA",

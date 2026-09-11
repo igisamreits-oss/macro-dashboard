@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-09-10T10:33:06.753482+00:00",
+  "fetched_at": "2026-09-11T10:33:13.409426+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "561600e7-4dec-46cf-9882-228d22535696",
+      "title": "Americas Real Estate: REITs: Residential REITs Conference Season Preview",
+      "summary": "In this note, we take a deep dive into real-time residential REIT trends (including proprietary scraping data) heading into September conferences. Sunbelt demand is improving, with absorption near record levels and outpa...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/10/561600e7-4dec-46cf-9882-228d22535696.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "5aa2f073-0737-400d-b3da-d78bb299d5f0",
+      "title": "Americas Real Estate: REITs: Model Updates: SPG, EPRT, KIM",
+      "summary": "We update our estimates for KIM, SPG, and EPRT to reflect recent company announcements and revised assumptions.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/10/5aa2f073-0737-400d-b3da-d78bb299d5f0.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-10"
+    },
     {
       "platform": "GS",
       "doc_id": "8f2582ed-1c30-4cdb-b3ec-eaefcbdecda3",
@@ -1131,62 +1192,6 @@
         },
         {
           "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-05"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "e366e65a-f518-45d0-b09b-ac5ad780079c",
-      "title": "CapitaLand Ascendas REIT (CAPD.SI): Reversion guidance up to HSD despite weaker occupancy; Neutral",
-      "summary": "CapitaLand Ascendas REIT (CLAR)'s 1H26 DPU was +0.1%/-0.6% YoY/HoH, in-line at 50%/49% of GSe/IBES full-year forecasts. Portfolio operating metrics were mixed, with rent reversion strong at +8.5% and occupancy lower QoQ ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/e366e65a-f518-45d0-b09b-ac5ad780079c.html",
-      "authors": [
-        {
-          "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
-      ],
-      "publish_time": "2026-08-05"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "c685bae2-a07d-4b86-bc59-2d217d9cb1c9",
-      "title": "Macerich Co. (MAC): 2Q26 First Take: FFOPS in-line & store openings progressing, but with tenant allowances and leasing costs high",
-      "summary": "MAC reported 2Q26 Nareit FFOPS of $0.32, or core FFOPS of $0.35, which was +1.9%/flat versus GSe/FactSet consensus. Tenant improvements and leasing commissions increased 76% y/y in 2Q, where we expect y/y increases will ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/c685bae2-a07d-4b86-bc59-2d217d9cb1c9.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }
