@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T10:34:13.950508+00:00",
+  "fetched_at": "2026-09-11T22:34:11.086025+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -61,6 +61,30 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5442069-0",
+      "publication_id": "GPS-5446479-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5442069-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-09-11"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5443313-0",
       "publication_id": "KAL-1-QKKELST6",
       "title": "Enterprise Software",
@@ -118,8 +142,8 @@
         }
       ],
       "tags": [
-        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
-        "European Building & Construction and Infrastructure"
+        "European Building & Construction and Infrastructure",
+        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
       ],
       "publish_time": "2026-09-02"
     },
@@ -146,6 +170,46 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-09-04"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5445034-0",
+      "publication_id": "GPS-5446787-0",
+      "title": "US Biotech",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445034-0",
+      "authors": [
+        {
+          "name": "Jessica Fye",
+          "team": "Biotechnology - Large Cap",
+          "email": "jessica.m.fye@jpmorgan.com"
+        },
+        {
+          "name": "Anupam Rama",
+          "team": "SMid Biotechnology",
+          "email": "anupam.rama@jpmorgan.com"
+        },
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Brian Cheng",
+          "team": "SMid Biotechnology",
+          "email": "brian.cheng@jpmorgan.com"
+        },
+        {
+          "name": "Priyanka Grover, Ph.D.",
+          "team": "SMid Biotechnology",
+          "email": "priyanka.grover@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Biotechnology - Large Cap",
+        "SMid Biotechnology"
+      ],
+      "publish_time": "2026-09-11"
     },
     {
       "platform": "JPM",
@@ -177,9 +241,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-04"
     },
@@ -260,6 +324,69 @@
         "Pharmaceuticals — Major & Specialty"
       ],
       "publish_time": "2026-09-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5445066-0",
+      "publication_id": "KAL-1-24YPAPH5",
+      "title": "Transportation & Logistics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445066-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-09-11"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5445286-0",
+      "publication_id": "KAL-1-W9FA3FGT",
+      "title": "2026 Vertical SaaS & HealthTech Fall Series",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445286-0",
+      "authors": [
+        {
+          "name": "Alexei Gogolev",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "alexei.gogolev@jpmorgan.com"
+        },
+        {
+          "name": "Ella Smith",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "ella.smith@jpmchase.com"
+        },
+        {
+          "name": "Destiny Jackson",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "destiny.jackson@jpmorgan.com"
+        },
+        {
+          "name": "Isabella A Camaj",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "bella.camaj@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Vertical SaaS & HealthTech"
+      ],
+      "publish_time": "2026-09-11"
     }
   ]
 }
