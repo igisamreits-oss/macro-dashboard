@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-15T22:31:19.115363+00:00",
-  "window_start": "2026-09-09",
-  "window_end": "2026-10-14",
+  "fetched_at": "2026-09-15T22:34:27.981744+00:00",
+  "window_start": "2026-09-08",
+  "window_end": "2026-10-13",
   "source": "schedule.yml",
   "events": [
     {
@@ -38,13 +38,6 @@
       "indicator_id": "rba",
       "time_kst": "13:30",
       "note": ""
-    },
-    {
-      "date": "2026-10-14",
-      "country": "SG",
-      "indicator_id": "mas",
-      "time_kst": "08:00",
-      "note": "추정; mas.gov.sg 확인 필요"
     }
   ]
 }
