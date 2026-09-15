@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-09-14T22:33:27.534334+00:00",
+  "fetched_at": "2026-09-15T10:33:18.746193+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "b0654c9f-2012-41c1-b83c-d5589710e8bd",
+      "title": "Mori Hills REIT Investment (3234.T): Earnings review: in-line; rent growth continues but higher interest costs are a drag; Neutral",
+      "summary": "After the market close on September 14, the company announced its FP7/26 results. FP7/26 DPS was ¥3,100, which missed our previous estimate (¥3,220) by 3.7% but was more or less in-line. The company’s guidance for FP1/27...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/15/b0654c9f-2012-41c1-b83c-d5589710e8bd.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Misato Okamoto",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-09-15"
+    },
     {
       "platform": "GS",
       "doc_id": "561600e7-4dec-46cf-9882-228d22535696",
@@ -1159,39 +1187,6 @@
         },
         {
           "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-05"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "45f1c129-27ce-43a3-a18d-45998079bd64",
-      "title": "Lineage Inc. (LINE): 2Q26 First Take: AFFO beat and guidance raise despite unanticipated Big Bear (LA) & GIS (1x) headwinds",
-      "summary": "On 8/5/26 LINE reported 2Q26 AFFO/share of $0.76, which was +11.8%/10.1% above the GS/FactSet consensus estimates of $0.68/$0.69. The upside versus our forecast was primarily driven by sooner-than-expected G&A savings an...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/05/45f1c129-27ce-43a3-a18d-45998079bd64.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
