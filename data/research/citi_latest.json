@@ -1,6 +1,101 @@
 {
-  "fetched_at": "2026-09-16T10:32:14.512698+00:00",
+  "fetched_at": "2026-09-16T22:32:46.629680+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30462631",
+      "title": "Fed Raises Rates 25 Basis Points, With a Hawkish Tone",
+      "summary": "Details of the FOMC meeting, including a unanimous 25-basis-point rate hike and a median “dot” showing one more such hike this year, were close to our and market expectations. We offer further analysis in this note.  In our base case, the Fed resumes rate cuts in June.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNjMx",
+      "tags": [
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation",
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast"
+      ],
+      "publish_time": "2026-09-16 16:22",
+      "thumbnail": "https://ir.citi.com/cIzg-G9ozox7FmGsi3T7hp9O8rMh9dYOHNnI8tVekqgMtaEi0qo_O0hW-LwBTC6SDMRZcStYCRlMpZ_i5tZkGQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462426",
+      "title": "Global Equity Strategy: The Fed and the Long End",
+      "summary": "Risks from more restrictive monetary policy have compounded worries about higher long-end bond yields. So will higher yields derail the bull market in equities? We analyze the historical record and explore why it suggests more short-term caution amid stagflationary risks from geopolitics.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNDI2",
+      "tags": [
+        "Global Equity Strategy",
+        "Central Banks",
+        "Monetary Polcy",
+        "Inflation",
+        "Annual Outlook",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-09-15 19:00",
+      "thumbnail": "https://ir.citi.com/il7heNf7n6KaU_4ybttgmdXO8LljN0GhtpNPOTqTZkXAAReeWt6F-F0Bv4CTG7w8M8g0MKaSAYuff4R5SvZSrQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462406",
+      "title": "Oil Monitor: Uncertain Times",
+      "summary": "Saudi Arabia's shutdown of the East-West pipeline highlighted that regional energy infrastructure remains vulnerable and risks are no longer confined to the Strait of Hormuz. Recent strong price action has also been supported by physical-market strength beyond geopolitical headlines.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNDA2",
+      "tags": [
+        "Oil Monitor",
+        "Geopolitics",
+        "Commodities Strategy"
+      ],
+      "publish_time": "2026-09-15 13:33",
+      "thumbnail": "https://ir.citi.com/TJQfOIG5DTwAyA5y2Gg_Nw-2gQ1u-ofySgeY5CzHdle-dfEFfsTvOY9JPm0YcRBQQP9YWx6jwoaOO2K1zjmyXw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462492",
+      "title": "U.S. Semiconductors: AI Infra Summit Day 1 Takeaways",
+      "summary": "Our takeaways from Day 1 of the AI Infra Summit include that fundamentally, frontier AI model developers see AI safety and alignment as a compute-intensive process. This implies that — contrary to investor worries — safety concerns may drive more, rather than less, demand for compute.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNDky",
+      "tags": [
+        "Semiconductors",
+        "Artificial Intelligence (AI)",
+        "Corporate Events/Special Situations"
+      ],
+      "publish_time": "2026-09-16 04:58",
+      "thumbnail": "https://ir.citi.com/Tjs7Uwmym-e1GQQBj-nMdSSU-CG40eNRpCXwdfSe4p6HfOgmVueLDtslrc88Uk5h2AKLoIACJv7Z6idRxaCV8A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462489",
+      "title": "Emerging Markets El Niño Monthly Tracker",
+      "summary": "We look at emerging-markets rainfall forecasts for the rest of the year. EM food inflation momentum rose toward its recent averages, with more pronounced pick-ups in EM Asia, Nigeria and Chile but a very benign picture in Mexico, central and eastern Europe, and Israel.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNDg5",
+      "tags": [
+        "El Niño",
+        "Emerging Markets Economics",
+        "Emerging Markets",
+        "Climate Change",
+        "Inflation",
+        "Economic Analysis"
+      ],
+      "publish_time": "2026-09-16 01:43",
+      "thumbnail": "https://ir.citi.com/RZaaHb9kidPEiJNi0VOveT3-L30zwAKqprUZZsGeI7_JIcWhnmaIOCvKQG5P193hJUd4ssNVGWoD2SA9HkvMDw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462364",
+      "title": "Brazil Elections and the Need for Fiscal Reforms",
+      "summary": "With the presidential election near, we look at Brazil's need for fiscal reforms, as some sort of adjustment in the next administration seems unavoidable. In this third report, we explain why we believe Brazil may benefit from a HR reform that changes the labor regime of public servants.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyMzY0",
+      "tags": [
+        "Elections",
+        "Brazil Economics",
+        "Economic Analysis",
+        "Fiscal Policy",
+        "Economic Forecast"
+      ],
+      "publish_time": "2026-09-15 08:41",
+      "thumbnail": "https://ir.citi.com/7otBC-BohWZpzssjNUjh9XTVgIKFoPriLqe9RfEIHkwJO8moF1MudZbKTMcYQgAQNT0fusnK9gTUQ_yuNAk95Q%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30461885",
@@ -66,23 +161,6 @@
       ],
       "publish_time": "2026-09-14 06:55",
       "thumbnail": "https://ir.citi.com/cnPX6cmGpGyP3FzzqXOmp8CK71yCVPjjL67O4gxdJxgFXmGNvTAjycsLYsPxjFQyITX3nABCgBxeXA3lTxEMHg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30462086",
-      "title": "FOMC Preview: One Hike, Not a Cycle",
-      "summary": "We expect a 25-basis-point Fed hike this week, likely billed as a “calibration” and not the start of a cycle. With underlying inflation looking like it's slowing and energy prices not passing through to broad consumer prices, our base case is for a lone hike and a return to cuts in June.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyMDg2",
-      "tags": [
-        "Central Banks",
-        "Monetary Policy",
-        "Inflation",
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast"
-      ],
-      "publish_time": "2026-09-14 07:58",
-      "thumbnail": "https://ir.citi.com/LEwU2bEVHcSA59Yn8J-C3RxFxkjEEx2kY5eQWWj9vlPS1BierW3SxJv3tWvUhucbQwdyx9LXcRNV7RpDwN5cfA%3D%3D"
     },
     {
       "platform": "Citi",
@@ -616,292 +694,6 @@
       ],
       "publish_time": "2026-09-09 11:08",
       "thumbnail": "https://ir.citi.com/VnbNmyCXfJZTv5SNXAbooH40zmu3NxDTU92BLejQBs47fSAX2sKSqIwTB8Q_TR4eeh75Yv7iT1091poKqUar9A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460510",
-      "title": "What 2021-23 Changed in Turkey, and What Comes Next",
-      "summary": "We think Turkey’s 2021-23 macro episode reshaped how the economy earns, saves and spends, with these changes now central to both the growth outlook and the prospects for disinflation. We analyze this structural transformation: where it came from, how far it has run, and what it might mean.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwNTEw",
-      "tags": [
-        "Turkey Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Economic Growth",
-        "Inflation",
-        "Central Banks",
-        "Monetary Policy",
-        "Emerging Markets"
-      ],
-      "publish_time": "2026-09-09 11:38",
-      "thumbnail": "https://ir.citi.com/uMdgEMm2pGC5X5E5jHaMufcmIxVHFmTlTlYbZmqsIxLGKhezYybLU8Jinxyuirg4v7hKFfKEklCB1lQ8indscA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460353",
-      "title": "Global FX Strategy: U.S. Inflation Matters More for USD",
-      "summary": "An ECB rate hike is already well priced by markets, setting the bar high for a material EURUSD move. If anything, U.S. inflation data will be the bigger driver for FX. We expect benign data, allowing markets to remove some of the hawkish premium in the curve.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMzUz",
-      "tags": [
-        "Central Banks",
-        "Monetary Policy",
-        "Inflation",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-09-08 21:00",
-      "thumbnail": "https://ir.citi.com/bvjd8Np3G7ejXwVxFjCRxOyEouLhNJ77zBUM4A0_7u5PGMBDkNqyTtqzDvR3LxZKPngetfaEG6trwm1WmyuJgg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460546",
-      "title": "Global TMT Conference Day 1: Data-Center Industry Implications",
-      "summary": "Overall data-center demand indicators remain positive, with supply still constrained in many markets. We think firms with an energized power pipeline can capture favorable leasing for at least the next six to 12 months. We review our preferences and offer takeaways in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwNTQ2",
-      "tags": [
-        "Corporate Events/Special Situations",
-        "Telecommunications Infrastructure"
-      ],
-      "publish_time": "2026-09-09 09:18",
-      "thumbnail": "https://ir.citi.com/Dm4rhpj9M5uK-rU555QTbLc_P90tFhgfGfhPHuCkgQpxVNRce6oxTXw6rrY6wKl5l09T5x87Nv9kTShubpNrSg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460363",
-      "title": "Global TMT Conference Day 1: U.S. Industrial Conglomerates",
-      "summary": "We offer takeaways from Day 1 of our Global TMT Conference Day for multi-industrial and E&C names we cover. We came away incrementally more positive on the data-center infrastructure buildout given increasingly demonstrable AI productivity outcomes. We offer more analysis in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMzYz",
-      "tags": [
-        "Industrial Conglomerates",
-        "Artificial Intelligence (AI)",
-        "Corporate Events/Special Situations",
-        "Energy Efficiency"
-      ],
-      "publish_time": "2026-09-08 20:37",
-      "thumbnail": "https://ir.citi.com/wUoDKo1xQPvfUJ9yZfkFuZPpUm0KbRhQZnfAfMN0C8W3lYB8t9L_DacA0qVtxh9gPuJqxBIxvG7asshb85GErA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460241",
-      "title": "The Missing Driver in the Commercial Aftermarket? Airline Margins",
-      "summary": "We know after-market profits are heavily influenced by airline flight-hours, but our analysis suggests airline margins may be a better predictor of total shareholder return. We look at how this plays out for Safran, MTU and Rolls Royce, with further takeaways in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMjQx",
-      "tags": [
-        "Aerospace & Defense",
-        "Global Travel Spend"
-      ],
-      "publish_time": "2026-09-09 00:00",
-      "thumbnail": "https://ir.citi.com/ICA0IJB8SIupABQ_WGxuD3vB5h-Zs6tSnTa01wD8lPILYMQLEfaCNB8artHPHoDu48dgbT2PKOT405nETFjjlw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460184",
-      "title": "China IT Services and Software: AI Inflecting, Divergence Widens",
-      "summary": "We began to upgrade some China IT services/software names in the second quarter due to a host of factors, discussed herein. The sector is showing bifurcation, with AI-driven names delivering strong momentum even as legacy software and property-related verticals continue to disappoint.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMTg0",
-      "tags": [
-        "Application Software",
-        "Computer Services & IT Consulting",
-        "IT ServicesSoftware",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-09-08 18:51",
-      "thumbnail": "https://ir.citi.com/8-U-FjTpBoXlpDEMQELmxUe6oQfKqV8_dxpkjcwgYUDURdsam_8hNJVcF_5Fvd0v3H_o43WkMao_vuHCehEl_Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460405",
-      "title": "China Economics: Supply Shocks Drive Another Inflationary Impulse",
-      "summary": "China's CPI and PPI rebounded in August, driven almost entirely by supply shocks, as domestic demand remains sluggish. We stay cautious about the inflation outlook and will be watching policy deployment closely. Meanwhile, policy actions have accelerated meaningfully as September unfolds.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwNDA1",
-      "tags": [
-        "Economic Analysis",
-        "Emerging Markets Consumption",
-        "China Economics",
-        "Inflation",
-        "Fiscal Policy"
-      ],
-      "publish_time": "2026-09-09 00:03",
-      "thumbnail": "https://ir.citi.com/opy1TP3XlMFMYmRnxSm1C0VmclxAb7SPpHh6ijFd2t-KzjLi_48Zzf-dLIWvFl91Z1AGrCT91prgT2gutEPCmQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460051",
-      "title": "Back to School: Constructive on Broadening, Alert to Risks",
-      "summary": "Global equities have traded sideways of late as markets weigh competing forces likely to shape the path to year's end. While solid fundamentals should underpin continued gains for global equities through mid-2027, we acknowledge that risks around equities are more finely balanced.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMDUx",
-      "tags": [
-        "Equity Strategy",
-        "Geopolitics",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-09-08 00:07",
-      "thumbnail": "https://ir.citi.com/HqWeGl7jq8r6BPc89Zwhz8R9KYhI310rSEjOLS5l3sPnuvBwMLVWeMKLOmxnS1TJPp80jsiFPH2U-yHKqzolSg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30459887",
-      "title": "The UK's New Productivity Puzzle and the AI Structural Shift",
-      "summary": "UK productivity growth is finally on the rise after years of poor performance. We see Information & Communication Technology as the primary driver, with some help from other sectors that benefit from AI. We think this development is both positive and meaningful, though we remain cautious.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5ODg3",
-      "tags": [
-        "Economic Analysis",
-        "Labor Market",
-        "Economic Growth",
-        "UK Economics",
-        "Artificial intelligence (AI)"
-      ],
-      "publish_time": "2026-09-07 02:00",
-      "thumbnail": "https://ir.citi.com/OVgx4xHRE2bWPHY6vJqZTQ-zbUm7h_p76spSMjcd5Bz795fkx0sfirrJ26NJBG_3EjRA7YHPmVYqbx3olBhMqA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460062",
-      "title": "U.S. Semiconductors and Semiconductor Equipment: Earnings Recap",
-      "summary": "SOX saw an 18% summer selloff amid high expectations and decelerating earnings momentum, but we expect a rebound, with positive commentary at our Global TMT conference. Data-center demand remains strong and auto/industrial continues to recover, but demand from PCs/handsets remains weak.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMDYy",
-      "tags": [
-        "Semiconductors",
-        "Results Read-Across and Call Backs",
-        "Semiconductor Equipment"
-      ],
-      "publish_time": "2026-09-07 21:54",
-      "thumbnail": "https://ir.citi.com/FhrHeoOH_NYxlqdqZiiQDtmPjtRRB1lleWEyBe0n9HOKDZ2DiXpLrTx8XpeSmlHlst53dBy8OGyshMDN-8q54g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460019",
-      "title": "European Capital Goods: The Broadening Theme Gains Momentum",
-      "summary": "Our top picks for the second half include Legrand, Daimler Truck, Atlas Copco, Epiroc, KION, Halma, Nordex, Weir, and Wartsila. We've upgraded KION and Nordex to Buy, and opened positive catalyst watches on Legrand and Halma. We recommend a barbell approach, described herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMDE5",
-      "tags": [
-        "Electrical Equipment",
-        "Machinery",
-        "Compendium",
-        "Annual Outlook",
-        "Deep Dive"
-      ],
-      "publish_time": "2026-09-08 00:00",
-      "thumbnail": "https://ir.citi.com/nd7druRTL4WjoCzz9CUCj-way13UoQDQ8QO25hwMks726wwX-ItxuTd4zypGY-9mDq4y1wYouFy-ezvJlJb8Eg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460102",
-      "title": "North America Trucking: Quality Deserves a Fresh Look",
-      "summary": "We're upgrading ODFL and CHRW to Buy following recent pullbacks, as the risk-reward has become more reasonable and both are the leaders in their respective sub-sectors, offering an opportunity to buy quality at a reasonable price. We offer further analysis in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMTAy",
-      "tags": [
-        "Logistics - Air & Surface",
-        "Trucking",
-        "Catalyst Watch",
-        "Rating Change",
-        "Target Price Change",
-        "Estimate Change",
-        "Theme Investing"
-      ],
-      "publish_time": "2026-09-08 05:04",
-      "thumbnail": "https://ir.citi.com/y6UbtoiZbjSl-ck04QkV47KSc6K6uRu5UzwT8_urGYP7HJxTLuT9ZbjmqNmuFbkxKU0E5Hh8qT2bToExi3CD_Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30459804",
-      "title": "U.S. Biotechnology & Pharmaceuticals: Fall Biopharma Outlook",
-      "summary": "We remain optimistic that Biopharma momentum can continue through the fall. Overall, we remain most comfortable with companies capable of driving volume-led growth without relying on pricing actions, particularly where we see factors at work that can sustain momentum into 2027.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5ODA0",
-      "tags": [
-        "Biotechnology",
-        "Pharmaceuticals"
-      ],
-      "publish_time": "2026-09-08 05:00",
-      "thumbnail": "https://ir.citi.com/EG58XI0I6KEe4f4H8jX4xwJY3K7aiC9HEhnOfv-Q7bH7woubf2aUVYzmRFNT9-NVummkrfUAoIWfP4B7N1-PkA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460023",
-      "title": "VW Is Protecting the Downside",
-      "summary": "We offer key takeaways from VW's new cost restructuring plans. It's taken a view of future earnings downside risks and is managing forward five years, formulating a cost plan to offset this risk. Operating conditions remain very tough, but we see VW's future as far more secure than it was.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMDIz",
-      "tags": [
-        "Auto Manufacturers",
-        "Consumer Spending",
-        "Tariffs",
-        "Electric Vehicles",
-        "Target Price Change",
-        "Estimate Change"
-      ],
-      "publish_time": "2026-09-08 00:00",
-      "thumbnail": "https://ir.citi.com/loXvjmmp5ZO9P8FGDWhNQ0YcfQ_jADyEmhcvVb4DyeCaIqv8cN2_H13mRi0wDJBi15xk-QlGHEmEl0QBF9Gu5w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460014",
-      "title": "A Look at Potential Impacts of bp's Brazil Opportunity",
-      "summary": "Several European IOCs' market valuations have been weighed down by low SEC reserve life. We see bp as alone in having an organic pathway to closing the reserve gap, much of it driven by its opportunity in Brazil. We look at the potential impacts of success with the Bumerangue field.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMDE0",
-      "tags": [
-        "Integrated Oil & Gas"
-      ],
-      "publish_time": "2026-09-08 00:00",
-      "thumbnail": "https://ir.citi.com/dQrk5CgS-7zq0Jag8stWaarCvrxANrxnm8Rpx2g5MKPDDbROjr0lgUvedjCFfcvkUgeVSkWBdTwdtvMZLa_-4g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30459853",
-      "title": "We're Upgrading Keyence to Buy",
-      "summary": "We're upgrading Keyence to Buy, as its late-cycle characteristics should allow its earnings to outpace those of other factory-automation names. Higher rates are a concern, but a cash-rich balance sheet provides a cushion and the option of increasing shareholder returns, including buybacks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5ODUz",
-      "tags": [
-        "Rating Change",
-        "Target Price Change",
-        "Estimate Change",
-        "Earnings Preview",
-        "Machinery"
-      ],
-      "publish_time": "2026-09-07 02:35",
-      "thumbnail": "https://ir.citi.com/p-zDwdJnvBoQGtetxPcjh3kEz8XoBBWRltKyJ9fehp6fQdSCAmQHwMqH6yejX3Suk8sXOrLSDSGso83hvd-ACw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30459890",
-      "title": "European Economics: Remarkable Endurance Likely to Continue",
-      "summary": "The euro zone's economy continues to grow slowly but steadily despite numerous exogenous shocks. We expect it to also look through the latest spike in gas prices and rising bond yields. We see GDP growth as close to 1% this year and accelerating to 1.5% in 2027.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5ODkw",
-      "tags": [
-        "Economic Forecast",
-        "Infrastructure Investment",
-        "European Economics",
-        "Economic Growth"
-      ],
-      "publish_time": "2026-09-07 01:05",
-      "thumbnail": "https://ir.citi.com/WHHNMz9oDoWtMJ0RiYC3dCZbKwEqE7ztEkA-nH7SL8gIj3K0j3xevxJ3Yi2ugXqHwGey-0ohB0ohLjcTmnK06w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30459699",
-      "title": "China Property: Selling What is Built",
-      "summary": "We expect the China Property sector to be volatile as corporates and investors digest the long-term implications of China's \"completed-home sales\" policy. We think reform will ultimately benefit sector leaders and would see any September pullback as a potential October buying opportunity.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDU5Njk5",
-      "tags": [
-        "Real Estate & Property",
-        "Appraisals on Real Estate Happenings",
-        "Regulation",
-        "Fiscal Policy",
-        "China Property"
-      ],
-      "publish_time": "2026-09-07 04:53",
-      "thumbnail": "https://ir.citi.com/_bELHmeyglYzpih_KQ6lAaFxdNhRkDUO-rHT2MGtJzRf9jwadGbMP6dkVR6s2Crr3jkA-BxwgqAQSxaQ1YT04w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460005",
-      "title": "World Radar Screen: September Update",
-      "summary": "The MSCI World Value-Momentum strategy declined 3.3% in August as developed markets continued to lag their emerging-markets counterparts. EM (+2.6%) and Asia ex Japan (+3.3%) remained the clear areas of strength, extending their recent leadership and materially outperforming DM strategies.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwMDA1",
-      "tags": [
-        "Model Portfolio",
-        "World Radar Screen"
-      ],
-      "publish_time": "2026-09-07 22:33",
-      "thumbnail": "https://ir.citi.com/KLHUbQebTbINsL2aJw8SUvXcilg2IEXIyUy1gmgtvOrNhWlA4O_p1phNHM7__F2gk1f7k0S-Ud_LpJOx0oMa6w%3D%3D"
     }
   ]
 }
