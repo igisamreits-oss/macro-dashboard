@@ -1,6 +1,98 @@
 {
-  "fetched_at": "2026-09-17T10:32:15.610323+00:00",
+  "fetched_at": "2026-09-17T22:32:13.421510+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30462633",
+      "title": "We're Downgrading Boston Scientific to Neutral",
+      "summary": "We've lowered estimates for Boston Scientific eight times this year and aren't certain we've reached the final revision or what the path to recovery is. While we're saddened by this turn of events, we're stepping aside, downgrading BSX to Neutral, and lowering our target price to $50.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNjMz",
+      "tags": [
+        "Rating Change",
+        "Target Price Change",
+        "MedTech"
+      ],
+      "publish_time": "2026-09-17 05:00",
+      "thumbnail": "https://ir.citi.com/BPmaMhhtkSRLzkjoA64W9BwAIKPVycBWTKHGtGPHspmZYv-oDfDk7r6uBeKyy9mE5-rjqNALTJmD96a5QMqkGA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462654",
+      "title": "Global FX Strategy: USD Squeeze Could Have Legs for Now",
+      "summary": "A hawkish Fed, geopolitical risks and general risk-off make for about as bullish a USD backdrop as we can get. The more hawkish reaction function could keep yields and the USD elevated until we have more clarity on U.S.-Iran de-escalation, which remains unlikely before the midterms.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNjU0",
+      "tags": [
+        "Global FX Strategy",
+        "Geopolitics",
+        "Central Banks",
+        "Monetary Policy",
+        "Macro Strategy",
+        "Elections"
+      ],
+      "publish_time": "2026-09-16 18:47",
+      "thumbnail": "https://ir.citi.com/_mbbTwZ9vkY9vDYUr1wZr0n9a0aiXyaKYcLq5L61Gpu_6NezZv6ZoVeDceUqT6xhnXWi96OEvvbFjLlw1AHmhw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462636",
+      "title": "Our Takeaways From the State of the European Union",
+      "summary": "In her State of the European Union address, President von der Leyen reiterated the direction of increased energy independence, higher defense spending, accelerated AI adoption, and increased supply chain/critical mineral resilience. We analyze key announcements and investment implications.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNjM2",
+      "tags": [
+        "Economic Analysis",
+        "Fiscal Policy",
+        "Artificial Intelligence (AI)",
+        "Supply Chains",
+        "Geopolitics",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-09-17 00:00",
+      "thumbnail": "https://ir.citi.com/OMPG0rpn5MXgRh6OpbuO8EsNPJ_g2vJ4eoBZT2cPOu6nWlSZVghvR9rPaPZbXNlpriuB73n9kccBtq_DdnAh2A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462638",
+      "title": "U.S. Semiconductors: AI Infra Summit Day 2 Takeaways",
+      "summary": "For Day 2 of the AI Infra Summit we focus on networking-specific takeaways. As AI workloads become more reasoning-intensive and context-rich, infrastructure scaling will also depend on innovations across memory hierarchies, HBM, system architectures, and networking fabrics.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNjM4",
+      "tags": [
+        "Semiconductors",
+        "Artificial Intelligence (AI)",
+        "Corporate Events/Special Situations"
+      ],
+      "publish_time": "2026-09-16 20:00",
+      "thumbnail": "https://ir.citi.com/VEcyD4qM2M4-MGIzkLg1tUuyikEs_OpJzmNauWbLPAAJYJtycUNwCcR0uxQjQ8zGzrhdaFgdY7nWg53B6itGqA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462691",
+      "title": "India Economics: Enhancing Savings and Investments",
+      "summary": "We offer a scenario analysis to project India's savings and investments requirements over the next decade and identify the financing gap. We explore some policy issues concerning household savings, at an aggregate level as well as regarding allocation toward different asset classes.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNjkx",
+      "tags": [
+        "India Economics",
+        "Economic Analysis"
+      ],
+      "publish_time": "2026-09-17 03:33",
+      "thumbnail": "https://ir.citi.com/udbqEfvoT64dPeClVAFCJwEJN93QSbsmnugfN0WnR1RJwsVcxNf_PNHPm9Z6y-RzbyDMPiulB1y6q7R5o9bYJw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462546",
+      "title": "Australia Banks: A Stronger Investment Cycle",
+      "summary": "We expect a multi-year period of elevated business investment in Australia's \"two-speed economy,\" which should support business credit growth. The growing split between business and housing growth highlights the relative valuation attractiveness of NAB, which we're upgrading to Buy.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyNTQ2",
+      "tags": [
+        "Banks",
+        "Rating Change",
+        "Diversified Banks",
+        "Deep Dive",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-09-16 15:00",
+      "thumbnail": "https://ir.citi.com/nPFvexZoMHro77gR-wcKdOrUgxqA9phCVONaZ050E6_zCQMogOBhpT5uFbZyvevvCjZQ8EyUYrSVorPML3y0Tg%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30462631",
@@ -474,51 +566,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30461220",
-      "title": "European Equities and the Natural Gas Price Shock",
-      "summary": "European natural gas prices have reached their highest level since late 2022, and a continued rise, amid escalating geopolitical tensions, would pose growing risks to European equities. But as we explore herein, equities appear less sensitive to gas prices than during 2022's energy shock.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxMjIw",
-      "tags": [
-        "Macro Strategy",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-09-10 16:01",
-      "thumbnail": "https://ir.citi.com/e2O3pudhnQ9YlxnwFkSXFrLHCkBT7_ksHJcn-FlFxIj_BYF5Y6M26Nkno_SNPaQgdC4-5R1SLKKio66p_K-f4g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461175",
-      "title": "ECB: Higher for Longer",
-      "summary": "Given the explanation for the ECB's 25-basis-point hike, we now expect additional such hikes in December and March, provided energy prices stay high. We explain why we think the ECB's policy horizon has shortened, with its policy preferences drifting toward a “risk management” approach.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxMTc1",
-      "tags": [
-        "European Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Central Banks",
-        "Monetary Policy",
-        "Inflation"
-      ],
-      "publish_time": "2026-09-10 12:09",
-      "thumbnail": "https://ir.citi.com/XDtZIdrlDWVCyG7HvW3DxlYEM60l6JavpU59ppTaV_taRMO6w4fuU_8lVv0bXbueSbVVMs-6EzlknktJvpypow%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461267",
-      "title": "Off the Cuff: The Temperature is Rising!",
-      "summary": "Several market topics have been the focus of nearly every client conversation of late. We review our U.S. equities views in light of five oft-heard questions, ranging from the Fed's circumstances post-Jackson Hole to whether our year-end 8100 target now looks aggressive.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxMjY3",
-      "tags": [
-        "Off the Cuff",
-        "Macro Strategy",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-09-10 16:23",
-      "thumbnail": "https://ir.citi.com/aEYa0qxB6DM0V4nIriLr5hSZGLBHU2aEwZiSVtfuRvLZ1qFAazAJ_v8rqrVhLbDG5nrdnbVnMUrAh-Z38_RSow%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30460592",
       "title": "Must C: Latin America Is Poised for Takeoff",
       "summary": "Latin America is entering one of its most favorable environments in years, with both external and domestic conditions supporting a potential acceleration in growth. We see the opportunity as significant, but think lasting success will depend on reforms, execution, and policy consistency.",
@@ -534,166 +581,6 @@
       ],
       "publish_time": "2026-09-10 05:00",
       "thumbnail": "https://ir.citi.com/QuAuF7HanYbiyL_16F-JZY4kdnvYRAanm746UHW59v8ULI91uc0-c95mENb6ZG2ILGML6xzWkAD0HQhNNmEfqg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461216",
-      "title": "Australia Economics: We Now Expect Two More 2026 Rate Hikes",
-      "summary": "We now expect Australia to raise rates twice more this year. This view is driven by a two-speed economy, where a deepening housing correction is offset by an AI-related investment boom that is adding to capacity constraints. We push our first rate-cut forecast out to 2027's fourth quarter.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxMjE2",
-      "tags": [
-        "Australia Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Inflation",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-09-10 15:30",
-      "thumbnail": "https://ir.citi.com/1MU2JqjaE-imRLtnDU_enj02BdOFamk-VPE75N8BrdDLXZk5zn_E1qAI7ifxBk2CXtCvJlKyWcofO8IXeyhCFg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461219",
-      "title": "Biopharma Back to School Summit Day 2: U.S. Biotechnology",
-      "summary": "Day 2 kicked off with policy expert Tommy Barletta reinforcing a manageable outlook for Biopharma heading into the midterms. Political noise may increase, but we see limited risk of near-term changes to Biopharma fundamentals. We offer company specifics and further analysis in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxMjE5",
-      "tags": [
-        "Biotechnology",
-        "Pharmaceuticals",
-        "Clinical Trials",
-        "Corporate Events/Special Situations"
-      ],
-      "publish_time": "2026-09-10 14:58",
-      "thumbnail": "https://ir.citi.com/hiKfGWXbSYplml7w6gXcqhd9_1ll-o0pbE4jhaSNuJvvXjtEwkVfQBaVbuPNXb-K1JruLcYy816VshPMBu-xDQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461208",
-      "title": "Emerging Markets Strategy Weekly: Resilience Amid Vulnerabilities",
-      "summary": "Emerging markets remain resilient to macro volatility, as strong inflows suggest investors remain comfortable holding EM risk. The main challenge lies in global rates rather than EM fundamentals, as continued volatility in long-end U.S. Treasury yields could test the durability of inflows.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxMjA4",
-      "tags": [
-        "Flagship",
-        "Emerging Markets",
-        "Emerging Markets Strategy Weekly",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-09-10 16:05",
-      "thumbnail": "https://ir.citi.com/7sKRTZD7UHbNKuviEkcaxaGy528_PIES7_ewmEGG-4-rNPWn3pPzWwlosnjedI3oofQ5T9U5ai9G82LskZpHoA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461143",
-      "title": "U.S. Economics: August's Labor Market Update",
-      "summary": "August employment data were stronger than we expected, with residual seasonal patterns not leading to the rise in the unemployment rate we had anticipated. Despite some cautions, we think the still-stable labor market is unlikely to drive inflationary pressure in the coming months.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxMTQz",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Labor Market",
-        "Inflation"
-      ],
-      "publish_time": "2026-09-10 10:06",
-      "thumbnail": "https://ir.citi.com/NPfnNZdNCgL-CWqDB_twb7oMlbq_QAHhU6QPqeX_BjC5k03Y-DW7FZ1b6gmylhLzPeaWazOhjafnIbKBm5Vt1Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460802",
-      "title": "Global TMT Conference Day 2: VC Panel Insights",
-      "summary": "Our software venture-capital panel highlighted a shift to company-specific investments focused on retention, differentiated AI harnesses and durable workflow ownership. Panelists were most constructive on vertical AI and workflow automation. We offer more takeaways in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwODAy",
-      "tags": [
-        "Application Software",
-        "Corporate Events/Special Situations",
-        "Infrastructure Investment",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-09-09 19:39",
-      "thumbnail": "https://ir.citi.com/KGOln3CN39mFdNR7jOt0Obw4syuwMdVf5dzf3nC9jL3vyWyqQ1QNp2fN1Gu_wNKVY_-YeeL6_SzQpNVLAiHOAQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460828",
-      "title": "Global TMT Conference Day 2: U.S. Semis & Semiconductor Equipment",
-      "summary": "We hosted fireside chats with OLED, INFQ and FORM; met with TXN, MPWR, AVT, TER and MKSI; and hosted EDA and Quantum panels. We offer key takeaways from Day 2 of our Global TMT Conference in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwODI4",
-      "tags": [
-        "Semiconductors",
-        "Semiconductor Equipment",
-        "Corporate Events/Special Situations"
-      ],
-      "publish_time": "2026-09-10 02:31",
-      "thumbnail": "https://ir.citi.com/-PGjraSq_IoLY5U7e9wVEHrkCIKGitSzOuUh0FE5CmE1OIXtPExtsS2MgFirmBRvQsiOw_c2e9xH2aoFil2-ZA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460848",
-      "title": "Global TMT Conference Day 2: U.S. Industrial Conglomerates",
-      "summary": "Day 2 discussions continued to point to broad investment across data, digitization, and power infrastructure, which we see supporting a demand for several industrial end markets. We see growing tailwinds from Physical AI and factory automation investments lifting automation-exposed names.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwODQ4",
-      "tags": [
-        "Industrial Conglomerates",
-        "Corporate Events/Special Situations"
-      ],
-      "publish_time": "2026-09-09 22:50",
-      "thumbnail": "https://ir.citi.com/l9Nuc8fTzNxawRfI_VEwQ20J17rKdmIoKdH5_mVtZmGZGThbmZS_qi8EGr3iTc7MBaQu3hrGaP0sTCGaXiLWkQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460750",
-      "title": "Global TMT Conference Day 2: U.S. Electric Utilities",
-      "summary": "Day 2 of our Global TMT Conference spotlighted that data-center developers are adapting to the reality of power market constraints for the next few years, AI labs are looking to improve efficiency of compute, and the data-center industry sees longer-term power demand remaining a wild card.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwNzUw",
-      "tags": [
-        "Electric Utilities",
-        "Artificial Intelligence (AI)",
-        "Corporate Events/Special Situations"
-      ],
-      "publish_time": "2026-09-09 17:12",
-      "thumbnail": "https://ir.citi.com/Q3DTGk_u399h2wvmBhAqbZxOyMFf2jswmaNiZXwFYA1oekTXb4rmHVZfW9cGN90alyJ_OR69Qb3On1lBYCsyWw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460899",
-      "title": "Biopharma Back to School Summit Day 1: U.S. Biotechnoogy",
-      "summary": "We hosted LXRX, SPTX, ZBIO, and ZYME for investor-facing conversations during Day 1 of our Biopharma Back to School Summit. In this note we offer takeaways from our afternoon sessions, organized in alphabetical order by ticker.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwODk5",
-      "tags": [
-        "Biotechnology",
-        "Corporate Events/Special Situations"
-      ],
-      "publish_time": "2026-09-10 04:57",
-      "thumbnail": "https://ir.citi.com/290Np-2LVva197MB15tTTiHqakhNH_XHktWggtcL-WIZdi_mb9ip2IDsZbT3RSOQpyMyyY4dWYMTAKp9YHp6YA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460557",
-      "title": "Correlation Corner: #9: Looking for U.S.-Iran Hedges",
-      "summary": "Cross-asset correlations have yet to normalize to pre-conflict levels as the oil shock remains stickier than expected. In contrast, we see European equity/oil and equity/yield implied correlations have started to price a meaningful de-escalation scenario. We explore tactics in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwNTU3",
-      "tags": [
-        "Geopolitics",
-        "Correlation Corner",
-        "Macro Strategy",
-        "Trade Idea"
-      ],
-      "publish_time": "2026-09-09 09:56",
-      "thumbnail": "https://ir.citi.com/QRgL5wtM-rD_3B9P7Z1Son7-oCTzK_gGR9XFAJFI7stXDiItQ-cpmebIy2W448fmgsoqnRT0MmGBUSMfCE4B3A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30460567",
-      "title": "Global Theme Machine: Momentum and Quality Reshape Leaderboard",
-      "summary": "The Theme Model delivered a positive return in August. Ranking changes were driven by a combination of earnings momentum recovery and quality improvement in healthcare themes, alongside a continuation of price-momentum leadership in financials and industrials.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYwNTY3",
-      "tags": [
-        "Global Theme Machine",
-        "Model Portfolio"
-      ],
-      "publish_time": "2026-09-09 11:08",
-      "thumbnail": "https://ir.citi.com/VnbNmyCXfJZTv5SNXAbooH40zmu3NxDTU92BLejQBs47fSAX2sKSqIwTB8Q_TR4eeh75Yv7iT1091poKqUar9A%3D%3D"
     }
   ]
 }
