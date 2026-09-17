@@ -1,13 +1,6 @@
 {
-  "fetched_at": "2026-09-16T22:35:06.506699+00:00",
+  "fetched_at": "2026-09-17T03:14:26.126926+00:00",
   "indicators": {
-    "us_cpi_yoy": {
-      "actual": 3.4,
-      "prior": 3.3,
-      "consensus": null,
-      "release_date": "2026-08-01",
-      "source": "fred"
-    },
     "us_core_cpi_yoy": {
       "actual": 2.4,
       "prior": 2.5,
