@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T10:34:28.860052+00:00",
+  "fetched_at": "2026-09-17T22:34:21.661808+00:00",
   "indicators": {
     "us_cpi_yoy": {
       "actual": 3.4,
@@ -32,10 +32,10 @@
   },
   "central_banks": {
     "fomc": {
-      "rate": 3.75,
+      "rate": 4.0,
       "next_meeting": null,
       "consensus_rate": null,
-      "as_of": "2026-09-16",
+      "as_of": "2026-09-17",
       "source": "fred"
     }
   }
