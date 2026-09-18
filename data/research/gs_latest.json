@@ -1,6 +1,82 @@
 {
-  "fetched_at": "2026-09-18T10:33:13.568018+00:00",
+  "fetched_at": "2026-09-18T22:33:15.824658+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "b4dee7dc-9c33-4cf7-8bff-3c8a04bff334",
+      "title": "Americas Real Estate: REITs: Rates move, REITs do what? A look across performance and correlations, refreshing into an elevated environment",
+      "summary": "As interest rates move, investors often ask how REITs are likely to perform. To address this, we assess across periods of increasing and decreasing interest rates: (1) REIT performance relative to the S&P 500, (2) Subsec...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/18/b4dee7dc-9c33-4cf7-8bff-3c8a04bff334.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-18"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "4bdea52d-4291-4b4d-9dfb-5e09d75a1ceb",
+      "title": "Advance Residence Investment Corp. (3269.T): In line: Solid rent growth & sale gains utilization, but watching for additional DPU drivers; Neutral",
+      "summary": "After the market close on September 17, the company announced its FP7/26 results. The company announced its FP7/26 results. FP7/26 DPU was ¥3,225, slightly above our prior forecast (¥3,197) but in line with expectations.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/18/4bdea52d-4291-4b4d-9dfb-5e09d75a1ceb.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Misato Okamoto",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-09-18"
+    },
     {
       "platform": "GS",
       "doc_id": "d366bad7-6ca4-4877-babc-76a5ce645bf3",
@@ -1098,72 +1174,6 @@
       "title": "Safehold Inc. (SAFE): 2Q26 Update: Revising EPS estimates up slightly given buybacks and investment activity",
       "summary": "Following 2Q26 earnings, we update our estimates for SAFE. We estimate Core EPS will decline by 3.5% in 2026, impacted by headwinds from SAFE's Park Hotel lease, and will grow at +5.5%/+5.6% in 2027/2028 as incremental ground leases are funded.",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/cda49460-613d-4630-872a-904f29db20d3.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-06"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "84e541c7-29df-4af2-bd71-3624a7ec7cef",
-      "title": "Americas Real Estate: REITs: July '26 Office Update: Touring down in most markets m/m and y/y, but SF shows strength and LA picks up from low base",
-      "summary": "We review the latest updates on (1) VTS office tour activity through July '26, (2) Return to office trends by market, and (3) San Francisco and NYC office leasing data.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/84e541c7-29df-4af2-bd71-3624a7ec7cef.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-06"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "edf11537-5085-4ab9-bd82-50e518da5287",
-      "title": "VICI Properties Inc. (VICI): 2Q26 Update: Continued accretion from strategic funding",
-      "summary": "Post 2Q26 earnings results, we update our model. We estimate 4.7% AFFO/share growth in 2026, which in addition to VICI's dividend yield of 6.8% is compelling in our view. See inside for details.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/edf11537-5085-4ab9-bd82-50e518da5287.html",
       "authors": [
         {
           "name": "Caitlin Burrows",
