@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-09-17T22:34:21.746516+00:00",
-  "window_start": "2026-09-10",
-  "window_end": "2026-10-15",
+  "fetched_at": "2026-09-18T03:01:10.369209+00:00",
+  "window_start": "2026-09-11",
+  "window_end": "2026-10-16",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-09-10",
-      "country": "EU",
-      "indicator_id": "ecb",
-      "time_kst": "21:15",
-      "note": ""
-    },
     {
       "date": "2026-09-17",
       "country": "US",
