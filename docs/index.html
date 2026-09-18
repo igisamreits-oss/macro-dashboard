@@ -316,8 +316,8 @@ footer a { color: var(--accent); text-decoration: none; }
     <h1>Global REIT Macro Dashboard</h1>
   </div>
   <div class="meta">
-    Last update: <strong>2026-09-19 07:33</strong> KST<br>
-    Calendar: 2026-09-12 ~ 2026-10-17
+    Last update: <strong>2026-09-19 07:34</strong> KST<br>
+    Calendar: 2026-09-11 ~ 2026-10-16
   </div>
 </header>
 
@@ -331,10 +331,13 @@ footer a { color: var(--accent); text-decoration: none; }
 <div class="tab-content active" id="tab-macro">
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
-  <h2>📅 Economic Calendar <small>2026-09-12 ~ 2026-10-17</small></h2>
+  <h2>📅 Economic Calendar <small>2026-09-11 ~ 2026-10-16</small></h2>
   <div class="calendar">
     <div class="calendar-grid">
       <div class="cal-cell cal-header">Country</div>
+      <div class="cal-cell cal-header  ">
+        09/11<br>금
+      </div>
       <div class="cal-cell cal-header  weekend">
         09/12<br>토
       </div>
@@ -353,10 +356,10 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         09/17<br>목
       </div>
-      <div class="cal-cell cal-header  ">
+      <div class="cal-cell cal-header today ">
         09/18<br>금
       </div>
-      <div class="cal-cell cal-header today weekend">
+      <div class="cal-cell cal-header  weekend">
         09/19<br>토
       </div>
       <div class="cal-cell cal-header  weekend">
@@ -440,11 +443,36 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         10/16<br>금
       </div>
-      <div class="cal-cell cal-header  weekend">
-        10/17<br>토
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇺🇸</span> US
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 past"
+              data-name="CPI YoY"
+              data-name-ko="CPI"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-09-11"
+              data-time=""
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Aug 2026 data"
+              data-past="true">
+          CPI
+        </span>
+        <span class="cal-event imp-3 past"
+              data-name="Core CPI YoY"
+              data-name-ko="Core CPI"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-09-11"
+              data-time=""
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Aug 2026 data"
+              data-past="true">
+          Core CPI
+        </span>
       </div>
       <div class="cal-cell">
       </div>
@@ -685,10 +713,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇪🇺</span> EU
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -851,10 +879,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇬🇧</span> UK
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -908,7 +936,7 @@ footer a { color: var(--accent); text-decoration: none; }
         </span>
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-2 past"
+        <span class="cal-event imp-2 "
               data-name="Retail Sales ex Fuel MoM"
               data-name-ko="소매판매(연료제외) MoM"
               data-flag="🇬🇧"
@@ -918,10 +946,10 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🛒 소매판매"
               data-imp="2"
               data-note="Aug 2026 data"
-              data-past="true">
+              data-past="false">
           소매판매(연료제외) MoM
         </span>
-        <span class="cal-event imp-2 past"
+        <span class="cal-event imp-2 "
               data-name="Retail Sales ex Fuel MoM"
               data-name-ko="소매판매(연료제외) MoM"
               data-flag="🇬🇧"
@@ -931,7 +959,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🛒 소매판매"
               data-imp="2"
               data-note="next release"
-              data-past="true">
+              data-past="false">
           소매판매(연료제외) MoM
         </span>
       </div>
@@ -1017,10 +1045,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇩🇪</span> DE
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1084,8 +1112,6 @@ footer a { color: var(--accent); text-decoration: none; }
               data-past="false">
           건설 PMI (50)
         </span>
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1220,6 +1246,8 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
         <span class="cal-event imp-1 "
               data-name="Consumer Confidence SA"
               data-name-ko="소비자신뢰"
@@ -1281,10 +1309,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇸🇬</span> SG
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1408,10 +1436,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇭🇰</span> HK
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1509,10 +1537,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇦🇺</span> AU
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1610,10 +1638,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇯🇵</span> JP
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1667,7 +1695,7 @@ footer a { color: var(--accent); text-decoration: none; }
         </span>
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 past"
+        <span class="cal-event imp-3 "
               data-name="BoJ Policy Rate"
               data-name-ko="BoJ"
               data-flag="🇯🇵"
@@ -1677,7 +1705,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🏦 중앙은행"
               data-imp="3"
               data-note=""
-              data-past="true">
+              data-past="false">
           BoJ
         </span>
       </div>
@@ -1747,8 +1775,6 @@ footer a { color: var(--accent); text-decoration: none; }
               data-past="false">
           실업률
         </span>
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1850,6 +1876,8 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
         <span class="cal-event imp-2 "
               data-name="Unemployment Rate"
               data-name-ko="실업률"
@@ -1864,10 +1892,10 @@ footer a { color: var(--accent); text-decoration: none; }
           실업률
         </span>
       </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇨🇦</span> CA
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -2017,8 +2045,6 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
-      <div class="cal-cell">
-      </div>
     </div>
   </div>
 </section>
@@ -2153,13 +2179,13 @@ function closeEvModal() {
         </span>
       </div>
     </div>
-    <div class="cb-card ">
+    <div class="cb-card imminent">
       <span class="cb-flag">🇯🇵</span>
       <div class="cb-name">BoJ Policy Rate</div>
       <div class="cb-rate">
 1.00%      </div>
       <div class="cb-next">
-        Next: <strong>TBD</strong>
+        Next: <strong>2026-09-18</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
         12M 시장: <strong>1.60%</strong>
@@ -4350,7 +4376,7 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 
 <footer>
   Data: Bloomberg &middot; FRED &middot; Central Bank official calendars &middot; Citi Velocity<br>
-  Updated 2026-09-19 07:33 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
+  Updated 2026-09-19 07:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>
