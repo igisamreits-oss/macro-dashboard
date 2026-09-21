@@ -1,4 +1,802 @@
 {
-  "fetched_at": "2026-09-20T13:07:52.739845+00:00",
-  "items": []
+  "fetched_at": "2026-09-21T10:34:09.403193+00:00",
+  "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5441553-0",
+      "publication_id": "KAL-1-LGZEPTJ5",
+      "title": "Consumer & Specialty Finance Investor Presentation",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5441553-0",
+      "authors": [
+        {
+          "name": "Richard Shane",
+          "team": "Consumer Finance",
+          "email": "richard.b.shane@jpmorgan.com"
+        },
+        {
+          "name": "Hong Zhang",
+          "team": "Consumer Finance",
+          "email": "hongliang.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Gregory Scaduto",
+          "team": "Consumer Finance",
+          "email": "gregory.scaduto@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Consumer Finance"
+      ],
+      "publish_time": "2026-09-09"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5437944-0",
+      "publication_id": "KAL-1-EDGHFW57",
+      "title": "Meta Platforms Inc",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437944-0",
+      "authors": [
+        {
+          "name": "Doug Anmuth",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "douglas.anmuth@jpmorgan.com"
+        },
+        {
+          "name": "Daniel Pfeiffer",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "daniel.pfeiffer@jpmchase.com"
+        },
+        {
+          "name": "Margaret Hoffman",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "margaret.hoffman@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Internet - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5442069-0",
+      "publication_id": "GPS-5446479-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5442069-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-09-11"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5447866-0",
+      "publication_id": "GPS-5451603-0",
+      "title": "Transition Talks",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447866-0",
+      "authors": [
+        {
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        },
+        {
+          "name": "Avery Chan",
+          "team": "Asia Basic Materials",
+          "email": "avery.chan@jpmorgan.com"
+        },
+        {
+          "name": "Vibhav Zutshi, CFA",
+          "team": "India Materials & Logistics",
+          "email": "vibhav.zutshi@jpmorgan.com"
+        },
+        {
+          "name": "Arnanto Januri",
+          "team": "Indonesia Equity",
+          "email": "arnanto.januri@jpmorgan.com"
+        },
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Indonesia Equity",
+        "Asia Basic Materials",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "India Materials & Logistics",
+        "APAC Equity Thematic and Sustainable Investing Research"
+      ],
+      "publish_time": "2026-09-16"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5443313-0",
+      "publication_id": "KAL-1-QKKELST6",
+      "title": "Enterprise Software",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443313-0",
+      "authors": [
+        {
+          "name": "Samik Chatterjee, CFA",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "samik.x.chatterjee@jpmorgan.com"
+        },
+        {
+          "name": "Jaiden R Patel",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "jaiden.patel@jpmchase.com"
+        },
+        {
+          "name": "Mashu Nishi",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "mashu.nishi@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Software - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5452260-0",
+      "publication_id": "KAL-1-2NUMTNER",
+      "title": "2026 Fall Series Presentation",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5452260-0",
+      "authors": [
+        {
+          "name": "Mark Strouse, CFA",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "mark.w.strouse@jpmorgan.com"
+        },
+        {
+          "name": "Michael G Fairbanks",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "michael.fairbanks@jpmchase.com"
+        },
+        {
+          "name": "Anna Zhu",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "anna.zhu@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+      ],
+      "publish_time": "2026-09-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5452878-0",
+      "publication_id": "KAL-1-YT3HHN4X",
+      "title": "Joint SMid Webinar",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5452878-0",
+      "authors": [
+        {
+          "name": "Tomohiko Sano",
+          "team": "North America Small and Mid Cap Industrials",
+          "email": "tomohiko.sano@jpmorgan.com"
+        },
+        {
+          "name": "Brendan Shea, CFA",
+          "team": "North America Small and Mid Cap Industrials",
+          "email": "brendan.shea@jpmorgan.com"
+        },
+        {
+          "name": "Ethan Coyle",
+          "team": "North America Small and Mid Cap Industrials",
+          "email": "ethan.coyle@jpmchase.com"
+        },
+        {
+          "name": "Eduardo Lecubarri",
+          "team": "Small/Mid-Cap Strategy",
+          "email": "eduardo.lecubarri@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Small/Mid-Cap Strategy",
+        "North America Small and Mid Cap Industrials"
+      ],
+      "publish_time": "2026-09-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5443486-0",
+      "publication_id": "GPS-5452133-0",
+      "title": "SITC International Holdings - H",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443486-0",
+      "authors": [
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        },
+        {
+          "name": "Neil Zhang",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "neil.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Jenny Qiu, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "jenny.qiu@jpmorgan.com"
+        },
+        {
+          "name": "Beatrice Lam",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "beatrice.lam@jpmorgan.com"
+        },
+        {
+          "name": "Mufan Shi",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "mufan.shi@jpmorgan.com"
+        },
+        {
+          "name": "Sunny Su",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "sunny.su@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Infrastructure, Industrials & Transport"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5443732-0",
+      "publication_id": "GPS-5452133-0",
+      "title": "Hanwha Engine",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443732-0",
+      "authors": [
+        {
+          "name": "Simon Han",
+          "team": "Korea Consumer, Defense and Shipbuilding",
+          "email": "simon.x.han@jpmorgan.com"
+        },
+        {
+          "name": "Jeongsuk Woo",
+          "team": "Technology - Semiconductors",
+          "email": "jeongsuk.woo@jpmorgan.com"
+        },
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Technology - Semiconductors",
+        "Infrastructure, Industrials & Transport",
+        "Korea Consumer, Defense and Shipbuilding"
+      ],
+      "publish_time": "2026-09-15"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5443971-0",
+      "publication_id": "GPS-5452133-0",
+      "title": "Korea Shipbuilding & Repairs",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443971-0",
+      "authors": [
+        {
+          "name": "Simon Han",
+          "team": "Korea Consumer, Defense and Shipbuilding",
+          "email": "simon.x.han@jpmorgan.com"
+        },
+        {
+          "name": "Jeongsuk Woo",
+          "team": "Technology - Semiconductors",
+          "email": "jeongsuk.woo@jpmorgan.com"
+        },
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Technology - Semiconductors",
+        "Infrastructure, Industrials & Transport",
+        "Korea Consumer, Defense and Shipbuilding"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5444567-0",
+      "publication_id": "GPS-5452133-0",
+      "title": "HD Hyundai Marine Solution",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5444567-0",
+      "authors": [
+        {
+          "name": "Simon Han",
+          "team": "Korea Consumer, Defense and Shipbuilding",
+          "email": "simon.x.han@jpmorgan.com"
+        },
+        {
+          "name": "Jeongsuk Woo",
+          "team": "Technology - Semiconductors",
+          "email": "jeongsuk.woo@jpmorgan.com"
+        },
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Technology - Semiconductors",
+        "Infrastructure, Industrials & Transport",
+        "Korea Consumer, Defense and Shipbuilding"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5444685-0",
+      "publication_id": "GPS-5452133-0",
+      "title": "Machinery, Construction & Engineering",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5444685-0",
+      "authors": [
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        },
+        {
+          "name": "Jenny Qiu, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "jenny.qiu@jpmorgan.com"
+        },
+        {
+          "name": "Mufan Shi",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "mufan.shi@jpmorgan.com"
+        },
+        {
+          "name": "Sunny Su",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "sunny.su@jpmorgan.com"
+        },
+        {
+          "name": "Beatrice Lam",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "beatrice.lam@jpmorgan.com"
+        },
+        {
+          "name": "Nick Lai",
+          "team": "Head of APAC Auto Research",
+          "email": "nick.yc.lai@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Infrastructure, Industrials & Transport",
+        "Head of APAC Auto Research"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5447624-0",
+      "publication_id": "GPS-5452133-0",
+      "title": "Yangzijiang Shipbuilding Holdings Ltd",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447624-0",
+      "authors": [
+        {
+          "name": "Beatrice Lam",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "beatrice.lam@jpmorgan.com"
+        },
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Infrastructure, Industrials & Transport"
+      ],
+      "publish_time": "2026-09-14"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5446934-0",
+      "publication_id": "GPS-5448753-0",
+      "title": "North American Utilities",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5446934-0",
+      "authors": [
+        {
+          "name": "Jeremy Tonet, CFA",
+          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "jeremy.b.tonet@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+      ],
+      "publish_time": "2026-09-14"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5445649-0",
+      "publication_id": "CFP-PC-11815-0",
+      "title": "China Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445649-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
+      ],
+      "publish_time": "2026-09-14"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5452155-0",
+      "publication_id": "KAL-1-8I8OHU7V",
+      "title": "J.P. Morgan 2026 Fall Series",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5452155-0",
+      "authors": [
+        {
+          "name": "Harlan Sur",
+          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
+          "email": "harlan.sur@jpmorgan.com"
+        },
+        {
+          "name": "Mayur Ramdhani",
+          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
+          "email": "mayur.ramdhani@jpmorgan.com"
+        },
+        {
+          "name": "Apoorva Kumar",
+          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
+          "email": "apoorva.kumar@jpmorgan.com"
+        },
+        {
+          "name": "Akanksh Chauhan",
+          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
+          "email": "akanksh.chauhan@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Semiconductors & Semiconductor Capital Equipment / IT Hardware"
+      ],
+      "publish_time": "2026-09-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5447615-0",
+      "publication_id": "GPS-5455188-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447615-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-09-18"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5445034-0",
+      "publication_id": "GPS-5446787-0",
+      "title": "US Biotech",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445034-0",
+      "authors": [
+        {
+          "name": "Jessica Fye",
+          "team": "Biotechnology - Large Cap",
+          "email": "jessica.m.fye@jpmorgan.com"
+        },
+        {
+          "name": "Anupam Rama",
+          "team": "SMid Biotechnology",
+          "email": "anupam.rama@jpmorgan.com"
+        },
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Brian Cheng",
+          "team": "SMid Biotechnology",
+          "email": "brian.cheng@jpmorgan.com"
+        },
+        {
+          "name": "Priyanka Grover, Ph.D.",
+          "team": "SMid Biotechnology",
+          "email": "priyanka.grover@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
+      ],
+      "publish_time": "2026-09-11"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5454015-0",
+      "publication_id": "KAL-1-MUOKB8S1",
+      "title": "Small Dollar Loans",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5454015-0",
+      "authors": [
+        {
+          "name": "Tien-tsin Huang, CFA",
+          "team": "Payments, Processors & IT Services",
+          "email": "tien-tsin.huang@jpmorgan.com"
+        },
+        {
+          "name": "Connor Allen",
+          "team": "Payments, Processors & IT Services",
+          "email": "connor.allen@jpmorgan.com"
+        },
+        {
+          "name": "Charles Pearce, CFA",
+          "team": "Payments, Processors & IT Services",
+          "email": "charles.pearce@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Payments, Processors & IT Services"
+      ],
+      "publish_time": "2026-09-18"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5437772-0",
+      "publication_id": "KAL-1-CM5XS547",
+      "title": "US Large Cap BioPharma",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437772-0",
+      "authors": [
+        {
+          "name": "Chris Schott, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "christopher.t.schott@jpmorgan.com"
+        },
+        {
+          "name": "Ethan Brown",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ethan.brown@jpmchase.com"
+        },
+        {
+          "name": "Hardik Parikh, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "hardik.k.parikh@jpmorgan.com"
+        },
+        {
+          "name": "Taylor Hanley",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "taylor.hanley@jpmchase.com"
+        },
+        {
+          "name": "Ekaterina V Knyazkova, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ekaterina.v.knyazkova@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Pharmaceuticals — Major & Specialty"
+      ],
+      "publish_time": "2026-09-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5437776-0",
+      "publication_id": "KAL-1-CM5XS547",
+      "title": "US Large Cap BioPharma",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437776-0",
+      "authors": [
+        {
+          "name": "Chris Schott, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "christopher.t.schott@jpmorgan.com"
+        },
+        {
+          "name": "Ethan Brown",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ethan.brown@jpmchase.com"
+        },
+        {
+          "name": "Hardik Parikh, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "hardik.k.parikh@jpmorgan.com"
+        },
+        {
+          "name": "Taylor Hanley",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "taylor.hanley@jpmchase.com"
+        },
+        {
+          "name": "Ekaterina V Knyazkova, CFA",
+          "team": "Pharmaceuticals — Major & Specialty",
+          "email": "ekaterina.v.knyazkova@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Pharmaceuticals — Major & Specialty"
+      ],
+      "publish_time": "2026-09-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5448736-0",
+      "publication_id": "KAL-1-96TQFMV6",
+      "title": "Internet Fall 2026 Sector Update - Slides & Sector FAQs",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5448736-0",
+      "authors": [
+        {
+          "name": "Doug Anmuth",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "douglas.anmuth@jpmorgan.com"
+        },
+        {
+          "name": "Bryan M. Smilek",
+          "team": "Internet - Mid & Small Cap",
+          "email": "bryan.smilek@jpmorgan.com"
+        },
+        {
+          "name": "Dae K Lee, CFA",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "dae.k.lee@jpmorgan.com"
+        },
+        {
+          "name": "Neeraj S Kookada, CFA",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "neeraj.s.kookada@jpmchase.com"
+        },
+        {
+          "name": "Daniel Pfeiffer",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "daniel.pfeiffer@jpmchase.com"
+        },
+        {
+          "name": "Margaret Hoffman",
+          "team": "Internet - Large Cap / Mid & Small Cap",
+          "email": "margaret.hoffman@jpmchase.com"
+        },
+        {
+          "name": "Andrew Watts",
+          "team": "Internet - Mid & Small Cap",
+          "email": "andrew.watts@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
+      ],
+      "publish_time": "2026-09-15"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5445066-0",
+      "publication_id": "KAL-1-24YPAPH5",
+      "title": "Transportation & Logistics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445066-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-09-11"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5445286-0",
+      "publication_id": "KAL-1-W9FA3FGT",
+      "title": "2026 Vertical SaaS & HealthTech Fall Series",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445286-0",
+      "authors": [
+        {
+          "name": "Alexei Gogolev",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "alexei.gogolev@jpmorgan.com"
+        },
+        {
+          "name": "Ella Smith",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "ella.smith@jpmchase.com"
+        },
+        {
+          "name": "Destiny Jackson",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "destiny.jackson@jpmorgan.com"
+        },
+        {
+          "name": "Isabella A Camaj",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "bella.camaj@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Vertical SaaS & HealthTech"
+      ],
+      "publish_time": "2026-09-11"
+    }
+  ]
 }
