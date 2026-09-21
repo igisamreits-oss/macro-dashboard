@@ -1,6 +1,62 @@
 {
-  "fetched_at": "2026-09-21T10:33:08.822251+00:00",
+  "fetched_at": "2026-09-21T22:33:12.164484+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "67b3eba7-a32c-4c06-a2a9-7aae50ff2756",
+      "title": "Americas Real Estate: REITs: Model Updates: BNL and HPP",
+      "summary": "We update our estimates and price targets for BNL and HPP to reflect recent announcements, updated assumptions, and revised forecasts.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/21/67b3eba7-a32c-4c06-a2a9-7aae50ff2756.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-21"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "448fec8b-017d-4899-ada0-4d05d293434f",
+      "title": "US Morning Call: September 21, 2026",
+      "summary": "On Goldman Sachs' US morning call today, we check in on Microsoft (MSFT), REITs, and Life Science stocks. See within for a full list of today’s speakers and topics.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/21/448fec8b-017d-4899-ada0-4d05d293434f.html",
+      "authors": [
+        {
+          "name": "Christopher Hussey",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Sarah Herr",
+          "department": "Equity Research Management",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Equity Research Management"
+      ],
+      "publish_time": "2026-09-21"
+    },
     {
       "platform": "GS",
       "doc_id": "b4dee7dc-9c33-4cf7-8bff-3c8a04bff334",
@@ -1126,72 +1182,6 @@
         },
         {
           "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-06"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "95048253-1407-48db-9086-dc38640fa3f9",
-      "title": "Vornado Realty Trust (VNO): 2Q26 Update: FFOPS uplift pulled slightly forward",
-      "summary": "Following 2Q26 earnings, we provide earnings call takeaways, update our model and price target, and show valuation trends. See inside for details.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/95048253-1407-48db-9086-dc38640fa3f9.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-06"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "cda49460-613d-4630-872a-904f29db20d3",
-      "title": "Safehold Inc. (SAFE): 2Q26 Update: Revising EPS estimates up slightly given buybacks and investment activity",
-      "summary": "Following 2Q26 earnings, we update our estimates for SAFE. We estimate Core EPS will decline by 3.5% in 2026, impacted by headwinds from SAFE's Park Hotel lease, and will grow at +5.5%/+5.6% in 2027/2028 as incremental ground leases are funded.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/cda49460-613d-4630-872a-904f29db20d3.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }

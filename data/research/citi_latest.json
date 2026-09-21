@@ -1,6 +1,119 @@
 {
-  "fetched_at": "2026-09-21T10:32:08.036553+00:00",
+  "fetched_at": "2026-09-21T22:32:12.579685+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30463082",
+      "title": "U.S. Economics Weekly:  Hawkish Fed Will Slow Non-AI Economy",
+      "summary": "The risks of more near-term Fed hikes have increased given recent comments from Chair Warsh. Tighter monetary policy won't noticeably slow AI tailwinds to growth but will have consequences elsewhere, leaving economic growth increasingly dependent on just one driver and so more fragile.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMDgy",
+      "tags": [
+        "Economic Forecast",
+        "Economic Analysis",
+        "Central Banks",
+        "Monetary Policy",
+        "U.S. Economics Weekly",
+        "Inflation",
+        "Artificial Intelligence (AI)",
+        "Economic Growth",
+        "Labor Market"
+      ],
+      "publish_time": "2026-09-18 16:20",
+      "thumbnail": "https://ir.citi.com/52LGXv2JCPUrpdOkKWSWlHTxyYXWE_wNniczpBRBukxUDMfKhIyeIA_f6l8o-xdfs--iMiWz87SHgAZsCQtj9A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30463252",
+      "title": "U.S.-China Summit Preview: High Stakes, Practical Progress",
+      "summary": "We expect practical progress rather than a \"grand bargain\" from President Xi's U.S. state visit, with an extended trade truce and a formal AI dialogue focused on security guardrails among the possibilities. Geopolitics remains the wildcard to watch, and could spill into the economic track.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMjUy",
+      "tags": [
+        "China Economics",
+        "Geopolitics",
+        "Economic Analysis",
+        "Trade",
+        "Artificial Intelligence (AI)",
+        "Politics"
+      ],
+      "publish_time": "2026-09-21 08:46",
+      "thumbnail": "https://ir.citi.com/_RzEHxqjs-9UaQGWa35KOzCFepdy26VonDO5gQdO_5yGrp1luNHbkpWrSSCMIZKjn-4SFcDFVNdwG1U30yUmGw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30463255",
+      "title": "Global Semiconductors: eSSD Demand to Rise Sharply in 2027",
+      "summary": "Continual learning and AI inference are set to drive a sharp increase in eSSD demand, which we forecast to grow 52.9% year over year in 2027.  As memory makers prioritize DRAM/HBM capacity expansion over NAND, NAND supply-demand conditions should tighten materially, resulting in deficits.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMjU1",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Semiconductors"
+      ],
+      "publish_time": "2026-09-21 05:28",
+      "thumbnail": "https://ir.citi.com/tCDlv-jeAtOkxO2Iwq7ZBaOVukZaMfZz6T0BFeLhcFQElOwU-xcQjBUYM2688rYQtOrdIdBPyh1iZHHWg4xcqQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30463298",
+      "title": "Inflation Weekly: Will Rising Diesel Costs Lift Goods Prices?",
+      "summary": "A renewed increase in energy prices has caused new concerns about pass-through to core inflation, particularly as elevated diesel prices mean higher transportation costs for goods. But recent evidence is limited about the correlation between higher diesel prices and core goods in CPI.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMjk4",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Inflation"
+      ],
+      "publish_time": "2026-09-21 08:08",
+      "thumbnail": "https://ir.citi.com/JdZqBuAHmC0sQ4QS6qBsfvfMetu8HxxSSdV1i8I2RYPa-O9XFn4wEYJpyLr2gkpUqDmKFbmszziYusjYDlx1PA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462905",
+      "title": "Malaysia Equity Strategy: Macro Supportive, Themes Intact",
+      "summary": "We remain constructive on Malaysia, supported by a resilient macro backdrop, with 5.1% GDP growth forecast in 2026, contained inflation and a relatively benign domestic rates outlook. The key debate has shifted from domestic fundamentals to global rates, as we explore in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyOTA1",
+      "tags": [
+        "Annual Outlook",
+        "Economic Growth",
+        "Artificial Intelligence (AI)",
+        "Inflation"
+      ],
+      "publish_time": "2026-09-20 11:13",
+      "thumbnail": "https://ir.citi.com/2AbiEmKQImuu5zgCl7zaOxp63Xap7pU1J3UEn30IXXpqUwEOljBGlZsd94o0brx_2kBKXdnScyC_qzFsFHcGkA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30462939",
+      "title": "Argentina's Election and the “Knife-Edge” Narrative",
+      "summary": "We think the \"knife-edge\" narrative ahead of Argentina's presidential election next fall overstates the real risk, as we see improving macro fundamentals continuing to outweigh rising political noise. We offer our thoughts on strategies for various asset classes in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyOTM5",
+      "tags": [
+        "Argentina Economics",
+        "Economic Analysis",
+        "Elections",
+        "Emerging Markets"
+      ],
+      "publish_time": "2026-09-18 12:28",
+      "thumbnail": "https://ir.citi.com/w_AqNxNlLkw7KaYYY2lu1tNFb9q7-xC0LwBoMLqowcDchsZiiMibNs2evzierGYWWMNMsQ3iSk9YDWXoDsMSPQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30463081",
+      "title": "U.S. Rates Weekly: Only Hawks Outside the Window",
+      "summary": "Chair Warsh was unquestionably hawkish, but this should limit downside tails for the long end of the curve for now. Core long positions face two challenges: avoiding an October rate hike and weathering seasonally strong January and February core PCE prints. We're concerned on both fronts.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMDgx",
+      "tags": [
+        "Relative Value",
+        "Trade Idea",
+        "Flagship",
+        "U.S. Rates Weekly",
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation"
+      ],
+      "publish_time": "2026-09-18 18:03",
+      "thumbnail": "https://ir.citi.com/HBMRlurTL5dfh6Qh-HOuX0TGTM2Bo0V8PtHFFiIcaBIA3XW2tYv-YKYhqx9oQDl-XosMIctmL_8o-4VeSwmFQg%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30463045",
@@ -328,182 +441,6 @@
       ],
       "publish_time": "2026-09-14 21:47",
       "thumbnail": "https://ir.citi.com/d-vXAMQRJkyb7jUM2r8_2p6LlOhD87u6UwYZkbgORrTPHfc4IOZF4xhDPZmfIsllk-nEeCh6B-VaMI9ragITxg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30462060",
-      "title": "UK Economics: BoE Preview",
-      "summary": "We expect the MPC to keep rates unchanged in September with a 6-3 split, but have revised up our Bank Rate forecast to include 25bps hikes in 2026Q4 and 2027Q1. External inflation pressures have once again assailed the UK economy, which we think will force a policy response from the Bank.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyMDYw",
-      "tags": [
-        "Bank of England MPC",
-        "Bank Rate Forecast"
-      ],
-      "publish_time": "2026-09-14 06:55",
-      "thumbnail": "https://ir.citi.com/cnPX6cmGpGyP3FzzqXOmp8CK71yCVPjjL67O4gxdJxgFXmGNvTAjycsLYsPxjFQyITX3nABCgBxeXA3lTxEMHg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30462124",
-      "title": "Are Calls for Slower AI an Attempt to Shape Regulation?",
-      "summary": "We see AI labs' calls for slower frontier AI development as likely sincere but also driven by a desire to shape the regulatory framework before an AI incident prompts a broader and potentially less technically informed response. We consider the potential impacts of such a slowdown herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyMTI0",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Regulation",
-        "AI Applications",
-        "Application Software",
-        "AI Labs"
-      ],
-      "publish_time": "2026-09-14 10:17",
-      "thumbnail": "https://ir.citi.com/DhoHCE5SQKvSMRx0ZAwFy33x2e8ZuojojaXBuhse8QQcPH32IhqtX1xbBbPQoxZYc7O92M1GC4KDoLcnzNiKAA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461805",
-      "title": "Why France's 2027 Presidential Elections Matter",
-      "summary": "We offer an overview of France's upcoming presidential elections with a roadmap of the process and analysis of the stakes for markets. We see only two likely victors: Rassemblement National leader Marine Le Pen or a centrist candidate, with legislative elections likely to follow shortly.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxODA1",
-      "tags": [
-        "France Economics",
-        "Elections",
-        "Economic Analysis"
-      ],
-      "publish_time": "2026-09-14 02:00",
-      "thumbnail": "https://ir.citi.com/B5-qiWC_gsBqGzbaJXHNwzmlWWgYDoTHY3Ev2qsJdvudOxowwZ4JpqW6rCs8I5EogVr8HU9RVA933zbeYGUokw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461803",
-      "title": "Global Athletic Survey: Local Brands Gain Ground in China",
-      "summary": "Our quarterly consumer athletic survey found Nike gaining or holding its position vs. Adidas across regions, with Adidas dropping most significantly in China. In China, local brands Li Ning and Anta moved up the ranks and closed the gap vs. Nike, while the Jordan brand improved in China.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxODAz",
-      "tags": [
-        "Apparel & Footwear",
-        "Innovation Lab",
-        "Earnings Preview"
-      ],
-      "publish_time": "2026-09-14 00:00",
-      "thumbnail": "https://ir.citi.com/uRlK5K8myMdT-iU5BOYL81YtHwPmtULa-AdjRqew5Vg7-mnPGByFQU_-l2yLMFiwRjp6jgT8_vYe9PyZiS7OEw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461944",
-      "title": "U.S. Industrial Conglomerates: Calls for the Fall",
-      "summary": "We remain constructive on Multi-Industrials into year's end, seeing Multis and E&Cs with good visibility to growth supported by data-center tailwinds as well positioned. We also see good potential in shorter-cycle-exposed Multis with accelerating growth. We spotlight key names herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxOTQ0",
-      "tags": [
-        "Industrial Conglomerates",
-        "Artificial Intelligence (AI)",
-        "Infrastructure Investment"
-      ],
-      "publish_time": "2026-09-14 04:00",
-      "thumbnail": "https://ir.citi.com/lV0VOF8NqYVbnnN0ZNWoSRk2HuWYr-kelQtFQZCxpKppMd7suoC6XuUUdZn2Rz3_kVlfunvBQz-TSlqpRnP_Gg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461871",
-      "title": "Debate of the Day: The IAA Truck Show and Chinese BEV Risks",
-      "summary": "A key debate at the IAA Truck show in Hannover concerns Chinese BEV risks in Europe and Latin America. We consider the bears' arguments for a big market-share loss for European names, including major margin pressure, and the key impediments we see to such margin pressure.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxODcx",
-      "tags": [
-        "Electric Vehicles",
-        "Machinery"
-      ],
-      "publish_time": "2026-09-14 00:00",
-      "thumbnail": "https://ir.citi.com/beO5iEc39sLHynK2JZYt-N1ZOuaJuHe0d1cbaia7jypLV5Mv1IycpH-9FppEQ0PNjFCnZXUZCmpey8egyOLuAA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461984",
-      "title": "Ten Internet Takeaways From Our Global TMT Conference",
-      "summary": "We highlight 10 key takeaways for Internet names from our Global TMT Conference. We emerge incrementally positive on broader secular trends, particularly across Online Advertising, eCommerce and Cloud demand, as AI product development benefits and efficiencies become clearer.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxOTg0",
-      "tags": [
-        "Corporate Events/Special Situations",
-        "Internet-Driven Business Models",
-        "Internet"
-      ],
-      "publish_time": "2026-09-14 00:23",
-      "thumbnail": "https://ir.citi.com/zfe1AhfO8_g-eMVR2DGJxJoBLFM-Y8X-MmyMr9XM2xoFCNicExdqWQPsfAj9T80VTo11yWUz6TS-fI9twioxfA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461927",
-      "title": "Artificial Intelligence: Reasserting the Western Frontier",
-      "summary": "Our Global TMT Conference saw enterprise AI adoption diverging between compute-intensive frontier reasoning and lower-cost open deployments optimized for repeatable tasks. The dynamics favor names that pair efficient model routing with control over proprietary context and learning loops.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxOTI3",
-      "tags": [
-        "Corporate Events/Special Situations",
-        "Artificial Intelligence (AI)",
-        "AI infrastructure",
-        "AI Labs",
-        "AI Applications",
-        "Application Software"
-      ],
-      "publish_time": "2026-09-14 08:19",
-      "thumbnail": "https://ir.citi.com/PEzRpmYC_BxXSEH_3GmgnnuCHTcPCl4O6jXPEhlcs_grtGfTynQyIZDPlYsLrO4qQIKvIwg5Fz_sTV4oQUyjrQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461907",
-      "title": "Monitoring AI's Impact on IT Services",
-      "summary": "Discussions at our Global TMT Conference concerned AI as the major driver changing IT delivery. Productivity gains are tangible but often revenue-deflationary, accelerating a shift away from headcount-linked revenue toward fixed-fee and outcome-based models. We consider the impacts herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxOTA3",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Corporate Events/Special Situations",
-        "Computer Services & IT Consulting"
-      ],
-      "publish_time": "2026-09-13 09:00",
-      "thumbnail": "https://ir.citi.com/w2W8gv7mP2Uj1Ep60Qxf5hm5vs_YKhjOPuM3qP3zL1zCKTj2X7ShR5XKNbGmH5Q-2lePxQu5uPR9PigGlG2ymw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461974",
-      "title": "Global Semiconductors: Continual Learning to Fuel Demand",
-      "summary": "We think continual learning in AI will drive memory demand across diverse products including HBM, server DDR5 and eSSDs, leading to memory undersupply worsening throughout 2028 and persisting into 2031. In this Deep Dive we highlight names we see as major potential beneficiaries.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxOTc0",
-      "tags": [
-        "Semiconductors",
-        "Artificial Intelligence (AI)",
-        "Deep Dive"
-      ],
-      "publish_time": "2026-09-14 04:15",
-      "thumbnail": "https://ir.citi.com/uDkN0gYgbUfhD9jj8SZhB4SHtFDBtTEDOwrcQ61Vb3WRXLXg9qwpAUVKF0BI1qKaUO38ItlEnp4K49_Q9KCQpA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30462070",
-      "title": "Africa Weekly: What's Next in Senegal and Nigeria?",
-      "summary": "We explore unresolved policy issues facing Senegal despite its decision to move onto an IMF program and seek debt “re-profiling.” We also consider Nigeria’s food price inflation problem and what it may imply for monetary policy going forward into 2027.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyMDcw",
-      "tags": [
-        "Africa Economics & Strategy Weekly",
-        "Fiscal Policy",
-        "Inflation",
-        "Economic Analysis",
-        "Central Banks",
-        "Monetary Policy",
-        "Emerging Markets"
-      ],
-      "publish_time": "2026-09-14 09:58",
-      "thumbnail": "https://ir.citi.com/4v-cJ_KtLoDheQ4odW-ifpVryTTsVwqAWENh_1oyXJwlissX5cwPGhOSg7Cz0ub4AYEbGAfSI4T5N_7Pc4XJCg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30461909",
-      "title": "U.S. Rates Weekly: Is a Hike the Antidote?",
-      "summary": "Friday’s CPI print may be the perfect antidote to the long-end UST fever. Implied core PCE is high enough to warrant a Fed hike, but the details imply a more grounded neutral rate. We continue to like the risk-reward of the 20y bond here. We offer further analysis and strategies herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYxOTA5",
-      "tags": [
-        "U.S. Rates Weekly",
-        "Flagship",
-        "Relative Value",
-        "Trade Idea"
-      ],
-      "publish_time": "2026-09-11 18:20",
-      "thumbnail": "https://ir.citi.com/t5pgYKl0ehYouvbodDYeZwqDntFl--7I92Ami5sbBrnawztNIqwNqLUbtZL4Wbkr7k-SBhjCZPf02ZQbMSE2Mg%3D%3D"
     }
   ]
 }
