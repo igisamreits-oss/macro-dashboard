@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T22:34:12.105970+00:00",
+  "fetched_at": "2026-09-22T10:34:15.286554+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -118,11 +118,11 @@
         }
       ],
       "tags": [
-        "India Materials & Logistics",
-        "Asia Basic Materials",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Indonesia Equity",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "India Materials & Logistics",
+        "Asia Basic Materials"
       ],
       "publish_time": "2026-09-16"
     },
@@ -209,9 +209,9 @@
         }
       ],
       "tags": [
-        "Korea Consumer, Defense and Shipbuilding",
         "Infrastructure, Industrials & Transport",
-        "Technology - Semiconductors"
+        "Technology - Semiconductors",
+        "Korea Consumer, Defense and Shipbuilding"
       ],
       "publish_time": "2026-09-15"
     },
@@ -264,9 +264,9 @@
         }
       ],
       "tags": [
-        "Korea Consumer, Defense and Shipbuilding",
         "Infrastructure, Industrials & Transport",
-        "Technology - Semiconductors"
+        "Technology - Semiconductors",
+        "Korea Consumer, Defense and Shipbuilding"
       ],
       "publish_time": "2026-09-10"
     },
@@ -310,8 +310,8 @@
         }
       ],
       "tags": [
-        "Head of APAC Auto Research",
-        "Infrastructure, Industrials & Transport"
+        "Infrastructure, Industrials & Transport",
+        "Head of APAC Auto Research"
       ],
       "publish_time": "2026-09-10"
     },
@@ -340,9 +340,9 @@
         }
       ],
       "tags": [
-        "Korea Consumer, Defense and Shipbuilding",
         "Infrastructure, Industrials & Transport",
-        "Technology - Semiconductors"
+        "Technology - Semiconductors",
+        "Korea Consumer, Defense and Shipbuilding"
       ],
       "publish_time": "2026-09-10"
     },
@@ -538,8 +538,8 @@
         }
       ],
       "tags": [
-        "Biotechnology - Large Cap",
-        "SMid Biotechnology"
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
       ],
       "publish_time": "2026-09-11"
     },
@@ -571,84 +571,6 @@
         "Payments, Processors & IT Services"
       ],
       "publish_time": "2026-09-18"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5437772-0",
-      "publication_id": "KAL-1-CM5XS547",
-      "title": "US Large Cap BioPharma",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437772-0",
-      "authors": [
-        {
-          "name": "Chris Schott, CFA",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "christopher.t.schott@jpmorgan.com"
-        },
-        {
-          "name": "Ethan Brown",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "ethan.brown@jpmchase.com"
-        },
-        {
-          "name": "Hardik Parikh, CFA",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "hardik.k.parikh@jpmorgan.com"
-        },
-        {
-          "name": "Taylor Hanley",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "taylor.hanley@jpmchase.com"
-        },
-        {
-          "name": "Ekaterina V Knyazkova, CFA",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "ekaterina.v.knyazkova@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Pharmaceuticals — Major & Specialty"
-      ],
-      "publish_time": "2026-09-08"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5437776-0",
-      "publication_id": "KAL-1-CM5XS547",
-      "title": "US Large Cap BioPharma",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437776-0",
-      "authors": [
-        {
-          "name": "Chris Schott, CFA",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "christopher.t.schott@jpmorgan.com"
-        },
-        {
-          "name": "Ethan Brown",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "ethan.brown@jpmchase.com"
-        },
-        {
-          "name": "Hardik Parikh, CFA",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "hardik.k.parikh@jpmorgan.com"
-        },
-        {
-          "name": "Taylor Hanley",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "taylor.hanley@jpmchase.com"
-        },
-        {
-          "name": "Ekaterina V Knyazkova, CFA",
-          "team": "Pharmaceuticals — Major & Specialty",
-          "email": "ekaterina.v.knyazkova@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Pharmaceuticals — Major & Specialty"
-      ],
-      "publish_time": "2026-09-08"
     },
     {
       "platform": "JPM",
@@ -695,8 +617,8 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-09-15"
     },
