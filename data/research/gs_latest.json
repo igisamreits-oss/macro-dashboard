@@ -1,6 +1,62 @@
 {
-  "fetched_at": "2026-09-23T10:33:18.808965+00:00",
+  "fetched_at": "2026-09-23T22:33:12.963355+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "b9755ada-e7b6-44fa-854b-40b894d9d906",
+      "title": "Real Estate: REITs: Using Placer.ai data as an indicator of Storage same-store results",
+      "summary": "Placer.ai traffic data show a meaningful positive correlation with PSA’s same-store revenue, NOI and pricing growth, where storage-industry visits have recently moderated and EXR’s relative momentum has slowed. We view t...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/23/b9755ada-e7b6-44fa-854b-40b894d9d906.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "453be3f7-e29f-4018-86dc-66323b85c221",
+      "title": "Keppel REIT (KASA.SI): Proposed divestment of T Tower improves gearing but with DPU dilution; Sell",
+      "summary": "Keppel REIT (KREIT) has announced the divestment of T Tower in Korea at S$319m, which is S$38m above book valuation and at 3.9% exit yield. Proceeds will be primarily used for debt repayment with up to S$25m allocated towards share buybacks.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/23/453be3f7-e29f-4018-86dc-66323b85c221.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-09-23"
+    },
     {
       "platform": "GS",
       "doc_id": "67b3eba7-a32c-4c06-a2a9-7aae50ff2756",
@@ -1134,62 +1190,6 @@
         "REITs"
       ],
       "publish_time": "2026-08-07"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "78d41127-73c7-4b8c-9cd5-d68f9ce697c1",
-      "title": "Ventas Inc. (VTR): Updating 2Q26 Estimates and Price Target",
-      "summary": "We are updating our VTR estimates to reflect the company's 2Q26 results & increased 2026 guidance. Ventas raised their 2026 guidance expectations with normalized FFO at the midpoint now anticipated at $3.88 (range of $3.85-$3.90) vs.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/78d41127-73c7-4b8c-9cd5-d68f9ce697c1.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-06"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "fe323c4f-96b6-483f-8a37-f7d189f90620",
-      "title": "Omega Healthcare Investors Inc. (OHI): Updating Estimates for 2Q26 Results",
-      "summary": "We are updating our OHI estimates to reflect the company's 2Q26 results and increased 2026 guidance. Our new AFFO estimates are now +1%, +2%, and +2% vs. Visible Alpha consensus in 2026, 2027, and 2028. We reiterate our ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/06/fe323c4f-96b6-483f-8a37-f7d189f90620.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-06"
     }
   ]
 }

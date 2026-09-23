@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T10:34:18.139273+00:00",
+  "fetched_at": "2026-09-23T22:34:12.193497+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -56,6 +56,35 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5459407-0",
+      "publication_id": "KAL-1-FYR67HWN",
+      "title": "Enterprise Software",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5459407-0",
+      "authors": [
+        {
+          "name": "Samik Chatterjee, CFA",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "samik.x.chatterjee@jpmorgan.com"
+        },
+        {
+          "name": "Jaiden R Patel",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "jaiden.patel@jpmchase.com"
+        },
+        {
+          "name": "Mashu Nishi",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "mashu.nishi@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Software - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-09-23"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5447866-0",
       "publication_id": "GPS-5451603-0",
       "title": "Transition Talks",
@@ -89,11 +118,11 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "India Materials & Logistics",
+        "Asia Basic Materials",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "Indonesia Equity",
-        "Asia Basic Materials"
+        "India Materials & Logistics"
       ],
       "publish_time": "2026-09-16"
     },
@@ -157,6 +186,50 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5443486-0",
+      "publication_id": "GPS-5452133-0",
+      "title": "SITC International Holdings - H",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443486-0",
+      "authors": [
+        {
+          "name": "Karen Li, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "karen.yy.li@jpmorgan.com"
+        },
+        {
+          "name": "Neil Zhang",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "neil.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Jenny Qiu, CFA",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "jenny.qiu@jpmorgan.com"
+        },
+        {
+          "name": "Beatrice Lam",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "beatrice.lam@jpmorgan.com"
+        },
+        {
+          "name": "Mufan Shi",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "mufan.shi@jpmorgan.com"
+        },
+        {
+          "name": "Sunny Su",
+          "team": "Infrastructure, Industrials & Transport",
+          "email": "sunny.su@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Infrastructure, Industrials & Transport"
+      ],
+      "publish_time": "2026-09-10"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5443732-0",
       "publication_id": "GPS-5452133-0",
       "title": "Hanwha Engine",
@@ -180,24 +253,29 @@
         }
       ],
       "tags": [
+        "Technology - Semiconductors",
         "Infrastructure, Industrials & Transport",
-        "Korea Consumer, Defense and Shipbuilding",
-        "Technology - Semiconductors"
+        "Korea Consumer, Defense and Shipbuilding"
       ],
       "publish_time": "2026-09-15"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5447624-0",
+      "doc_id": "GPS-5443971-0",
       "publication_id": "GPS-5452133-0",
-      "title": "Yangzijiang Shipbuilding Holdings Ltd",
+      "title": "Korea Shipbuilding & Repairs",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447624-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443971-0",
       "authors": [
         {
-          "name": "Beatrice Lam",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "beatrice.lam@jpmorgan.com"
+          "name": "Simon Han",
+          "team": "Korea Consumer, Defense and Shipbuilding",
+          "email": "simon.x.han@jpmorgan.com"
+        },
+        {
+          "name": "Jeongsuk Woo",
+          "team": "Technology - Semiconductors",
+          "email": "jeongsuk.woo@jpmorgan.com"
         },
         {
           "name": "Karen Li, CFA",
@@ -206,9 +284,11 @@
         }
       ],
       "tags": [
-        "Infrastructure, Industrials & Transport"
+        "Technology - Semiconductors",
+        "Infrastructure, Industrials & Transport",
+        "Korea Consumer, Defense and Shipbuilding"
       ],
-      "publish_time": "2026-09-14"
+      "publish_time": "2026-09-10"
     },
     {
       "platform": "JPM",
@@ -235,9 +315,9 @@
         }
       ],
       "tags": [
+        "Technology - Semiconductors",
         "Infrastructure, Industrials & Transport",
-        "Korea Consumer, Defense and Shipbuilding",
-        "Technology - Semiconductors"
+        "Korea Consumer, Defense and Shipbuilding"
       ],
       "publish_time": "2026-09-10"
     },
@@ -281,85 +361,34 @@
         }
       ],
       "tags": [
-        "Infrastructure, Industrials & Transport",
-        "Head of APAC Auto Research"
+        "Head of APAC Auto Research",
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-09-10"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5443971-0",
+      "doc_id": "GPS-5447624-0",
       "publication_id": "GPS-5452133-0",
-      "title": "Korea Shipbuilding & Repairs",
+      "title": "Yangzijiang Shipbuilding Holdings Ltd",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443971-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447624-0",
       "authors": [
-        {
-          "name": "Simon Han",
-          "team": "Korea Consumer, Defense and Shipbuilding",
-          "email": "simon.x.han@jpmorgan.com"
-        },
-        {
-          "name": "Jeongsuk Woo",
-          "team": "Technology - Semiconductors",
-          "email": "jeongsuk.woo@jpmorgan.com"
-        },
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Infrastructure, Industrials & Transport",
-        "Korea Consumer, Defense and Shipbuilding",
-        "Technology - Semiconductors"
-      ],
-      "publish_time": "2026-09-10"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5443486-0",
-      "publication_id": "GPS-5452133-0",
-      "title": "SITC International Holdings - H",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443486-0",
-      "authors": [
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        },
-        {
-          "name": "Neil Zhang",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "neil.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Jenny Qiu, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "jenny.qiu@jpmorgan.com"
-        },
         {
           "name": "Beatrice Lam",
           "team": "Infrastructure, Industrials & Transport",
           "email": "beatrice.lam@jpmorgan.com"
         },
         {
-          "name": "Mufan Shi",
+          "name": "Karen Li, CFA",
           "team": "Infrastructure, Industrials & Transport",
-          "email": "mufan.shi@jpmorgan.com"
-        },
-        {
-          "name": "Sunny Su",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "sunny.su@jpmorgan.com"
+          "email": "karen.yy.li@jpmorgan.com"
         }
       ],
       "tags": [
         "Infrastructure, Industrials & Transport"
       ],
-      "publish_time": "2026-09-10"
+      "publish_time": "2026-09-14"
     },
     {
       "platform": "JPM",
@@ -410,9 +439,9 @@
         }
       ],
       "tags": [
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-14"
     },
@@ -509,8 +538,8 @@
         }
       ],
       "tags": [
-        "SMid Biotechnology",
-        "Biotechnology - Large Cap"
+        "Biotechnology - Large Cap",
+        "SMid Biotechnology"
       ],
       "publish_time": "2026-09-11"
     },
