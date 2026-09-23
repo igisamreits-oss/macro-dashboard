@@ -1,35 +1,6 @@
 {
-  "fetched_at": "2026-09-22T22:34:06.709699+00:00",
+  "fetched_at": "2026-09-23T10:34:18.139273+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5441553-0",
-      "publication_id": "KAL-1-LGZEPTJ5",
-      "title": "Consumer & Specialty Finance Investor Presentation",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5441553-0",
-      "authors": [
-        {
-          "name": "Richard Shane",
-          "team": "Consumer Finance",
-          "email": "richard.b.shane@jpmorgan.com"
-        },
-        {
-          "name": "Hong Zhang",
-          "team": "Consumer Finance",
-          "email": "hongliang.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Gregory Scaduto",
-          "team": "Consumer Finance",
-          "email": "gregory.scaduto@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Consumer Finance"
-      ],
-      "publish_time": "2026-09-09"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5437944-0",
@@ -118,11 +89,11 @@
         }
       ],
       "tags": [
+        "APAC Equity Thematic and Sustainable Investing Research",
         "India Materials & Logistics",
-        "Indonesia Equity",
-        "Asia Basic Materials",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Indonesia Equity",
+        "Asia Basic Materials"
       ],
       "publish_time": "2026-09-16"
     },
@@ -210,8 +181,8 @@
       ],
       "tags": [
         "Infrastructure, Industrials & Transport",
-        "Technology - Semiconductors",
-        "Korea Consumer, Defense and Shipbuilding"
+        "Korea Consumer, Defense and Shipbuilding",
+        "Technology - Semiconductors"
       ],
       "publish_time": "2026-09-15"
     },
@@ -265,8 +236,8 @@
       ],
       "tags": [
         "Infrastructure, Industrials & Transport",
-        "Technology - Semiconductors",
-        "Korea Consumer, Defense and Shipbuilding"
+        "Korea Consumer, Defense and Shipbuilding",
+        "Technology - Semiconductors"
       ],
       "publish_time": "2026-09-10"
     },
@@ -341,8 +312,8 @@
       ],
       "tags": [
         "Infrastructure, Industrials & Transport",
-        "Technology - Semiconductors",
-        "Korea Consumer, Defense and Shipbuilding"
+        "Korea Consumer, Defense and Shipbuilding",
+        "Technology - Semiconductors"
       ],
       "publish_time": "2026-09-10"
     },
@@ -439,9 +410,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-14"
     },
@@ -617,8 +588,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Internet - Mid & Small Cap"
+        "Internet - Mid & Small Cap",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-09-15"
     },
