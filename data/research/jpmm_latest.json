@@ -1,35 +1,6 @@
 {
-  "fetched_at": "2026-09-23T22:34:12.193497+00:00",
+  "fetched_at": "2026-09-24T13:08:28.827704+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5437944-0",
-      "publication_id": "KAL-1-EDGHFW57",
-      "title": "Meta Platforms Inc",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5437944-0",
-      "authors": [
-        {
-          "name": "Doug Anmuth",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "douglas.anmuth@jpmorgan.com"
-        },
-        {
-          "name": "Daniel Pfeiffer",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "daniel.pfeiffer@jpmchase.com"
-        },
-        {
-          "name": "Margaret Hoffman",
-          "team": "Internet - Large Cap / Mid & Small Cap",
-          "email": "margaret.hoffman@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Internet - Large Cap / Mid & Small Cap"
-      ],
-      "publish_time": "2026-09-10"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5442069-0",
@@ -119,41 +90,67 @@
       ],
       "tags": [
         "Asia Basic Materials",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research",
         "Indonesia Equity",
-        "India Materials & Logistics"
+        "India Materials & Logistics",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-16"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5443313-0",
-      "publication_id": "KAL-1-QKKELST6",
-      "title": "Enterprise Software",
+      "doc_id": "GPS-5432306-0",
+      "publication_id": "GPS-5461816-0",
+      "title": "Malaysia Equity Strategy",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443313-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5432306-0",
       "authors": [
         {
-          "name": "Samik Chatterjee, CFA",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "samik.x.chatterjee@jpmorgan.com"
+          "name": "Yen Voo, CFA, CA",
+          "team": "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
+          "email": "yen.voo@jpmorgan.com"
         },
         {
-          "name": "Jaiden R Patel",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "jaiden.patel@jpmchase.com"
+          "name": "Siddharth Jamad",
+          "team": "Economic Research",
+          "email": "siddharth.jamad@jpmorgan.com"
         },
         {
-          "name": "Mashu Nishi",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "mashu.nishi@jpmorgan.com"
+          "name": "Harsh Wardhan Modi",
+          "team": "APAC Banks",
+          "email": "harsh.w.modi@jpmorgan.com"
+        },
+        {
+          "name": "Mervin Song, CFA",
+          "team": "Singapore/ASEAN Property and REITs",
+          "email": "mervin.song@jpmorgan.com"
+        },
+        {
+          "name": "Samuel Tan",
+          "team": "ASEAN Tech Hardware / Technology",
+          "email": "samuel.tan@jpmorgan.com"
+        },
+        {
+          "name": "Khoi Vu, CFA",
+          "team": "Vietnam and Southeast Asia Equity Strategy",
+          "email": "khoi.t.vu@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
         }
       ],
       "tags": [
-        "Software - Large Cap / Mid & Small Cap"
+        "Singapore/ASEAN Property and REITs",
+        "ASEAN Tech Hardware / Technology",
+        "Economic Research",
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
+        "Vietnam and Southeast Asia Equity Strategy",
+        "APAC Banks",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
-      "publish_time": "2026-09-10"
+      "publish_time": "2026-09-14"
     },
     {
       "platform": "JPM",
@@ -186,50 +183,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5443486-0",
-      "publication_id": "GPS-5452133-0",
-      "title": "SITC International Holdings - H",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5443486-0",
-      "authors": [
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        },
-        {
-          "name": "Neil Zhang",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "neil.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Jenny Qiu, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "jenny.qiu@jpmorgan.com"
-        },
-        {
-          "name": "Beatrice Lam",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "beatrice.lam@jpmorgan.com"
-        },
-        {
-          "name": "Mufan Shi",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "mufan.shi@jpmorgan.com"
-        },
-        {
-          "name": "Sunny Su",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "sunny.su@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Infrastructure, Industrials & Transport"
-      ],
-      "publish_time": "2026-09-10"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5443732-0",
       "publication_id": "GPS-5452133-0",
       "title": "Hanwha Engine",
@@ -253,9 +206,9 @@
         }
       ],
       "tags": [
+        "Korea Consumer, Defense and Shipbuilding",
         "Technology - Semiconductors",
-        "Infrastructure, Industrials & Transport",
-        "Korea Consumer, Defense and Shipbuilding"
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-09-15"
     },
@@ -284,9 +237,9 @@
         }
       ],
       "tags": [
+        "Korea Consumer, Defense and Shipbuilding",
         "Technology - Semiconductors",
-        "Infrastructure, Industrials & Transport",
-        "Korea Consumer, Defense and Shipbuilding"
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-09-10"
     },
@@ -315,9 +268,9 @@
         }
       ],
       "tags": [
+        "Korea Consumer, Defense and Shipbuilding",
         "Technology - Semiconductors",
-        "Infrastructure, Industrials & Transport",
-        "Korea Consumer, Defense and Shipbuilding"
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-09-10"
     },
@@ -439,8 +392,8 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-14"
@@ -538,8 +491,8 @@
         }
       ],
       "tags": [
-        "Biotechnology - Large Cap",
-        "SMid Biotechnology"
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
       ],
       "publish_time": "2026-09-11"
     },
@@ -617,8 +570,8 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-09-15"
     },
