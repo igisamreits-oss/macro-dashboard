@@ -1,23 +1,9 @@
 {
-  "fetched_at": "2026-09-24T13:08:54.106211+00:00",
-  "window_start": "2026-09-17",
-  "window_end": "2026-10-22",
+  "fetched_at": "2026-09-25T01:05:19.153146+00:00",
+  "window_start": "2026-09-18",
+  "window_end": "2026-10-23",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-09-17",
-      "country": "US",
-      "indicator_id": "fomc",
-      "time_kst": "03:00",
-      "note": "SEP"
-    },
-    {
-      "date": "2026-09-17",
-      "country": "UK",
-      "indicator_id": "boe",
-      "time_kst": "20:00",
-      "note": ""
-    },
     {
       "date": "2026-09-18",
       "country": "JP",
