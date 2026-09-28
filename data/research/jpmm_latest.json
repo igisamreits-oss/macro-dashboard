@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T10:34:17.556734+00:00",
+  "fetched_at": "2026-09-28T22:35:24.650037+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -55,10 +55,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research",
         "ASEAN Tech Hardware / Technology",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-25"
     },
@@ -126,68 +126,13 @@
         }
       ],
       "tags": [
-        "India Materials & Logistics",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Indonesia Equity",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Basic Materials"
+        "Asia Basic Materials",
+        "India Materials & Logistics",
+        "Indonesia Equity",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-16"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5432306-0",
-      "publication_id": "GPS-5461816-0",
-      "title": "Malaysia Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5432306-0",
-      "authors": [
-        {
-          "name": "Yen Voo, CFA, CA",
-          "team": "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-          "email": "yen.voo@jpmorgan.com"
-        },
-        {
-          "name": "Siddharth Jamad",
-          "team": "Economic Research",
-          "email": "siddharth.jamad@jpmorgan.com"
-        },
-        {
-          "name": "Harsh Wardhan Modi",
-          "team": "APAC Banks",
-          "email": "harsh.w.modi@jpmorgan.com"
-        },
-        {
-          "name": "Mervin Song, CFA",
-          "team": "Singapore/ASEAN Property and REITs",
-          "email": "mervin.song@jpmorgan.com"
-        },
-        {
-          "name": "Samuel Tan",
-          "team": "ASEAN Tech Hardware / Technology",
-          "email": "samuel.tan@jpmorgan.com"
-        },
-        {
-          "name": "Khoi Vu, CFA",
-          "team": "Vietnam and Southeast Asia Equity Strategy",
-          "email": "khoi.t.vu@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "ASEAN Tech Hardware / Technology",
-        "Economic Research",
-        "Singapore/ASEAN Property and REITs",
-        "APAC Banks",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Vietnam and Southeast Asia Equity Strategy",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
-      ],
-      "publish_time": "2026-09-14"
     },
     {
       "platform": "JPM",
@@ -244,10 +189,39 @@
       ],
       "tags": [
         "Infrastructure, Industrials & Transport",
-        "Korea Consumer, Defense and Shipbuilding",
-        "Technology - Semiconductors"
+        "Technology - Semiconductors",
+        "Korea Consumer, Defense and Shipbuilding"
       ],
       "publish_time": "2026-09-15"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5464875-0",
+      "publication_id": "KAL-1-ON532O5Z",
+      "title": "Hardware & Networking",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5464875-0",
+      "authors": [
+        {
+          "name": "Joseph Cardoso",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "joseph.cardoso@jpmchase.com"
+        },
+        {
+          "name": "Manmohanpreet Singh",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "manmohanpreet.singh@jpmchase.com"
+        },
+        {
+          "name": "Marc Vitenzon",
+          "team": "IT Hardware/ Telecom & Networking Equipment",
+          "email": "marc.vitenzon@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "IT Hardware/ Telecom & Networking Equipment"
+      ],
+      "publish_time": "2026-09-28"
     },
     {
       "platform": "JPM",

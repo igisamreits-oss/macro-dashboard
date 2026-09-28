@@ -1,6 +1,153 @@
 {
-  "fetched_at": "2026-09-28T10:32:16.622890+00:00",
+  "fetched_at": "2026-09-28T22:33:23.865063+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30464265",
+      "title": "Global Commodities: Fourth-Quarter Outlook",
+      "summary": "Our fourth-quarter commodities outlook includes an in-depth look at the global diesel market. A normalization of Strait of Hormuz flows by year's end would create a bullish environment for metals. We see upside risks for agricultural prices given ongoing and potential supply shocks.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0MjY1",
+      "tags": [
+        "Commodities Strategy",
+        "Geopolitics",
+        "Flagship"
+      ],
+      "publish_time": "2026-09-28 09:13",
+      "thumbnail": "https://ir.citi.com/4LpcOFgDdpvPtZEM7ow-xs5_jeFqJ1AXc3_1Gnkc997qZo8EW2_UGLPNvBYXsh4xA0y9-HHM4fFI8wyMe7ybdg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464287",
+      "title": "SIGN (Sector & Industry Group Navigator): Navigating Uncertainty",
+      "summary": "Our third-quarter broadening call was working well until Jackson Hole, when interest rate/inflation headwinds, along with oil price pressures, combined to flip the playbook. Given persistent macro and AI uncertainties, our fourth-quarter positioning response is best described as eclectic.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0Mjg3",
+      "tags": [
+        "U.S. Equity Strategy",
+        "SIGN",
+        "Geopolitics",
+        "Macro Strategy",
+        "Model Portfolio",
+        "Market Forecasts",
+        "Artificial Intelligence (AI)",
+        "Inflation"
+      ],
+      "publish_time": "2026-09-25 16:30",
+      "thumbnail": "https://ir.citi.com/CirI4SoX7FJg18KgMrEMeYkDFcJWXvDyvjPpcOJ44j5K7dZqhNwHzvGUWn5eGH9wJ8eUL94GcPrhN_LJIk2Xdg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464280",
+      "title": "Permian Gas Growth: The Path to Reclaiming the Natural Gas Crown",
+      "summary": "We see the Permian at an inflection point, with the basin poised to become the largest U.S. gas producer, complementing its oil crown. But fully utilizing capacity will require flexing all levers simultaneously. We explore what's needed and offer more analysis in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0Mjgw",
+      "tags": [
+        "Oil & Gas Exploration and Production",
+        "Theme Investing"
+      ],
+      "publish_time": "2026-09-28 05:00",
+      "thumbnail": "https://ir.citi.com/idonHjwyW0LUunuUfn7kkS72VQWF9vGu49vo3G6_BS6ZsoaNmLHTVJR6JCyhjat_lUEc0qDBTScB_eNp2wxKLQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464380",
+      "title": "U.S.-China Summit Preserves Stability Amid Practical Deliverables",
+      "summary": "The U.S.-China summit delivered on optics, reaffirming “strategic stability\" and raising the possibility of more 2026 Trump-Xi meetings. As expected, deliverables were modest but practical, including a two-month trade truce extension, a $30 billion tariff reduction, and a new AI dialogue.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0Mzgw",
+      "tags": [
+        "Economic Analysis",
+        "Economic Growth",
+        "Geopolitics",
+        "China Economics",
+        "Tariffs",
+        "Trade",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-09-27 17:12",
+      "thumbnail": "https://ir.citi.com/chxzWZXkGO_e04EqVJebq4PjFBDbf0U2-Hb4hrSxhrwRfjx-p0YHcYgFIGvQNMP90sz0c7-bOXAMIaKXJqVtTA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464518",
+      "title": "European Auto Manufacturers: Autos, Investors and Good Dreams",
+      "summary": "Ray Dalio once said \"investors are buying dreams, not earnings.\" Unfortunately, most European auto OEMs are providing bad dreams, and the sector needs to start delivering good ones for investors to return. Porsche has started to do that and been rewarded. Can other OEMs follow its lead?",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NTE4",
+      "tags": [
+        "Auto Manufacturers",
+        "Consumer Spending",
+        "Electric Vehicles"
+      ],
+      "publish_time": "2026-09-28 10:50",
+      "thumbnail": "https://ir.citi.com/LxByTZqkZ-w0Ze_ZbnyTnuRviYespmtR-_GmFqSynaMuYFmR89StLQ3I1I0rgWDLxoSPdHSjevy57kNBUUdjnA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464410",
+      "title": "U.S. Communications Equipment: OCS Is an $11 Billion Opportunity",
+      "summary": "Optical circuit switching is turning into a multi-year trend in AI Optics. We debut our OCS TAM Model, which indicates OCS could be an $11 billion opportunity for vendors such as COHR and LITE. We revise our estimates for LITE and raise our target price to $1,400.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NDEw",
+      "tags": [
+        "Communications Equipment",
+        "Semiconductor Equipment",
+        "Artificial Intelligence (AI)",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-09-28 00:58",
+      "thumbnail": "https://ir.citi.com/WEEGY40p60Mb1wSXUPafaDlGkybdnXeE5QPyiUooTrcMPYDtf5zR4_dWtA1fFqst5KtvAEyLwuUYGZkbTwBrvQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464108",
+      "title": "Could Minor Changes Drive a Mexico Market Bounce?",
+      "summary": "Mixed economic signals are keeping Mexico's growth outlook modest, but a slower fiscal consolidation path is increasing risks to the country's investment-grade status. Mexican assets face primarily external pressures; we trim our S&P IPC targets to 68,000 for 2026 and 72,000 for mid-2027.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0MTA4",
+      "tags": [
+        "Emerging Markets",
+        "Credit Analysis",
+        "Economic Analysis",
+        "Economic Growth",
+        "Mexico Economics",
+        "Central Banks",
+        "Macro Strategy",
+        "Rates Strategy",
+        "Monetary Policy",
+        "Fiscal Policy"
+      ],
+      "publish_time": "2026-09-25 11:26",
+      "thumbnail": "https://ir.citi.com/Z_LmyUeVHCSqVSPvY5WanLxfNpIr0HLGnBKOMcF0i8jh9pKueGpz3T4O1B4skHwMnYY-cCkbeJqBHmmt3AAv9g%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464467",
+      "title": "Africa Economics & Strategy Weekly: What's Ahead for Egypt?",
+      "summary": "We discuss key themes we expect from a new Egyptian policy document set for release in the coming months. Then we look at Egypt's current inflation dynamics and what they imply for the inflation's path and the dynamics of 2027 monetary policy.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NDY3",
+      "tags": [
+        "Economic Analysis",
+        "Inflation",
+        "Africa Economics & Strategy Weekly",
+        "Central Banks",
+        "Monetary Policy",
+        "Fiscal Policy"
+      ],
+      "publish_time": "2026-09-28 05:59",
+      "thumbnail": "https://ir.citi.com/_N7T4tgIQJbtgZ14hDtuT1mwvtllCbl63lk-8GyZY2OGLqHrgi6ELgyTKCiU92pV59dg0tRwODOPd9TovwgksA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464306",
+      "title": "U.S. Rates Weekly: Neutrals Are Back in Style for Fall",
+      "summary": "There's still little reason for investors to get overweight duration here now that the Fed has opened the upside risks of the distribution. We look at ’99 and ‘23 to conclude that a selloff above 5.5% in 10y yields is unlikely. But UST investors may have a better backdrop into 2027.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0MzA2",
+      "tags": [
+        "Flagship",
+        "U.S. Rates Weekly",
+        "Relative Value",
+        "Trade Idea"
+      ],
+      "publish_time": "2026-09-25 18:34",
+      "thumbnail": "https://ir.citi.com/k90OUxRji_GrZZ3rs53mpC7qZ6CxFDGWgdKRu5rclc0cWqfgPmlE0yXPQVrlAh1V7Nch7ulTEBU_fVD58Pc8pw%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30464279",
@@ -457,99 +604,6 @@
       ],
       "publish_time": "2026-09-22 03:28",
       "thumbnail": "https://ir.citi.com/tICh-YeIkjBdS8h0oPHeFXSxENJXadw_6EbCLRLE29vaqJ6eXJkvL6QIEcPMDkLBmYw3D-FPXdHfIMLN_63ocA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30463252",
-      "title": "U.S.-China Summit Preview: High Stakes, Practical Progress",
-      "summary": "We expect practical progress rather than a \"grand bargain\" from President Xi's U.S. state visit, with an extended trade truce and a formal AI dialogue focused on security guardrails among the possibilities. Geopolitics remains the wildcard to watch, and could spill into the economic track.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMjUy",
-      "tags": [
-        "China Economics",
-        "Geopolitics",
-        "Economic Analysis",
-        "Trade",
-        "Artificial Intelligence (AI)",
-        "Politics"
-      ],
-      "publish_time": "2026-09-21 08:46",
-      "thumbnail": "https://ir.citi.com/_RzEHxqjs-9UaQGWa35KOzCFepdy26VonDO5gQdO_5yGrp1luNHbkpWrSSCMIZKjn-4SFcDFVNdwG1U30yUmGw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30463255",
-      "title": "Global Semiconductors: eSSD Demand to Rise Sharply in 2027",
-      "summary": "Continual learning and AI inference are set to drive a sharp increase in eSSD demand, which we forecast to grow 52.9% year over year in 2027.  As memory makers prioritize DRAM/HBM capacity expansion over NAND, NAND supply-demand conditions should tighten materially, resulting in deficits.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMjU1",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Semiconductors"
-      ],
-      "publish_time": "2026-09-21 05:28",
-      "thumbnail": "https://ir.citi.com/tCDlv-jeAtOkxO2Iwq7ZBaOVukZaMfZz6T0BFeLhcFQElOwU-xcQjBUYM2688rYQtOrdIdBPyh1iZHHWg4xcqQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30463298",
-      "title": "Inflation Weekly: Will Rising Diesel Costs Lift Goods Prices?",
-      "summary": "A renewed increase in energy prices has caused new concerns about pass-through to core inflation, particularly as elevated diesel prices mean higher transportation costs for goods. But recent evidence is limited about the correlation between higher diesel prices and core goods in CPI.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMjk4",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Inflation"
-      ],
-      "publish_time": "2026-09-21 08:08",
-      "thumbnail": "https://ir.citi.com/JdZqBuAHmC0sQ4QS6qBsfvfMetu8HxxSSdV1i8I2RYPa-O9XFn4wEYJpyLr2gkpUqDmKFbmszziYusjYDlx1PA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30462905",
-      "title": "Malaysia Equity Strategy: Macro Supportive, Themes Intact",
-      "summary": "We remain constructive on Malaysia, supported by a resilient macro backdrop, with 5.1% GDP growth forecast in 2026, contained inflation and a relatively benign domestic rates outlook. The key debate has shifted from domestic fundamentals to global rates, as we explore in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyOTA1",
-      "tags": [
-        "Annual Outlook",
-        "Economic Growth",
-        "Artificial Intelligence (AI)",
-        "Inflation"
-      ],
-      "publish_time": "2026-09-20 11:13",
-      "thumbnail": "https://ir.citi.com/2AbiEmKQImuu5zgCl7zaOxp63Xap7pU1J3UEn30IXXpqUwEOljBGlZsd94o0brx_2kBKXdnScyC_qzFsFHcGkA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30462939",
-      "title": "Argentina's Election and the “Knife-Edge” Narrative",
-      "summary": "We think the \"knife-edge\" narrative ahead of Argentina's presidential election next fall overstates the real risk, as we see improving macro fundamentals continuing to outweigh rising political noise. We offer our thoughts on strategies for various asset classes in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYyOTM5",
-      "tags": [
-        "Argentina Economics",
-        "Economic Analysis",
-        "Elections",
-        "Emerging Markets"
-      ],
-      "publish_time": "2026-09-18 12:28",
-      "thumbnail": "https://ir.citi.com/w_AqNxNlLkw7KaYYY2lu1tNFb9q7-xC0LwBoMLqowcDchsZiiMibNs2evzierGYWWMNMsQ3iSk9YDWXoDsMSPQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30463081",
-      "title": "U.S. Rates Weekly: Only Hawks Outside the Window",
-      "summary": "Chair Warsh was unquestionably hawkish, but this should limit downside tails for the long end of the curve for now. Core long positions face two challenges: avoiding an October rate hike and weathering seasonally strong January and February core PCE prints. We're concerned on both fronts.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzMDgx",
-      "tags": [
-        "Relative Value",
-        "Trade Idea",
-        "Flagship",
-        "U.S. Rates Weekly",
-        "Central Banks",
-        "Monetary Policy",
-        "Inflation"
-      ],
-      "publish_time": "2026-09-18 18:03",
-      "thumbnail": "https://ir.citi.com/HBMRlurTL5dfh6Qh-HOuX0TGTM2Bo0V8PtHFFiIcaBIA3XW2tYv-YKYhqx9oQDl-XosMIctmL_8o-4VeSwmFQg%3D%3D"
     }
   ]
 }

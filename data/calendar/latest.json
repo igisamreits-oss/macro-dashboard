@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-28T10:31:18.723151+00:00",
-  "window_start": "2026-09-21",
-  "window_end": "2026-10-26",
+  "fetched_at": "2026-09-28T22:32:32.828672+00:00",
+  "window_start": "2026-09-22",
+  "window_end": "2026-10-27",
   "source": "schedule.yml",
   "events": [
     {

@@ -1,6 +1,72 @@
 {
-  "fetched_at": "2026-09-28T10:33:18.181629+00:00",
+  "fetched_at": "2026-09-28T22:34:24.409648+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "59bbee58-20f7-48fc-b865-cbdf0898e2fb",
+      "title": "Brixmor Property Group (BRX): Announced Acquisition of Slate Grocery REIT provides visibility to continued growth",
+      "summary": "On 9/28/26, BRX announced the acquisition of Slate Grocery REIT in a $2.34bn transaction alongside Everview Partners, under which, 1) BRX will directly acquire 23 grocery-anchored centers for $636mn, and 2) a newly forme...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/28/59bbee58-20f7-48fc-b865-cbdf0898e2fb.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-28"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "93043dc3-ab62-4827-a59a-9b438c04f7e2",
+      "title": "Lineage Inc. (LINE): USDA Check-In for August '26: Inventories rebound, with occupancy sustainability and flow-through to AFFO top of mind",
+      "summary": "Given investor focus on LINE’s occupancy and inventory trends, we review August USDA data (released on 9/25/26), compare the results with historical patterns, and assess how 2026 seasonality is developing. While monthly ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/28/93043dc3-ab62-4827-a59a-9b438c04f7e2.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-09-28"
+    },
     {
       "platform": "GS",
       "doc_id": "7e24791d-ae8f-415b-ace4-3d3e3e8e2672",
@@ -35,8 +101,8 @@
         }
       ],
       "tags": [
-        "REITs",
-        "Equity Research Management"
+        "Equity Research Management",
+        "REITs"
       ],
       "publish_time": "2026-09-28"
     },
@@ -1119,62 +1185,6 @@
       "title": "CPT/ESS/MAA: Updating estimates after 2Q, diverging expectations for 2H26",
       "summary": "We are updating our ESS, MAA, and CPT estimates to reflect 2Q26 results. ESS delivered stronger-than-expected blended lease growth (+3.6% vs. +3.1% cons) driven by Northern California strength, with management raising Co...",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/2c3d031a-8c9c-4181-b27f-8c6ba99713b9.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-10"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "0140dcbe-7143-4627-b1c6-d886c407aa65",
-      "title": "National Healthcare Properties Inc. (NHP): Raising Estimates and PT Following 2Q26 - Reiterate Buy",
-      "summary": "We are updating our NHP estimates following 2Q26 results. We reiterate our Buy rating, and highlight that NHP remains the highest total return stock in our coverage at +44%. We believe NHP has significant additional mult...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/0140dcbe-7143-4627-b1c6-d886c407aa65.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-10"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "2f2b6d3f-282a-484a-95ee-e16c4d2b07d5",
-      "title": "SFR REITs Inflection: Raising estimates and PT after 2Q26",
-      "summary": "BTR and shadow supply (for-sale converting to for-rent) headwinds are easing evidenced in single family rental listings finally declining YoY (particularly in Phoenix and Florida, where INVH has outsized exposures). In t...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/10/2f2b6d3f-282a-484a-95ee-e16c4d2b07d5.html",
       "authors": [
         {
           "name": "Julien Blouin",
