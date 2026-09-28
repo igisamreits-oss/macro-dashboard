@@ -1,6 +1,45 @@
 {
-  "fetched_at": "2026-09-27T13:07:16.394476+00:00",
+  "fetched_at": "2026-09-28T10:33:18.181629+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "7e24791d-ae8f-415b-ace4-3d3e3e8e2672",
+      "title": "Inside the Model: Focus on REITs",
+      "summary": "In this podcast series, Inside the Model, we sit down with our industry-expert analysts to dig into fundamental drivers of revenue and profitability, and that ultimately drive stock performance across a range of sectors.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/28/7e24791d-ae8f-415b-ace4-3d3e3e8e2672.html",
+      "authors": [
+        {
+          "name": "Christopher Hussey",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "James Covello",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Steven Kron",
+          "department": "Equity Research Management",
+          "division": "Research"
+        },
+        {
+          "name": "Sarah Herr",
+          "department": "Equity Research Management",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs",
+        "Equity Research Management"
+      ],
+      "publish_time": "2026-09-28"
+    },
     {
       "platform": "GS",
       "doc_id": "b9755ada-e7b6-44fa-854b-40b894d9d906",
@@ -1157,39 +1196,6 @@
         "REITs"
       ],
       "publish_time": "2026-08-10"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "43ea25e6-53c1-4b06-bae0-e518c60188cb",
-      "title": "Hudson Pacific Properties Inc. (HPP): 2Q26 Update: 2Q FFO beat, with smaller FY guidance increase (driven by G&A) as 2H SS NOI headwinds are expected",
-      "summary": "HPP reported 2Q26 Core FFOPS of $0.35, 11.0%/25.8% above the GS/Factset consensus estimate of $0.32/$0.28, +31% y/y, and +39.6% q/q. The beat versus our estimate was driven by higher-than-expected occupancy in the quarte...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/07/43ea25e6-53c1-4b06-bae0-e518c60188cb.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-08-07"
     }
   ]
 }

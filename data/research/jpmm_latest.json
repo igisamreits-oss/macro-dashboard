@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T13:08:18.796633+00:00",
+  "fetched_at": "2026-09-28T10:34:17.556734+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -56,9 +56,9 @@
       ],
       "tags": [
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "ASEAN Tech Hardware / Technology",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
       ],
       "publish_time": "2026-09-25"
     },
@@ -126,11 +126,11 @@
         }
       ],
       "tags": [
+        "India Materials & Logistics",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "Indonesia Equity",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Basic Materials",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "India Materials & Logistics"
+        "Asia Basic Materials"
       ],
       "publish_time": "2026-09-16"
     },
@@ -179,13 +179,13 @@
         }
       ],
       "tags": [
-        "APAC Banks",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Economic Research",
         "ASEAN Tech Hardware / Technology",
+        "Economic Research",
         "Singapore/ASEAN Property and REITs",
-        "Vietnam and Southeast Asia Equity Strategy"
+        "APAC Banks",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Vietnam and Southeast Asia Equity Strategy",
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
       ],
       "publish_time": "2026-09-14"
     },
@@ -248,85 +248,6 @@
         "Technology - Semiconductors"
       ],
       "publish_time": "2026-09-15"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5447624-0",
-      "publication_id": "GPS-5452133-0",
-      "title": "Yangzijiang Shipbuilding Holdings Ltd",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447624-0",
-      "authors": [
-        {
-          "name": "Beatrice Lam",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "beatrice.lam@jpmorgan.com"
-        },
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Infrastructure, Industrials & Transport"
-      ],
-      "publish_time": "2026-09-14"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5446934-0",
-      "publication_id": "GPS-5448753-0",
-      "title": "North American Utilities",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5446934-0",
-      "authors": [
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
-      ],
-      "publish_time": "2026-09-14"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5445649-0",
-      "publication_id": "CFP-PC-11815-0",
-      "title": "China Equity Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5445649-0",
-      "authors": [
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Alex Yao",
-          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
-          "email": "alex.yao@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy"
-      ],
-      "publish_time": "2026-09-14"
     },
     {
       "platform": "JPM",
