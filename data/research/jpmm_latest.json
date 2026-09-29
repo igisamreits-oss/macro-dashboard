@@ -1,6 +1,35 @@
 {
-  "fetched_at": "2026-09-29T10:34:17.707942+00:00",
+  "fetched_at": "2026-09-29T22:34:22.601518+00:00",
   "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5466703-0",
+      "publication_id": "KAL-1-BTJL55WC",
+      "title": "Restaurants and Foodservice Distribution",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5466703-0",
+      "authors": [
+        {
+          "name": "John Ivankoe",
+          "team": "Restaurants",
+          "email": "john.ivankoe@jpmorgan.com"
+        },
+        {
+          "name": "Rahul Krotthapalli",
+          "team": "Restaurants",
+          "email": "rahul.krotthapalli@jpmorgan.com"
+        },
+        {
+          "name": "Christabel Rocha",
+          "team": "Restaurants",
+          "email": "christabel.rocha@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Restaurants"
+      ],
+      "publish_time": "2026-09-29"
+    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5461423-0",
@@ -55,10 +84,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
         "ASEAN Tech Hardware / Technology",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-25"
     },
@@ -126,11 +155,11 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Indonesia Equity",
         "India Materials & Logistics",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Basic Materials"
+        "Asia Basic Materials",
+        "Indonesia Equity",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-16"
     },

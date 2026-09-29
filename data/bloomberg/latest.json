@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T10:31:19.783181+00:00",
+  "fetched_at": "2026-09-29T22:31:28.291574+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -109,7 +109,7 @@
       "actual": 2.2,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-09-29",
+      "release_date": "2026-09-30",
       "source": "bdp"
     },
     "jp_cpi_yoy": {
@@ -248,11 +248,11 @@
       "next_release_time": null
     },
     "us_nahb": {
-      "actual": 35.0,
-      "prior": 34.0,
-      "consensus": 33.0,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-08-17",
+      "actual": 32.0,
+      "prior": 35.0,
+      "consensus": 34.0,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-09-16",
       "next_release_date": "2026-10-19",
       "next_release_time": "23:00"
     },
@@ -275,11 +275,11 @@
       "next_release_time": "23:00"
     },
     "us_case_shiller_yoy": {
-      "actual": 2.1,
-      "prior": 1.65,
-      "consensus": 1.8,
-      "release_date": "2026-06-30",
-      "actual_release_date": "2026-08-25",
+      "actual": 2.47,
+      "prior": 2.15,
+      "consensus": 2.2,
+      "release_date": "2026-07-31",
+      "actual_release_date": "2026-09-29",
       "next_release_date": "2026-09-29",
       "next_release_time": "22:00"
     },
@@ -365,20 +365,20 @@
       "next_release_time": null
     },
     "us_michigan": {
-      "actual": 51.7,
-      "prior": 55.2,
-      "consensus": 51.0,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-08-28",
+      "actual": 48.1,
+      "prior": 51.7,
+      "consensus": 47.5,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-09-25",
       "next_release_date": "2026-10-09",
       "next_release_time": "23:00"
     },
     "us_cb_confidence": {
-      "actual": 89.4,
-      "prior": 90.2,
-      "consensus": 90.2,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-08-25",
+      "actual": 81.9,
+      "prior": 88.6,
+      "consensus": 89.0,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-09-29",
       "next_release_date": "2026-09-29",
       "next_release_time": "23:00"
     },
@@ -392,41 +392,41 @@
       "next_release_time": "21:00"
     },
     "uk_gfk": {
-      "actual": -14.0,
-      "prior": -17.0,
-      "consensus": -18.0,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-08-20",
+      "actual": -13.0,
+      "prior": -14.0,
+      "consensus": -16.0,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-09-24",
       "next_release_date": "2026-10-23",
       "next_release_time": "08:01"
     },
     "eu_consumer_conf": {
-      "actual": -15.5,
-      "prior": -15.9,
-      "consensus": -15.5,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-08-28",
-      "next_release_date": "2026-09-29",
-      "next_release_time": "18:00"
+      "actual": -16.5,
+      "prior": -15.5,
+      "consensus": -16.5,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-09-29",
+      "next_release_date": "2026-10-22",
+      "next_release_time": "23:00"
     },
     "jp_consumer_conf": {
       "actual": 42.7,
       "prior": null,
       "consensus": null,
-      "release_date": "2026-09-29",
+      "release_date": "2026-09-30",
       "source": "bdp"
     },
     "se_consumer_conf": {
-      "actual": 98.4,
-      "prior": 97.4,
+      "actual": 102.2,
+      "prior": 98.4,
       "consensus": null,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-08-28",
-      "next_release_date": "2026-09-29",
-      "next_release_time": "15:00"
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-09-29",
+      "next_release_date": "2026-10-29",
+      "next_release_time": "16:00"
     },
     "us_retail_mom": {
-      "actual": 6.1,
+      "actual": 1.1,
       "prior": -0.5,
       "consensus": 0.8,
       "release_date": "2026-08-31",
@@ -519,13 +519,13 @@
   "snapshots": {
     "us_pol_sofr": {
       "value": 3.9,
-      "change_1d": 0.02,
-      "as_of": "2026-09-25"
+      "change_1d": 0.0,
+      "as_of": "2026-09-28"
     },
     "ca_pol_corra": {
       "value": 2.3,
       "change_1d": 0.0,
-      "as_of": "2026-09-25"
+      "as_of": "2026-09-28"
     },
     "uk_pol_sonia": {
       "value": 3.7302,
@@ -558,28 +558,28 @@
       "as_of": "2026-09-28"
     },
     "us_be_10y": {
-      "value": 2.3418,
-      "change_1d": -0.0006,
+      "value": 2.3462,
+      "change_1d": 0.0038,
       "as_of": "2026-09-29"
     },
     "uk_be_10y": {
-      "value": 3.441,
-      "change_1d": -0.037,
+      "value": 3.429,
+      "change_1d": -0.049,
       "as_of": "2026-09-29"
     },
     "eu_be_10y": {
-      "value": 1.408,
-      "change_1d": -0.011,
+      "value": 1.41,
+      "change_1d": -0.009,
       "as_of": "2026-09-29"
     },
     "de_be_10y": {
-      "value": 2.2236,
-      "change_1d": -0.0276,
+      "value": 2.211,
+      "change_1d": -0.0402,
       "as_of": "2026-09-29"
     },
     "fr_be_10y": {
-      "value": 2.224,
-      "change_1d": -0.016,
+      "value": 2.216,
+      "change_1d": -0.024,
       "as_of": "2026-09-29"
     },
     "au_be_10y": {
@@ -607,25 +607,25 @@
     "fomc": {
       "rate": 4.0,
       "consensus_rate": 4.0,
-      "implied_1y": 4.5827,
+      "implied_1y": 4.5256,
       "next_meeting": null
     },
     "ecb": {
       "rate": 2.5,
       "consensus_rate": null,
-      "implied_1y": 2.9998,
+      "implied_1y": 3.0086,
       "next_meeting": null
     },
     "boe": {
       "rate": 3.75,
       "consensus_rate": null,
-      "implied_1y": 4.4585,
+      "implied_1y": 4.4711,
       "next_meeting": null
     },
     "rba": {
       "rate": 4.6,
-      "consensus_rate": 4.6,
-      "implied_1y": 4.9577,
+      "consensus_rate": null,
+      "implied_1y": 4.94,
       "next_meeting": null
     },
     "boj": {
@@ -637,7 +637,7 @@
     "boc": {
       "rate": 2.25,
       "consensus_rate": 2.25,
-      "implied_1y": 2.975,
+      "implied_1y": 2.9775,
       "next_meeting": null
     }
   }
