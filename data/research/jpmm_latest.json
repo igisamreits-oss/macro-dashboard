@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T22:34:22.601518+00:00",
+  "fetched_at": "2026-09-30T10:34:13.332663+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -84,9 +84,9 @@
         }
       ],
       "tags": [
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
         "ASEAN Tech Hardware / Technology",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
         "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-25"
@@ -119,49 +119,6 @@
         "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-09-23"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5447866-0",
-      "publication_id": "GPS-5451603-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447866-0",
-      "authors": [
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        },
-        {
-          "name": "Avery Chan",
-          "team": "Asia Basic Materials",
-          "email": "avery.chan@jpmorgan.com"
-        },
-        {
-          "name": "Vibhav Zutshi, CFA",
-          "team": "India Materials & Logistics",
-          "email": "vibhav.zutshi@jpmorgan.com"
-        },
-        {
-          "name": "Arnanto Januri",
-          "team": "Indonesia Equity",
-          "email": "arnanto.januri@jpmorgan.com"
-        },
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "India Materials & Logistics",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Basic Materials",
-        "Indonesia Equity",
-        "APAC Equity Thematic and Sustainable Investing Research"
-      ],
-      "publish_time": "2026-09-16"
     },
     {
       "platform": "JPM",
@@ -307,6 +264,43 @@
         "Payments, Processors & IT Services"
       ],
       "publish_time": "2026-09-18"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5468103-0",
+      "publication_id": "GPS-5468774-0",
+      "title": "Transition Talks",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5468103-0",
+      "authors": [
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        },
+        {
+          "name": "Parsley Ong",
+          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
+          "email": "parsley.rh.ong@jpmorgan.com"
+        },
+        {
+          "name": "Atul Tiwari",
+          "team": "India Industrials, Electric Utilities, and Infrastructure Sectors",
+          "email": "atul.tiwari@jpmorgan.com"
+        },
+        {
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
+      ],
+      "publish_time": "2026-09-30"
     }
   ]
 }
