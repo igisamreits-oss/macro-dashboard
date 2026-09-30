@@ -316,8 +316,8 @@ footer a { color: var(--accent); text-decoration: none; }
     <h1>Global REIT Macro Dashboard</h1>
   </div>
   <div class="meta">
-    Last update: <strong>2026-09-30 19:34</strong> KST<br>
-    Calendar: 2026-09-23 ~ 2026-10-28
+    Last update: <strong>2026-10-01 07:34</strong> KST<br>
+    Calendar: 2026-09-24 ~ 2026-10-29
   </div>
 </header>
 
@@ -325,19 +325,16 @@ footer a { color: var(--accent); text-decoration: none; }
   <button class="tab-btn active" data-tab="macro" role="tab">📊 Macro</button>
   <button class="tab-btn" data-tab="research" role="tab">
     📑 Research
-<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(87)</span>  </button>
+<span style="font-size:11px;color:var(--text-dim);font-weight:500;margin-left:4px">(97)</span>  </button>
 </div>
 
 <div class="tab-content active" id="tab-macro">
 <!-- ─── 5주 캘린더 ─────────────────────────────────────────── -->
 <section>
-  <h2>📅 Economic Calendar <small>2026-09-23 ~ 2026-10-28</small></h2>
+  <h2>📅 Economic Calendar <small>2026-09-24 ~ 2026-10-29</small></h2>
   <div class="calendar">
     <div class="calendar-grid">
       <div class="cal-cell cal-header">Country</div>
-      <div class="cal-cell cal-header  ">
-        09/23<br>수
-      </div>
       <div class="cal-cell cal-header  ">
         09/24<br>목
       </div>
@@ -356,10 +353,10 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         09/29<br>화
       </div>
-      <div class="cal-cell cal-header today ">
+      <div class="cal-cell cal-header  ">
         09/30<br>수
       </div>
-      <div class="cal-cell cal-header  ">
+      <div class="cal-cell cal-header today ">
         10/01<br>목
       </div>
       <div class="cal-cell cal-header  ">
@@ -443,10 +440,11 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell cal-header  ">
         10/28<br>수
       </div>
+      <div class="cal-cell cal-header  ">
+        10/29<br>목
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇺🇸</span> US
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -500,7 +498,20 @@ footer a { color: var(--accent); text-decoration: none; }
         </span>
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-3 "
+        <span class="cal-event imp-3 past"
+              data-name="PCE YoY"
+              data-name-ko="PCE"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-09-30"
+              data-time=""
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Aug 2026 data"
+              data-past="true">
+          PCE
+        </span>
+        <span class="cal-event imp-3 past"
               data-name="PCE YoY"
               data-name-ko="PCE"
               data-flag="🇺🇸"
@@ -510,10 +521,23 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="📊 물가"
               data-imp="3"
               data-note="next release"
-              data-past="false">
+              data-past="true">
           PCE
         </span>
-        <span class="cal-event imp-3 "
+        <span class="cal-event imp-3 past"
+              data-name="Core PCE YoY"
+              data-name-ko="Core PCE"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-09-30"
+              data-time=""
+              data-cat="📊 물가"
+              data-imp="3"
+              data-note="Aug 2026 data"
+              data-past="true">
+          Core PCE
+        </span>
+        <span class="cal-event imp-3 past"
               data-name="Core PCE YoY"
               data-name-ko="Core PCE"
               data-flag="🇺🇸"
@@ -523,7 +547,7 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="📊 물가"
               data-imp="3"
               data-note="next release"
-              data-past="false">
+              data-past="true">
           Core PCE
         </span>
       </div>
@@ -713,10 +737,23 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 "
+              data-name="FOMC Rate Decision"
+              data-name-ko="FOMC"
+              data-flag="🇺🇸"
+              data-country="United States"
+              data-date="2026-10-29"
+              data-time="03:00"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note=""
+              data-past="false">
+          FOMC
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇪🇺</span> EU
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -866,10 +903,23 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-3 "
+              data-name="ECB Deposit Rate"
+              data-name-ko="ECB"
+              data-flag="🇪🇺"
+              data-country="Eurozone"
+              data-date="2026-10-29"
+              data-time="22:15"
+              data-cat="🏦 중앙은행"
+              data-imp="3"
+              data-note="CET (DST 종료 후)"
+              data-past="false">
+          ECB
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇬🇧</span> UK
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
         <span class="cal-event imp-2 past"
@@ -1032,10 +1082,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇩🇪</span> DE
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1075,6 +1125,8 @@ footer a { color: var(--accent); text-decoration: none; }
               data-past="false">
           건설 PMI (50)
         </span>
+      </div>
+      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1209,8 +1261,6 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
         <span class="cal-event imp-1 past"
               data-name="Consumer Confidence SA"
               data-name-ko="소비자신뢰"
@@ -1226,7 +1276,7 @@ footer a { color: var(--accent); text-decoration: none; }
         </span>
       </div>
       <div class="cal-cell">
-        <span class="cal-event imp-1 "
+        <span class="cal-event imp-1 past"
               data-name="Retail Sales ex Fuel MoM"
               data-name-ko="소매판매 MoM"
               data-flag="🇸🇪"
@@ -1236,16 +1286,87 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🛒 소매판매"
               data-imp="1"
               data-note="Aug 2026 data"
-              data-past="false">
+              data-past="true">
           소매판매 MoM
+        </span>
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+      </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-1 "
+              data-name="Consumer Confidence SA"
+              data-name-ko="소비자신뢰"
+              data-flag="🇸🇪"
+              data-country="Sweden"
+              data-date="2026-10-29"
+              data-time="16:00"
+              data-cat="💭 소비자심리"
+              data-imp="1"
+              data-note="next release"
+              data-past="false">
+          소비자신뢰
         </span>
         <span class="cal-event imp-1 "
               data-name="Retail Sales ex Fuel MoM"
               data-name-ko="소매판매 MoM"
               data-flag="🇸🇪"
               data-country="Sweden"
-              data-date="2026-09-30"
-              data-time="15:00"
+              data-date="2026-10-29"
+              data-time="16:00"
               data-cat="🛒 소매판매"
               data-imp="1"
               data-note="next release"
@@ -1253,92 +1374,8 @@ footer a { color: var(--accent); text-decoration: none; }
           소매판매 MoM
         </span>
       </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇸🇬</span> SG
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 past"
-              data-name="CPI YoY"
-              data-name-ko="CPI"
-              data-flag="🇸🇬"
-              data-country="Singapore"
-              data-date="2026-09-23"
-              data-time=""
-              data-cat="📊 물가"
-              data-imp="2"
-              data-note="Aug 2026 data"
-              data-past="true">
-          CPI
-        </span>
-        <span class="cal-event imp-2 past"
-              data-name="MAS Core CPI"
-              data-name-ko="MAS Core"
-              data-flag="🇸🇬"
-              data-country="Singapore"
-              data-date="2026-09-23"
-              data-time=""
-              data-cat="📊 물가"
-              data-imp="2"
-              data-note="Aug 2026 data"
-              data-past="true">
-          MAS Core
-        </span>
       </div>
       <div class="cal-cell">
       </div>
@@ -1462,10 +1499,23 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+        <span class="cal-event imp-2 "
+              data-name="Unemployment Rate Overall SA"
+              data-name-ko="실업률 SA"
+              data-flag="🇸🇬"
+              data-country="Singapore"
+              data-date="2026-10-29"
+              data-time=""
+              data-cat="👥 실업률"
+              data-imp="2"
+              data-note="next release"
+              data-past="false">
+          실업률 SA
+        </span>
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇭🇰</span> HK
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1563,23 +1613,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇦🇺</span> AU
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 past"
-              data-name="Unemployment Rate"
-              data-name-ko="실업률"
-              data-flag="🇦🇺"
-              data-country="Australia"
-              data-date="2026-09-23"
-              data-time=""
-              data-cat="👥 실업률"
-              data-imp="2"
-              data-note="Aug 2026 data"
-              data-past="true">
-          실업률
-        </span>
       </div>
       <div class="cal-cell">
       </div>
@@ -1677,6 +1714,8 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇯🇵</span> JP
       </div>
@@ -1693,9 +1732,7 @@ footer a { color: var(--accent); text-decoration: none; }
       <div class="cal-cell">
       </div>
       <div class="cal-cell">
-      </div>
-      <div class="cal-cell">
-        <span class="cal-event imp-2 "
+        <span class="cal-event imp-2 past"
               data-name="Housing Starts YoY"
               data-name-ko="주택착공 YoY"
               data-flag="🇯🇵"
@@ -1705,34 +1742,8 @@ footer a { color: var(--accent); text-decoration: none; }
               data-cat="🏘️ 주택지표"
               data-imp="2"
               data-note="Aug 2026 data"
-              data-past="false">
+              data-past="true">
           주택착공 YoY
-        </span>
-        <span class="cal-event imp-2 "
-              data-name="Housing Starts YoY"
-              data-name-ko="주택착공 YoY"
-              data-flag="🇯🇵"
-              data-country="Japan"
-              data-date="2026-09-30"
-              data-time="14:00"
-              data-cat="🏘️ 주택지표"
-              data-imp="2"
-              data-note="next release"
-              data-past="false">
-          주택착공 YoY
-        </span>
-        <span class="cal-event imp-2 "
-              data-name="Large-Scale Retail MoM SA"
-              data-name-ko="대형소매 MoM"
-              data-flag="🇯🇵"
-              data-country="Japan"
-              data-date="2026-09-30"
-              data-time=""
-              data-cat="🛒 소매판매"
-              data-imp="2"
-              data-note="next release"
-              data-past="false">
-          대형소매 MoM
         </span>
       </div>
       <div class="cal-cell">
@@ -1843,10 +1854,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇰🇷</span> KR
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
       </div>
@@ -1931,10 +1942,10 @@ footer a { color: var(--accent); text-decoration: none; }
       </div>
       <div class="cal-cell">
       </div>
+      <div class="cal-cell">
+      </div>
       <div class="cal-cell cal-country">
         <span class="flag">🇨🇦</span> CA
-      </div>
-      <div class="cal-cell">
       </div>
       <div class="cal-cell">
         <span class="cal-event imp-2 past"
@@ -2110,6 +2121,8 @@ footer a { color: var(--accent); text-decoration: none; }
           BoC
         </span>
       </div>
+      <div class="cal-cell">
+      </div>
     </div>
   </div>
 </section>
@@ -2177,7 +2190,7 @@ function closeEvModal() {
       <div class="cb-rate">
 4.00%      </div>
       <div class="cb-next">
-        Next: <strong>TBD</strong>
+        Next: <strong>2026-10-29</strong>
         &middot; cons 4.00%
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
@@ -2194,13 +2207,13 @@ function closeEvModal() {
       <div class="cb-rate">
 2.50%      </div>
       <div class="cb-next">
-        Next: <strong>TBD</strong>
+        Next: <strong>2026-10-29</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>2.99%</strong>
+        12M 시장: <strong>2.98%</strong>
         <span class="implied-delta hike">
-          +49bp
-          (~2.0 인상)
+          +48bp
+          (~1.9 인상)
         </span>
       </div>
     </div>
@@ -2213,10 +2226,10 @@ function closeEvModal() {
         Next: <strong>TBD</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>4.46%</strong>
+        12M 시장: <strong>4.47%</strong>
         <span class="implied-delta hike">
-          +71bp
-          (~2.8 인상)
+          +72bp
+          (~2.9 인상)
         </span>
       </div>
     </div>
@@ -2238,9 +2251,9 @@ function closeEvModal() {
         Next: <strong>TBD</strong>
       </div>
       <div class="cb-implied" title="1Y OIS = 향후 12개월 평균 정책금리 (시장 거래가 기준)">
-        12M 시장: <strong>4.92%</strong>
+        12M 시장: <strong>4.93%</strong>
         <span class="implied-delta hike">
-          +32bp
+          +33bp
           (~1.3 인상)
         </span>
       </div>
@@ -2296,10 +2309,10 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-3.90%            </td>
-            <td class="change-zero">
-+0.00            </td>
-            <td><small style="color:var(--text-dim)">2026-09-28</small></td>
+3.88%            </td>
+            <td class="change-neg">
+-0.02            </td>
+            <td><small style="color:var(--text-dim)">2026-09-29</small></td>
           </tr>
           <tr>
             <td class="name">
@@ -2392,9 +2405,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.35%            </td>
+2.37%            </td>
             <td class="change-pos">
-+0.00            </td>
++0.02            </td>
             <td><small style="color:var(--text-dim)">2026-09-30</small></td>
           </tr>
           <tr>
@@ -2405,7 +2418,7 @@ function closeEvModal() {
             <td class="value-cell">
 3.44%            </td>
             <td class="change-pos">
-+0.01            </td>
++0.02            </td>
             <td><small style="color:var(--text-dim)">2026-09-30</small></td>
           </tr>
           <tr>
@@ -2414,9 +2427,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-1.39%            </td>
+1.41%            </td>
             <td class="change-neg">
--0.03            </td>
+-0.01            </td>
             <td><small style="color:var(--text-dim)">2026-09-30</small></td>
           </tr>
           <tr>
@@ -2425,9 +2438,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-2.20%            </td>
+2.21%            </td>
             <td class="change-neg">
--0.01            </td>
+-0.00            </td>
             <td><small style="color:var(--text-dim)">2026-09-30</small></td>
           </tr>
           <tr>
@@ -2438,7 +2451,7 @@ function closeEvModal() {
             <td class="value-cell">
 2.21%            </td>
             <td class="change-neg">
--0.00            </td>
+-0.01            </td>
             <td><small style="color:var(--text-dim)">2026-09-30</small></td>
           </tr>
           <tr>
@@ -2469,9 +2482,9 @@ function closeEvModal() {
               <span class="freq-badge D">Daily</span>
             </td>
             <td class="value-cell">
-1.95%            </td>
-            <td class="change-pos">
-+0.00            </td>
+1.94%            </td>
+            <td class="change-neg">
+-0.01            </td>
             <td><small style="color:var(--text-dim)">2026-09-30</small></td>
           </tr>
         </tbody>
@@ -2698,7 +2711,7 @@ function closeEvModal() {
               Underlying Core CPI<span class="freq-badge Q">Quarterly</span>
 <small>Core CPI</small>            </td>
             <td>
-              <small style="color:var(--text-dim)">Q3 2026</small>
+              <small style="color:var(--text-dim)">Q4 2026</small>
             </td>
             <td>2.2%</td>
             <td><span class="no-data">—</span></td>
@@ -3428,7 +3441,7 @@ function closeEvModal() {
               Consumer Confidence<span class="freq-badge M">Monthly</span>
 <small>소비자신뢰</small>            </td>
             <td>
-              <small style="color:var(--text-dim)">Sep 2026</small>
+              <small style="color:var(--text-dim)">Oct 2026</small>
             </td>
             <td>42.7</td>
             <td><span class="no-data">—</span></td>
@@ -3705,8 +3718,98 @@ function closeEvModal() {
 <div class="tab-content" id="tab-research">
   <section>
     <h2>📑 Research Feed
-<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-09-30 10:34 UTC</small>    </h2>
+<small style="color:var(--text-dim);font-weight:400;font-size:12px;margin-left:8px">fetched 2026-09-30 22:34 UTC</small>    </h2>
     <div class="research-grid">
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-30 09:53</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1MTI1" target="_blank" rel="noopener">Core PCE Is Revised Even Lower Than Expected</a>        </h3>
+<div class="rs-summary">Core PCE inflation rose 0.25% month over month and 3.01% year over year in August, softer than we'd expected. While still above target, core PCE is now clearly softer than the latest Fed forecasts, which we think will encourage policymakers to "wait and see" before pursuing further hikes.</div>        <div class="rs-tags">
+<span class="rs-tag">U.S. Economics</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Economic Forecast</span><span class="rs-tag">Inflation</span><span class="rs-tag">Central Banks</span><span class="rs-tag">Monetary Policy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-30 05:43</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1MDY4" target="_blank" rel="noopener">Western Europe Aerospace & Defense: EU Spending Hints</a>        </h3>
+<div class="rs-summary">The European Council has identified five "European Defence Projects of Common Interest." We offer our analysis of potential implications in this note, including the observation that traditional defense should continue to dominate spending and air defense seems to be the main priority.</div>        <div class="rs-tags">
+<span class="rs-tag">Aerospace & Defense</span><span class="rs-tag">Geopolitics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-30 05:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0OTg0" target="_blank" rel="noopener">We're Downgrading Moderna to Sell/High Risk</a>        </h3>
+<div class="rs-summary">We’re downgrading Moderna to Sell/High Risk after an outsized run and amid struggles to justify the valuation through public-company comparisons or pipeline net present value. MRNA’s ~$80 billion market cap approximates Regeneron’s despite materially lower expected revenue and earnings.</div>        <div class="rs-tags">
+<span class="rs-tag">Biotechnology</span><span class="rs-tag">Clinical Trials</span><span class="rs-tag">Rating Change</span><span class="rs-tag">Target Price Change</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-30 05:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0OTQ5" target="_blank" rel="noopener">North America Specialty Chemicals: Trimming Coatings Estimates</a>        </h3>
+<div class="rs-summary">Coatings companies have seen relative weakness in September given higher oil prices, rate hikes and continued weakness in housing, autos and Europe. We trim EPS estimates ~2% for the rest of the year and 2027. We see price/cost expansion as likely significant in next year's second half.</div>        <div class="rs-tags">
+<span class="rs-tag">Commodity Chemicals</span><span class="rs-tag">Diversified Chemicals</span><span class="rs-tag">Specialty Chemicals</span><span class="rs-tag">Rating Change</span><span class="rs-tag">Target Price Change</span><span class="rs-tag">Estimate Change</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-30 01:56</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1MDIx" target="_blank" rel="noopener">The Shape of Boeing's Free Cash Flow Steepens</a>        </h3>
+<div class="rs-summary">We're lowering our Boeing free cash flow estimates to account for a steepening ramp over the next several years. As we explore in this note, we expect near-term trading to stay data-driven until we have some degree of resolution on recent certification and labor issues at BA.</div>        <div class="rs-tags">
+<span class="rs-tag">Estimate Change</span><span class="rs-tag">Earnings Preview</span><span class="rs-tag">Aerospace & Defense</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-30 00:00</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0ODg5" target="_blank" rel="noopener">Western Europe Airlines: Legacy Airline Competitive Capacity</a>        </h3>
+<div class="rs-summary">Our competitive overlap analysis for EU legacy airlines shows another month of broad-based cuts to scheduled capacity. While capacity growth remains lower on legacy carriers' networks vs. low-cost carriers, larger cuts for low-cost names show the gap is narrowing.</div>        <div class="rs-tags">
+<span class="rs-tag">Global Travel Spend</span><span class="rs-tag">Airlines</span><span class="rs-tag">Consumer Spending</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-09-30</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/09/30/714272f1-dfcb-4b01-b7e4-8ad150f1123e.html" target="_blank" rel="noopener">Millrose Properties Inc. (MRP): Management Meeting Takeaways</a>        </h3>
+<div class="rs-summary">On September 30th, 2026, we hosted a call with Millrose Properties management including Darren Richman (CEO & President), Rob Nitkin (COO), Garrett Rosenblum (CFO), Brett Herschenfeld (MD & Kennedy Lewis) and Jesse Ross (Head of FP&A).</div>        <div class="rs-tags">
+<span class="rs-tag">REITs</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">GS</span>
+          <span>2026-09-30</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://marquee.gs.com/content/research/en/reports/2026/09/30/adc557a9-569c-4622-b731-868055474c3f.html" target="_blank" rel="noopener">Australia and New Zealand Economics Analyst: RBA Communications: Signal and Noise in the New Regime</a>        </h3>
+<div class="rs-summary">The 2023 Review of the Reserve Bank of Australia (RBA) placed a renewed emphasis on improving how the Bank communicates its policy strategy and decisions. In this note, we employ several natural language processing (NLP)...</div>        <div class="rs-tags">
+<span class="rs-tag">Asia Economics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">JPM</span>
+          <span>2026-09-30</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5466503-0" target="_blank" rel="noopener">September 2026 J.P. Morgan Commercial Real Estate Update</a>        </h3>
+        <div class="rs-tags">
+<span class="rs-tag">Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy</span><span class="rs-tag">REITs & Real Estate Services</span><span class="rs-tag">North America Corporate Credit - REITs, Transportation and Sustainable Investing</span><span class="rs-tag">REITs</span>        </div>
+      </div>
       <div class="research-card">
         <div class="rs-meta">
           <span class="rs-platform">JPM</span>
@@ -3715,7 +3818,57 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5468103-0" target="_blank" rel="noopener">Transition Talks</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Head of Asia Energy & Chemicals | Asia EV Battery</span><span class="rs-tag">APAC Equity Thematic and Sustainable Investing Research</span><span class="rs-tag">India Industrials, Electric Utilities, and Infrastructure Sectors</span><span class="rs-tag">Head of APAC Utilities & Renewables | Sustainable Investing</span>        </div>
+<span class="rs-tag">Head of APAC Utilities & Renewables | Sustainable Investing</span><span class="rs-tag">APAC Equity Thematic and Sustainable Investing Research</span><span class="rs-tag">India Industrials, Electric Utilities, and Infrastructure Sectors</span><span class="rs-tag">Head of Asia Energy & Chemicals | Asia EV Battery</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">JPM</span>
+          <span>2026-09-30</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5468147-0" target="_blank" rel="noopener">U.S. Beverages, Household & Personal Care</a>        </h3>
+        <div class="rs-tags">
+<span class="rs-tag">Beverage, Household & Personal Care Products</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-29 18:43</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0ODA2" target="_blank" rel="noopener">India Economics: El Niño Risks Are Still Unfolding</a>        </h3>
+<div class="rs-summary">India's macro risks are rising as the monsoon nears its end, with rainfall deficits in key agricultural states possibly threatening yields. The focus will shift to tracking elevated daily temperatures as heat-wave risks are heightened during the March-April harvest period.</div>        <div class="rs-tags">
+<span class="rs-tag">Economic Forecast</span><span class="rs-tag">Inflation</span><span class="rs-tag">El Niño</span><span class="rs-tag">India Economics</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-29 17:04</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0OTEw" target="_blank" rel="noopener">What Rising U.S. Yields Mean for Latin America's Borrowing Bill</a>        </h3>
+<div class="rs-summary">We see the recent surge in U.S. long-term yields as a differentiating force across Latin America rather than a uniform headwind, amplifying pre-existing vulnerabilities in higher-debt sovereigns but leaving resilient credits comparatively insulated. We offer further analysis in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Economic Analysis</span><span class="rs-tag">Fiscal Policy</span><span class="rs-tag">Emerging Markets</span><span class="rs-tag">Flagship</span><span class="rs-tag">Latin America Economic Outlook & Strategy</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-29 14:02</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0ODcz" target="_blank" rel="noopener">U.S. Lodging and REITs: Impacts of an Agentic AI World</a>        </h3>
+<div class="rs-summary">We consider the potential impacts of agentic AI on real estate fundamentals, as well as trading/macro considerations given that REITs are generally considered “risk off” vs. the broad market. We offer initial thoughts by sector, while staying humble knowing that the technology is evolving.</div>        <div class="rs-tags">
+<span class="rs-tag">Lodging</span><span class="rs-tag">REITs</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">Citi</span>
+          <span>2026-09-29 13:18</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0ODQ4" target="_blank" rel="noopener">What to Expect from Brazil’s Elections</a>        </h3>
+<div class="rs-summary">Brazil will elect a new president, 27 state governors, two-thirds of the Senate and all the Lower House members on Oct. 4. We see expect monetary policy to be on hold, reduce our GDP growth forecast for next year, and consider further likely impacts of the elections in this note.</div>        <div class="rs-tags">
+<span class="rs-tag">Economic Forecast</span><span class="rs-tag">Economic Analysis</span><span class="rs-tag">Elections</span><span class="rs-tag">Brazil Economics</span><span class="rs-tag">Economic Growth</span><span class="rs-tag">Central Banks</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -3756,6 +3909,16 @@ function closeEvModal() {
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5466703-0" target="_blank" rel="noopener">Restaurants and Foodservice Distribution</a>        </h3>
         <div class="rs-tags">
 <span class="rs-tag">Restaurants</span>        </div>
+      </div>
+      <div class="research-card">
+        <div class="rs-meta">
+          <span class="rs-platform">JPM</span>
+          <span>2026-09-29</span>
+        </div>
+        <h3 class="rs-title">
+<a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5466801-0" target="_blank" rel="noopener">China Equity Strategy</a>        </h3>
+        <div class="rs-tags">
+<span class="rs-tag">Head of Asia and Co-Head of Global Emerging Markets Equity Strategy</span><span class="rs-tag">China & HK Equity strategy</span><span class="rs-tag">Head of China Equity Research and Co-Head of Asia TMT Research</span><span class="rs-tag">Emerging Markets Asia, Economic and Policy Research</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -3995,7 +4158,7 @@ function closeEvModal() {
         <h3 class="rs-title">
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5462914-0" target="_blank" rel="noopener">Transition Talks</a>        </h3>
         <div class="rs-tags">
-<span class="rs-tag">Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates</span><span class="rs-tag">ASEAN Tech Hardware / Technology</span><span class="rs-tag">Head of APAC Utilities & Renewables | Sustainable Investing</span><span class="rs-tag">APAC Equity Thematic and Sustainable Investing Research</span>        </div>
+<span class="rs-tag">Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates</span><span class="rs-tag">Head of APAC Utilities & Renewables | Sustainable Investing</span><span class="rs-tag">ASEAN Tech Hardware / Technology</span><span class="rs-tag">APAC Equity Thematic and Sustainable Investing Research</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4139,16 +4302,6 @@ function closeEvModal() {
       </div>
       <div class="research-card">
         <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-09-23 04:00</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzNjUz" target="_blank" rel="noopener">U.S. Electrical Equipment: Warehouse Automation Survey Takeaways</a>        </h3>
-<div class="rs-summary">Our latest warehouse automation survey points to an encouraging demand/investment backdrop, with respondents indicating accelerating spending growth over the next few years. We see attractive growth potential for warehouse automation-exposed names including ROK, SYM, CGNX and ZBRA.</div>        <div class="rs-tags">
-<span class="rs-tag">Electrical Equipment</span><span class="rs-tag">Automation/Robotics</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
           <span class="rs-platform">GS</span>
           <span>2026-09-23</span>
         </div>
@@ -4176,26 +4329,6 @@ function closeEvModal() {
 <a href="https://markets.jpmorgan.com/research/open?documentId=GPS-5459407-0" target="_blank" rel="noopener">Enterprise Software</a>        </h3>
         <div class="rs-tags">
 <span class="rs-tag">Software - Large Cap / Mid & Small Cap</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-09-22 18:36</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzNjE4" target="_blank" rel="noopener">U.S. High Grade: Fundamentals Wrap-Up</a>        </h3>
-<div class="rs-summary">Our review of second-quarter U.S. investment-grade trends reveals a market that's deleveraging even as it spends aggressively, with the AI buildout driving the dynamic. Margins pushed to highs and cash balances swelled, even as capex/EBITDA climbed to 50.6%. We offer more analysis herein.</div>        <div class="rs-tags">
-<span class="rs-tag">Relative Value</span><span class="rs-tag">Credit Analysis</span><span class="rs-tag">Artificial Intelligence (AI)</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">Citi</span>
-          <span>2026-09-22 17:26</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDYzNjAy" target="_blank" rel="noopener">U.S. Equity Strategy: A Perspective on the Midterm Elections</a>        </h3>
-<div class="rs-summary">Consensus expects the midterm elections to flip the House to Democrats, with a Senate flip possible. We don't expect any outcome to have a meaningful impact on S&P 500 fundamentals over the intermediate term, seeing incremental sector influences as more likely, particularly if Dems sweep.</div>        <div class="rs-tags">
-<span class="rs-tag">Macro Strategy</span><span class="rs-tag">Market Forecasts</span><span class="rs-tag">Elections</span><span class="rs-tag">U.S. Equity Strategy</span><span class="rs-tag">U.S. Election</span>        </div>
       </div>
       <div class="research-card">
         <div class="rs-meta">
@@ -4557,26 +4690,6 @@ function closeEvModal() {
 <div class="rs-summary">SPG reported 2Q26 Real Estate FFO/share of $3.29 (+7.6% y/y), which was -0.6%/+1.9% versus the GS/Visible Alpha Consensus estimates of $3.31/$3.23. SPG raised the midpoint of its FY26 RE FFO/share 57bps, to $13.25 (GS/co...</div>        <div class="rs-tags">
 <span class="rs-tag">REITs</span>        </div>
       </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">GS</span>
-          <span>2026-08-10</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://marquee.gs.com/content/research/en/reports/2026/08/10/5a5db416-7b2c-4e96-adb4-b3afd1f66647.html" target="_blank" rel="noopener">Terreno Realty Corp. (TRNO): Management meeting takeaways and 2Q26 update</a>        </h3>
-<div class="rs-summary">Following the release of TRNO's 10Q on August 5, we hosted a meeting with TRNO management on August 7, 2026. Key topics included tenant demand, geographic market performance, acquisition opportunities, supply, and funding.</div>        <div class="rs-tags">
-<span class="rs-tag">REITs</span>        </div>
-      </div>
-      <div class="research-card">
-        <div class="rs-meta">
-          <span class="rs-platform">GS</span>
-          <span>2026-08-10</span>
-        </div>
-        <h3 class="rs-title">
-<a href="https://marquee.gs.com/content/research/en/reports/2026/08/10/64cc5e29-bd23-4edc-9be4-7ed5ee86f47b.html" target="_blank" rel="noopener">BXP Inc. (BXP): 2Q26 Update: Strong leasing points to FFO growth but AFFO headwinds in future quarters</a>        </h3>
-<div class="rs-summary">Following 2Q26 earnings, we update our BXP model and price target, and highlight key takeaways from the earnings call.</div>        <div class="rs-tags">
-<span class="rs-tag">REITs</span>        </div>
-      </div>
     </div>
   </section>
 </div><!-- /tab-research -->
@@ -4593,7 +4706,7 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 
 <footer>
   Data: Bloomberg &middot; FRED &middot; Central Bank official calendars &middot; Citi Velocity<br>
-  Updated 2026-09-30 19:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
+  Updated 2026-10-01 07:34 KST &middot; Internal use &mdash; IGIS Alternative Securities Investment Team
 </footer>
 
 </div>
