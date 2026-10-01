@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-30T22:34:42.735557+00:00",
-  "window_start": "2026-09-23",
-  "window_end": "2026-10-28",
+  "fetched_at": "2026-10-01T03:56:27.780630+00:00",
+  "window_start": "2026-09-24",
+  "window_end": "2026-10-29",
   "source": "schedule.yml",
   "events": [
     {
@@ -24,6 +24,20 @@
       "indicator_id": "boc",
       "time_kst": "22:45",
       "note": ""
+    },
+    {
+      "date": "2026-10-29",
+      "country": "US",
+      "indicator_id": "fomc",
+      "time_kst": "03:00",
+      "note": ""
+    },
+    {
+      "date": "2026-10-29",
+      "country": "EU",
+      "indicator_id": "ecb",
+      "time_kst": "22:15",
+      "note": "CET (DST 종료 후)"
     }
   ]
 }
