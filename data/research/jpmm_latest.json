@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T22:34:17.641285+00:00",
+  "fetched_at": "2026-10-01T10:34:19.829876+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -84,10 +84,10 @@
         }
       ],
       "tags": [
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "ASEAN Tech Hardware / Technology",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
       ],
       "publish_time": "2026-09-25"
     },
@@ -122,35 +122,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5452260-0",
-      "publication_id": "KAL-1-2NUMTNER",
-      "title": "2026 Fall Series Presentation",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5452260-0",
-      "authors": [
-        {
-          "name": "Mark Strouse, CFA",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "mark.w.strouse@jpmorgan.com"
-        },
-        {
-          "name": "Michael G Fairbanks",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "michael.fairbanks@jpmchase.com"
-        },
-        {
-          "name": "Anna Zhu",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "anna.zhu@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
-      ],
-      "publish_time": "2026-09-17"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5464875-0",
       "publication_id": "KAL-1-ON532O5Z",
       "title": "Hardware & Networking",
@@ -177,40 +148,6 @@
         "IT Hardware/ Telecom & Networking Equipment"
       ],
       "publish_time": "2026-09-28"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5452155-0",
-      "publication_id": "KAL-1-8I8OHU7V",
-      "title": "J.P. Morgan 2026 Fall Series",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5452155-0",
-      "authors": [
-        {
-          "name": "Harlan Sur",
-          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
-          "email": "harlan.sur@jpmorgan.com"
-        },
-        {
-          "name": "Mayur Ramdhani",
-          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
-          "email": "mayur.ramdhani@jpmorgan.com"
-        },
-        {
-          "name": "Apoorva Kumar",
-          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
-          "email": "apoorva.kumar@jpmorgan.com"
-        },
-        {
-          "name": "Akanksh Chauhan",
-          "team": "Semiconductors & Semiconductor Capital Equipment / IT Hardware",
-          "email": "akanksh.chauhan@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Semiconductors & Semiconductor Capital Equipment / IT Hardware"
-      ],
-      "publish_time": "2026-09-17"
     },
     {
       "platform": "JPM",
@@ -266,10 +203,10 @@
         }
       ],
       "tags": [
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs & Real Estate Services",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs"
+        "REITs & Real Estate Services",
+        "REITs",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
       ],
       "publish_time": "2026-09-30"
     },
@@ -338,9 +275,9 @@
       ],
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Emerging Markets Asia, Economic and Policy Research"
+        "Emerging Markets Asia, Economic and Policy Research",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-29"
     },
@@ -374,9 +311,9 @@
         }
       ],
       "tags": [
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-09-30"
