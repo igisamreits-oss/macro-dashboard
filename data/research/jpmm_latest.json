@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T22:34:38.361070+00:00",
+  "fetched_at": "2026-10-02T10:34:16.200691+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -84,8 +84,8 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
         "ASEAN Tech Hardware / Technology",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
         "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
@@ -203,41 +203,12 @@
         }
       ],
       "tags": [
-        "REITs",
         "REITs & Real Estate Services",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
+        "REITs"
       ],
       "publish_time": "2026-09-30"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5454015-0",
-      "publication_id": "KAL-1-MUOKB8S1",
-      "title": "Small Dollar Loans",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5454015-0",
-      "authors": [
-        {
-          "name": "Tien-tsin Huang, CFA",
-          "team": "Payments, Processors & IT Services",
-          "email": "tien-tsin.huang@jpmorgan.com"
-        },
-        {
-          "name": "Connor Allen",
-          "team": "Payments, Processors & IT Services",
-          "email": "connor.allen@jpmorgan.com"
-        },
-        {
-          "name": "Charles Pearce, CFA",
-          "team": "Payments, Processors & IT Services",
-          "email": "charles.pearce@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Payments, Processors & IT Services"
-      ],
-      "publish_time": "2026-09-18"
     },
     {
       "platform": "JPM",
@@ -275,9 +246,9 @@
       ],
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy",
         "Emerging Markets Asia, Economic and Policy Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-29"
     },
@@ -311,9 +282,9 @@
         }
       ],
       "tags": [
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-09-30"
