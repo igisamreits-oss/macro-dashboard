@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-01T22:35:09.990157+00:00",
-  "window_start": "2026-09-24",
-  "window_end": "2026-10-29",
+  "fetched_at": "2026-10-02T03:53:38.335505+00:00",
+  "window_start": "2026-09-25",
+  "window_end": "2026-10-30",
   "source": "schedule.yml",
   "events": [
     {
@@ -38,6 +38,13 @@
       "indicator_id": "ecb",
       "time_kst": "22:15",
       "note": "CET (DST 종료 후)"
+    },
+    {
+      "date": "2026-10-30",
+      "country": "JP",
+      "indicator_id": "boj",
+      "time_kst": "12:00",
+      "note": ""
     }
   ]
 }
