@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T10:34:16.200691+00:00",
+  "fetched_at": "2026-10-02T22:34:06.749954+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -84,10 +84,10 @@
         }
       ],
       "tags": [
-        "ASEAN Tech Hardware / Technology",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "ASEAN Tech Hardware / Technology",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
       ],
       "publish_time": "2026-09-25"
     },
@@ -122,6 +122,30 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5468715-0",
+      "publication_id": "GPS-5473045-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5468715-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-10-02"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5464875-0",
       "publication_id": "KAL-1-ON532O5Z",
       "title": "Hardware & Networking",
@@ -148,30 +172,6 @@
         "IT Hardware/ Telecom & Networking Equipment"
       ],
       "publish_time": "2026-09-28"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5447615-0",
-      "publication_id": "GPS-5455188-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5447615-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-09-18"
     },
     {
       "platform": "JPM",
@@ -203,12 +203,48 @@
         }
       ],
       "tags": [
-        "REITs & Real Estate Services",
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "REITs",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs"
+        "REITs & Real Estate Services",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
       ],
       "publish_time": "2026-09-30"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5472206-0",
+      "publication_id": "GPS-5473573-0",
+      "title": "North American Midstream",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5472206-0",
+      "authors": [
+        {
+          "name": "Jeremy Tonet, CFA",
+          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+          "email": "jeremy.b.tonet@jpmorgan.com"
+        },
+        {
+          "name": "Vrathan Reddy",
+          "team": "Utilities and Midstream",
+          "email": "vrathan.reddy@jpmchase.com"
+        },
+        {
+          "name": "Eli Jossen, CFA",
+          "team": "Utilities and Midstream",
+          "email": "eli.jossen@jpmchase.com"
+        },
+        {
+          "name": "Francina Kolluri",
+          "team": "Utilities, Midstream, LNG, and Nuclear",
+          "email": "francina.kolluri@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+      ],
+      "publish_time": "2026-10-02"
     },
     {
       "platform": "JPM",
@@ -245,10 +281,10 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Emerging Markets Asia, Economic and Policy Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-29"
     },
@@ -282,9 +318,9 @@
         }
       ],
       "tags": [
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-09-30"
