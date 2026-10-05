@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T03:52:43.067067+00:00",
+  "fetched_at": "2026-10-05T13:08:39.667018+00:00",
   "indicators": {
     "us_cpi_yoy": {
       "actual": 3.4,
@@ -35,7 +35,7 @@
       "rate": 4.0,
       "next_meeting": null,
       "consensus_rate": null,
-      "as_of": "2026-10-04",
+      "as_of": "2026-10-05",
       "source": "fred"
     }
   }
