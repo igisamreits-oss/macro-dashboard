@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T13:08:12.726547+00:00",
+  "fetched_at": "2026-10-06T10:34:24.182100+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -56,6 +56,40 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5469964-0",
+      "publication_id": "KAL-1-34KJ13OY",
+      "title": "Medical Devices",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5469964-0",
+      "authors": [
+        {
+          "name": "Robbie Marcus, CFA",
+          "team": "Medical Supplies & Devices",
+          "email": "robert.j.marcus@jpmorgan.com"
+        },
+        {
+          "name": "Allen Gong",
+          "team": "Medical Supplies & Devices",
+          "email": "allen.gong@jpmorgan.com"
+        },
+        {
+          "name": "Lilia-Celine B Lozada",
+          "team": "Medical Supplies & Devices",
+          "email": "lilia-celine.b.lozada@jpmchase.com"
+        },
+        {
+          "name": "Henry Householter",
+          "team": "Medical Supplies & Devices",
+          "email": "henry.householter@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Medical Supplies & Devices"
+      ],
+      "publish_time": "2026-10-05"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5462914-0",
       "publication_id": "GPS-5463646-0",
       "title": "Transition Talks",
@@ -84,10 +118,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "ASEAN Tech Hardware / Technology",
         "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "ASEAN Tech Hardware / Technology"
       ],
       "publish_time": "2026-09-25"
     },
@@ -203,10 +237,10 @@
         }
       ],
       "tags": [
-        "REITs & Real Estate Services",
-        "REITs",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs & Real Estate Services",
+        "REITs"
       ],
       "publish_time": "2026-09-30"
     },
@@ -248,6 +282,72 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5474786-0",
+      "publication_id": "GPS-5476905-0",
+      "title": "Transition Talks",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474786-0",
+      "authors": [
+        {
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        },
+        {
+          "name": "Lyndon Fagan",
+          "team": "Head of Australia Metals & Mining",
+          "email": "lyndon.fagan@jpmorgan.com"
+        },
+        {
+          "name": "Avery Chan",
+          "team": "Asia Basic Materials",
+          "email": "avery.chan@jpmorgan.com"
+        },
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Asia Basic Materials",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Head of Australia Metals & Mining",
+        "APAC Equity Thematic and Sustainable Investing Research"
+      ],
+      "publish_time": "2026-10-06"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5466164-0",
+      "publication_id": "GPS-5475859-0",
+      "title": "Transportation & Logistics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5466164-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-10-05"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5466801-0",
       "publication_id": "CFP-PC-11816-0",
       "title": "China Equity Strategy",
@@ -281,10 +381,10 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Emerging Markets Asia, Economic and Policy Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Emerging Markets Asia, Economic and Policy Research",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-29"
     },
@@ -319,9 +419,9 @@
       ],
       "tags": [
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-09-30"
     },
