@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-05T13:08:39.758273+00:00",
-  "window_start": "2026-09-28",
-  "window_end": "2026-11-02",
+  "fetched_at": "2026-10-06T04:40:42.534297+00:00",
+  "window_start": "2026-09-29",
+  "window_end": "2026-11-03",
   "source": "schedule.yml",
   "events": [
     {
@@ -45,6 +45,13 @@
       "indicator_id": "boj",
       "time_kst": "12:00",
       "note": ""
+    },
+    {
+      "date": "2026-11-03",
+      "country": "AU",
+      "indicator_id": "rba",
+      "time_kst": "12:30",
+      "note": "AEDT"
     }
   ]
 }
