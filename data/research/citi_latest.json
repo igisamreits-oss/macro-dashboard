@@ -1,6 +1,126 @@
 {
-  "fetched_at": "2026-10-06T10:32:22.334025+00:00",
+  "fetched_at": "2026-10-06T22:32:16.090396+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30466412",
+      "title": "U.S. Equity Market Outlook: It Takes a Village",
+      "summary": "The S&P 500 is touching new highs. We've been consistently of the view that the path to our year-end 8100 base-case target will require both the AI-influenced and more macro-impacted halves of the market to participate. A quick look at cluster performance helps show how this would happen.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2NDEy",
+      "tags": [
+        "Off the Cuff",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-10-06 13:56",
+      "thumbnail": "https://ir.citi.com/ZvjDwzViOUc8EHBWRm-ZWzIsq9I95Pkoguwxy38dfkuHA83cGSXjgeC1US100V78pgronipXCBe8zhZCLoJEdQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466213",
+      "title": "North America Internet: The Muse Moment",
+      "summary": "We think Muse could generate more than $27 billion in revenue at scale, reshaping how we search and shop as personal agents become always-on habits. We include thoughts from equity analysts about potential impacts on sectors ranging from AI and semis to homebuilders and utilities.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjEz",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Internet-Driven Business Models",
+        "Premium Product",
+        "Super-Sector Analysis"
+      ],
+      "publish_time": "2026-10-06 07:15",
+      "thumbnail": "https://ir.citi.com/nZf2zFuU8gcJWfHjQrabhqpz3FfdOhMENISmq7JXwxE9GfMAzcgzH2yV5RBTaU1yecHpI_3XySP90FgIZw85Kw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466200",
+      "title": "U.S. Semiconductors: The Implications of Personal Agents",
+      "summary": "Given recent personal-agent launches, we now estimate 2030's CPU total addressable market at $300 billion. Always-on agents will significantly increase inference-related compute, memory and networking consumption. We raise our target price for AMD to $800 as a primary beneficiary.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjAw",
+      "tags": [
+        "Semiconductors",
+        "Target Price Change",
+        "Estimate Change",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-10-06 05:00",
+      "thumbnail": "https://ir.citi.com/326GzUx7g7zda5s9cBiID0BiwLFtwjlOnoPjIkjbVSIk9WfZZ4kQDWG3M6x_3WHMXqFAnTQSJJ7qERh32aLTSw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466192",
+      "title": "U.S. Airlines: Third-Quarter Preview",
+      "summary": "As we approach earnings season for U.S. airlines, we're upgrading JBLU to Neutral/High Risk given its significant share-price decline since our August downgrade to Sell/High Risk. We're also issuing a positive catalyst watch on ALGT. We offer further analysis and revisions in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MTky",
+      "tags": [
+        "Aerospace & Defense",
+        "Airlines",
+        "Estimate Change",
+        "Catalyst Watch",
+        "Rating Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-10-06 05:05",
+      "thumbnail": "https://ir.citi.com/r1h8jwiF4EH1Q_kjwSUJQ_Z5j0JUMYG8_oBc4OvJkw3o7o5Az-LJgrH-IB7Hyz5A9hhMEr8w1lCXGuRgUJyZHA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466222",
+      "title": "U.S. Application Software: Bus Tour Takeaways, Day 1",
+      "summary": "We hosted investor meetings with ADBE, ADSK, GWRE, CRM and ZM and found these companies largely consistent in discussing demand patterns, with recurring themes around adapting product/packaging for AI. We offer company-by-company takeaways from these discussions in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjIy",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Application Software",
+        "Corporate Events/Special Situations"
+      ],
+      "publish_time": "2026-10-06 03:40",
+      "thumbnail": "https://ir.citi.com/59PXnys44Pr2bcC7ga2HgnhSiwJwegPJA39VwHateqK6LjVf0XB7DipKQzaSop3bIWdMpXXLJDRkgUIdlgQtig%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30464456",
+      "title": "Japan Chemicals: Semi-Materials Markets Look Primed for Growth",
+      "summary": "Japanese firms are highly competitive in semi-materials markets, with hyperscalers looking to ensure stable procurement. As we note in this Deep Dive, volume growth in semi-materials markets could accelerate and supply/demand is tightening, adding to momentum for raising prices.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NDU2",
+      "tags": [
+        "Specialty Chemicals",
+        "Chemicals",
+        "Deep Dive",
+        "Semiconductor Materials",
+        "Semiconductors",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-10-06 03:02",
+      "thumbnail": "https://ir.citi.com/6Wwf0DwuBFufSrfnTkFnhTKlbZW7yYHO8v26L4Dh70G0DoFmPFXkW7KscpegFd_Q64kVUXzs0mfqtcqVasHwEw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466171",
+      "title": "Implications of Spain's Snap Elections",
+      "summary": "Spain will hold early elections at the end of November, with polls suggesting a right-of-center alliance led by the conservative PP will take the helm. If so, we'd expect a continuation of Spain's cautious fiscal approach and a pro-European stance. We consider further implications herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MTcx",
+      "tags": [
+        "Fiscal Policy",
+        "Elections"
+      ],
+      "publish_time": "2026-10-06 02:12",
+      "thumbnail": "https://ir.citi.com/wt1s4HTPz_Kof_o7LkRoDKWaANCKG7c_tnq43mJVSq-aWS0-QZ-3U42VWOst-ajnHX9Ff6hT725zhMb1XosGKQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466204",
+      "title": "Australia Economics: A Plunge in Consumer Sentiment",
+      "summary": "Australian consumer sentiment plunged to 80.4 in October, driven by persistent cost-of-living pressures compounded by rising interest rates. The lone bright spot? Job vacancies rose to a two-year high of 122, consistent with positive employment growth signals from business sentiment.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjA0",
+      "tags": [
+        "Inflation",
+        "Monetary Policy",
+        "Consumer Spending",
+        "Australia Economics",
+        "Labor Market"
+      ],
+      "publish_time": "2026-10-05 21:52",
+      "thumbnail": "https://ir.citi.com/ertY_2hKegubL4QS8xOcflSEUGfuLWU3WKGKCKN7T8UJohWpElwa4XG8CjNfn1X-cD4ZslRuNeH6Jb6MHBVcJA%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30465834",
@@ -517,96 +637,6 @@
       ],
       "publish_time": "2026-09-29 18:43",
       "thumbnail": "https://ir.citi.com/wo6_ZOsXIrsvIGARh35FFkp--9hzZJGGDrLeW_hm6wCMoVr9vZw5xMFb6QE6RDSIzffsxizIJDgAp9fQTp_n4w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464744",
-      "title": "Australia Raises Rates, With Further Hikes Expected",
-      "summary": "Australia delivered a fourth 25-basis-point hike this year in a unanimous and decidedly hawkish decision that came despite an easing in housing activity, signaling a clear focus on inflation over the labor market. We see November as the sweet spot for another 25-bp hike.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NzQ0",
-      "tags": [
-        "Inflation",
-        "Labor Market",
-        "Monetary Policy",
-        "Australia Economics",
-        "Central Banks",
-        "Economic Analysis"
-      ],
-      "publish_time": "2026-09-29 02:52",
-      "thumbnail": "https://ir.citi.com/BGJNKD57bLlmPEJclfL3aKCuSbuUKlEA3FEA2nlXgkN6H9l3GoSNY3eOY_kspY-7islTXf1WFmpI9EI670Ycwg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464670",
-      "title": "Why Aren't U.S. Utilities Building Large Nuclear Plants?",
-      "summary": "We're often asked why U.S. utilities aren't building large nuclear plants and believe announcing such a project would hurt share prices. The answer is a combination of risks, including construction cost overruns, data-center politics, wariness of \"big bets\" and not wanting to go first.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0Njcw",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Infrastructure Investment",
-        "Electric Utilities"
-      ],
-      "publish_time": "2026-09-28 18:38",
-      "thumbnail": "https://ir.citi.com/iifnN4H5GP4taIpl5hl7b_6UF4hwPDyEUmte5xP6Ag187L-ivd_ttEngygsvrISd3e90wu5MhMDOl03jOXRGpw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464809",
-      "title": "China Economics: A Coordinated Fiscal-Monetary  Push",
-      "summary": "The People's Bank of China announced a cut to the PSL rate, expanding its usage and relending tools, and the long-awaited mortgage interest subsidy program was also confirmed. The policy focus is likely to remain on investment this year, with a pivot toward domestic demand yet to emerge.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0ODA5",
-      "tags": [
-        "China Economics",
-        "Fiscal Policy",
-        "Central Banks",
-        "Monetary Policy",
-        "Economic Analysis",
-        "Economic Forecast"
-      ],
-      "publish_time": "2026-09-29 08:58",
-      "thumbnail": "https://ir.citi.com/Oq44AN4YA8VbwD-i4fYRGFR2MkOFxwg6ZyVZfybjqEkHlAliNNEtMAc1rnrfe1LfxxJ9GViMfSKB6tS1BVDmYg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464448",
-      "title": "Saudi Arabia Economics: A Look Back, a Look Ahead",
-      "summary": "We take stock of the first half of the year for Saudi Arabia and look ahead. The economy has tipped into recession, with second-quarter GDP contracting 4.8% quarter on quarter. Looking ahead, we consider three scenarios and discuss implications for the country's macro outlook.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NDQ4",
-      "tags": [
-        "Saudi Arabia Economics",
-        "Economic Growth",
-        "Geopolitics",
-        "Economic Analysis"
-      ],
-      "publish_time": "2026-09-28 05:00",
-      "thumbnail": "https://ir.citi.com/NPehy2CwCSvv2HJJg4vkn-e3bHNbNv-ESRxTeq3xPlDkR6QqkqgW6sAJuVm8829PEMjIHuEcV_YUR8EfbEImQw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464654",
-      "title": "Equity Markets Positioning Model: A Polarized Landscape",
-      "summary": "The dominant positioning story remains one of increasing concentration and not broad-based risk taking. Across U.S. indices, risk flows continue to skew toward large caps while small caps remain heavily bearish, leaving positioning increasingly one-sided. We offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NjU0",
-      "tags": [
-        "Equities Markets Positioning Model",
-        "Model Portfolio"
-      ],
-      "publish_time": "2026-09-28 17:46",
-      "thumbnail": "https://ir.citi.com/lghMtGNwebECLdAqulxVEYpkZjjQqxvPvTyNY35SB0_hWbVFtokVaXJLC96SJ5ZceTl5Rr_lp6M4kvmW8nkH-g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464265",
-      "title": "Global Commodities: Fourth-Quarter Outlook",
-      "summary": "Our fourth-quarter commodities outlook includes an in-depth look at the global diesel market. A normalization of Strait of Hormuz flows by year's end would create a bullish environment for metals. We see upside risks for agricultural prices given ongoing and potential supply shocks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0MjY1",
-      "tags": [
-        "Commodities Strategy",
-        "Geopolitics",
-        "Flagship"
-      ],
-      "publish_time": "2026-09-28 09:13",
-      "thumbnail": "https://ir.citi.com/ViyHmw56QDtgmA8UfjuALz0aRNGf15_K5HPju_70y4yKYcAEYfdQaA4fl8vIsL82mgwPg2hCAaqMZArK7OF04w%3D%3D"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T10:34:24.182100+00:00",
+  "fetched_at": "2026-10-06T22:34:16.405583+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -118,10 +118,10 @@
         }
       ],
       "tags": [
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "ASEAN Tech Hardware / Technology"
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
+        "ASEAN Tech Hardware / Technology",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-25"
     },
@@ -177,6 +177,143 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-10-02"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5474144-0",
+      "publication_id": "KAL-1-YE83NEIF",
+      "title": "PTC Inc",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474144-0",
+      "authors": [
+        {
+          "name": "Alexei Gogolev",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "alexei.gogolev@jpmorgan.com"
+        },
+        {
+          "name": "Ella Smith",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "ella.smith@jpmchase.com"
+        },
+        {
+          "name": "Destiny Jackson",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "destiny.jackson@jpmorgan.com"
+        },
+        {
+          "name": "Isabella A Camaj",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "bella.camaj@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Vertical SaaS & HealthTech"
+      ],
+      "publish_time": "2026-10-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5474399-0",
+      "publication_id": "KAL-1-YE83NEIF",
+      "title": "Schneider Electric",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474399-0",
+      "authors": [
+        {
+          "name": "Phil Buller",
+          "team": "European Capital Goods",
+          "email": "phil.buller@jpmorgan.com"
+        },
+        {
+          "name": "Akash Gupta",
+          "team": "European Capital Goods",
+          "email": "akash.z.gupta@jpmorgan.com"
+        },
+        {
+          "name": "Chitrita C Sinha",
+          "team": "European Capital Goods",
+          "email": "chitrita.sinha@jpmorgan.com"
+        },
+        {
+          "name": "Jeremy Caspar",
+          "team": "European Capital Goods",
+          "email": "jeremy.caspar@jpmorgan.com"
+        },
+        {
+          "name": "Mariana Andrade",
+          "team": "European Capital Goods",
+          "email": "mariana.andrade@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "European Capital Goods"
+      ],
+      "publish_time": "2026-10-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5475401-0",
+      "publication_id": "KAL-1-YE83NEIF",
+      "title": "PTC Inc",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475401-0",
+      "authors": [
+        {
+          "name": "Alexei Gogolev",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "alexei.gogolev@jpmorgan.com"
+        },
+        {
+          "name": "Ella Smith",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "ella.smith@jpmchase.com"
+        },
+        {
+          "name": "Destiny Jackson",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "destiny.jackson@jpmorgan.com"
+        },
+        {
+          "name": "Isabella A Camaj",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "bella.camaj@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Vertical SaaS & HealthTech"
+      ],
+      "publish_time": "2026-10-05"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5475411-0",
+      "publication_id": "KAL-1-8J9SSWO5",
+      "title": "2026 Software Forum Takeaways",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475411-0",
+      "authors": [
+        {
+          "name": "Brian Essex, CFA",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "brian.essex@jpmchase.com"
+        },
+        {
+          "name": "Samik Chatterjee, CFA",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "samik.x.chatterjee@jpmorgan.com"
+        },
+        {
+          "name": "Alexei Gogolev",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "alexei.gogolev@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Vertical SaaS & HealthTech",
+        "Software - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-10-06"
     },
     {
       "platform": "JPM",
@@ -237,10 +374,10 @@
         }
       ],
       "tags": [
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "REITs & Real Estate Services",
-        "REITs"
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "REITs",
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
       ],
       "publish_time": "2026-09-30"
     },
@@ -310,10 +447,10 @@
         }
       ],
       "tags": [
-        "Asia Basic Materials",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Australia Metals & Mining",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Asia Basic Materials",
+        "Head of Australia Metals & Mining"
       ],
       "publish_time": "2026-10-06"
     },
@@ -381,10 +518,10 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Emerging Markets Asia, Economic and Policy Research",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-09-29"
     },
@@ -418,10 +555,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of Asia Energy & Chemicals | Asia EV Battery"
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-30"
     },
