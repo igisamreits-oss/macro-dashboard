@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T22:34:16.405583+00:00",
+  "fetched_at": "2026-10-07T10:34:17.292245+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -118,41 +118,12 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
         "ASEAN Tech Hardware / Technology",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
       ],
       "publish_time": "2026-09-25"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5459407-0",
-      "publication_id": "KAL-1-FYR67HWN",
-      "title": "Enterprise Software",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5459407-0",
-      "authors": [
-        {
-          "name": "Samik Chatterjee, CFA",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "samik.x.chatterjee@jpmorgan.com"
-        },
-        {
-          "name": "Jaiden R Patel",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "jaiden.patel@jpmchase.com"
-        },
-        {
-          "name": "Mashu Nishi",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "mashu.nishi@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Software - Large Cap / Mid & Small Cap"
-      ],
-      "publish_time": "2026-09-23"
     },
     {
       "platform": "JPM",
@@ -310,8 +281,8 @@
         }
       ],
       "tags": [
-        "Vertical SaaS & HealthTech",
-        "Software - Large Cap / Mid & Small Cap"
+        "Software - Large Cap / Mid & Small Cap",
+        "Vertical SaaS & HealthTech"
       ],
       "publish_time": "2026-10-06"
     },
@@ -374,9 +345,9 @@
         }
       ],
       "tags": [
-        "REITs & Real Estate Services",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
         "REITs",
+        "REITs & Real Estate Services",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
       ],
       "publish_time": "2026-09-30"
@@ -447,9 +418,9 @@
         }
       ],
       "tags": [
+        "Asia Basic Materials",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Asia Basic Materials",
         "Head of Australia Metals & Mining"
       ],
       "publish_time": "2026-10-06"
@@ -519,9 +490,9 @@
       ],
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Emerging Markets Asia, Economic and Policy Research",
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-29"
     },
@@ -556,9 +527,9 @@
       ],
       "tags": [
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-09-30"
     },
