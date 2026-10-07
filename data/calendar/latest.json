@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-07T10:34:51.772208+00:00",
-  "window_start": "2026-09-30",
-  "window_end": "2026-11-04",
+  "fetched_at": "2026-10-07T22:31:19.298518+00:00",
+  "window_start": "2026-10-01",
+  "window_end": "2026-11-05",
   "source": "schedule.yml",
   "events": [
     {
@@ -45,6 +45,13 @@
       "indicator_id": "rba",
       "time_kst": "12:30",
       "note": "AEDT"
+    },
+    {
+      "date": "2026-11-05",
+      "country": "UK",
+      "indicator_id": "boe",
+      "time_kst": "21:00",
+      "note": "GMT"
     }
   ]
 }
