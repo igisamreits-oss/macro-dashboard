@@ -1,6 +1,135 @@
 {
-  "fetched_at": "2026-10-08T10:32:12.422776+00:00",
+  "fetched_at": "2026-10-08T22:32:09.920468+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30466664",
+      "title": "European Brokers & Asset Managers: 3Q26 Preview, EMG Upgrade to Buy",
+      "summary": "European traditional managers’ flows remained healthy in 3Q26, with ex-money market net inflows tracking at more than 4% annualized and broadly stable versus recent quarters. We upgrade EMG to Buy, reflecting improving fundamentals and significant earnings upside potential.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2NjY0",
+      "tags": [],
+      "publish_time": "2026-10-08 00:00",
+      "thumbnail": "https://ir.citi.com/hxnVziCdUxxZuaAiHK6J3wOXuNRXPVWGflqygigaScvhXa2vSwzGpAarAy2UdmOhTrQ-jBEDN7iamONcPMVYaQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466876",
+      "title": "Visa and MasterCard: 3Q26 Preview",
+      "summary": "We expect another healthy quarter from V and MA, supported by resilient consumer spending, improving cross-border trends, and continued strength in value-added services. Given strong outlooks and attractive valuations, we reiterate our Buy ratings on V/MA with target prices of $440/$675.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2ODc2",
+      "tags": [
+        "FinTech Infrastructure",
+        "FinTech",
+        "Earning Preview"
+      ],
+      "publish_time": "2026-10-08 03:51",
+      "thumbnail": "https://ir.citi.com/qGoK52kt20tR3nTaxIstn1QC4nhjFF9xQNGwdtyo2LBZvXlXQ1Ro9Tz0t-7cCkJHKri4jKEE5pTXwGNLPbAxfQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466205",
+      "title": "Global Battery Chain: A More Balanced Landscape",
+      "summary": "We witnessed the battery price cycle inflection in 2025. Looking ahead as battery capacity catches up, we are not as bearish as the market fears. We see a more balanced supply-demand landscape and expect opportunities to be increasingly value-based and company-specific.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjA1",
+      "tags": [
+        "Auto Parts & Equipment",
+        "Commodity Chemicals",
+        "Diversified Metals & Mining",
+        "Electrical Equipment",
+        "Electronic Components & Equipment",
+        "Specialty Chemicals",
+        "Target Price Change",
+        "Estimate Change",
+        "Super-Sector Analysis"
+      ],
+      "publish_time": "2026-10-07 09:20",
+      "thumbnail": "https://ir.citi.com/o_sPW8JUDoP7hBjjauidMpKmsNJWJrrD5eUuthcjybpmcovAkQeuhXZH-Ybv41COlGpW-xx7ub15Msd-ymotEA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466849",
+      "title": "U.S. Semiconductors and Equipment: 3Q26 Preview",
+      "summary": "The semiconductor industry remains firmly in Phase 2 of our playbook, supported by robust data center demand and recovery in auto and industrial markets. While the backdrop remains constructive, estimate revision momentum slowed in 2Q and we are becoming increasingly selective.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2ODQ5",
+      "tags": [
+        "Semiconductors",
+        "Semiconductor Equipment",
+        "Earnings Preview",
+        "Rating Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-10-08 04:00",
+      "thumbnail": "https://ir.citi.com/K15GhjZCNZHu7JsbNOxUJgD2JYRHGczuTAtUiFLjWXuD2tpyu7uVxnQN7EHd4pn4LCSCTZ8eukOJ0Qa-3b4OUQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466879",
+      "title": "U.S. Communications Equipment: 3Q26 Preview",
+      "summary": "We remain broadly constructive on networking stocks based on our multi-year AI infrastructure playbook. Our top three Buy-rated picks are ANET, LITE, and KEYS, with rankings influenced by constrained supply — especially silicon and lasers — and impact to the overall gross margins mix.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2ODc5",
+      "tags": [
+        "Communications Equipment",
+        "Electronic Components & Equipment",
+        "Earnings Preview",
+        "Target Price Change",
+        "Estimate Change"
+      ],
+      "publish_time": "2026-10-08 05:00",
+      "thumbnail": "https://ir.citi.com/wuofnuZnpJ8GuDY_o7zuT4yclZNM2eP3QEK3vXJLZRqARQGLsb3MhyIT1kVeklL0bZj5-UxXPkeusBxWVbDBTA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466799",
+      "title": "U.S. Components, Hardware & Storage: 3Q26 Preview",
+      "summary": "AI demand and capex remain key drivers of robust demand and backlog across our coverage, with visibility supported by long-term contracts. We remain most bullish on connectivity component names as the growth story broadens beyond IT datacom and becomes increasingly content-driven.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2Nzk5",
+      "tags": [
+        "Connectors & Other Components",
+        "Electronic Components & Equipment",
+        "Hardware & Storage"
+      ],
+      "publish_time": "2026-10-08 05:00",
+      "thumbnail": "https://ir.citi.com/MpfAi3qJsR5qXixQJjGTQvpK_9CfOdqOeT0AK7HFTQCp1PR5kBlBZlLL5CfzrdBVETH5vhQxEaM5l38kknqbMQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466825",
+      "title": "More Oil Flowing out of Mideast, but at High Logistical Cost",
+      "summary": "ICE Brent prices have eased as Middle Eastern oil exports have risen to close to pre-conflict levels. However, higher exports and lower Saudi OSPs are coming alongside very expensive, less efficient logistics, reflected in high freight rates and widening crude oil benchmark differentials.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2ODI1",
+      "tags": [
+        "Commodities Strategy"
+      ],
+      "publish_time": "2026-10-07 20:46",
+      "thumbnail": "https://ir.citi.com/bQ8dbjuKhFGrESLooe1ZWr_5nfOPbTTIdH-WNf_OuWJs0sc54tSBsgP9HWOLftrP-EleFfVTJeqcpgAUE0SPcA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466800",
+      "title": "U.S. Economics: No Urgency in FOMC Minutes",
+      "summary": "Fed officials unanimously agreed to raise rates 25bp in September, but the minutes suggest there is no urgency to raise rates further. With core PCE expected to remain cool, we project the Fed leaving policy rates unchanged into 2027 before cuts begin in June 2027.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2ODAw",
+      "tags": [
+        "Central Banks",
+        "Economic Analysis",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-10-07 15:45",
+      "thumbnail": "https://ir.citi.com/7xHr48clPMy0zNQQhAhggXjsMyRxMnCMCtq17CkHY8Quv5kvNP_ltKKzLiLzjCjaWCDHqqKeGleUdmA7oslyVQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30466721",
+      "title": "Greece: More Rating Upgrades in the Pipeline?",
+      "summary": "Attention is turning to Greece's upcoming rating reviews from S&P and Fitch, where we see scope for further outlook upgrades. However, we do not expect rating upgrades before 2027, with election-year policy commitment remaining an important consideration. We offer further analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2NzIx",
+      "tags": [
+        "Economic Forecast",
+        "Economic Analysis"
+      ],
+      "publish_time": "2026-10-08 02:00",
+      "thumbnail": "https://ir.citi.com/WQ6bUzzfomcrviCp5h-zNX2ewfiSFrPInh-BL3bDLwi4bLpafTUZfA9kLd0IX7hxLyOQZRxxUJ-4LCHHjpXILw%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30466720",

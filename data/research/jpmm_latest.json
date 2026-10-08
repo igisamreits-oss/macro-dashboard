@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T10:34:13.872367+00:00",
+  "fetched_at": "2026-10-08T22:34:08.312706+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -90,6 +90,40 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5480344-0",
+      "publication_id": "GPS-5481686-0",
+      "title": "Aerospace & Defense",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5480344-0",
+      "authors": [
+        {
+          "name": "Seth M. Seifman, CFA",
+          "team": "Aerospace & Defense",
+          "email": "seth.m.seifman@jpmorgan.com"
+        },
+        {
+          "name": "Rocco J Barbero",
+          "team": "Aerospace & Defense",
+          "email": "rocco.j.barbero@jpmorgan.com"
+        },
+        {
+          "name": "Alexander Ladd",
+          "team": "Aerospace & Defense",
+          "email": "alex.ladd@jpmorgan.com"
+        },
+        {
+          "name": "Jamie Simonson",
+          "team": "Aerospace & Defense",
+          "email": "jamie.simonson@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Aerospace & Defense"
+      ],
+      "publish_time": "2026-10-08"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5462914-0",
       "publication_id": "GPS-5463646-0",
       "title": "Transition Talks",
@@ -118,10 +152,10 @@
         }
       ],
       "tags": [
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "ASEAN Tech Hardware / Technology"
+        "ASEAN Tech Hardware / Technology",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates"
       ],
       "publish_time": "2026-09-25"
     },
@@ -151,11 +185,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5475401-0",
+      "doc_id": "GPS-5474144-0",
       "publication_id": "KAL-1-YE83NEIF",
       "title": "PTC Inc",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475401-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474144-0",
       "authors": [
         {
           "name": "Alexei Gogolev",
@@ -224,11 +258,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5474144-0",
+      "doc_id": "GPS-5475401-0",
       "publication_id": "KAL-1-YE83NEIF",
       "title": "PTC Inc",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474144-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475401-0",
       "authors": [
         {
           "name": "Alexei Gogolev",
@@ -345,12 +379,114 @@
         }
       ],
       "tags": [
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs",
         "REITs & Real Estate Services",
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "REITs"
       ],
       "publish_time": "2026-09-30"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5429034-0",
+      "publication_id": "KAL-1-EITTVNCR",
+      "title": "Hospitals",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5429034-0",
+      "authors": [
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-10-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5469913-0",
+      "publication_id": "KAL-1-EITTVNCR",
+      "title": "Healthcare Services",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5469913-0",
+      "authors": [
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
+        },
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-10-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5479762-0",
+      "publication_id": "KAL-1-EITTVNCR",
+      "title": "Healthcare Services: Managed Care & Hospitals",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5479762-0",
+      "authors": [
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
+        },
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-10-08"
     },
     {
       "platform": "JPM",
@@ -382,8 +518,8 @@
         }
       ],
       "tags": [
-        "Utilities, Midstream, LNG, and Nuclear",
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream"
       ],
       "publish_time": "2026-10-02"
@@ -419,9 +555,9 @@
       ],
       "tags": [
         "Asia Basic Materials",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Head of Australia Metals & Mining",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Australia Metals & Mining"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-06"
     },
@@ -489,10 +625,10 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
         "Emerging Markets Asia, Economic and Policy Research",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-09-29"
     },
@@ -526,10 +662,10 @@
         }
       ],
       "tags": [
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "India Industrials, Electric Utilities, and Infrastructure Sectors"
       ],
       "publish_time": "2026-09-30"
     },
