@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T10:34:16.250354+00:00",
+  "fetched_at": "2026-10-09T22:34:09.455143+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -97,43 +97,6 @@
         "Aerospace & Defense"
       ],
       "publish_time": "2026-10-08"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5462914-0",
-      "publication_id": "GPS-5463646-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5462914-0",
-      "authors": [
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        },
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Yen Voo, CFA, CA",
-          "team": "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-          "email": "yen.voo@jpmorgan.com"
-        },
-        {
-          "name": "Samuel Tan",
-          "team": "ASEAN Tech Hardware / Technology",
-          "email": "samuel.tan@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of Malaysia Research, Healthcare, Construction, Consumer and Conglomerates",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "ASEAN Tech Hardware / Technology",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
-      ],
-      "publish_time": "2026-09-25"
     },
     {
       "platform": "JPM",
@@ -291,8 +254,8 @@
         }
       ],
       "tags": [
-        "Software - Large Cap / Mid & Small Cap",
-        "Vertical SaaS & HealthTech"
+        "Vertical SaaS & HealthTech",
+        "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-06"
     },
@@ -351,6 +314,40 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5482212-0",
+      "publication_id": "GPS-5483733-0",
+      "title": "2026 Autumn Chemicals, Agriculture & Packaging Outlook",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5482212-0",
+      "authors": [
+        {
+          "name": "Jeffrey J. Zekauskas",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "jeffrey.zekauskas@jpmorgan.com"
+        },
+        {
+          "name": "Silke Kueck",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "silke.x.kueck@jpmorgan.com"
+        },
+        {
+          "name": "Katie Zhang",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "katie.zhang@jpmchase.com"
+        },
+        {
+          "name": "Lydia Huang",
+          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
+          "email": "lydia.huang@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging"
+      ],
+      "publish_time": "2026-10-09"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5466503-0",
       "publication_id": "KAL-1-FGBICK7D",
       "title": "September 2026 J.P. Morgan Commercial Real Estate Update",
@@ -379,10 +376,10 @@
         }
       ],
       "tags": [
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs & Real Estate Services",
         "REITs",
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy"
+        "REITs & Real Estate Services",
+        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
       ],
       "publish_time": "2026-09-30"
     },
@@ -519,8 +516,8 @@
       ],
       "tags": [
         "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-10-02"
     },
@@ -554,10 +551,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Head of Australia Metals & Mining",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Asia Basic Materials",
-        "Head of Australia Metals & Mining"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Basic Materials"
       ],
       "publish_time": "2026-10-06"
     },
@@ -625,9 +622,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Emerging Markets Asia, Economic and Policy Research",
         "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-09-29"
@@ -663,8 +660,8 @@
       ],
       "tags": [
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "India Industrials, Electric Utilities, and Infrastructure Sectors"
       ],
       "publish_time": "2026-09-30"
@@ -681,11 +678,6 @@
           "name": "Andrea Teixeira, CFA",
           "team": "Beverage, Household & Personal Care Products",
           "email": "andrea.f.teixeira@jpmorgan.com"
-        },
-        {
-          "name": "Shovana Chowdhury",
-          "team": "Beverage, Household & Personal Care Products",
-          "email": "shovana.chowdhury@jpmorgan.com"
         },
         {
           "name": "Drew Levine, CFA",
