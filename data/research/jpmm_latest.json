@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T22:34:09.455143+00:00",
+  "fetched_at": "2026-10-10T10:34:11.883459+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -376,10 +376,10 @@
         }
       ],
       "tags": [
-        "REITs",
-        "REITs & Real Estate Services",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs & Real Estate Services",
+        "REITs"
       ],
       "publish_time": "2026-09-30"
     },
@@ -551,9 +551,9 @@
         }
       ],
       "tags": [
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Head of Australia Metals & Mining",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Asia Basic Materials"
       ],
       "publish_time": "2026-10-06"
@@ -623,9 +623,9 @@
       ],
       "tags": [
         "Emerging Markets Asia, Economic and Policy Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-29"
     },
@@ -659,10 +659,10 @@
         }
       ],
       "tags": [
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors"
+        "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-09-30"
     },
