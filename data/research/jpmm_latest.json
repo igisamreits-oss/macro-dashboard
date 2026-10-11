@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T10:34:11.883459+00:00",
+  "fetched_at": "2026-10-11T01:08:06.610986+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -378,8 +378,8 @@
       "tags": [
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
         "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs & Real Estate Services",
-        "REITs"
+        "REITs",
+        "REITs & Real Estate Services"
       ],
       "publish_time": "2026-09-30"
     },
@@ -515,9 +515,9 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
         "Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-10-02"
     },
@@ -551,10 +551,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Head of Australia Metals & Mining",
+        "Asia Basic Materials",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Asia Basic Materials"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-06"
     },
@@ -622,10 +622,10 @@
         }
       ],
       "tags": [
-        "Emerging Markets Asia, Economic and Policy Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Emerging Markets Asia, Economic and Policy Research",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-29"
     },
@@ -659,10 +659,10 @@
         }
       ],
       "tags": [
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Asia Energy & Chemicals | Asia EV Battery"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-09-30"
     },
