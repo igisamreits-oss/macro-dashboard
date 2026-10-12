@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T10:34:18.616061+00:00",
+  "fetched_at": "2026-10-12T22:34:12.763038+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -124,11 +124,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5474144-0",
+      "doc_id": "GPS-5475401-0",
       "publication_id": "KAL-1-YE83NEIF",
       "title": "PTC Inc",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474144-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475401-0",
       "authors": [
         {
           "name": "Alexei Gogolev",
@@ -197,11 +197,11 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5475401-0",
+      "doc_id": "GPS-5474144-0",
       "publication_id": "KAL-1-YE83NEIF",
       "title": "PTC Inc",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475401-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474144-0",
       "authors": [
         {
           "name": "Alexei Gogolev",
@@ -254,8 +254,8 @@
         }
       ],
       "tags": [
-        "Software - Large Cap / Mid & Small Cap",
-        "Vertical SaaS & HealthTech"
+        "Vertical SaaS & HealthTech",
+        "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-06"
     },
@@ -347,12 +347,46 @@
         }
       ],
       "tags": [
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
         "REITs",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs & Real Estate Services",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing"
+        "REITs & Real Estate Services"
       ],
       "publish_time": "2026-09-30"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5479762-0",
+      "publication_id": "KAL-1-EITTVNCR",
+      "title": "Healthcare Services: Managed Care & Hospitals",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5479762-0",
+      "authors": [
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
+        },
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-10-08"
     },
     {
       "platform": "JPM",
@@ -424,40 +458,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5479762-0",
-      "publication_id": "KAL-1-EITTVNCR",
-      "title": "Healthcare Services: Managed Care & Hospitals",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5479762-0",
-      "authors": [
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "John Stansel, CFA",
-          "team": "Managed Care and Facilities",
-          "email": "john.stansel@jpmorgan.com"
-        },
-        {
-          "name": "Benjamin Rossi",
-          "team": "Managed Care and Facilities",
-          "email": "benjamin.rossi@jpmorgan.com"
-        },
-        {
-          "name": "Cole Harris",
-          "team": "Managed Care and Facilities",
-          "email": "cole.harris@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Managed Care and Facilities"
-      ],
-      "publish_time": "2026-10-08"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5472206-0",
       "publication_id": "GPS-5473573-0",
       "title": "North American Midstream",
@@ -486,9 +486,9 @@
         }
       ],
       "tags": [
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities and Midstream"
       ],
       "publish_time": "2026-10-02"
     },
@@ -522,10 +522,10 @@
         }
       ],
       "tags": [
-        "Head of Australia Metals & Mining",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Asia Basic Materials",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of Australia Metals & Mining"
       ],
       "publish_time": "2026-10-06"
     },
@@ -593,10 +593,10 @@
         }
       ],
       "tags": [
-        "Emerging Markets Asia, Economic and Policy Research",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Emerging Markets Asia, Economic and Policy Research",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-09-29"
     },
@@ -630,10 +630,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-09-30"
     },
