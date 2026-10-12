@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T13:06:04.308873+00:00",
+  "fetched_at": "2026-10-12T10:32:15.797447+00:00",
   "items": [
     {
       "platform": "Citi",
@@ -600,35 +600,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30465697",
-      "title": "U.S. Midterms on the Mind: Implications Across Assets",
-      "summary": "Consensus sees a House flip, and a Democratic sweep wouldn't surprise us. The outlook looks typical: lower equities and higher yields, USD and energy into the event, with a price reversal afterwards. But there are nuances to consider across equity sectors and regions, as we explore herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1Njk3",
-      "tags": [
-        "Tariffs",
-        "Trump 2.0",
-        "U.S. Election",
-        "Elections"
-      ],
-      "publish_time": "2026-10-02 17:54",
-      "thumbnail": "https://ir.citi.com/5q1ploHfA4QcgumXPWaIGRiOTGfpEXmmlngdjcirlKPDqt9giST_BeDxP5SsrE20hdXaO5ff19CJjr6T9XO27w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30465778",
-      "title": "QIS Corner: Systematic Strategies and the U.S. Midterms",
-      "summary": "We examine systematic strategies' behavior around U.S. midterm elections, building on our prior efforts. Among commodity QIS strategies, curve and vol carry have historically outperformed post-election, while value-type strategies such as skewness and producer margin have lagged.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1Nzc4",
-      "tags": [
-        "Elections",
-        "Quantitative Global Macro Strategy",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-10-02 18:44",
-      "thumbnail": "https://ir.citi.com/0yVmNxvhqfx4izI9uAgtDRgPqX5M7opyvWug5tpvxJ0oGAnitz8jJdzKD4H-LrMTeNcVfkdRxL0K1WmFTluvEA%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30465478",
       "title": "U.S. MedTech: Third-Quarter Preview",
       "summary": "After a bit of August optimism, MedTech stocks went back to the penalty box in September. Yet while our expectations are low for third-quarter results, we do look for pockets of growth (and recovery) heading into 2027. We review our top picks and offer a quartet of catalyst watches.",
@@ -658,6 +629,35 @@
     },
     {
       "platform": "Citi",
+      "doc_id": "30465697",
+      "title": "U.S. Midterms on the Mind: Implications Across Assets",
+      "summary": "Consensus sees a House flip, and a Democratic sweep wouldn't surprise us. The outlook looks typical: lower equities and higher yields, USD and energy into the event, with a price reversal afterwards. But there are nuances to consider across equity sectors and regions, as we explore herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1Njk3",
+      "tags": [
+        "Tariffs",
+        "Trump 2.0",
+        "U.S. Election",
+        "Elections"
+      ],
+      "publish_time": "2026-10-02 17:54",
+      "thumbnail": "https://ir.citi.com/5q1ploHfA4QcgumXPWaIGRiOTGfpEXmmlngdjcirlKPDqt9giST_BeDxP5SsrE20hdXaO5ff19CJjr6T9XO27w%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30465778",
+      "title": "QIS Corner: Systematic Strategies and the U.S. Midterms",
+      "summary": "We examine systematic strategies' behavior around U.S. midterm elections, building on our prior efforts. Among commodity QIS strategies, curve and vol carry have historically outperformed post-election, while value-type strategies such as skewness and producer margin have lagged.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1Nzc4",
+      "tags": [
+        "Elections",
+        "Quantitative Global Macro Strategy",
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-10-02 18:44",
+      "thumbnail": "https://ir.citi.com/0yVmNxvhqfx4izI9uAgtDRgPqX5M7opyvWug5tpvxJ0oGAnitz8jJdzKD4H-LrMTeNcVfkdRxL0K1WmFTluvEA%3D%3D"
+    },
+    {
+      "platform": "Citi",
       "doc_id": "30466062",
       "title": "Global Macro Strategy: The Chase Is on — Adding to Brazil Risk",
       "summary": "We're adding to our Brazil risk following bullish first-round election results. Flávio Bolsonaro is the more market-friendly candidate, promising fiscal austerity, privatization, deregulation and VAT cuts, with his party's strong Senate showing a good sign for a legislative agenda.",
@@ -673,6 +673,18 @@
     },
     {
       "platform": "Citi",
+      "doc_id": "30465359",
+      "title": "MedTech Vs. Tools: A Classic Investor Question",
+      "summary": "Can MedTech work if Life Science Tools is working? Does one need to be out of favor for the other to benefit? We explore this question again with the S&P E&S Index (Medtech) down 20.6% year to date while the S&P LS&T Index (Life Sciences) is up 14.7%, and also review our top picks.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1MzU5",
+      "tags": [
+        "MedTech"
+      ],
+      "publish_time": "2026-10-05 05:00",
+      "thumbnail": "https://ir.citi.com/wQgFijn8ic58G4DDhRMMfBDhJkpoCGyvNjaYyRjSihU2njXFqD3I93YqvyxwZMo0NIs3XqJ4Kct0Z7fi2kUZkg%3D%3D"
+    },
+    {
+      "platform": "Citi",
       "doc_id": "30465849",
       "title": "Brazil Equity Strategy: Election Update",
       "summary": "First-round election results from Brazil saw Flávio Bolsonaro at ~47% vs. ~45% for Lula, making Bolsonaro the frontrunner heading into the second round. This should be viewed positively by the market given expectations for more market-friendly policies and stronger fiscal discipline.",
@@ -685,18 +697,6 @@
       ],
       "publish_time": "2026-10-04 22:13",
       "thumbnail": "https://ir.citi.com/lHPYx1VfQSKWEekrgFrIRd7KzB-6a3DW8W9wChZgyDgzr_hwOQn23MhWVjYkldPzvReapzYfOdBZZXfipwXJGQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30465359",
-      "title": "MedTech Vs. Tools: A Classic Investor Question",
-      "summary": "Can MedTech work if Life Science Tools is working? Does one need to be out of favor for the other to benefit? We explore this question again with the S&P E&S Index (Medtech) down 20.6% year to date while the S&P LS&T Index (Life Sciences) is up 14.7%, and also review our top picks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1MzU5",
-      "tags": [
-        "MedTech"
-      ],
-      "publish_time": "2026-10-05 05:00",
-      "thumbnail": "https://ir.citi.com/wQgFijn8ic58G4DDhRMMfBDhJkpoCGyvNjaYyRjSihU2njXFqD3I93YqvyxwZMo0NIs3XqJ4Kct0Z7fi2kUZkg%3D%3D"
     },
     {
       "platform": "Citi",
