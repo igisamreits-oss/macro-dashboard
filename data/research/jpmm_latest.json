@@ -1,35 +1,6 @@
 {
-  "fetched_at": "2026-10-12T22:34:12.763038+00:00",
+  "fetched_at": "2026-10-13T10:34:17.727132+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5466703-0",
-      "publication_id": "KAL-1-BTJL55WC",
-      "title": "Restaurants and Foodservice Distribution",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5466703-0",
-      "authors": [
-        {
-          "name": "John Ivankoe",
-          "team": "Restaurants",
-          "email": "john.ivankoe@jpmorgan.com"
-        },
-        {
-          "name": "Rahul Krotthapalli",
-          "team": "Restaurants",
-          "email": "rahul.krotthapalli@jpmorgan.com"
-        },
-        {
-          "name": "Christabel Rocha",
-          "team": "Restaurants",
-          "email": "christabel.rocha@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Restaurants"
-      ],
-      "publish_time": "2026-09-29"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5469964-0",
@@ -254,8 +225,8 @@
         }
       ],
       "tags": [
-        "Vertical SaaS & HealthTech",
-        "Software - Large Cap / Mid & Small Cap"
+        "Software - Large Cap / Mid & Small Cap",
+        "Vertical SaaS & HealthTech"
       ],
       "publish_time": "2026-10-06"
     },
@@ -347,10 +318,10 @@
         }
       ],
       "tags": [
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs",
         "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "REITs & Real Estate Services"
+        "REITs & Real Estate Services",
+        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
+        "REITs"
       ],
       "publish_time": "2026-09-30"
     },
@@ -486,9 +457,9 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
+        "Utilities and Midstream",
         "Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream"
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-10-02"
     },
@@ -523,8 +494,8 @@
       ],
       "tags": [
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Basic Materials",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "Asia Basic Materials",
         "Head of Australia Metals & Mining"
       ],
       "publish_time": "2026-10-06"
@@ -595,8 +566,8 @@
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Emerging Markets Asia, Economic and Policy Research",
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-09-29"
     },
@@ -630,10 +601,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-09-30"
     },
