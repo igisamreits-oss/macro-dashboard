@@ -1,6 +1,47 @@
 {
-  "fetched_at": "2026-10-13T10:32:16.719494+00:00",
+  "fetched_at": "2026-10-13T22:32:14.371226+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30467818",
+      "title": "U.S. Aerospace & Defense: Diving Into Our Supply-Chain Survey",
+      "summary": "Our latest Industry Pulse supplier survey found that commercial aftermarket volume and price growth is strong but decelerating, original-equipment volume and price pressure is building momentum, and many participants flagged mounting supply chain issues/parts shortages as headwinds.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY3ODE4",
+      "tags": [
+        "Aerospace & Defense",
+        "Supply Chains",
+        "Innovation Lab"
+      ],
+      "publish_time": "2026-10-12 21:45",
+      "thumbnail": "https://ir.citi.com/Fl8DZuwDUcGJ_dk7BLKkz6Blrt1vtXU-e9WFFFa_xVG4tleKlgRWFh6Eijlh-V6anpteKNaYrDJzhLQXj9pksQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30467601",
+      "title": "Gulf Cooperation Council Faces One Shock, Six Trajectories",
+      "summary": "The U.S.-Iran conflict has evolved into a broader macroeconomic shock, with divergent outcomes across the GCC. We assess how the conflict is reshaping the GCC nations' outlook and why its macroeconomic implications differ markedly across the region.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY3NjAx",
+      "tags": [
+        "Economic Analysis",
+        "Economic Forecast",
+        "Emerging Markets",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-10-12 13:00",
+      "thumbnail": "https://ir.citi.com/PurHu_pRCYJOxc3goTLKn-k7_j1f-xBpl93ETn0OZRaliq7uNCW577sTiI7_DncW6tGRMrtrzEr55AaVQXVRNg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30467719",
+      "title": "Quantitative Global Macro Strategy: 'Tis the Season",
+      "summary": "Crowding scores materially shape the market reaction following earnings reports. We explore historical patterns for beats, misses and crowding, and offer a guide to help investors leverage these crowding dynamics to navigate earnings-driven price action.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY3NzE5",
+      "tags": [
+        "Macro Strategy"
+      ],
+      "publish_time": "2026-10-12 18:13",
+      "thumbnail": "https://ir.citi.com/9FYSeK_iUIMtwjGePHwG3vAvAq9ZaXnwdGHxN_y8NMRox5R4KFCPSBnS-7bHI1dc-jjlxg2Qc8_gJiTSX3h-UA%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30467467",
@@ -270,18 +311,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30467074",
-      "title": "Mexico Economics: Rate Cuts on the Table Despite Narrow Rate Differential",
-      "summary": "Banxico minutes reinforced a dovish bias by keeping the door open to future rate cuts while offering little support for rate hikes. While our base case remains that Banxico will keep the policy rate unchanged through year-end, the bias toward considering lower rates has increased.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY3MDc0",
-      "tags": [
-        "Central Banks"
-      ],
-      "publish_time": "2026-10-08 12:19",
-      "thumbnail": "https://ir.citi.com/qTWkmrQuow5S4wovJr28lft7ou81eE1a2EpZQ9Ek65KgLCJuU26nskcjh_Lw1MIoF5ow7n7dBTsYKHHNIogQJQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30466664",
       "title": "European Brokers & Asset Managers: 3Q26 Preview, EMG Upgrade to Buy",
       "summary": "European traditional managers’ flows remained healthy in 3Q26, with ex-money market net inflows tracking at more than 4% annualized and broadly stable versus recent quarters. We upgrade EMG to Buy, reflecting improving fundamentals and significant earnings upside potential.",
@@ -381,20 +410,6 @@
       ],
       "publish_time": "2026-10-07 20:46",
       "thumbnail": "https://ir.citi.com/bQ8dbjuKhFGrESLooe1ZWr_5nfOPbTTIdH-WNf_OuWJs0sc54tSBsgP9HWOLftrP-EleFfVTJeqcpgAUE0SPcA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466800",
-      "title": "U.S. Economics: No Urgency in FOMC Minutes",
-      "summary": "Fed officials unanimously agreed to raise rates 25bp in September, but the minutes suggest there is no urgency to raise rates further. With core PCE expected to remain cool, we project the Fed leaving policy rates unchanged into 2027 before cuts begin in June 2027.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2ODAw",
-      "tags": [
-        "Central Banks",
-        "Economic Analysis",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-10-07 15:45",
-      "thumbnail": "https://ir.citi.com/7xHr48clPMy0zNQQhAhggXjsMyRxMnCMCtq17CkHY8Quv5kvNP_ltKKzLiLzjCjaWCDHqqKeGleUdmA7oslyVQ%3D%3D"
     },
     {
       "platform": "Citi",
@@ -587,182 +602,6 @@
       ],
       "publish_time": "2026-10-06 18:37",
       "thumbnail": "https://ir.citi.com/urwxP8Q6UHfLOl2gZYtiDyDjKG0QtShlEFx9qVL_SgcZueBkHXZQPDF6CpNk_hVDHAf5GftvyODUJ7dcT-_aYA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466412",
-      "title": "U.S. Equity Market Outlook: It Takes a Village",
-      "summary": "The S&P 500 is touching new highs. We've been consistently of the view that the path to our year-end 8100 base-case target will require both the AI-influenced and more macro-impacted halves of the market to participate. A quick look at cluster performance helps show how this would happen.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2NDEy",
-      "tags": [
-        "Off the Cuff",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-10-06 13:56",
-      "thumbnail": "https://ir.citi.com/ZvjDwzViOUc8EHBWRm-ZWzIsq9I95Pkoguwxy38dfkuHA83cGSXjgeC1US100V78pgronipXCBe8zhZCLoJEdQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466213",
-      "title": "North America Internet: The Muse Moment",
-      "summary": "We think Muse could generate more than $27 billion in revenue at scale, reshaping how we search and shop as personal agents become always-on habits. We include thoughts from equity analysts about potential impacts on sectors ranging from AI and semis to homebuilders and utilities.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjEz",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Internet-Driven Business Models",
-        "Premium Product",
-        "Super-Sector Analysis"
-      ],
-      "publish_time": "2026-10-06 07:15",
-      "thumbnail": "https://ir.citi.com/nZf2zFuU8gcJWfHjQrabhqpz3FfdOhMENISmq7JXwxE9GfMAzcgzH2yV5RBTaU1yecHpI_3XySP90FgIZw85Kw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466200",
-      "title": "U.S. Semiconductors: The Implications of Personal Agents",
-      "summary": "Given recent personal-agent launches, we now estimate 2030's CPU total addressable market at $300 billion. Always-on agents will significantly increase inference-related compute, memory and networking consumption. We raise our target price for AMD to $800 as a primary beneficiary.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjAw",
-      "tags": [
-        "Semiconductors",
-        "Target Price Change",
-        "Estimate Change",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-10-06 05:00",
-      "thumbnail": "https://ir.citi.com/326GzUx7g7zda5s9cBiID0BiwLFtwjlOnoPjIkjbVSIk9WfZZ4kQDWG3M6x_3WHMXqFAnTQSJJ7qERh32aLTSw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466192",
-      "title": "U.S. Airlines: Third-Quarter Preview",
-      "summary": "As we approach earnings season for U.S. airlines, we're upgrading JBLU to Neutral/High Risk given its significant share-price decline since our August downgrade to Sell/High Risk. We're also issuing a positive catalyst watch on ALGT. We offer further analysis and revisions in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MTky",
-      "tags": [
-        "Aerospace & Defense",
-        "Airlines",
-        "Estimate Change",
-        "Catalyst Watch",
-        "Rating Change",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-10-06 05:05",
-      "thumbnail": "https://ir.citi.com/r1h8jwiF4EH1Q_kjwSUJQ_Z5j0JUMYG8_oBc4OvJkw3o7o5Az-LJgrH-IB7Hyz5A9hhMEr8w1lCXGuRgUJyZHA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466222",
-      "title": "U.S. Application Software: Bus Tour Takeaways, Day 1",
-      "summary": "We hosted investor meetings with ADBE, ADSK, GWRE, CRM and ZM and found these companies largely consistent in discussing demand patterns, with recurring themes around adapting product/packaging for AI. We offer company-by-company takeaways from these discussions in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjIy",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Application Software",
-        "Corporate Events/Special Situations"
-      ],
-      "publish_time": "2026-10-06 03:40",
-      "thumbnail": "https://ir.citi.com/59PXnys44Pr2bcC7ga2HgnhSiwJwegPJA39VwHateqK6LjVf0XB7DipKQzaSop3bIWdMpXXLJDRkgUIdlgQtig%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464456",
-      "title": "Japan Chemicals: Semi-Materials Markets Look Primed for Growth",
-      "summary": "Japanese firms are highly competitive in semi-materials markets, with hyperscalers looking to ensure stable procurement. As we note in this Deep Dive, volume growth in semi-materials markets could accelerate and supply/demand is tightening, adding to momentum for raising prices.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NDU2",
-      "tags": [
-        "Specialty Chemicals",
-        "Chemicals",
-        "Deep Dive",
-        "Semiconductor Materials",
-        "Semiconductors",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-10-06 03:02",
-      "thumbnail": "https://ir.citi.com/6Wwf0DwuBFufSrfnTkFnhTKlbZW7yYHO8v26L4Dh70G0DoFmPFXkW7KscpegFd_Q64kVUXzs0mfqtcqVasHwEw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466171",
-      "title": "Implications of Spain's Snap Elections",
-      "summary": "Spain will hold early elections at the end of November, with polls suggesting a right-of-center alliance led by the conservative PP will take the helm. If so, we'd expect a continuation of Spain's cautious fiscal approach and a pro-European stance. We consider further implications herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MTcx",
-      "tags": [
-        "Fiscal Policy",
-        "Elections"
-      ],
-      "publish_time": "2026-10-06 02:12",
-      "thumbnail": "https://ir.citi.com/wt1s4HTPz_Kof_o7LkRoDKWaANCKG7c_tnq43mJVSq-aWS0-QZ-3U42VWOst-ajnHX9Ff6hT725zhMb1XosGKQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466204",
-      "title": "Australia Economics: A Plunge in Consumer Sentiment",
-      "summary": "Australian consumer sentiment plunged to 80.4 in October, driven by persistent cost-of-living pressures compounded by rising interest rates. The lone bright spot? Job vacancies rose to a two-year high of 122, consistent with positive employment growth signals from business sentiment.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MjA0",
-      "tags": [
-        "Inflation",
-        "Monetary Policy",
-        "Consumer Spending",
-        "Australia Economics",
-        "Labor Market"
-      ],
-      "publish_time": "2026-10-05 21:52",
-      "thumbnail": "https://ir.citi.com/ertY_2hKegubL4QS8xOcflSEUGfuLWU3WKGKCKN7T8UJohWpElwa4XG8CjNfn1X-cD4ZslRuNeH6Jb6MHBVcJA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30465478",
-      "title": "U.S. MedTech: Third-Quarter Preview",
-      "summary": "After a bit of August optimism, MedTech stocks went back to the penalty box in September. Yet while our expectations are low for third-quarter results, we do look for pockets of growth (and recovery) heading into 2027. We review our top picks and offer a quartet of catalyst watches.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1NDc4",
-      "tags": [
-        "Catalyst Watch",
-        "Estimate Change",
-        "Target Price Change",
-        "Earnings Preview",
-        "MedTech"
-      ],
-      "publish_time": "2026-10-05 06:46",
-      "thumbnail": "https://ir.citi.com/2BkpewTVF5fOqCP15VbQBB_QvGpERfiOpIRZBYmIoNvVHjAaHPoyqrEy63C9jA5Uq6u_rvk0wch37Y1nWURVww%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30464458",
-      "title": "Rate Peak Drives a Rotation in Japanese Equities",
-      "summary": "Long-term rates in Japan have risen to the 3% range, but the market has already priced in rate-hike expectations and fiscal risk. We think a turning point in the market may highlight a shift in funds from banks to real estate and to high-return-on-equity, high-growth stocks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY0NDU4",
-      "tags": [
-        "Macro Strategy",
-        "Macro-to-Micro"
-      ],
-      "publish_time": "2026-10-05 02:35",
-      "thumbnail": "https://ir.citi.com/Zil6HOnpwoCGxTukXXLvsBd5yDVwEPruVpIulMHX7a63kUHjIvzpW285LNuwi8DqY6N9LwL5IfcKqZ0ztr9l8g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30466062",
-      "title": "Global Macro Strategy: The Chase Is on — Adding to Brazil Risk",
-      "summary": "We're adding to our Brazil risk following bullish first-round election results. Flávio Bolsonaro is the more market-friendly candidate, promising fiscal austerity, privatization, deregulation and VAT cuts, with his party's strong Senate showing a good sign for a legislative agenda.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY2MDYy",
-      "tags": [
-        "Elections",
-        "Emerging Markets",
-        "Trade Idea",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-10-05 12:04",
-      "thumbnail": "https://ir.citi.com/lBPyq48pG6jLQ3RsE2FqamyiIHnEahfhdQxKGSZolQREqR2SzhMOi8mwoLq7QqmfIlF2AFMtFz6QUroaCzYuzg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30465359",
-      "title": "MedTech Vs. Tools: A Classic Investor Question",
-      "summary": "Can MedTech work if Life Science Tools is working? Does one need to be out of favor for the other to benefit? We explore this question again with the S&P E&S Index (Medtech) down 20.6% year to date while the S&P LS&T Index (Life Sciences) is up 14.7%, and also review our top picks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY1MzU5",
-      "tags": [
-        "MedTech"
-      ],
-      "publish_time": "2026-10-05 05:00",
-      "thumbnail": "https://ir.citi.com/wQgFijn8ic58G4DDhRMMfBDhJkpoCGyvNjaYyRjSihU2njXFqD3I93YqvyxwZMo0NIs3XqJ4Kct0Z7fi2kUZkg%3D%3D"
     }
   ]
 }
