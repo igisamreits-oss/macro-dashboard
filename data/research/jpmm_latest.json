@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T22:34:14.909985+00:00",
+  "fetched_at": "2026-10-14T10:34:20.405745+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -225,8 +225,8 @@
         }
       ],
       "tags": [
-        "Vertical SaaS & HealthTech",
-        "Software - Large Cap / Mid & Small Cap"
+        "Software - Large Cap / Mid & Small Cap",
+        "Vertical SaaS & HealthTech"
       ],
       "publish_time": "2026-10-06"
     },
@@ -287,43 +287,6 @@
         "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging"
       ],
       "publish_time": "2026-10-09"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5466503-0",
-      "publication_id": "KAL-1-FGBICK7D",
-      "title": "September 2026 J.P. Morgan Commercial Real Estate Update",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5466503-0",
-      "authors": [
-        {
-          "name": "Michael W. Mueller, CFA",
-          "team": "REITs",
-          "email": "michael.w.mueller@jpmorgan.com"
-        },
-        {
-          "name": "Anthony Paolone, CFA",
-          "team": "REITs & Real Estate Services",
-          "email": "anthony.paolone@jpmorgan.com"
-        },
-        {
-          "name": "Mark Streeter, CFA",
-          "team": "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-          "email": "mark.streeter@jpmorgan.com"
-        },
-        {
-          "name": "Chong Sin",
-          "team": "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-          "email": "chong.c.sin@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Securitized Products & Public Finance Commercial Mortgage-Backed Securities Strategy",
-        "North America Corporate Credit - REITs, Transportation and Sustainable Investing",
-        "REITs",
-        "REITs & Real Estate Services"
-      ],
-      "publish_time": "2026-09-30"
     },
     {
       "platform": "JPM",
@@ -457,9 +420,9 @@
         }
       ],
       "tags": [
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "Utilities, Midstream, LNG, and Nuclear"
+        "Utilities, Midstream, LNG, and Nuclear",
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-10-02"
     },
@@ -493,8 +456,8 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Asia Basic Materials",
         "Head of Australia Metals & Mining"
       ],
@@ -528,67 +491,6 @@
         "Airfreight & Surface Transportation / Shipping"
       ],
       "publish_time": "2026-10-05"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5468103-0",
-      "publication_id": "GPS-5468774-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5468103-0",
-      "authors": [
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Parsley Ong",
-          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
-          "email": "parsley.rh.ong@jpmorgan.com"
-        },
-        {
-          "name": "Atul Tiwari",
-          "team": "India Industrials, Electric Utilities, and Infrastructure Sectors",
-          "email": "atul.tiwari@jpmorgan.com"
-        },
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
-      ],
-      "publish_time": "2026-09-30"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5468147-0",
-      "publication_id": "KAL-1-02TKGR4W",
-      "title": "U.S. Beverages, Household & Personal Care",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5468147-0",
-      "authors": [
-        {
-          "name": "Andrea Teixeira, CFA",
-          "team": "Beverage, Household & Personal Care Products",
-          "email": "andrea.f.teixeira@jpmorgan.com"
-        },
-        {
-          "name": "Drew Levine, CFA",
-          "team": "Beverage, Household & Personal Care Products",
-          "email": "drew.levine@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Beverage, Household & Personal Care Products"
-      ],
-      "publish_time": "2026-09-30"
     }
   ]
 }
