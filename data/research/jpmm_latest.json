@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T10:34:20.405745+00:00",
+  "fetched_at": "2026-10-14T22:34:17.412870+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -225,8 +225,8 @@
         }
       ],
       "tags": [
-        "Software - Large Cap / Mid & Small Cap",
-        "Vertical SaaS & HealthTech"
+        "Vertical SaaS & HealthTech",
+        "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-06"
     },
@@ -290,40 +290,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5429034-0",
-      "publication_id": "KAL-1-EITTVNCR",
-      "title": "Hospitals",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5429034-0",
-      "authors": [
-        {
-          "name": "Benjamin Rossi",
-          "team": "Managed Care and Facilities",
-          "email": "benjamin.rossi@jpmorgan.com"
-        },
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "John Stansel, CFA",
-          "team": "Managed Care and Facilities",
-          "email": "john.stansel@jpmorgan.com"
-        },
-        {
-          "name": "Cole Harris",
-          "team": "Managed Care and Facilities",
-          "email": "cole.harris@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Managed Care and Facilities"
-      ],
-      "publish_time": "2026-10-08"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5469913-0",
       "publication_id": "KAL-1-EITTVNCR",
       "title": "Healthcare Services",
@@ -344,6 +310,40 @@
           "name": "Benjamin Rossi",
           "team": "Managed Care and Facilities",
           "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Cole Harris",
+          "team": "Managed Care and Facilities",
+          "email": "cole.harris@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Managed Care and Facilities"
+      ],
+      "publish_time": "2026-10-08"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5429034-0",
+      "publication_id": "KAL-1-EITTVNCR",
+      "title": "Hospitals",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5429034-0",
+      "authors": [
+        {
+          "name": "Benjamin Rossi",
+          "team": "Managed Care and Facilities",
+          "email": "benjamin.rossi@jpmorgan.com"
+        },
+        {
+          "name": "Lisa C. Gill",
+          "team": "Managed Care and Facilities",
+          "email": "lisa.c.gill@jpmorgan.com"
+        },
+        {
+          "name": "John Stansel, CFA",
+          "team": "Managed Care and Facilities",
+          "email": "john.stansel@jpmorgan.com"
         },
         {
           "name": "Cole Harris",
@@ -420,9 +420,9 @@
         }
       ],
       "tags": [
+        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
         "Utilities and Midstream",
-        "Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear"
+        "Utilities, Midstream, LNG, and Nuclear"
       ],
       "publish_time": "2026-10-02"
     },
@@ -456,10 +456,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Asia Basic Materials",
-        "Head of Australia Metals & Mining"
+        "Head of Australia Metals & Mining",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-06"
     },
