@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T22:34:17.910917+00:00",
+  "fetched_at": "2026-10-16T10:34:21.597960+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -68,30 +68,6 @@
         "Aerospace & Defense"
       ],
       "publish_time": "2026-10-08"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5468715-0",
-      "publication_id": "GPS-5473045-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5468715-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-10-02"
     },
     {
       "platform": "JPM",
@@ -344,11 +320,11 @@
         }
       ],
       "tags": [
-        "North America Small and Mid Cap Industrials",
+        "Infrastructure, Industrials & Transport",
         "Machinery, Engineering & Construction",
-        "Electrical Equipment & Multi-Industry",
         "European Capital Goods",
-        "Infrastructure, Industrials & Transport"
+        "North America Small and Mid Cap Industrials",
+        "Electrical Equipment & Multi-Industry"
       ],
       "publish_time": "2026-10-15"
     },
@@ -490,42 +466,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5472206-0",
-      "publication_id": "GPS-5473573-0",
-      "title": "North American Midstream",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5472206-0",
-      "authors": [
-        {
-          "name": "Jeremy Tonet, CFA",
-          "team": "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-          "email": "jeremy.b.tonet@jpmorgan.com"
-        },
-        {
-          "name": "Vrathan Reddy",
-          "team": "Utilities and Midstream",
-          "email": "vrathan.reddy@jpmchase.com"
-        },
-        {
-          "name": "Eli Jossen, CFA",
-          "team": "Utilities and Midstream",
-          "email": "eli.jossen@jpmchase.com"
-        },
-        {
-          "name": "Francina Kolluri",
-          "team": "Utilities, Midstream, LNG, and Nuclear",
-          "email": "francina.kolluri@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Utilities, Midstream, LNG, and Nuclear",
-        "Head of North America Power, Utilities, Midstream, LNG, and Nuclear",
-        "Utilities and Midstream"
-      ],
-      "publish_time": "2026-10-02"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5485362-0",
       "publication_id": "CFP-PC-11817-0",
       "title": "China A-shares Equity Strategy",
@@ -554,9 +494,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"
     },
@@ -590,10 +530,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of Australia Metals & Mining",
-        "Asia Basic Materials"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Basic Materials",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-06"
     },
