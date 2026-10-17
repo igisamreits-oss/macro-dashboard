@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T22:34:13.518291+00:00",
+  "fetched_at": "2026-10-17T13:08:31.347944+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -288,8 +288,8 @@
         }
       ],
       "tags": [
-        "Vertical SaaS & HealthTech",
-        "Software - Large Cap / Mid & Small Cap"
+        "Software - Large Cap / Mid & Small Cap",
+        "Vertical SaaS & HealthTech"
       ],
       "publish_time": "2026-10-06"
     },
@@ -407,11 +407,11 @@
         }
       ],
       "tags": [
-        "Infrastructure, Industrials & Transport",
-        "North America Small and Mid Cap Industrials",
         "Electrical Equipment & Multi-Industry",
-        "European Capital Goods",
-        "Machinery, Engineering & Construction"
+        "North America Small and Mid Cap Industrials",
+        "Infrastructure, Industrials & Transport",
+        "Machinery, Engineering & Construction",
+        "European Capital Goods"
       ],
       "publish_time": "2026-10-15"
     },
@@ -647,10 +647,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Australia Metals & Mining",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Asia Basic Materials",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of Australia Metals & Mining"
       ],
       "publish_time": "2026-10-06"
     },
