@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T13:08:11.112593+00:00",
+  "fetched_at": "2026-10-18T22:34:03.104726+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -288,8 +288,8 @@
         }
       ],
       "tags": [
-        "Vertical SaaS & HealthTech",
-        "Software - Large Cap / Mid & Small Cap"
+        "Software - Large Cap / Mid & Small Cap",
+        "Vertical SaaS & HealthTech"
       ],
       "publish_time": "2026-10-06"
     },
@@ -407,11 +407,11 @@
         }
       ],
       "tags": [
-        "Electrical Equipment & Multi-Industry",
-        "Infrastructure, Industrials & Transport",
-        "European Capital Goods",
         "North America Small and Mid Cap Industrials",
-        "Machinery, Engineering & Construction"
+        "Electrical Equipment & Multi-Industry",
+        "Machinery, Engineering & Construction",
+        "Infrastructure, Industrials & Transport",
+        "European Capital Goods"
       ],
       "publish_time": "2026-10-15"
     },
@@ -576,8 +576,8 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-10-14"
     },
@@ -611,9 +611,9 @@
         }
       ],
       "tags": [
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"
     },
