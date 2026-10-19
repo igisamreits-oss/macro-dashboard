@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T10:34:15.399936+00:00",
+  "fetched_at": "2026-10-19T22:34:20.323861+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -24,6 +24,37 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-10-16"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5494305-0",
+      "publication_id": "KAL-1-SRELFK18",
+      "title": "Global Alternative Energy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5494305-0",
+      "authors": [
+        {
+          "name": "Mark Strouse, CFA",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "mark.w.strouse@jpmorgan.com"
+        },
+        {
+          "name": "Akash Gupta",
+          "team": "European Capital Goods",
+          "email": "akash.z.gupta@jpmorgan.com"
+        },
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "European Capital Goods",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+      ],
+      "publish_time": "2026-10-19"
     },
     {
       "platform": "JPM",
@@ -85,6 +116,40 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5491513-0",
+      "publication_id": "KAL-1-BYPT5SJ1",
+      "title": "GoDaddy Inc",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5491513-0",
+      "authors": [
+        {
+          "name": "Alexei Gogolev",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "alexei.gogolev@jpmorgan.com"
+        },
+        {
+          "name": "Ella Smith",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "ella.smith@jpmchase.com"
+        },
+        {
+          "name": "Destiny Jackson",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "destiny.jackson@jpmorgan.com"
+        },
+        {
+          "name": "Isabella A Camaj",
+          "team": "Vertical SaaS & HealthTech",
+          "email": "bella.camaj@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Vertical SaaS & HealthTech"
+      ],
+      "publish_time": "2026-10-19"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5489714-0",
       "publication_id": "KAL-1-IQQMLEK1",
       "title": "JPM ANMUTH - US Internet 3Q26 Preview",
@@ -124,37 +189,101 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5475401-0",
-      "publication_id": "KAL-1-YE83NEIF",
-      "title": "PTC Inc",
+      "doc_id": "GPS-5486326-0",
+      "publication_id": "KAL-1-TH23ZMPE",
+      "title": "Telecom, Cable & Satellite",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475401-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5486326-0",
       "authors": [
         {
-          "name": "Alexei Gogolev",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "alexei.gogolev@jpmorgan.com"
+          "name": "Sebastiano C Petti",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "sebastiano.c.petti@jpmorgan.com"
         },
         {
-          "name": "Ella Smith",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "ella.smith@jpmchase.com"
+          "name": "Shayna Nguyen",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "shayna.nguyen@jpmchase.com"
         },
         {
-          "name": "Destiny Jackson",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "destiny.jackson@jpmorgan.com"
-        },
-        {
-          "name": "Isabella A Camaj",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "bella.camaj@jpmorgan.com"
+          "name": "John Stid",
+          "team": "Telecom Services, Cable & Satellite",
+          "email": "john.stid@jpmorgan.com"
         }
       ],
       "tags": [
-        "Vertical SaaS & HealthTech"
+        "Telecom Services, Cable & Satellite"
       ],
-      "publish_time": "2026-10-05"
+      "publish_time": "2026-10-19"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5485265-0",
+      "publication_id": "KAL-1-0ZLN9O0Y",
+      "title": "US SMid Biotech",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5485265-0",
+      "authors": [
+        {
+          "name": "Priyanka Grover, Ph.D.",
+          "team": "SMid Biotechnology",
+          "email": "priyanka.grover@jpmchase.com"
+        },
+        {
+          "name": "Umar Mukhetdinov",
+          "team": "SMid Biotechnology",
+          "email": "umar.mukhetdinov@jpmchase.com"
+        },
+        {
+          "name": "Anupam Rama",
+          "team": "SMid Biotechnology",
+          "email": "anupam.rama@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology"
+      ],
+      "publish_time": "2026-10-19"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5494488-0",
+      "publication_id": "KAL-1-0ZLN9O0Y",
+      "title": "US Biotechnology",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5494488-0",
+      "authors": [
+        {
+          "name": "Jessica Fye",
+          "team": "Biotechnology - Large Cap",
+          "email": "jessica.m.fye@jpmorgan.com"
+        },
+        {
+          "name": "Anupam Rama",
+          "team": "SMid Biotechnology",
+          "email": "anupam.rama@jpmorgan.com"
+        },
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Brian Cheng",
+          "team": "SMid Biotechnology",
+          "email": "brian.cheng@jpmorgan.com"
+        },
+        {
+          "name": "Priyanka Grover, Ph.D.",
+          "team": "SMid Biotechnology",
+          "email": "priyanka.grover@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
+      ],
+      "publish_time": "2026-10-17"
     },
     {
       "platform": "JPM",
@@ -181,8 +310,8 @@
         }
       ],
       "tags": [
-        "Vertical SaaS & HealthTech",
-        "Software - Large Cap / Mid & Small Cap"
+        "Software - Large Cap / Mid & Small Cap",
+        "Vertical SaaS & HealthTech"
       ],
       "publish_time": "2026-10-06"
     },
@@ -230,8 +359,8 @@
         }
       ],
       "tags": [
-        "Technology",
-        "Technology and Telecoms"
+        "Technology and Telecoms",
+        "Technology"
       ],
       "publish_time": "2026-10-15"
     },
@@ -325,11 +454,11 @@
         }
       ],
       "tags": [
-        "North America Small and Mid Cap Industrials",
-        "Infrastructure, Industrials & Transport",
         "European Capital Goods",
+        "North America Small and Mid Cap Industrials",
+        "Machinery, Engineering & Construction",
         "Electrical Equipment & Multi-Industry",
-        "Machinery, Engineering & Construction"
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-10-15"
     },
@@ -529,9 +658,9 @@
         }
       ],
       "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-10-13"
     },
@@ -565,10 +694,10 @@
         }
       ],
       "tags": [
-        "Asia Basic Materials",
         "Head of Australia Metals & Mining",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Basic Materials"
       ],
       "publish_time": "2026-10-06"
     }
