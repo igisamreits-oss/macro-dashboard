@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T22:34:03.104726+00:00",
+  "fetched_at": "2026-10-19T10:34:15.399936+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -48,40 +48,6 @@
         "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
       ],
       "publish_time": "2026-10-16"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5469964-0",
-      "publication_id": "KAL-1-34KJ13OY",
-      "title": "Medical Devices",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5469964-0",
-      "authors": [
-        {
-          "name": "Robbie Marcus, CFA",
-          "team": "Medical Supplies & Devices",
-          "email": "robert.j.marcus@jpmorgan.com"
-        },
-        {
-          "name": "Allen Gong",
-          "team": "Medical Supplies & Devices",
-          "email": "allen.gong@jpmorgan.com"
-        },
-        {
-          "name": "Lilia-Celine B Lozada",
-          "team": "Medical Supplies & Devices",
-          "email": "lilia-celine.b.lozada@jpmchase.com"
-        },
-        {
-          "name": "Henry Householter",
-          "team": "Medical Supplies & Devices",
-          "email": "henry.householter@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Medical Supplies & Devices"
-      ],
-      "publish_time": "2026-10-05"
     },
     {
       "platform": "JPM",
@@ -158,79 +124,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5474144-0",
-      "publication_id": "KAL-1-YE83NEIF",
-      "title": "PTC Inc",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474144-0",
-      "authors": [
-        {
-          "name": "Alexei Gogolev",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "alexei.gogolev@jpmorgan.com"
-        },
-        {
-          "name": "Ella Smith",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "ella.smith@jpmchase.com"
-        },
-        {
-          "name": "Destiny Jackson",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "destiny.jackson@jpmorgan.com"
-        },
-        {
-          "name": "Isabella A Camaj",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "bella.camaj@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Vertical SaaS & HealthTech"
-      ],
-      "publish_time": "2026-10-05"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5474399-0",
-      "publication_id": "KAL-1-YE83NEIF",
-      "title": "Schneider Electric",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474399-0",
-      "authors": [
-        {
-          "name": "Phil Buller",
-          "team": "European Capital Goods",
-          "email": "phil.buller@jpmorgan.com"
-        },
-        {
-          "name": "Akash Gupta",
-          "team": "European Capital Goods",
-          "email": "akash.z.gupta@jpmorgan.com"
-        },
-        {
-          "name": "Chitrita C Sinha",
-          "team": "European Capital Goods",
-          "email": "chitrita.sinha@jpmorgan.com"
-        },
-        {
-          "name": "Jeremy Caspar",
-          "team": "European Capital Goods",
-          "email": "jeremy.caspar@jpmorgan.com"
-        },
-        {
-          "name": "Mariana Andrade",
-          "team": "European Capital Goods",
-          "email": "mariana.andrade@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "European Capital Goods"
-      ],
-      "publish_time": "2026-10-05"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5475401-0",
       "publication_id": "KAL-1-YE83NEIF",
       "title": "PTC Inc",
@@ -288,8 +181,8 @@
         }
       ],
       "tags": [
-        "Software - Large Cap / Mid & Small Cap",
-        "Vertical SaaS & HealthTech"
+        "Vertical SaaS & HealthTech",
+        "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-06"
     },
@@ -316,6 +209,31 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-10-09"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5490755-0",
+      "publication_id": "KAL-1-LEPB6XVE",
+      "title": "TSMC",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5490755-0",
+      "authors": [
+        {
+          "name": "Gokul Hariharan",
+          "team": "Technology and Telecoms",
+          "email": "gokul.hariharan@jpmorgan.com"
+        },
+        {
+          "name": "David Chou",
+          "team": "Technology",
+          "email": "david.chou@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Technology",
+        "Technology and Telecoms"
+      ],
+      "publish_time": "2026-10-15"
     },
     {
       "platform": "JPM",
@@ -408,10 +326,10 @@
       ],
       "tags": [
         "North America Small and Mid Cap Industrials",
-        "Electrical Equipment & Multi-Industry",
-        "Machinery, Engineering & Construction",
         "Infrastructure, Industrials & Transport",
-        "European Capital Goods"
+        "European Capital Goods",
+        "Electrical Equipment & Multi-Industry",
+        "Machinery, Engineering & Construction"
       ],
       "publish_time": "2026-10-15"
     },
@@ -647,41 +565,12 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Asia Basic Materials",
         "Head of Australia Metals & Mining",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-06"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5466164-0",
-      "publication_id": "GPS-5475859-0",
-      "title": "Transportation & Logistics",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5466164-0",
-      "authors": [
-        {
-          "name": "Brian P. Ossenbeck, CFA",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brian.p.ossenbeck@jpmorgan.com"
-        },
-        {
-          "name": "Grady Carr",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "grady.carr@jpmchase.com"
-        },
-        {
-          "name": "Brandon Wexler",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brandon.wexler@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Airfreight & Surface Transportation / Shipping"
-      ],
-      "publish_time": "2026-10-05"
     }
   ]
 }
