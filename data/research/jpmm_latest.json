@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T22:34:20.323861+00:00",
+  "fetched_at": "2026-10-20T10:33:27.334363+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,9 +50,9 @@
         }
       ],
       "tags": [
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-19"
     },
@@ -287,36 +287,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5475411-0",
-      "publication_id": "KAL-1-8J9SSWO5",
-      "title": "2026 Software Forum Takeaways",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5475411-0",
-      "authors": [
-        {
-          "name": "Brian Essex, CFA",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "brian.essex@jpmchase.com"
-        },
-        {
-          "name": "Samik Chatterjee, CFA",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "samik.x.chatterjee@jpmorgan.com"
-        },
-        {
-          "name": "Alexei Gogolev",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "alexei.gogolev@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Software - Large Cap / Mid & Small Cap",
-        "Vertical SaaS & HealthTech"
-      ],
-      "publish_time": "2026-10-06"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5478490-0",
       "publication_id": "GPS-5482731-0",
       "title": "Japan",
@@ -359,8 +329,8 @@
         }
       ],
       "tags": [
-        "Technology and Telecoms",
-        "Technology"
+        "Technology",
+        "Technology and Telecoms"
       ],
       "publish_time": "2026-10-15"
     },
@@ -454,11 +424,11 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
-        "North America Small and Mid Cap Industrials",
-        "Machinery, Engineering & Construction",
         "Electrical Equipment & Multi-Industry",
-        "Infrastructure, Industrials & Transport"
+        "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials",
+        "Infrastructure, Industrials & Transport",
+        "European Capital Goods"
       ],
       "publish_time": "2026-10-15"
     },
@@ -658,48 +628,11 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5474786-0",
-      "publication_id": "GPS-5476905-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5474786-0",
-      "authors": [
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        },
-        {
-          "name": "Lyndon Fagan",
-          "team": "Head of Australia Metals & Mining",
-          "email": "lyndon.fagan@jpmorgan.com"
-        },
-        {
-          "name": "Avery Chan",
-          "team": "Asia Basic Materials",
-          "email": "avery.chan@jpmorgan.com"
-        },
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of Australia Metals & Mining",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Asia Basic Materials"
-      ],
-      "publish_time": "2026-10-06"
     }
   ]
 }
