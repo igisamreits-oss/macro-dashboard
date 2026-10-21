@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T10:34:13.168229+00:00",
+  "fetched_at": "2026-10-21T22:34:12.406434+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -280,8 +280,8 @@
         }
       ],
       "tags": [
-        "Biotechnology - Large Cap",
-        "SMid Biotechnology"
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
       ],
       "publish_time": "2026-10-17"
     },
@@ -424,11 +424,11 @@
         }
       ],
       "tags": [
-        "Infrastructure, Industrials & Transport",
         "European Capital Goods",
+        "Infrastructure, Industrials & Transport",
         "Electrical Equipment & Multi-Industry",
-        "North America Small and Mid Cap Industrials",
-        "Machinery, Engineering & Construction"
+        "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials"
       ],
       "publish_time": "2026-10-15"
     },
@@ -628,8 +628,8 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy"
       ],
       "publish_time": "2026-10-13"

@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-10-21T10:34:41.999515+00:00",
-  "window_start": "2026-10-14",
-  "window_end": "2026-11-18",
+  "fetched_at": "2026-10-21T22:31:22.096345+00:00",
+  "window_start": "2026-10-15",
+  "window_end": "2026-11-19",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-10-14",
-      "country": "SG",
-      "indicator_id": "mas",
-      "time_kst": "08:00",
-      "note": "추정; mas.gov.sg 확인 필요"
-    },
     {
       "date": "2026-10-28",
       "country": "CA",
