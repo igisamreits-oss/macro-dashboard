@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T22:34:24.148070+00:00",
+  "fetched_at": "2026-10-21T10:34:13.168229+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -329,8 +329,8 @@
         }
       ],
       "tags": [
-        "Technology",
-        "Technology and Telecoms"
+        "Technology and Telecoms",
+        "Technology"
       ],
       "publish_time": "2026-10-15"
     },
@@ -424,11 +424,11 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
         "Infrastructure, Industrials & Transport",
-        "Machinery, Engineering & Construction",
+        "European Capital Goods",
         "Electrical Equipment & Multi-Industry",
-        "North America Small and Mid Cap Industrials"
+        "North America Small and Mid Cap Industrials",
+        "Machinery, Engineering & Construction"
       ],
       "publish_time": "2026-10-15"
     },
@@ -593,8 +593,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Internet - Mid & Small Cap"
+        "Internet - Mid & Small Cap",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-14"
     },
