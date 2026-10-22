@@ -1,5 +1,42 @@
 {
-  "fetched_at": "2026-10-22T03:07:53.333786+00:00",
-  "indicators": {},
-  "central_banks": {}
+  "fetched_at": "2026-10-22T10:34:46.911513+00:00",
+  "indicators": {
+    "us_cpi_yoy": {
+      "actual": 3.7,
+      "prior": 3.4,
+      "consensus": null,
+      "release_date": "2026-09-01",
+      "source": "fred"
+    },
+    "us_core_cpi_yoy": {
+      "actual": 2.6,
+      "prior": 2.4,
+      "consensus": null,
+      "release_date": "2026-09-01",
+      "source": "fred"
+    },
+    "us_pce_yoy": {
+      "actual": 3.4,
+      "prior": 3.4,
+      "consensus": null,
+      "release_date": "2026-08-01",
+      "source": "fred"
+    },
+    "us_core_pce_yoy": {
+      "actual": 3.0,
+      "prior": 3.0,
+      "consensus": null,
+      "release_date": "2026-08-01",
+      "source": "fred"
+    }
+  },
+  "central_banks": {
+    "fomc": {
+      "rate": 4.0,
+      "next_meeting": null,
+      "consensus_rate": null,
+      "as_of": "2026-10-21",
+      "source": "fred"
+    }
+  }
 }
