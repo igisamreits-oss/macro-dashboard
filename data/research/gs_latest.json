@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-10-22T10:33:16.105038+00:00",
+  "fetched_at": "2026-10-22T22:33:08.129261+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "42d65a4e-d3a1-4972-8d46-067c42206fb9",
+      "title": "First Industrial Realty Trust (FR): 3Q26 update: Smaller leasing spreads and less development leasing (and starts) reduces 2027 estimates",
+      "summary": "Following 3Q26 FR earnings we revise our estimates and price target lower, and go through takeaways from the FR earnings call that we believe contributed to underperformance on the day: 2027 lease expiration and spreads,...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/22/42d65a4e-d3a1-4972-8d46-067c42206fb9.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-10-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "bfe96bae-7e9e-48de-a164-98cc062e43fa",
+      "title": "Japan Metropolitan Fund Investment (8953.T): In line: raising med-term DPU target; steady internal growth and sales gains return as drivers; Buy",
+      "summary": "After the market close on Oct 21, the company announced its FP8/26 results. FP8/26 DPU of ¥3,012 was a slight miss vs. our previous forecast (¥3,072) but in line with expectations. Guidance for FP2/27 and FP8/27 is ¥3,000 and ¥3,050, respectively.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/22/bfe96bae-7e9e-48de-a164-98cc062e43fa.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Misato Okamoto",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-10-22"
+    },
     {
       "platform": "GS",
       "doc_id": "e342e279-40a0-4299-9bc9-c88498cc7a8c",
@@ -757,8 +818,8 @@
         }
       ],
       "tags": [
-        "REITs",
-        "Equity Research Management"
+        "Equity Research Management",
+        "REITs"
       ],
       "publish_time": "2026-09-28"
     },
@@ -1160,67 +1221,6 @@
         "Conglomerates"
       ],
       "publish_time": "2026-09-08"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "27029306-fa6a-4f7c-b840-9e0189f4efdd",
-      "title": "Millrose Properties Inc. (MRP): Updating Estimates for 2Q26 & Strong Future Deployment",
-      "summary": "We are updating our model estimates and price target after the company reported 2Q26 results, which were modestly below GS estimates on a Core EPS and AFFO basis. Our 2027 estimates shift higher to reflect higher net cap...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/02/27029306-fa6a-4f7c-b840-9e0189f4efdd.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-09-02"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "ab60d3c3-9583-40dd-9dc2-c4a98a133886",
-      "title": "Macerich Co. (MAC): Post 2Q26 Update: Leasing volume goals nearly met; conversion to permanent occupancy and a rich AFFO multiple are lingering hurdles",
-      "summary": "Following 2Q26 earnings, we review MAC's progress as part of its Path Forward (leasing, dispositions, debt refis, leverage), update our model and price target, and show earnings growth and valuation trends. Our model now...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/01/ab60d3c3-9583-40dd-9dc2-c4a98a133886.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-09-01"
     }
   ]
 }

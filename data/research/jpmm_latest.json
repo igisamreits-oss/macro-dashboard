@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T10:34:16.680134+00:00",
+  "fetched_at": "2026-10-22T22:34:07.518208+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,9 +50,9 @@
         }
       ],
       "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-10-19"
     },
@@ -390,10 +390,10 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
-        "North America Small and Mid Cap Industrials",
-        "Machinery, Engineering & Construction",
         "Infrastructure, Industrials & Transport",
+        "European Capital Goods",
+        "Machinery, Engineering & Construction",
+        "North America Small and Mid Cap Industrials",
         "Electrical Equipment & Multi-Industry"
       ],
       "publish_time": "2026-10-15"
@@ -493,8 +493,8 @@
       ],
       "tags": [
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"
     }
