@@ -1,6 +1,95 @@
 {
-  "fetched_at": "2026-10-21T22:33:12.937077+00:00",
+  "fetched_at": "2026-10-22T10:33:16.105038+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "e342e279-40a0-4299-9bc9-c88498cc7a8c",
+      "title": "Frasers Centrepoint Trust (FCRT.SI): FY26 in-line; Healthy reversion and progress on AEIs; Neutral",
+      "summary": "Frasers Centrepoint Trust (FCT)'s 2HFY26 DPU was +2.6% YoY with full-year DPU +2% YoY and in line at 99%/100% of GSe/IBES consensus full year forecasts. 12M26 reversion at +6.6% (6.5% for 6M26) is within guidance of mid-...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/22/e342e279-40a0-4299-9bc9-c88498cc7a8c.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-10-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "be405d4d-52bf-4a01-aa9a-f747f35fc245",
+      "title": "SL Green Realty Corp. (SLG): 3Q26 First Take: 3Q FFO below consensus, but FY26 FFO Guidance raise on hospitality platform transaction",
+      "summary": "SLG reported 3Q26 NAREIT FFOPS of $1.59, -9.6%/-3.4% below the GS/FactSet consensus estimates of $1.76/$1.65. Excluding the unmaterialized $10mn debt-extinguishment gain assumed by GS, FFOPS was 2.9% below our $1.63 core...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/22/be405d4d-52bf-4a01-aa9a-f747f35fc245.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-10-22"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "bbefb861-944c-4bd6-a785-ed535e895c6e",
+      "title": "Essential Properties Realty Trust (EPRT): 3Q26 First Take: Steady 3Q execution, higher FY26 guidance & possibly conservative 2027 guide",
+      "summary": "EPRT reported 3Q26 AFFO/share of $0.51, in line with GS/FactSet consensus and up 6.3% y/y. More importantly, the company completed $342.2mn of acquisitions during the quarter at average cash/GAAP cap rates of 7.7%/9.4%, ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/21/bbefb861-944c-4bd6-a785-ed535e895c6e.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-10-21"
+    },
     {
       "platform": "GS",
       "doc_id": "01765a0b-5c90-45f6-8eae-1cde18659b8d",
@@ -1132,75 +1221,6 @@
         "REITs"
       ],
       "publish_time": "2026-09-01"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "e9b9b945-9d56-42bf-a6be-a92655691bd8",
-      "title": "CapitaLand Ascendas REIT (CAPD.SI): Asia Leaders Conference 2026 Takeaways: Improving 2H26 growth with slower pace of acquisition in near term",
-      "summary": "Bottom line: We hosted Capitaland Ascendas REIT (CLAR) CEO, Mr William Tay, at our Asia Leaders Conference on September 1st. Investor focus was on DPU growth outlook and key drivers. Management expects stronger 2H26 DPU ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/01/e9b9b945-9d56-42bf-a6be-a92655691bd8.html",
-      "authors": [
-        {
-          "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
-      ],
-      "publish_time": "2026-09-01"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "5ba6dffd-d06c-4d59-8807-6bac310625c5",
-      "title": "Keppel DC REIT (KEPE.SI): Proposed acquisition of two colocation DCs in Greater Tokyo at 2.6% accretion; Buy",
-      "summary": "KDCREIT announced (i) the proposed acquisition of an 88.62% stake in Tokyo DC 4 and 5 for S$1.37bn and (ii) the launch of an S$600m private placement. The acquisition's NPI yield of 4-5%, built-in annual escalation of 2....",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/01/5ba6dffd-d06c-4d59-8807-6bac310625c5.html",
-      "authors": [
-        {
-          "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
-      ],
-      "publish_time": "2026-09-01"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "60da7411-aa56-4d49-9c47-205e8505a11e",
-      "title": "Keppel DC REIT (KEPE.SI): Asia Leaders Conference 2026 Takeaways: Steady growth with potential uplift from redevelopment / acquisitions",
-      "summary": "Bottom line: We hosted Keppel DC REIT (KDCREIT) CEO, Mr Loh Hwee Long, at our Asia Leaders Conference on August 31st. Investor questions revolved around rent reversion outlook, SGP1 redevelopment timeline, as well as future acquisition opportunities.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/08/31/60da7411-aa56-4d49-9c47-205e8505a11e.html",
-      "authors": [
-        {
-          "name": "Xuan Tan",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Hesper He",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
-      ],
-      "publish_time": "2026-08-31"
     }
   ]
 }

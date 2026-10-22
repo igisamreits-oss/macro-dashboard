@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T22:34:12.406434+00:00",
+  "fetched_at": "2026-10-22T10:34:16.680134+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,9 +50,9 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "European Capital Goods",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-19"
     },
@@ -79,40 +79,6 @@
         "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
       ],
       "publish_time": "2026-10-16"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5480344-0",
-      "publication_id": "GPS-5481686-0",
-      "title": "Aerospace & Defense",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5480344-0",
-      "authors": [
-        {
-          "name": "Seth M. Seifman, CFA",
-          "team": "Aerospace & Defense",
-          "email": "seth.m.seifman@jpmorgan.com"
-        },
-        {
-          "name": "Rocco J Barbero",
-          "team": "Aerospace & Defense",
-          "email": "rocco.j.barbero@jpmorgan.com"
-        },
-        {
-          "name": "Alexander Ladd",
-          "team": "Aerospace & Defense",
-          "email": "alex.ladd@jpmorgan.com"
-        },
-        {
-          "name": "Jamie Simonson",
-          "team": "Aerospace & Defense",
-          "email": "jamie.simonson@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Aerospace & Defense"
-      ],
-      "publish_time": "2026-10-08"
     },
     {
       "platform": "JPM",
@@ -280,8 +246,8 @@
         }
       ],
       "tags": [
-        "SMid Biotechnology",
-        "Biotechnology - Large Cap"
+        "Biotechnology - Large Cap",
+        "SMid Biotechnology"
       ],
       "publish_time": "2026-10-17"
     },
@@ -329,8 +295,8 @@
         }
       ],
       "tags": [
-        "Technology and Telecoms",
-        "Technology"
+        "Technology",
+        "Technology and Telecoms"
       ],
       "publish_time": "2026-10-15"
     },
@@ -425,10 +391,10 @@
       ],
       "tags": [
         "European Capital Goods",
-        "Infrastructure, Industrials & Transport",
-        "Electrical Equipment & Multi-Industry",
+        "North America Small and Mid Cap Industrials",
         "Machinery, Engineering & Construction",
-        "North America Small and Mid Cap Industrials"
+        "Infrastructure, Industrials & Transport",
+        "Electrical Equipment & Multi-Industry"
       ],
       "publish_time": "2026-10-15"
     },
@@ -465,108 +431,6 @@
         "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging"
       ],
       "publish_time": "2026-10-09"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5429034-0",
-      "publication_id": "KAL-1-EITTVNCR",
-      "title": "Hospitals",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5429034-0",
-      "authors": [
-        {
-          "name": "Benjamin Rossi",
-          "team": "Managed Care and Facilities",
-          "email": "benjamin.rossi@jpmorgan.com"
-        },
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "John Stansel, CFA",
-          "team": "Managed Care and Facilities",
-          "email": "john.stansel@jpmorgan.com"
-        },
-        {
-          "name": "Cole Harris",
-          "team": "Managed Care and Facilities",
-          "email": "cole.harris@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Managed Care and Facilities"
-      ],
-      "publish_time": "2026-10-08"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5469913-0",
-      "publication_id": "KAL-1-EITTVNCR",
-      "title": "Healthcare Services",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5469913-0",
-      "authors": [
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "John Stansel, CFA",
-          "team": "Managed Care and Facilities",
-          "email": "john.stansel@jpmorgan.com"
-        },
-        {
-          "name": "Benjamin Rossi",
-          "team": "Managed Care and Facilities",
-          "email": "benjamin.rossi@jpmorgan.com"
-        },
-        {
-          "name": "Cole Harris",
-          "team": "Managed Care and Facilities",
-          "email": "cole.harris@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Managed Care and Facilities"
-      ],
-      "publish_time": "2026-10-08"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5479762-0",
-      "publication_id": "KAL-1-EITTVNCR",
-      "title": "Healthcare Services: Managed Care & Hospitals",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5479762-0",
-      "authors": [
-        {
-          "name": "Lisa C. Gill",
-          "team": "Managed Care and Facilities",
-          "email": "lisa.c.gill@jpmorgan.com"
-        },
-        {
-          "name": "John Stansel, CFA",
-          "team": "Managed Care and Facilities",
-          "email": "john.stansel@jpmorgan.com"
-        },
-        {
-          "name": "Benjamin Rossi",
-          "team": "Managed Care and Facilities",
-          "email": "benjamin.rossi@jpmorgan.com"
-        },
-        {
-          "name": "Cole Harris",
-          "team": "Managed Care and Facilities",
-          "email": "cole.harris@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Managed Care and Facilities"
-      ],
-      "publish_time": "2026-10-08"
     },
     {
       "platform": "JPM",
@@ -628,9 +492,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-10-13"
     }
