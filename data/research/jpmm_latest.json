@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T22:34:07.518208+00:00",
+  "fetched_at": "2026-10-23T10:34:14.438393+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,9 +50,9 @@
         }
       ],
       "tags": [
-        "European Capital Goods",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "European Capital Goods"
       ],
       "publish_time": "2026-10-19"
     },
@@ -253,30 +253,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5478490-0",
-      "publication_id": "GPS-5482731-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5478490-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-10-09"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5490755-0",
       "publication_id": "KAL-1-LEPB6XVE",
       "title": "TSMC",
@@ -295,8 +271,8 @@
         }
       ],
       "tags": [
-        "Technology",
-        "Technology and Telecoms"
+        "Technology and Telecoms",
+        "Technology"
       ],
       "publish_time": "2026-10-15"
     },
@@ -390,47 +366,13 @@
         }
       ],
       "tags": [
-        "Infrastructure, Industrials & Transport",
-        "European Capital Goods",
         "Machinery, Engineering & Construction",
+        "European Capital Goods",
+        "Electrical Equipment & Multi-Industry",
         "North America Small and Mid Cap Industrials",
-        "Electrical Equipment & Multi-Industry"
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-10-15"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5482212-0",
-      "publication_id": "GPS-5483733-0",
-      "title": "2026 Autumn Chemicals, Agriculture & Packaging Outlook",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5482212-0",
-      "authors": [
-        {
-          "name": "Jeffrey J. Zekauskas",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "jeffrey.zekauskas@jpmorgan.com"
-        },
-        {
-          "name": "Silke Kueck",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "silke.x.kueck@jpmorgan.com"
-        },
-        {
-          "name": "Katie Zhang",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "katie.zhang@jpmchase.com"
-        },
-        {
-          "name": "Lydia Huang",
-          "team": "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging",
-          "email": "lydia.huang@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Chemicals: Specialty, Commodity, Agricultural, and Paper & Packaging"
-      ],
-      "publish_time": "2026-10-09"
     },
     {
       "platform": "JPM",
@@ -492,8 +434,8 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"

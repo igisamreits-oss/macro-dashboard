@@ -1,6 +1,90 @@
 {
-  "fetched_at": "2026-10-22T22:33:08.129261+00:00",
+  "fetched_at": "2026-10-23T10:33:13.651779+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "2b7e302b-b3b8-4637-bd85-66696069863b",
+      "title": "ORIX JREIT (8954.T): In line: Osaka hotels face headwinds but portfolio-wide NOI growth achieved; Buy",
+      "summary": "After market close on Oct 22, the company announced its FP8/26 results. FP8/26 DPS of ¥2,504 beat our prior estimate of ¥2,396 by +4.5% but was in line. Guidance for FP2/27 and FP8/27 DPS is ¥2,470 and ¥2,300, respectively.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/23/2b7e302b-b3b8-4637-bd85-66696069863b.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Misato Okamoto",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-10-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "7c9a56ee-53da-43fe-8305-37b6f3a028fc",
+      "title": "Keppel DC REIT (KEPE.SI): 3Q26 in-line: Anticipating stronger leasing cycle in 2028 with inorganic growth opportunities; Buy",
+      "summary": "Keppel DC REIT (KDCREIT)'s 3Q26 DPU of S¢2.86 was +12.6% YoY on stronger portfolio performance and acquisitions despite higher finance cost, but -0.8% QoQ on larger unit base post-EFR in September. 9M26 DPU was +11.7% Yo...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/23/7c9a56ee-53da-43fe-8305-37b6f3a028fc.html",
+      "authors": [
+        {
+          "name": "Xuan Tan",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Hesper He",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-10-23"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "9ec1cd30-3d59-4136-a6ab-0366bf42d7d8",
+      "title": "Kilroy Realty Corp. (KRC): 3Q26 First Take: Strong leasing quarter",
+      "summary": "KRC reported 3Q26 Nareit FFOPS of $0.88 (-18.9% y/y), which was 1.3%/1.5% ahead of the GSe/FactSet estimate of $0.87; and Core FFO of $0.87, which was +0.2%/+1.2% vs GS/consensus. Additionally, KRC updated its FY26 Narei...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/23/9ec1cd30-3d59-4136-a6ab-0366bf42d7d8.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-10-23"
+    },
     {
       "platform": "GS",
       "doc_id": "42d65a4e-d3a1-4972-8d46-067c42206fb9",
@@ -818,8 +902,8 @@
         }
       ],
       "tags": [
-        "Equity Research Management",
-        "REITs"
+        "REITs",
+        "Equity Research Management"
       ],
       "publish_time": "2026-09-28"
     },
@@ -1122,105 +1206,6 @@
         "REITs"
       ],
       "publish_time": "2026-09-10"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "5aa2f073-0737-400d-b3da-d78bb299d5f0",
-      "title": "Americas Real Estate: REITs: Model Updates: SPG, EPRT, KIM",
-      "summary": "We update our estimates for KIM, SPG, and EPRT to reflect recent company announcements and revised assumptions.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/10/5aa2f073-0737-400d-b3da-d78bb299d5f0.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-09-10"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "8f2582ed-1c30-4cdb-b3ec-eaefcbdecda3",
-      "title": "Americas Real Estate: REITs: August '26 Office Update: New York touring shows strength while San Francisco lags on Class A touring",
-      "summary": "We review the latest updates on (1) VTS office tour activity through August '26, (2) Return to office trends by market, and (3) San Francisco and NYC office leasing data.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/08/8f2582ed-1c30-4cdb-b3ec-eaefcbdecda3.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-09-08"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "7aa916eb-853e-4914-9ba0-4a8ff3a9febe",
-      "title": "Link REIT (0823.HK): 1QFY27 update: Narrower negative rental reversion to MSD% but full-year guidance unchanged at HSD%; Flat DPS in FY27 made up by share repurchases",
-      "summary": "After the market close on Sept 8th, Link REIT hosted a briefing to provide its latest operational trends for 1QFY27 (Apr-Jun 2026). The business trends and strategic directions were consistent with those provided during ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/09/08/7aa916eb-853e-4914-9ba0-4a8ff3a9febe.html",
-      "authors": [
-        {
-          "name": "Simon Cheung",
-          "department": "Conglomerates",
-          "division": "Research"
-        },
-        {
-          "name": "Alpha Wang",
-          "department": "Conglomerates",
-          "division": "Research"
-        },
-        {
-          "name": "Zhaoheng Chen",
-          "department": "Conglomerates",
-          "division": "Research"
-        },
-        {
-          "name": "Leah Pan",
-          "department": "Conglomerates",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Conglomerates"
-      ],
-      "publish_time": "2026-09-08"
     }
   ]
 }

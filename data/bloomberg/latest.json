@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T22:31:18.811459+00:00",
+  "fetched_at": "2026-10-23T10:31:17.179795+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -79,20 +79,20 @@
       "next_release_time": null
     },
     "sg_cpi_yoy": {
-      "actual": 2.3,
-      "prior": 2.2,
-      "consensus": 2.3,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-09-23",
+      "actual": 2.2,
+      "prior": 2.3,
+      "consensus": 2.4,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-10-23",
       "next_release_date": "2026-10-23",
       "next_release_time": "14:00"
     },
     "sg_core_cpi": {
-      "actual": 2.2,
-      "prior": 2.0,
-      "consensus": 2.2,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-09-23",
+      "actual": 2.0,
+      "prior": 2.2,
+      "consensus": 2.3,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-10-23",
       "next_release_date": "2026-10-23",
       "next_release_time": "14:00"
     },
@@ -113,29 +113,29 @@
       "source": "bdp"
     },
     "jp_cpi_yoy": {
-      "actual": 1.9,
+      "actual": 2.1,
       "prior": 1.9,
-      "consensus": 2.0,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-09-17",
+      "consensus": 2.1,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-10-22",
       "next_release_date": "2026-10-23",
       "next_release_time": "08:30"
     },
     "jp_core_cpi": {
-      "actual": 1.7,
-      "prior": 1.8,
-      "consensus": 1.8,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-09-17",
+      "actual": 2.1,
+      "prior": 1.7,
+      "consensus": 2.1,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-10-22",
       "next_release_date": "2026-10-23",
       "next_release_time": "08:30"
     },
     "jp_core_core": {
-      "actual": 1.9,
+      "actual": 2.4,
       "prior": 1.9,
-      "consensus": 2.0,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-09-17",
+      "consensus": 2.3,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-10-22",
       "next_release_date": "2026-10-23",
       "next_release_time": "08:30"
     },
@@ -444,11 +444,11 @@
       "next_release_time": "21:30"
     },
     "uk_retail_ex_fuel_mom": {
-      "actual": 0.6,
-      "prior": -0.9,
-      "consensus": -0.2,
-      "release_date": "2026-08-31",
-      "actual_release_date": "2026-09-18",
+      "actual": -0.7,
+      "prior": 0.9,
+      "consensus": -0.1,
+      "release_date": "2026-09-30",
+      "actual_release_date": "2026-10-23",
       "next_release_date": "2026-10-23",
       "next_release_time": "15:00"
     },
@@ -528,74 +528,74 @@
       "as_of": "2026-10-21"
     },
     "uk_pol_sonia": {
-      "value": 3.734,
-      "change_1d": 0.0,
-      "as_of": "2026-10-21"
+      "value": 3.7345,
+      "change_1d": 0.0005,
+      "as_of": "2026-10-22"
     },
     "eu_pol_estr": {
-      "value": 2.44,
-      "change_1d": 0.0,
-      "as_of": "2026-10-21"
+      "value": 2.442,
+      "change_1d": 0.002,
+      "as_of": "2026-10-22"
     },
     "kr_pol_cd91": {
       "value": 3.26,
       "change_1d": 0.0,
-      "as_of": "2026-10-22"
+      "as_of": "2026-10-23"
     },
     "sg_pol_sora": {
-      "value": 1.5224,
-      "change_1d": 0.0508,
-      "as_of": "2026-10-21"
+      "value": 1.5161,
+      "change_1d": -0.0063,
+      "as_of": "2026-10-22"
     },
     "hk_pol_hibor3m": {
-      "value": 3.254,
-      "change_1d": -0.0134,
-      "as_of": "2026-10-22"
+      "value": 3.2533,
+      "change_1d": -0.0007,
+      "as_of": "2026-10-23"
     },
     "se_pol_stib3m": {
-      "value": 2.118,
-      "change_1d": -0.005,
-      "as_of": "2026-10-21"
+      "value": 2.142,
+      "change_1d": 0.024,
+      "as_of": "2026-10-22"
     },
     "us_be_10y": {
-      "value": 2.3397,
-      "change_1d": -0.0282,
-      "as_of": "2026-10-22"
+      "value": 2.3405,
+      "change_1d": 0.0008,
+      "as_of": "2026-10-23"
     },
     "uk_be_10y": {
-      "value": 3.426,
-      "change_1d": -0.005,
-      "as_of": "2026-10-22"
+      "value": 3.444,
+      "change_1d": 0.018,
+      "as_of": "2026-10-23"
     },
     "eu_be_10y": {
-      "value": 1.216,
-      "change_1d": -0.027,
-      "as_of": "2026-10-22"
+      "value": 1.19,
+      "change_1d": -0.026,
+      "as_of": "2026-10-23"
     },
     "de_be_10y": {
-      "value": 2.2039,
-      "change_1d": -0.032,
-      "as_of": "2026-10-22"
+      "value": 2.2025,
+      "change_1d": -0.0014,
+      "as_of": "2026-10-23"
     },
     "fr_be_10y": {
-      "value": 2.184,
-      "change_1d": -0.036,
-      "as_of": "2026-10-22"
+      "value": 2.177,
+      "change_1d": -0.007,
+      "as_of": "2026-10-23"
     },
     "au_be_10y": {
-      "value": 2.35,
-      "change_1d": 0.002,
+      "value": 2.344,
+      "change_1d": -0.004,
       "as_of": "2026-10-23"
     },
     "jp_be_10y": {
-      "value": 2.114,
-      "change_1d": -0.016,
-      "as_of": "2026-10-22"
+      "value": 2.057,
+      "change_1d": -0.057,
+      "as_of": "2026-10-23"
     },
     "se_be_10y": {
-      "value": 1.966,
-      "change_1d": -0.006,
-      "as_of": "2026-10-22"
+      "value": 1.968,
+      "change_1d": 0.002,
+      "as_of": "2026-10-23"
     },
     "us_mort_30y": {
       "value": 7.32,
@@ -607,37 +607,37 @@
     "fomc": {
       "rate": 4.0,
       "consensus_rate": 4.0,
-      "implied_1y": 4.371,
+      "implied_1y": 4.3955,
       "next_meeting": null
     },
     "ecb": {
       "rate": 2.5,
       "consensus_rate": 2.5,
-      "implied_1y": 2.8388,
+      "implied_1y": 2.8649,
       "next_meeting": null
     },
     "boe": {
       "rate": 3.75,
       "consensus_rate": null,
-      "implied_1y": 4.497,
+      "implied_1y": 4.5335,
       "next_meeting": null
     },
     "rba": {
       "rate": 4.6,
       "consensus_rate": null,
-      "implied_1y": 4.9177,
+      "implied_1y": 4.9605,
       "next_meeting": null
     },
     "boj": {
       "rate": 1.25,
       "consensus_rate": null,
-      "implied_1y": 1.646,
+      "implied_1y": 1.63,
       "next_meeting": null
     },
     "boc": {
       "rate": 2.25,
       "consensus_rate": 2.25,
-      "implied_1y": 2.9352,
+      "implied_1y": 2.945,
       "next_meeting": null
     }
   }
