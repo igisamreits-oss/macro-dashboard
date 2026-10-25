@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T01:08:21.422633+00:00",
+  "fetched_at": "2026-10-25T13:08:24.725353+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -246,8 +246,8 @@
         }
       ],
       "tags": [
-        "Biotechnology - Large Cap",
-        "SMid Biotechnology"
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
       ],
       "publish_time": "2026-10-17"
     },
@@ -271,8 +271,8 @@
         }
       ],
       "tags": [
-        "Technology",
-        "Technology and Telecoms"
+        "Technology and Telecoms",
+        "Technology"
       ],
       "publish_time": "2026-10-15"
     },
@@ -366,11 +366,11 @@
         }
       ],
       "tags": [
-        "North America Small and Mid Cap Industrials",
+        "Machinery, Engineering & Construction",
         "Electrical Equipment & Multi-Industry",
         "Infrastructure, Industrials & Transport",
-        "European Capital Goods",
-        "Machinery, Engineering & Construction"
+        "North America Small and Mid Cap Industrials",
+        "European Capital Goods"
       ],
       "publish_time": "2026-10-15"
     },
@@ -399,8 +399,8 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-10-14"
     },
@@ -434,9 +434,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"
     }
