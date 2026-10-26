@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T13:08:24.725353+00:00",
+  "fetched_at": "2026-10-26T10:34:22.974166+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -366,11 +366,11 @@
         }
       ],
       "tags": [
-        "Machinery, Engineering & Construction",
-        "Electrical Equipment & Multi-Industry",
         "Infrastructure, Industrials & Transport",
         "North America Small and Mid Cap Industrials",
-        "European Capital Goods"
+        "European Capital Goods",
+        "Electrical Equipment & Multi-Industry",
+        "Machinery, Engineering & Construction"
       ],
       "publish_time": "2026-10-15"
     },
@@ -399,8 +399,8 @@
         }
       ],
       "tags": [
-        "Internet - Large Cap / Mid & Small Cap",
-        "Internet - Mid & Small Cap"
+        "Internet - Mid & Small Cap",
+        "Internet - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-14"
     },
@@ -434,8 +434,8 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"
