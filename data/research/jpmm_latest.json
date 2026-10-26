@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T10:34:22.974166+00:00",
+  "fetched_at": "2026-10-26T22:34:14.423787+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,8 +50,8 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "European Capital Goods"
       ],
       "publish_time": "2026-10-19"
@@ -113,6 +113,40 @@
         "Vertical SaaS & HealthTech"
       ],
       "publish_time": "2026-10-19"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5503145-0",
+      "publication_id": "KAL-1-GTAOK386",
+      "title": "Media",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5503145-0",
+      "authors": [
+        {
+          "name": "David Karnovsky, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "david.karnovsky@jpmorgan.com"
+        },
+        {
+          "name": "Alexey Philippov, CFA",
+          "team": "Media, Entertainment and Advertising",
+          "email": "alexey.philippov@jpmorgan.com"
+        },
+        {
+          "name": "Douglas Wardlaw",
+          "team": "Media, Entertainment and Advertising",
+          "email": "douglas.wardlaw@jpmchase.com"
+        },
+        {
+          "name": "Kiscada A Hastings",
+          "team": "Media, Entertainment and Advertising",
+          "email": "kiscada.hastings@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Media, Entertainment and Advertising"
+      ],
+      "publish_time": "2026-10-26"
     },
     {
       "platform": "JPM",
@@ -246,8 +280,8 @@
         }
       ],
       "tags": [
-        "SMid Biotechnology",
-        "Biotechnology - Large Cap"
+        "Biotechnology - Large Cap",
+        "SMid Biotechnology"
       ],
       "publish_time": "2026-10-17"
     },
@@ -366,11 +400,11 @@
         }
       ],
       "tags": [
-        "Infrastructure, Industrials & Transport",
-        "North America Small and Mid Cap Industrials",
+        "Machinery, Engineering & Construction",
         "European Capital Goods",
-        "Electrical Equipment & Multi-Industry",
-        "Machinery, Engineering & Construction"
+        "North America Small and Mid Cap Industrials",
+        "Infrastructure, Industrials & Transport",
+        "Electrical Equipment & Multi-Industry"
       ],
       "publish_time": "2026-10-15"
     },
@@ -434,11 +468,48 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-10-13"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5504207-0",
+      "publication_id": "GPS-5507344-0",
+      "title": "Transition Talks",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5504207-0",
+      "authors": [
+        {
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
+        },
+        {
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        },
+        {
+          "name": "Atul Tiwari",
+          "team": "India Industrials, Electric Utilities, and Infrastructure Sectors",
+          "email": "atul.tiwari@jpmorgan.com"
+        },
+        {
+          "name": "Samuel Tan",
+          "team": "ASEAN Tech Hardware / Technology",
+          "email": "samuel.tan@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "ASEAN Tech Hardware / Technology",
+        "India Industrials, Electric Utilities, and Infrastructure Sectors"
+      ],
+      "publish_time": "2026-10-26"
     }
   ]
 }
