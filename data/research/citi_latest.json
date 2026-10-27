@@ -1,6 +1,133 @@
 {
-  "fetched_at": "2026-10-27T10:32:17.957269+00:00",
+  "fetched_at": "2026-10-27T22:32:20.060018+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30471264",
+      "title": "China’s Silver Economy III: Retiring Wealthier, Aging Better",
+      "summary": "After decades of wealth accumulation, many in China are entering retirement with the means and the willingness to invest in their quality of life. We see this trend at the heart of China's silver economy, creating opportunities across elderly care, active lifestyles, and preventive health.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxMjY0",
+      "tags": [
+        "China Economics",
+        "Super-Sector Analysis",
+        "Theme Investing",
+        "Insurance -- Life"
+      ],
+      "publish_time": "2026-10-27 10:29",
+      "thumbnail": "https://ir.citi.com/8KQhXFwqs4cX4YjTvnTEEBVlyKKntsH92NIH_WknJ8wAU3siOnVzQHGDCkC8gyDAyL7PFRwiYPZ-V5vBUzkIhg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471988",
+      "title": "The High-Grade Beat: Hyperscalers Test New Wides",
+      "summary": "Hyperscaler spreads have reached their widest levels since the AI funding wave began in U.S. investment grade last year, as investors keep demanding a premium for the uncertainty around further supply. But a supply-driven decompression has its limits, with implications we explore herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxOTg4",
+      "tags": [
+        "The High-Grade Beat",
+        "Artificial Intelligence (AI)",
+        "Flagship",
+        "Relative Value",
+        "Credit Analysis",
+        "Flows"
+      ],
+      "publish_time": "2026-10-27 14:33",
+      "thumbnail": "https://ir.citi.com/pBRv6Q9JDX56V5y7Wm42S5fBGW75ooOEi080W0YgS8sSauCRsvpaWxoYRBQaTZg_NTYLus7GafhAatQBY6gpUg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471697",
+      "title": "Global Commodities: Geopolitics, Energy and Weather Converge",
+      "summary": "Agricultural markets remain supported by a rare convergence of risks, including geopolitical disruptions, high fertilizer and diesel costs, resilient biofuel demand, and the potential for a strong El Niño. We believe markets continue to underestimate the vulnerability of global balances.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxNjk3",
+      "tags": [
+        "Commodities Strategy",
+        "Macro Strategy",
+        "Inflation",
+        "Geopolitics",
+        "El Niño"
+      ],
+      "publish_time": "2026-10-26 23:23",
+      "thumbnail": "https://ir.citi.com/MeWCk4gDgLmTX4lYdX3sz-9dZRVY20_us_b_EwXJu6K3Ygkmbl6oeLHFZEOFwRHCnrpBS_6ur3PDx-GCIabdAg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471623",
+      "title": "Inflation Weekly: Let’s Talk About the PCE-CPI Wedge",
+      "summary": "Core CPI inflation typically runs slightly stronger than core PCE inflation, but that's reversed this year. Much of the stickiness in PCE is concentrated in goods and services consumers aren't necessarily paying for directly, a dynamic that could further complicate monetary policy.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxNjIz",
+      "tags": [
+        "U.S. Economics",
+        "Inflation",
+        "Inflation Weekly",
+        "Economic Analysis",
+        "Artificial Intelligence (AI)",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-10-26 18:28",
+      "thumbnail": "https://ir.citi.com/9u2_ms7IlUmUnBzsq8mRP5imd3rwbSmZJm1gJnV8Taa5kow-OJjN8dZfoHrikzpeEELWGMHPuOpsULaCEa543A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471655",
+      "title": "How to Navigate Brazil's Tougher Market Reality",
+      "summary": "Brazil’s leftward shift caught markets by surprise, with investors now adjusting. Amid mounting macro-to-micro uncertainties, we screen our coverage into three buckets, aimed at helping investors navigate Brazil's new reality: stories to avoid, places to hide, and flight-to-quality names.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxNjU1",
+      "tags": [
+        "Elections",
+        "Emerging Markets Consumption",
+        "Healthcare Services",
+        "Educational Services",
+        "Application Software",
+        "Telecommunications Operators"
+      ],
+      "publish_time": "2026-10-26 22:25",
+      "thumbnail": "https://ir.citi.com/oJwAri50gFvjgUtldo0gqBpzF8vbpx2nRND1qVvcGxM-TLcKdZ_0ReSbpvs-zpQUP1OKJrDuI2fr87eewUiMGA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471839",
+      "title": "Africa Weekly: The Egyptian Pound Under Pressure",
+      "summary": "A de-escalation of the Middle East conflict could support the Egyptian pound into year's end. But the current pressure highlights the difficult short-term policy choices facing the Central Bank of Egypt. We also look at Cote d’Ivoire's longer-term policy choices and their implications.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxODM5",
+      "tags": [
+        "Africa Economics & Strategy Weekly",
+        "Geopolitics",
+        "Fiscal Policy",
+        "Central Banks",
+        "Economic Growth",
+        "Economic Analysis"
+      ],
+      "publish_time": "2026-10-27 10:45",
+      "thumbnail": "https://ir.citi.com/kom2BuBia0qAaGgQxGGelXGLhWP1Xh13twtyuq7GngGoIW57u_BV_5JCLi1lvS9tS-dB_IpHjxj9SSOCEsZM2Q%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471653",
+      "title": "We're Upgrading Ferguson Enterprises to Buy",
+      "summary": "We're upgrading Ferguson Enterprises to Buy with a $288 target price following recent share-price weakness, with our positive view based on the acquisition of FloWorks, large capital-project share gains, and more resilient residential exposure.  We offer further analysis in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxNjUz",
+      "tags": [
+        "Rating Change",
+        "Target Price Change",
+        "Estimate Change",
+        "Building Products"
+      ],
+      "publish_time": "2026-10-27 05:00",
+      "thumbnail": "https://ir.citi.com/t6u9T0rfmnZebXSosotBCQntWnOqJ37zmNnZS_yYinf6HYNYTSNiY0w1NB4zbBPNFoMeFP4sJQMtjsdgHVm4Lw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471658",
+      "title": "Equity Markets Positioning Model: Short Activity in Ascendence",
+      "summary": "Global activity was bearish across the board after the recent rotation into Europe. We saw de-risking across equity indices driven largely by the initiation of new short positions. Nasdaq and S&P 500 positioning reduced further but already bearish Russell 2000 activity was more muted.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxNjU4",
+      "tags": [
+        "Model Portfolio",
+        "Equity Markets Positioning Model"
+      ],
+      "publish_time": "2026-10-26 21:05",
+      "thumbnail": "https://ir.citi.com/LBJh-X05UgAVF3jP4qaNcs3hw_rVQNA5ckgCbB1yjpeK_K8udt2jAom-27nOqUol-N00c9ZIfGxA-KBEP-sIww%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30471423",
@@ -484,58 +611,6 @@
       ],
       "publish_time": "2026-10-20 04:53",
       "thumbnail": "https://ir.citi.com/HUW5xvIFUPCRX9nS8PCZcwiIQ5-ZQ-zAXpINuuaQGrZPt4KBk7WteC5UPohX7cYrWkfE1J3P2wQtlUfYFRr2ow%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469418",
-      "title": "Atlassian: C3Q26 Preview and Thesis Refresh",
-      "summary": "Atlassian is one of our highest-conviction ideas. Recent product and R&D initiatives, stronger financial discipline under the new CFO, and positive demand, competition and execution checks support our view. We reaffirm our Buy rating and raise our price target to $245.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5NDE4",
-      "tags": [
-        "Atlassian",
-        "Target Price Increase"
-      ],
-      "publish_time": "2026-10-19 16:05",
-      "thumbnail": "https://ir.citi.com/1NScEMsczsX8jiBPvWGTwupLd4WSBmLddp6X4VKCJ0e_28EvzxNf7IRRRgCggFs4X8ESeSpaHdBwQE0jC5zdAA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469510",
-      "title": "Weekly REIT and Lodging Strategy: Tales from the Road",
-      "summary": "Ahead of 3Q26 earnings, investor interest in REITs has been restrained by higher interest rates despite strong earnings and cash-flow growth, improving KPIs and limited new supply. We highlight the most common sector and stock questions from recent investor meetings and provide our views.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5NTEw",
-      "tags": [
-        "REITs",
-        "Investor Meetings"
-      ],
-      "publish_time": "2026-10-19 17:25",
-      "thumbnail": "https://ir.citi.com/ZJV8PyQZ6e5-wj3vuvQ-TPMvXa4FGzgCCt04Eh5FK6qI89LkdX6ojQOOSeQIj9n6H_RHlXiw4BURjbpxJHY0HQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469498",
-      "title": "Quantitative Global Macro Strategy: What to Look for Around Rates Peaks",
-      "summary": "We revisit our framework to assess whether U.S. 10-year yields are nearing a peak. Softening cyclicals, quality outperformance and wider high-yield spreads suggest a top, but elevated oil prices and firming break-evens indicate the peak may still lie ahead. The outlook remains murky.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5NDk4",
-      "tags": [
-        "Quantitative Global Macro Strategy",
-        "Interest Rates"
-      ],
-      "publish_time": "2026-10-19 14:06",
-      "thumbnail": "https://ir.citi.com/SS3TAMWYYVEA5R5mnnRNtRQUem-VJ_6rE0EhxgYub91QWZiCLfX7QyJu83FoFOUhymjhuj6tWmSBf9vpRFGcoQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469157",
-      "title": "Brazil Retail/Consumption: The New Domestic Playbook",
-      "summary": "With Brazilian retail/consumer equities rallying, we lower our average cost of equity by 150bps and update ratings. We upgrade MGLU and AZZA, downgrade ALPA, and keep SMFT as our top pick. The main risk remains macro and policy-driven, particularly if interest rates retrace.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5MTU3",
-      "tags": [
-        "Brazil Retail",
-        "Rating Changes"
-      ],
-      "publish_time": "2026-10-19 08:25",
-      "thumbnail": "https://ir.citi.com/BVMPvxH8E_nKLAwyElVTt5-9eUZQhJfkUZx46PdOx_8rkL0JVp-TeZqQeDlJTUYswA6wQwoYwPpIn5Z3XadKeg%3D%3D"
     }
   ]
 }
