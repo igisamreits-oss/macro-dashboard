@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T22:34:14.423787+00:00",
+  "fetched_at": "2026-10-27T10:34:21.105903+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,9 +50,9 @@
         }
       ],
       "tags": [
+        "European Capital Goods",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "European Capital Goods"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-19"
     },
@@ -305,8 +305,8 @@
         }
       ],
       "tags": [
-        "Technology and Telecoms",
-        "Technology"
+        "Technology",
+        "Technology and Telecoms"
       ],
       "publish_time": "2026-10-15"
     },
@@ -400,11 +400,11 @@
         }
       ],
       "tags": [
-        "Machinery, Engineering & Construction",
         "European Capital Goods",
+        "Electrical Equipment & Multi-Industry",
+        "Machinery, Engineering & Construction",
         "North America Small and Mid Cap Industrials",
-        "Infrastructure, Industrials & Transport",
-        "Electrical Equipment & Multi-Industry"
+        "Infrastructure, Industrials & Transport"
       ],
       "publish_time": "2026-10-15"
     },
@@ -433,8 +433,8 @@
         }
       ],
       "tags": [
-        "Internet - Mid & Small Cap",
-        "Internet - Large Cap / Mid & Small Cap"
+        "Internet - Large Cap / Mid & Small Cap",
+        "Internet - Mid & Small Cap"
       ],
       "publish_time": "2026-10-14"
     },
@@ -469,8 +469,8 @@
       ],
       "tags": [
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-10-13"
     },
@@ -504,10 +504,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research",
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "ASEAN Tech Hardware / Technology",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-26"
     }
