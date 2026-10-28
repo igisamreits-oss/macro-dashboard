@@ -1,10 +1,146 @@
 {
-  "fetched_at": "2026-10-28T10:32:18.796104+00:00",
+  "fetched_at": "2026-10-28T22:32:26.096695+00:00",
   "items": [
     {
       "platform": "Citi",
+      "doc_id": "30472752",
+      "title": "“Medicine Starting to Work Some” As Fed Holds Rates Steady",
+      "summary": "Chair Warsh dovishly noted that higher policy rates are having their expected effect in tightening financial conditions and acknowledged rates may already be at appropriate settings. As we explore herein, we continue to think the U.S. economy's breadth of strength is being overstated.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyNzUy",
+      "tags": [
+        "U.S. Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-10-28 16:30",
+      "thumbnail": "https://ir.citi.com/cYufWWByMaxnnYXkTDIA1xNzmra5NEH1nTkbHXqiCQec_WMWWJYzCtdiXY10-rZgZLLOzUrJrtcd-5FLC-Ah6A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30472649",
+      "title": "European Equity Strategy: When Rotation Reaches Extremes",
+      "summary": "European equities have seen one of the sharpest rotations on record, with Defensive outperformance vs. Cyclicals breaching a threshold only usually seen amid major market stress. But unlike in the past, the European index remains near highs. We look at what may lie ahead.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyNjQ5",
+      "tags": [
+        "European Equity Strategy",
+        "Macro Strategy",
+        "Volatility",
+        "Flows"
+      ],
+      "publish_time": "2026-10-28 12:58",
+      "thumbnail": "https://ir.citi.com/WHFsugk3xhrZhxs_19ePhtfqXM5x-xEMfQa2BV9YVC6ze4ilC9X65XIpBbmMGcHQOJ-x__WXN-q4ntngxTWQzw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30472628",
+      "title": "What’s in the Price for Data Centers?",
+      "summary": "Stocks exposed to data centers have underperformed amid broader market concerns about financing the AI trade. Following the recent de-rating, we estimate that data-center growth peaking in 2027 and then reverting to single-digit growth is now in the price, which we see as overly negative.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyNjI4",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Electrical Equipment"
+      ],
+      "publish_time": "2026-10-28 13:00",
+      "thumbnail": "https://ir.citi.com/KQzze3EV7vg4X8blAa-tjhqEDPkLfi-f0D3uOfhKokcmRKZlpJfD4N8A23_GlcNna0eKTsv2x9excE5xhhZWqA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30472610",
+      "title": "Canada Raises Rates on Yet-to-Materialize Upside Inflation Risks",
+      "summary": "Canada raised rates 25 basis points as markets had priced, contrary to our expectations. This was framed as “risk management,” with decisions to be made “carefully.” Officials are now heavily focused on headline inflation; a further rise in energy prices could mean another near-term hike.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyNjEw",
+      "tags": [
+        "Canada Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation"
+      ],
+      "publish_time": "2026-10-28 12:40",
+      "thumbnail": "https://ir.citi.com/OuT5-fAalG7_iNYmJnQj_9HG4UuRL9qgbyWU2dqINXGoOwIOSAAThKptUu1rT16qGFJcejomkY8OWDQVPPgbnw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30472249",
+      "title": "Global Gas and Power Insights: Potential Outcomes for TTF",
+      "summary": "Given a potential escalation of the Middle East conflict, we assess what the market could be pricing and a potential range of outcomes for TTF. As we explore herein, it appears increases in winter 2026-27, 2027 and 2028 strips are all pricing similar probabilities of escalation.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyMjQ5",
+      "tags": [
+        "Commodities Strategy",
+        "Global Gas and Power Insights",
+        "Geopolitics"
+      ],
+      "publish_time": "2026-10-28 01:22",
+      "thumbnail": "https://ir.citi.com/6JMs_2iAt5mqZrItZsGDJ1zoy26_ot5QFJDVTJU6B6jkoA2QhvYReGTpOE65ioyBhHcw1AfoMrNWbEpT1G4PuQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30471638",
+      "title": "We're Upgrading MercadoLibre to Buy",
+      "summary": "We're upgrading MercadoLibre to Buy as we believe recent share-price weakness creates an attractive entry point. Although our 2027-28 estimates remain below consensus, MELI continues to grow materially more quickly than local consumer markets regardless of the macro backdrop.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxNjM4",
+      "tags": [
+        "Rating Change",
+        "Internet",
+        "Emerging Markets Consumption",
+        "Estimate Change",
+        "Target Price Change"
+      ],
+      "publish_time": "2026-10-27 06:18",
+      "thumbnail": "https://ir.citi.com/c-VzU7jzZfxU0hYSIxTaXUsXzcasY7gEv81Ca2xonrBBJkQu09NhPyZikpkn1ZV01s5PgP8mWw4jG_isSr0hTA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30472291",
+      "title": "U.S. Biotechnology: Third-Quarter Preview",
+      "summary": "Heading into third-quarter earnings, we outline expectations across our commercial SMID biotech names, with refreshed models for AGIO, RYTM and ROIV and notes about what we'll be watching for from the three.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyMjkx",
+      "tags": [
+        "Target Price Change",
+        "Biotechnology"
+      ],
+      "publish_time": "2026-10-28 05:41",
+      "thumbnail": "https://ir.citi.com/gTK7zhU98YYlmlKF8eNk_J_FsMcy0oT0JxRtZJIsoG-7SKASDEXgrdRe4fL6RihEO1i67SgUZxr7-RduzRKYcA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30472210",
+      "title": "Japan FX: Checkpoints for the USDJPY",
+      "summary": "We expect the USDJPY to remain in the range of ¥155/$ to ¥160/$ near term, but see the risk associated with the U.S. midterms as marginally to the upside. We believe the next round of intervention to buy the JPY will be when the pair reaches around ¥160/$, with further analysis herein.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyMjEw",
+      "tags": [
+        "Central Banks",
+        "Flows",
+        "Politics",
+        "Elections"
+      ],
+      "publish_time": "2026-10-27 21:42",
+      "thumbnail": "https://ir.citi.com/MVXBs6MYRSfUsPuwlbCQZaKprXFHmGQts6xT_aJbsCbpKsRm2DwgrYFrvdcnErFf3qlV01n_olDXVWUMSmS2pA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30472243",
+      "title": "Australia Economics: Hot CPI Print All But Confirms a Rate Hike",
+      "summary": "Australia's third-quarter trimmed-mean inflation rose 1.0% quarter over quarter, all but confirming a 25-basis-point hike in November. The data validate our thesis of second-half price re-acceleration driven by too-strong domestic demand and ongoing supply shocks.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcyMjQz",
+      "tags": [
+        "Economic Forecast",
+        "Monetary Policy",
+        "Inflation",
+        "Australia Economics",
+        "Economic Analysis",
+        "Central Banks"
+      ],
+      "publish_time": "2026-10-27 22:13",
+      "thumbnail": "https://ir.citi.com/OtXwO07Rp7_lAfMNNMbZIsRhYySJpQCQGgcW2u464RCyUqyjjB0xoR_CPJU1_T4lh1iY7NIr2jV5BAuyJyNKzA%3D%3D"
+    },
+    {
+      "platform": "Citi",
       "doc_id": "30471264",
-      "title": "China’s Silver Economy III: Retiring Wealthier, Aging Better",
+      "title": "China’s Silver Economy, Pt. 3: Retiring Wealthier, Aging Better",
       "summary": "After decades of wealth accumulation, many in China are entering retirement with the means and the willingness to invest in their quality of life. We see this trend at the heart of China's silver economy, creating opportunities across elderly care, active lifestyles, and preventive health.",
       "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxMjY0",
       "tags": [
@@ -127,22 +263,6 @@
       ],
       "publish_time": "2026-10-26 21:05",
       "thumbnail": "https://ir.citi.com/LBJh-X05UgAVF3jP4qaNcs3hw_rVQNA5ckgCbB1yjpeK_K8udt2jAom-27nOqUol-N00c9ZIfGxA-KBEP-sIww%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30471423",
-      "title": "FOMC Preview: No Hike, No Guidance",
-      "summary": "Expectations for Wednesday's FOMC meeting are low, with no hike expected and no guidance likely. Attention will focus on Chair Warsh's general tone and how sensitive (or not) policy will be to declining equity prices. We continue to expect another 25-basis-point hike in December.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDcxNDIz",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-10-26 08:49",
-      "thumbnail": "https://ir.citi.com/etfnyO7huKbgT5fJ3BBqeI-P7W8o3Q-VCv-Zpp_IxQ9EWe-724IWQmCagrRaagyRNMC68z-mQ5EWK9RsE07o5w%3D%3D"
     },
     {
       "platform": "Citi",
@@ -528,89 +648,6 @@
       ],
       "publish_time": "2026-10-22 04:13",
       "thumbnail": "https://ir.citi.com/875v1VjSVi997FiFBFwiOaHPxv8uI4eO9VXrJCdTyoNetngN4yjPXZnedudN8e01W3BuPbiObNTCUNp4cUvsqg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469930",
-      "title": "SpaceX 3Q26 Results: On Track For Major Beats vs Consensus",
-      "summary": "SPCX reported 3Q26 results that beat expectations, with all three main segments exceeding forecasts across key share price drivers including revenue, gross profit and adjusted EBITDA. We raise our price target to $240 from $200 and reiterate our Buy rating.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5OTMw",
-      "tags": [
-        "Sapce",
-        "Target Price Change",
-        "Estimate Change"
-      ],
-      "publish_time": "2026-10-20 21:14",
-      "thumbnail": "https://ir.citi.com/iAXnsc6VNYTk2TYqN0RK0xmGZJ7dBxtFFMc0zWe-keO_EEakwdRNrdB-lj95aBFbesfM464AaWwBn6enPz6DDA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469801",
-      "title": "U.S. Alternative Energy Equipment & Services: 3Q26 Preview",
-      "summary": "Renewables remain out of favor amid higher rates, policy uncertainty and rising costs, despite robust demand. Utility-scale solar activity remains strong, supporting a favorable setup for NXT and a low bar for FSLR. Residential solar sentiment could improve if interest rates stabilize.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5ODAx",
-      "tags": [
-        "Alternative Energy Equipment & Services",
-        "Estimate Change",
-        "Short-Term View",
-        "Catalyst Watch",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-10-20 20:05",
-      "thumbnail": "https://ir.citi.com/sTgqfpTZLj8UMQvPxPSwaMDhw-LpU222_P5-i5Zvu_jj0-l2FWpXJkfF2SrReA-gAY0JLLUR1e3xHvMqa4n7Wg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469612",
-      "title": "U.S. Supply Chain Software: Q326 Preview",
-      "summary": "We enter 3Q26 earnings constructive on supply-chain software, supported by demand for automation and modernization. We remain positive on MANH and SPSC, backed by solid demand indicators, and are raising estimates and price targets for both companies.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5NjEy",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Cloud Computing",
-        "Target Price Change",
-        "Estimate Change",
-        "Application Software"
-      ],
-      "publish_time": "2026-10-20 06:46",
-      "thumbnail": "https://ir.citi.com/hQ1QcV099ewo4sCDVpVWpGV8_2KaKO90I-BQ2lU69M3B46tTJJJRKK9ShVnhzvgE8i9RWap_5ZViDVR-kfdVdg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469735",
-      "title": "U.S. Midstream & Energy Infrastructure: 3Q26 Preview",
-      "summary": "We wouldn't be surprised to see flat-to-lower sequential 3Q26 EBITDA after a strong 2Q26. However, improving Permian production, a constructive commodity backdrop and recent M&A activity could support higher annual guidance across much of our coverage.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5NzM1",
-      "tags": [
-        "Oil & Gas Storage and Transportation",
-        "Oil & Gas"
-      ],
-      "publish_time": "2026-10-20 16:00",
-      "thumbnail": "https://ir.citi.com/SfZnc9Djy__XjTfo04RbqiR0W6lC-Njz74hMuJ96_RW8N7Qob0PDvt8LHVWqQtKoBzR5ZIh2BsbbZuXMk6DxPA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469547",
-      "title": "Equity Markets Positioning Model: A Shift Toward Europe",
-      "summary": "Global positioning reflected a rotation away from growth exposures. Europe was the main beneficiary, attracting new long inflows while positioning remained constructive. The U.S. saw renewed shorts building, while Asia remained the weakest region with increased short activity.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5NTQ3",
-      "tags": [
-        "Model Portfolio"
-      ],
-      "publish_time": "2026-10-19 18:19",
-      "thumbnail": "https://ir.citi.com/X6BY8DG_5HM34fW64Y59dWX_V0mx-9vZfOIMzkHtsf2DLj2ATh8XSMNzyuGCxFzGDy-RN6Iff98mxbLoYj6QyQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30469647",
-      "title": "UK Economics: Labour Market Turning a Corner?",
-      "summary": "Recent labour-market data and strong GDP growth add to pressure for the BoE to hike rates in November. The unemployment rate fell to 4.7%, employment growth was strong, and PAYE inflows turned positive after six months of declines. We continue to expect a 25bp hike in November.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDY5NjQ3",
-      "tags": [
-        "UK Economics"
-      ],
-      "publish_time": "2026-10-20 04:53",
-      "thumbnail": "https://ir.citi.com/HUW5xvIFUPCRX9nS8PCZcwiIQ5-ZQ-zAXpINuuaQGrZPt4KBk7WteC5UPohX7cYrWkfE1J3P2wQtlUfYFRr2ow%3D%3D"
     }
   ]
 }
