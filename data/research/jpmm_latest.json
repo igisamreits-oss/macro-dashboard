@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T10:34:20.886448+00:00",
+  "fetched_at": "2026-10-29T22:34:18.804649+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -50,9 +50,9 @@
         }
       ],
       "tags": [
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "European Capital Goods",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "European Capital Goods"
       ],
       "publish_time": "2026-10-19"
     },
@@ -147,6 +147,30 @@
         "Media, Entertainment and Advertising"
       ],
       "publish_time": "2026-10-26"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5513471-0",
+      "publication_id": "KAL-1-M2GWMH6G",
+      "title": "Tenable",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5513471-0",
+      "authors": [
+        {
+          "name": "Brian Essex, CFA",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "brian.essex@jpmchase.com"
+        },
+        {
+          "name": "John Lee",
+          "team": "Software - Large Cap / Mid & Small Cap",
+          "email": "john.h.lee@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Software - Large Cap / Mid & Small Cap"
+      ],
+      "publish_time": "2026-10-29"
     },
     {
       "platform": "JPM",
@@ -248,129 +272,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5490755-0",
-      "publication_id": "KAL-1-LEPB6XVE",
-      "title": "TSMC",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5490755-0",
-      "authors": [
-        {
-          "name": "Gokul Hariharan",
-          "team": "Technology and Telecoms",
-          "email": "gokul.hariharan@jpmorgan.com"
-        },
-        {
-          "name": "David Chou",
-          "team": "Technology",
-          "email": "david.chou@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Technology",
-        "Technology and Telecoms"
-      ],
-      "publish_time": "2026-10-15"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5490806-0",
-      "publication_id": "GPS-5491811-0",
-      "title": "Global Capital Goods",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5490806-0",
-      "authors": [
-        {
-          "name": "Tami Zakaria, CFA",
-          "team": "Machinery, Engineering & Construction",
-          "email": "tami.zakaria@jpmchase.com"
-        },
-        {
-          "name": "Alec R McGuire",
-          "team": "Machinery, Engineering & Construction",
-          "email": "alec.mcguire@jpmorgan.com"
-        },
-        {
-          "name": "Raquel Betesh",
-          "team": "Machinery, Engineering & Construction",
-          "email": "raquel.betesh@jpmchase.com"
-        },
-        {
-          "name": "Tomohiko Sano",
-          "team": "North America Small and Mid Cap Industrials",
-          "email": "tomohiko.sano@jpmorgan.com"
-        },
-        {
-          "name": "Brendan Shea, CFA",
-          "team": "North America Small and Mid Cap Industrials",
-          "email": "brendan.shea@jpmorgan.com"
-        },
-        {
-          "name": "Ethan Coyle",
-          "team": "North America Small and Mid Cap Industrials",
-          "email": "ethan.coyle@jpmchase.com"
-        },
-        {
-          "name": "Phil Buller",
-          "team": "European Capital Goods",
-          "email": "phil.buller@jpmorgan.com"
-        },
-        {
-          "name": "Chitrita C Sinha",
-          "team": "European Capital Goods",
-          "email": "chitrita.sinha@jpmorgan.com"
-        },
-        {
-          "name": "Akash Gupta",
-          "team": "European Capital Goods",
-          "email": "akash.z.gupta@jpmorgan.com"
-        },
-        {
-          "name": "Jeremy Caspar",
-          "team": "European Capital Goods",
-          "email": "jeremy.caspar@jpmorgan.com"
-        },
-        {
-          "name": "Mariana Andrade",
-          "team": "European Capital Goods",
-          "email": "mariana.andrade@jpmorgan.com"
-        },
-        {
-          "name": "Julian Mitchell",
-          "team": "Electrical Equipment & Multi-Industry",
-          "email": "julian.x.mitchell@jpmchase.com"
-        },
-        {
-          "name": "Chigusa Katoku",
-          "team": "Electrical Equipment & Multi-Industry",
-          "email": "chigusa.katoku@jpmchase.com"
-        },
-        {
-          "name": "Piyush Khaitan",
-          "team": "Electrical Equipment & Multi-Industry",
-          "email": "piyush.khaitan@jpmchase.com"
-        },
-        {
-          "name": "Drew Smith",
-          "team": "Electrical Equipment & Multi-Industry",
-          "email": "drew.d.smith@jpmchase.com"
-        },
-        {
-          "name": "Karen Li, CFA",
-          "team": "Infrastructure, Industrials & Transport",
-          "email": "karen.yy.li@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "North America Small and Mid Cap Industrials",
-        "Electrical Equipment & Multi-Industry",
-        "Infrastructure, Industrials & Transport",
-        "European Capital Goods",
-        "Machinery, Engineering & Construction"
-      ],
-      "publish_time": "2026-10-15"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5504207-0",
       "publication_id": "GPS-5507344-0",
       "title": "Transition Talks",
@@ -401,8 +302,8 @@
       "tags": [
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "ASEAN Tech Hardware / Technology"
+        "ASEAN Tech Hardware / Technology",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-26"
     }
