@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T10:34:18.623783+00:00",
+  "fetched_at": "2026-10-30T22:34:16.464544+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -67,13 +67,38 @@
         }
       ],
       "tags": [
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "Asia Autos & EV Battery",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-10-30"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5497550-0",
+      "publication_id": "KAL-1-0E4R2XMH",
+      "title": "Asia Credit Market Overview: A Primer",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5497550-0",
+      "authors": [
+        {
+          "name": "Matthew Hughart",
+          "team": "Asia Pacific Credit Research",
+          "email": "matthew.hughart@jpmorgan.com"
+        },
+        {
+          "name": "Viquar Shaikh",
+          "team": "Global Index Research",
+          "email": "viquar.shaikh@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Asia Pacific Credit Research",
+        "Global Index Research"
+      ],
+      "publish_time": "2026-10-23"
     },
     {
       "platform": "JPM",
@@ -260,10 +285,92 @@
         }
       ],
       "tags": [
-        "SMid Biotechnology",
-        "Biotechnology - Large Cap"
+        "Biotechnology - Large Cap",
+        "SMid Biotechnology"
       ],
       "publish_time": "2026-10-17"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5492709-0",
+      "publication_id": "KAL-1-5Z0974ED",
+      "title": "Asia Corporate Credit Analysis",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5492709-0",
+      "authors": [
+        {
+          "name": "Soo Chong Lim",
+          "team": "Asia Pacific Credit Research",
+          "email": "soochong.lim@jpmorgan.com"
+        },
+        {
+          "name": "Alvin Au",
+          "team": "Asia Pacific Credit Research",
+          "email": "alvin.au@jpmorgan.com"
+        },
+        {
+          "name": "Shirley Yau",
+          "team": "Asia Pacific Credit Research",
+          "email": "shirley.yau@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Asia Pacific Credit Research"
+      ],
+      "publish_time": "2026-10-18"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5512796-0",
+      "publication_id": "KAL-1-SAGTRQ5U",
+      "title": "Less-Than-Truckload",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5512796-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-10-30"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5509357-0",
+      "publication_id": "GPS-5518928-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5509357-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-10-30"
     },
     {
       "platform": "JPM",
@@ -296,8 +403,8 @@
       ],
       "tags": [
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "ASEAN Tech Hardware / Technology"
       ],
       "publish_time": "2026-10-26"
