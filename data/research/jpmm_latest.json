@@ -1,30 +1,6 @@
 {
-  "fetched_at": "2026-10-29T22:34:18.804649+00:00",
+  "fetched_at": "2026-10-30T10:34:18.623783+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5486852-0",
-      "publication_id": "GPS-5494223-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5486852-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-10-16"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5494305-0",
@@ -50,35 +26,54 @@
         }
       ],
       "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "European Capital Goods"
+        "European Capital Goods",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
       "publish_time": "2026-10-19"
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5492283-0",
-      "publication_id": "KAL-1-XEC6LVWV",
-      "title": "Americas Construction Materials",
+      "doc_id": "GPS-5514421-0",
+      "publication_id": "GPS-5517287-0",
+      "title": "Transition Talks",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5492283-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5514421-0",
       "authors": [
         {
-          "name": "Adrian E Huerta",
-          "team": "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
-          "email": "adrian.huerta@jpmorgan.com"
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
         },
         {
-          "name": "Garrett Greenblatt",
-          "team": "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate",
-          "email": "garrett.greenblatt@jpmorgan.com"
+          "name": "Hannah L Lee",
+          "team": "APAC Equity Thematic and Sustainable Investing Research",
+          "email": "hannah.l.lee@jpmorgan.com"
+        },
+        {
+          "name": "Mark Strouse, CFA",
+          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
+          "email": "mark.w.strouse@jpmorgan.com"
+        },
+        {
+          "name": "Rebecca Wen",
+          "team": "Asia Autos & EV Battery",
+          "email": "rebecca.y.wen@jpmorgan.com"
+        },
+        {
+          "name": "Parsley Ong",
+          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
+          "email": "parsley.rh.ong@jpmorgan.com"
         }
       ],
       "tags": [
-        "Mexico Equity Strategy / US and Latam Cement & Construction / Latam Real Estate"
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Asia Autos & EV Battery",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing"
       ],
-      "publish_time": "2026-10-16"
+      "publish_time": "2026-10-30"
     },
     {
       "platform": "JPM",
@@ -300,10 +295,10 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "ASEAN Tech Hardware / Technology",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "ASEAN Tech Hardware / Technology"
       ],
       "publish_time": "2026-10-26"
     }
