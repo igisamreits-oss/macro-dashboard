@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T22:34:16.464544+00:00",
+  "fetched_at": "2026-10-31T13:08:07.763990+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -67,11 +67,11 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Asia Autos & EV Battery",
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-30"
     },
@@ -252,46 +252,6 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5494488-0",
-      "publication_id": "KAL-1-0ZLN9O0Y",
-      "title": "US Biotechnology",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5494488-0",
-      "authors": [
-        {
-          "name": "Jessica Fye",
-          "team": "Biotechnology - Large Cap",
-          "email": "jessica.m.fye@jpmorgan.com"
-        },
-        {
-          "name": "Anupam Rama",
-          "team": "SMid Biotechnology",
-          "email": "anupam.rama@jpmorgan.com"
-        },
-        {
-          "name": "Tessa T Romero",
-          "team": "SMid Biotechnology",
-          "email": "tessa.t.romero@jpmchase.com"
-        },
-        {
-          "name": "Brian Cheng",
-          "team": "SMid Biotechnology",
-          "email": "brian.cheng@jpmorgan.com"
-        },
-        {
-          "name": "Priyanka Grover, Ph.D.",
-          "team": "SMid Biotechnology",
-          "email": "priyanka.grover@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Biotechnology - Large Cap",
-        "SMid Biotechnology"
-      ],
-      "publish_time": "2026-10-17"
-    },
-    {
-      "platform": "JPM",
       "doc_id": "GPS-5492709-0",
       "publication_id": "KAL-1-5Z0974ED",
       "title": "Asia Corporate Credit Analysis",
@@ -402,10 +362,10 @@
         }
       ],
       "tags": [
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "ASEAN Tech Hardware / Technology"
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
+        "ASEAN Tech Hardware / Technology",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-26"
     }
