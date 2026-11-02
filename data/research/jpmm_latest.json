@@ -1,37 +1,6 @@
 {
-  "fetched_at": "2026-11-01T13:07:45.185089+00:00",
+  "fetched_at": "2026-11-02T10:34:09.431233+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5494305-0",
-      "publication_id": "KAL-1-SRELFK18",
-      "title": "Global Alternative Energy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5494305-0",
-      "authors": [
-        {
-          "name": "Mark Strouse, CFA",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "mark.w.strouse@jpmorgan.com"
-        },
-        {
-          "name": "Akash Gupta",
-          "team": "European Capital Goods",
-          "email": "akash.z.gupta@jpmorgan.com"
-        },
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "European Capital Goods",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
-      ],
-      "publish_time": "2026-10-19"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5514421-0",
@@ -67,11 +36,11 @@
         }
       ],
       "tags": [
-        "Asia Autos & EV Battery",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Head of Asia Energy & Chemicals | Asia EV Battery"
+        "Asia Autos & EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-30"
     },
@@ -99,40 +68,6 @@
         "Global Index Research"
       ],
       "publish_time": "2026-10-23"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5491513-0",
-      "publication_id": "KAL-1-BYPT5SJ1",
-      "title": "GoDaddy Inc",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5491513-0",
-      "authors": [
-        {
-          "name": "Alexei Gogolev",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "alexei.gogolev@jpmorgan.com"
-        },
-        {
-          "name": "Ella Smith",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "ella.smith@jpmchase.com"
-        },
-        {
-          "name": "Destiny Jackson",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "destiny.jackson@jpmorgan.com"
-        },
-        {
-          "name": "Isabella A Camaj",
-          "team": "Vertical SaaS & HealthTech",
-          "email": "bella.camaj@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Vertical SaaS & HealthTech"
-      ],
-      "publish_time": "2026-10-19"
     },
     {
       "platform": "JPM",
@@ -191,93 +126,6 @@
         "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-29"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5486326-0",
-      "publication_id": "KAL-1-TH23ZMPE",
-      "title": "Telecom, Cable & Satellite",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5486326-0",
-      "authors": [
-        {
-          "name": "Sebastiano C Petti",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "sebastiano.c.petti@jpmorgan.com"
-        },
-        {
-          "name": "Shayna Nguyen",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "shayna.nguyen@jpmchase.com"
-        },
-        {
-          "name": "John Stid",
-          "team": "Telecom Services, Cable & Satellite",
-          "email": "john.stid@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Telecom Services, Cable & Satellite"
-      ],
-      "publish_time": "2026-10-19"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5485265-0",
-      "publication_id": "KAL-1-0ZLN9O0Y",
-      "title": "US SMid Biotech",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5485265-0",
-      "authors": [
-        {
-          "name": "Priyanka Grover, Ph.D.",
-          "team": "SMid Biotechnology",
-          "email": "priyanka.grover@jpmchase.com"
-        },
-        {
-          "name": "Umar Mukhetdinov",
-          "team": "SMid Biotechnology",
-          "email": "umar.mukhetdinov@jpmchase.com"
-        },
-        {
-          "name": "Anupam Rama",
-          "team": "SMid Biotechnology",
-          "email": "anupam.rama@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "SMid Biotechnology"
-      ],
-      "publish_time": "2026-10-19"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5492709-0",
-      "publication_id": "KAL-1-5Z0974ED",
-      "title": "Asia Corporate Credit Analysis",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5492709-0",
-      "authors": [
-        {
-          "name": "Soo Chong Lim",
-          "team": "Asia Pacific Credit Research",
-          "email": "soochong.lim@jpmorgan.com"
-        },
-        {
-          "name": "Alvin Au",
-          "team": "Asia Pacific Credit Research",
-          "email": "alvin.au@jpmorgan.com"
-        },
-        {
-          "name": "Shirley Yau",
-          "team": "Asia Pacific Credit Research",
-          "email": "shirley.yau@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Asia Pacific Credit Research"
-      ],
-      "publish_time": "2026-10-18"
     },
     {
       "platform": "JPM",
@@ -362,10 +210,10 @@
         }
       ],
       "tags": [
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "APAC Equity Thematic and Sustainable Investing Research",
         "ASEAN Tech Hardware / Technology",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-26"
     }

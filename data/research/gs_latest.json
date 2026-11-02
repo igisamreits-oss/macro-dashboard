@@ -1,6 +1,39 @@
 {
-  "fetched_at": "2026-11-01T13:06:45.873990+00:00",
+  "fetched_at": "2026-11-02T10:33:10.136558+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "9f2beed8-3f5f-4d38-8b14-1a1fee40bab8",
+      "title": "Link REIT (0823.HK): HK$2.3bn cash proceeds from disposal of 700 Nathan Road in HK. Scope to repurchase up to another 3.4% units",
+      "summary": "After the market closed on Oct 30th, Link REIT announced the disposal of its 100% interest in a mixed-use project at 700 Nathan Road in Hong Kong for HK$2.3bn, representing -8.6% discount to its appraised value of HK$2.52bn at end-Sep 2026.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/02/9f2beed8-3f5f-4d38-8b14-1a1fee40bab8.html",
+      "authors": [
+        {
+          "name": "Simon Cheung",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Alpha Wang",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Zhaoheng Chen",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Leah Pan",
+          "department": "Conglomerates",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Conglomerates"
+      ],
+      "publish_time": "2026-11-02"
+    },
     {
       "platform": "GS",
       "doc_id": "4c78e415-951b-47c5-b27a-8b083d406703",
@@ -1192,39 +1225,6 @@
         "Real Estate"
       ],
       "publish_time": "2026-10-16"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "d01d75f2-d85d-41ec-af18-258c0cea272c",
-      "title": "Real Estate: REITs: Looking down the office quality curve: Examining Manhattan Class B office and spillover demand",
-      "summary": "In this report, we analyze Manhattan's Class B (as designated by CoStar) office market and the tenant demand expanding down the quality curve as Class A space availability tightens. We utilize CoStar market/sub-market da...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/14/d01d75f2-d85d-41ec-af18-258c0cea272c.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-14"
     }
   ]
 }
