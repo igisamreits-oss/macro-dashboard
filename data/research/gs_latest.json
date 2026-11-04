@@ -1,6 +1,67 @@
 {
-  "fetched_at": "2026-11-04T10:33:16.220002+00:00",
+  "fetched_at": "2026-11-04T22:32:40.313651+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "f4f4b3df-b019-46f2-b0ec-23ead5b29beb",
+      "title": "Australia and New Zealand Economics Analyst: NZ Election Preview: Too Close to Call",
+      "summary": "New Zealand’s 7 November election appears too close to call. Our Monte Carlo simulations of recent polling lean slightly towards a Labour-led outcome, while prediction markets slightly favour a continuation of the current National-led government.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/04/f4f4b3df-b019-46f2-b0ec-23ead5b29beb.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        },
+        {
+          "name": "Will Maher",
+          "department": "Asia Economics",
+          "division": "Research"
+        },
+        {
+          "name": "Oscar To",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-11-04"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "f0d7d0ab-93cb-4e79-b78c-b4986a08f8ea",
+      "title": "BXP Inc. (BXP): 3Q26 Update: Encouraging fundamental trends, but elevated near-term leasing costs push AFFO growth out while dispositions and refi headwinds limit '27 growth",
+      "summary": "Following 3Q26 earnings, we update our BXP model and price target, and highlight key takeaways from the earnings call.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/04/f0d7d0ab-93cb-4e79-b78c-b4986a08f8ea.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-04"
+    },
     {
       "platform": "GS",
       "doc_id": "185f7ebf-cc42-41f3-8356-517a09362795",
@@ -1174,72 +1235,6 @@
         "REITs"
       ],
       "publish_time": "2026-10-22"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "bbefb861-944c-4bd6-a785-ed535e895c6e",
-      "title": "Essential Properties Realty Trust (EPRT): 3Q26 First Take: Steady 3Q execution, higher FY26 guidance & possibly conservative 2027 guide",
-      "summary": "EPRT reported 3Q26 AFFO/share of $0.51, in line with GS/FactSet consensus and up 6.3% y/y. More importantly, the company completed $342.2mn of acquisitions during the quarter at average cash/GAAP cap rates of 7.7%/9.4%, ...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/21/bbefb861-944c-4bd6-a785-ed535e895c6e.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-21"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "01765a0b-5c90-45f6-8eae-1cde18659b8d",
-      "title": "First Industrial Realty Trust (FR): 3Q26 First Take: No new development starts but increased '26 FFO & SS NOI guidance",
-      "summary": "FR reported 3Q26 FFOPS of $0.81, -1.2% vs. FactSet consensus/GSe of $0.82, and +6.6% y/y. Despite the quarter miss, FR increased SS NOI growth 75bps at the midpoint, to 6.5%, and increased the Core FFO/share range (+$0.0...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/21/01765a0b-5c90-45f6-8eae-1cde18659b8d.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-21"
     }
   ]
 }
