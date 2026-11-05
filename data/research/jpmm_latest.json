@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T22:33:40.608614+00:00",
+  "fetched_at": "2026-11-05T10:34:16.652174+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -37,10 +37,10 @@
       ],
       "tags": [
         "Asia Autos & EV Battery",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-30"
     },
@@ -64,8 +64,8 @@
         }
       ],
       "tags": [
-        "Asia Pacific Credit Research",
-        "Global Index Research"
+        "Global Index Research",
+        "Asia Pacific Credit Research"
       ],
       "publish_time": "2026-10-23"
     },
@@ -126,6 +126,53 @@
         "Software - Large Cap / Mid & Small Cap"
       ],
       "publish_time": "2026-10-29"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5520384-0",
+      "publication_id": "CFP-PC-11818-0",
+      "title": "China A-shares Equity Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5520384-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Chloe Liu, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "chloe.x.liu@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Qian Yao",
+          "team": "Consumer",
+          "email": "qian.q.yao@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "China & HK Equity strategy",
+        "Consumer",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+      ],
+      "publish_time": "2026-11-03"
     },
     {
       "platform": "JPM",
@@ -210,9 +257,9 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "APAC Equity Thematic and Sustainable Investing Research",
         "ASEAN Tech Hardware / Technology",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "India Industrials, Electric Utilities, and Infrastructure Sectors"
       ],
       "publish_time": "2026-10-26"
