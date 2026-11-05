@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-05T10:33:16.928275+00:00",
+  "fetched_at": "2026-11-05T22:33:22.641173+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "b0ba4ed8-795c-4546-9176-9526dc2b0679",
+      "title": "Camden Property Trust (CPT): 3Q26 First Take: Expenses beat, but SS guide lowered",
+      "summary": "CPT reported 3Q26 Core FFO of $1.71 per share, 1.9% above GSe of $1.68 and 1.2% above Visible Alpha consensus of $1.69 (driven primarily by lower OpEx). Reported Core FFO was also $0.02 above the company’s $1.69 guidance midpoint.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/05/b0ba4ed8-795c-4546-9176-9526dc2b0679.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-05"
+    },
     {
       "platform": "GS",
       "doc_id": "6a7945f5-1c5d-4610-ab5b-358030c22401",
@@ -1205,39 +1233,6 @@
       ],
       "tags": [
         "Real Estate"
-      ],
-      "publish_time": "2026-10-23"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "9ec1cd30-3d59-4136-a6ab-0366bf42d7d8",
-      "title": "Kilroy Realty Corp. (KRC): 3Q26 First Take: Strong leasing quarter",
-      "summary": "KRC reported 3Q26 Nareit FFOPS of $0.88 (-18.9% y/y), which was 1.3%/1.5% ahead of the GSe/FactSet estimate of $0.87; and Core FFO of $0.87, which was +0.2%/+1.2% vs GS/consensus. Additionally, KRC updated its FY26 Narei...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/23/9ec1cd30-3d59-4136-a6ab-0366bf42d7d8.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
       ],
       "publish_time": "2026-10-23"
     }

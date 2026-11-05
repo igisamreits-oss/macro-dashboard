@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T10:34:16.652174+00:00",
+  "fetched_at": "2026-11-05T22:34:21.853308+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,11 +36,11 @@
         }
       ],
       "tags": [
-        "Asia Autos & EV Battery",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Asia Autos & EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-30"
     },
@@ -64,8 +64,8 @@
         }
       ],
       "tags": [
-        "Global Index Research",
-        "Asia Pacific Credit Research"
+        "Asia Pacific Credit Research",
+        "Global Index Research"
       ],
       "publish_time": "2026-10-23"
     },
@@ -167,10 +167,10 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Consumer",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Consumer"
       ],
       "publish_time": "2026-11-03"
     },
@@ -257,10 +257,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
         "ASEAN Tech Hardware / Technology",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors"
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-26"
     }
