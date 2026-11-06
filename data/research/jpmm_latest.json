@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T10:34:14.017284+00:00",
+  "fetched_at": "2026-11-06T22:34:17.149632+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -37,10 +37,10 @@
       ],
       "tags": [
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Asia Autos & EV Battery",
         "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Asia Autos & EV Battery"
       ],
       "publish_time": "2026-10-30"
     },
@@ -104,6 +104,35 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5527239-0",
+      "publication_id": "GPS-5530680-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5527239-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        },
+        {
+          "name": "Masato Takahashi",
+          "team": "Economic and Policy Research",
+          "email": "masato.takahashi@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-11-06"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5520384-0",
       "publication_id": "CFP-PC-11818-0",
       "title": "China A-shares Equity Strategy",
@@ -142,9 +171,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Consumer"
       ],
       "publish_time": "2026-11-03"
@@ -232,10 +261,10 @@
         }
       ],
       "tags": [
-        "ASEAN Tech Hardware / Technology",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
+        "ASEAN Tech Hardware / Technology"
       ],
       "publish_time": "2026-10-26"
     }
