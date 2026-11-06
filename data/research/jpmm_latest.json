@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T22:34:21.853308+00:00",
+  "fetched_at": "2026-11-06T10:34:14.017284+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -37,37 +37,12 @@
       ],
       "tags": [
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Asia Autos & EV Battery",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-30"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5497550-0",
-      "publication_id": "KAL-1-0E4R2XMH",
-      "title": "Asia Credit Market Overview: A Primer",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5497550-0",
-      "authors": [
-        {
-          "name": "Matthew Hughart",
-          "team": "Asia Pacific Credit Research",
-          "email": "matthew.hughart@jpmorgan.com"
-        },
-        {
-          "name": "Viquar Shaikh",
-          "team": "Global Index Research",
-          "email": "viquar.shaikh@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Asia Pacific Credit Research",
-        "Global Index Research"
-      ],
-      "publish_time": "2026-10-23"
     },
     {
       "platform": "JPM",
@@ -167,9 +142,9 @@
         }
       ],
       "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Consumer"
       ],
       "publish_time": "2026-11-03"
@@ -258,8 +233,8 @@
       ],
       "tags": [
         "ASEAN Tech Hardware / Technology",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "APAC Equity Thematic and Sustainable Investing Research",
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
         "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-10-26"
