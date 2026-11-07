@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-11-06T22:34:44.507848+00:00",
-  "window_start": "2026-10-30",
-  "window_end": "2026-12-04",
+  "fetched_at": "2026-11-07T04:28:43.571511+00:00",
+  "window_start": "2026-10-31",
+  "window_end": "2026-12-05",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-10-30",
-      "country": "JP",
-      "indicator_id": "boj",
-      "time_kst": "12:00",
-      "note": ""
-    },
     {
       "date": "2026-11-03",
       "country": "AU",
