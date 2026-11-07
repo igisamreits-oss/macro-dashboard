@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T22:34:17.149632+00:00",
+  "fetched_at": "2026-11-07T13:08:14.655914+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,11 +36,11 @@
         }
       ],
       "tags": [
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "APAC Equity Thematic and Sustainable Investing Research",
+        "Asia Autos & EV Battery",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Asia Autos & EV Battery"
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-30"
     },
@@ -171,9 +171,9 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "China & HK Equity strategy",
         "Consumer"
       ],
       "publish_time": "2026-11-03"
@@ -261,10 +261,10 @@
         }
       ],
       "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
         "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "ASEAN Tech Hardware / Technology"
+        "ASEAN Tech Hardware / Technology",
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-26"
     }
