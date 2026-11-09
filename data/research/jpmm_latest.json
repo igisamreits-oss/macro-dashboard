@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T10:34:14.059902+00:00",
+  "fetched_at": "2026-11-09T22:34:11.799693+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,11 +36,11 @@
         }
       ],
       "tags": [
-        "Asia Autos & EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Autos & EV Battery"
       ],
       "publish_time": "2026-10-30"
     },
@@ -138,9 +138,9 @@
       ],
       "tags": [
         "Consumer",
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-11-03"
     },
@@ -196,43 +196,6 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-10-30"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5504207-0",
-      "publication_id": "GPS-5507344-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5504207-0",
-      "authors": [
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        },
-        {
-          "name": "Atul Tiwari",
-          "team": "India Industrials, Electric Utilities, and Infrastructure Sectors",
-          "email": "atul.tiwari@jpmorgan.com"
-        },
-        {
-          "name": "Samuel Tan",
-          "team": "ASEAN Tech Hardware / Technology",
-          "email": "samuel.tan@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "APAC Equity Thematic and Sustainable Investing Research",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "ASEAN Tech Hardware / Technology"
-      ],
-      "publish_time": "2026-10-26"
     }
   ]
 }
