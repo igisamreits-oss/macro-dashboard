@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T13:08:17.834169+00:00",
+  "fetched_at": "2026-11-09T10:34:14.059902+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,47 +36,13 @@
         }
       ],
       "tags": [
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research",
+        "Asia Autos & EV Battery",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Clean Energy, Power Infrastructure, and Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Asia Autos & EV Battery"
+        "APAC Equity Thematic and Sustainable Investing Research"
       ],
       "publish_time": "2026-10-30"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5503145-0",
-      "publication_id": "KAL-1-GTAOK386",
-      "title": "Media",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5503145-0",
-      "authors": [
-        {
-          "name": "David Karnovsky, CFA",
-          "team": "Media, Entertainment and Advertising",
-          "email": "david.karnovsky@jpmorgan.com"
-        },
-        {
-          "name": "Alexey Philippov, CFA",
-          "team": "Media, Entertainment and Advertising",
-          "email": "alexey.philippov@jpmorgan.com"
-        },
-        {
-          "name": "Douglas Wardlaw",
-          "team": "Media, Entertainment and Advertising",
-          "email": "douglas.wardlaw@jpmchase.com"
-        },
-        {
-          "name": "Kiscada A Hastings",
-          "team": "Media, Entertainment and Advertising",
-          "email": "kiscada.hastings@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Media, Entertainment and Advertising"
-      ],
-      "publish_time": "2026-10-26"
     },
     {
       "platform": "JPM",
@@ -171,10 +137,10 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
         "Consumer",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-11-03"
     },
@@ -261,10 +227,10 @@
         }
       ],
       "tags": [
-        "India Industrials, Electric Utilities, and Infrastructure Sectors",
-        "ASEAN Tech Hardware / Technology",
+        "APAC Equity Thematic and Sustainable Investing Research",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "India Industrials, Electric Utilities, and Infrastructure Sectors",
+        "ASEAN Tech Hardware / Technology"
       ],
       "publish_time": "2026-10-26"
     }
