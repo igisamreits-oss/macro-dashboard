@@ -1,6 +1,66 @@
 {
-  "fetched_at": "2026-11-11T10:32:13.326976+00:00",
+  "fetched_at": "2026-11-11T22:32:46.327789+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30478430",
+      "title": "U.S. Economics: Whipsawed by Waller",
+      "summary": "In just one day, Fedspeak combined with another hot core CPI reading led to a substantial repricing in near-term rate hike expectations. Overnight, comments from Governor Waller explicitly put the possibility of a 50-basis-point December hike on the table. We consider what may lie ahead.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4NDMw",
+      "tags": [
+        "The Daily Update",
+        "U.S. Economics",
+        "Economic Analysis",
+        "Inflation",
+        "Central Banks",
+        "Monetary Policy",
+        "Economic Forecast"
+      ],
+      "publish_time": "2026-11-11 07:00",
+      "thumbnail": "https://ir.citi.com/0Dr5S9qh-cSOVsd5-UZ-3I4l8yVTaOA3jo4up4SumHhmtSLNFPOY7RpGJkVI-BrqE-r1Mg1qAX7Z48ohkvUTEQ%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30478496",
+      "title": "Citi Internet Insight Series: Agentic Commerce's Inflection Point",
+      "summary": "Following conversations with executives at Publicis and ReFiBuy.ai, we see agentic commerce as reaching an inflection point, with AI increasingly influencing product discovery, and note the potential for agentic commerce to be a meaningful contributor to ecommerce growth in 2027.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4NDk2",
+      "tags": [
+        "Internet",
+        "Internet-Driven Business Models",
+        "Card Insights",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-11-11 06:46",
+      "thumbnail": "https://ir.citi.com/3ARUu70S_h84scD1zDHnS_lDpqfYfO6mgmmSDwpNqGuhXpkg-wwTQejP6B_VcJUgQcDL1KiuT4Hllv0YQOxh-A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30478772",
+      "title": "Citi China Conference 2026: Key Takeaways, Pt. 1",
+      "summary": "We offer the first installment of key takeaways from our China Conference in Shanghai and Shenzhen, with notes on names including CLP Holdings, Eastroc Beverage, Galaxy Entertainment, HUTCHMED, Leapmotor, Sunny Optical and Yadea Group.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4Nzcy",
+      "tags": [
+        "Corporate Events & Special Situations",
+        "Compendium"
+      ],
+      "publish_time": "2026-11-11 11:56",
+      "thumbnail": "https://ir.citi.com/kcZ5f93F0m7TtAMusgL5WwOA49R4eE4i7MjBA4p10--NalGKri_OaUwrYY7Iqq0C_0t_MAV8-nZRbdKZEKIYnA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30478478",
+      "title": "Data-Center Buildouts: Getting More Expensive? Yes. Over? No.",
+      "summary": "In the short term, sentiment-driven volatility and AI concerns are generating mixed market signals about data-center buildouts. But over the long term, a pause today may result in more transparent, responsible, and sustainable AI advancement. We offer further analysis in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4NDc4",
+      "tags": [
+        "Artificial Intelligence (AI)",
+        "Credit Analysis",
+        "Cross Asset Strategy"
+      ],
+      "publish_time": "2026-11-11 07:00",
+      "thumbnail": "https://ir.citi.com/Z05bmO_25pMe_62zf_fQMg5T12mc1fkGJQNxE1h6ZhF7ZSMbYKPSmNdv_h-4pvEB38-iEIx-lYAZZu03KbZpYQ%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30478312",
@@ -565,128 +625,6 @@
       ],
       "publish_time": "2026-11-05 03:50",
       "thumbnail": "https://ir.citi.com/c8Kllzag72fLdpg4w3B-1bf5Qzl3yO_k0r1In6TO0vKi3wzUIayN3QK29Z_eXhmpPDBeep7zM8iraw4m9iAjuQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475918",
-      "title": "Off the Cuff: Assessing Markets' Response to the Midterms",
-      "summary": "With the midterms behind us, we look at how embedded sentiment has been about three aspects of President Trump's policies: tariffs, Iran and spending. We explore how far sentiment-driven repositioning can run and consider the push and pull between sentiment and fundamentals.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1OTE4",
-      "tags": [
-        "Elections",
-        "Off the Cuff",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-11-04 13:46",
-      "thumbnail": "https://ir.citi.com/L-MYaReQLKty99t5NfXZjn1UdWI13El5rRLecBDzOFfxuhwLARGWTZ1uxhw5i_rRvrAcW2H8cZPMDWYDaYFZsg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475513",
-      "title": "We're Downgrading Adobe to Sell",
-      "summary": "We're downgrading Adobe to Sell, seeing downside risk to consensus growth estimates into FY27. New CEO Anil Chakravarty takes over in December and we expect strategic changes to Adobe’s Creative business, potentially at the expense of near-term growth. We offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1NTEz",
-      "tags": [
-        "Application Software",
-        "Artificial Intelligence (AI)",
-        "Rating Change",
-        "Target Price Change"
-      ],
-      "publish_time": "2026-11-04 01:30",
-      "thumbnail": "https://ir.citi.com/iSEg2qKH4XzlqoIkBYXSHC1trIvRLPTH20H5xUnD2MVDk4ToI9uNoPD96SgmOb7AWt8SjB_6omW_nTBiBOVkvQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475499",
-      "title": "AMD Sees AI Sales Reaching Escape Velocity",
-      "summary": "We maintain AMD as our top Buy-rated large-cap growth compute semis pick following its \"beat and raise\" results. Management now sees data-center AI as the largest business within AMD; with the AI business reaching escape velocity, investor focus shifts to executing a multiyear ramp.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1NDk5",
-      "tags": [
-        "Semiconductors",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-11-04 00:50",
-      "thumbnail": "https://ir.citi.com/F2ezcgrhepawFeEEw1bpXuGtTuZWW8CAguVaR-CV92suoHUOoV_NnhkoDf_vPvq3ctprTD_D7ulTi2KQ7dV31A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475509",
-      "title": "Arista Networks' First Look at 2027 Is Better Than Expected",
-      "summary": "Arista's results topped expectations as strong AI and Enterprise customer demand delivered record topline growth, and delivered above-consensus FY27 guidance. ANET expects long-term growth above the market’s ~24% five-year CAGR, due to share gains. We offer further analysis in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1NTA5",
-      "tags": [
-        "Electronic Components & Equipment",
-        "Estimate Change",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-11-04 00:15",
-      "thumbnail": "https://ir.citi.com/VovfptP2_vFfxxi7Bbt3b0_HB_iEJ_EQK9NinDHYoqNhvn3U7Y9uqHhlEVg3wf2x9M2MpHF-aBcG3K0jA-ek_g%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475095",
-      "title": "We're Upgrading Ferrovial to Buy",
-      "summary": "We're upgrading Ferrovial to Buy. We think the market is discounting both the group's growth trajectory, underpinned by its high-quality concession assets, as well as the recent U.S. P3 project wins. We estimate ~13% EPS CAGR over 2027-30 and see an attractive entry point for investors.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1MDk1",
-      "tags": [
-        "Catalyst Watch",
-        "Infrastructure Investment",
-        "Motorways",
-        "Estimate Change",
-        "Target Price Change",
-        "Rating Change"
-      ],
-      "publish_time": "2026-11-04 00:00",
-      "thumbnail": "https://ir.citi.com/8jmf1ryyur0a122vroCsgHAS9txHbPT9T0_46ZyWvXMoj08Arhd5szp_3F_pwoCIdVqqgYafnzyOKvppyoDtxw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475678",
-      "title": "U.S. Electric Utilities: What's Texas's Data-Center Outlook Now?",
-      "summary": "Greg Abbott was voted out as Texas governor, with data centers a top campaign issue. We think the new administration has a mandate to put in strong public protections around new data centers. which will likely slow approvals and become a key focus in the state's 2027 legislative session.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1Njc4",
-      "tags": [
-        "Artificial Intelligence (AI)",
-        "Elections",
-        "Public Policy",
-        "Electric Utilities"
-      ],
-      "publish_time": "2026-11-04 07:39",
-      "thumbnail": "https://ir.citi.com/PZGYQqTr2QKxEHAZaHl8oVi7E1Hmb94Qq6w9e4TnzeoON3jIZSy32EureopjG2OgVIvWxmxLH9eMUL9CFGd_Zw%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475362",
-      "title": "Global Quantitative Macro Strategy: The Great Tech Selloff",
-      "summary": "Our flow model has completed a decisive rotation out of Technology, establishing Materials, Communications, and Health Care as the preferred longs. We see market conditions as having moved firmly away from Goldilocks and toward the late-cycle Tightening Financial Conditions.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1MzYy",
-      "tags": [
-        "Global Quantitative Macro Strategy",
-        "Macro Strategy",
-        "Flows"
-      ],
-      "publish_time": "2026-11-03 17:45",
-      "thumbnail": "https://ir.citi.com/UDtlrGN4BWi0Ulc45XJf1PNLAxa-UpV4nbZgmUqWSLbJtOB87ql92fyhUMcpa1Djt-GrR7hi_YxolI2RYyovyQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30474940",
-      "title": "Latin America's Reform Agenda: From Mandate to Delivery",
-      "summary": "Latin America's reform window is now being tested, as six new governments plus Brazil look to convert electoral mandates into legislative outcomes. We look at the legislative arithmetic for reform and explore how the next six weeks will compress the execution test into the budget cycle.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc0OTQw",
-      "tags": [
-        "Latin America Economic Outlook & Strategy",
-        "Flagship",
-        "Elections",
-        "Fiscal Policy",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Economic Growth",
-        "Emerging Markets",
-        "Public Policy"
-      ],
-      "publish_time": "2026-11-03 12:25",
-      "thumbnail": "https://ir.citi.com/VRiOn7mrbUHGVPOp3bOv__92YVuiznPLE7sx0M018oyHa44Vw3AVW6XLw2wneZIMgdXbYLlPWoPeY6dDp1QgNQ%3D%3D"
     }
   ]
 }
