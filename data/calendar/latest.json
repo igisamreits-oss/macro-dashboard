@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-11-10T22:34:46.758232+00:00",
-  "window_start": "2026-11-03",
-  "window_end": "2026-12-08",
+  "fetched_at": "2026-11-11T04:31:44.996406+00:00",
+  "window_start": "2026-11-04",
+  "window_end": "2026-12-09",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-11-03",
-      "country": "AU",
-      "indicator_id": "rba",
-      "time_kst": "12:30",
-      "note": "AEDT"
-    },
     {
       "date": "2026-11-05",
       "country": "UK",
@@ -24,6 +17,13 @@
       "indicator_id": "rba",
       "time_kst": "12:30",
       "note": ""
+    },
+    {
+      "date": "2026-12-09",
+      "country": "CA",
+      "indicator_id": "boc",
+      "time_kst": "23:45",
+      "note": "EST"
     }
   ]
 }
