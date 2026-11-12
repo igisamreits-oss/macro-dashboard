@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T22:34:49.099807+00:00",
+  "fetched_at": "2026-11-12T10:34:13.988890+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -37,36 +37,12 @@
       ],
       "tags": [
         "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "Asia Autos & EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "APAC Equity Thematic and Sustainable Investing Research"
+        "APAC Equity Thematic and Sustainable Investing Research",
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Asia Autos & EV Battery"
       ],
       "publish_time": "2026-10-30"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5513471-0",
-      "publication_id": "KAL-1-M2GWMH6G",
-      "title": "Tenable",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5513471-0",
-      "authors": [
-        {
-          "name": "Brian Essex, CFA",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "brian.essex@jpmchase.com"
-        },
-        {
-          "name": "John Lee",
-          "team": "Software - Large Cap / Mid & Small Cap",
-          "email": "john.h.lee@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Software - Large Cap / Mid & Small Cap"
-      ],
-      "publish_time": "2026-10-29"
     },
     {
       "platform": "JPM",
@@ -96,6 +72,83 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-11-06"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5515277-0",
+      "publication_id": "GPS-5537202-0",
+      "title": "National Stock Exchange of India",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5515277-0",
+      "authors": [
+        {
+          "name": "Madhukar Ladha",
+          "team": "India Financials",
+          "email": "madhukar.ladha@jpmorgan.com"
+        },
+        {
+          "name": "Harsh Wardhan Modi",
+          "team": "APAC Banks",
+          "email": "harsh.w.modi@jpmorgan.com"
+        },
+        {
+          "name": "Anuj Singla",
+          "team": "India Financials",
+          "email": "anuj.singla@jpmchase.com"
+        },
+        {
+          "name": "Shivansh Puri, CFA",
+          "team": "India Financials",
+          "email": "shivansh.puri@jpmchase.com"
+        },
+        {
+          "name": "Rachit Agrawal",
+          "team": "India Financials and Property",
+          "email": "rachit.x.agrawal@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "APAC Banks",
+        "India Financials",
+        "India Financials and Property"
+      ],
+      "publish_time": "2026-11-01"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5519494-0",
+      "publication_id": "GPS-5537202-0",
+      "title": "Muthoot Finance",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5519494-0",
+      "authors": [
+        {
+          "name": "Gaurav Khandelwal, CFA",
+          "team": "India Financials and Property",
+          "email": "gaurav.khandelwal@jpmorgan.com"
+        },
+        {
+          "name": "Anuj Singla",
+          "team": "India Financials",
+          "email": "anuj.singla@jpmchase.com"
+        },
+        {
+          "name": "Harsh Wardhan Modi",
+          "team": "APAC Banks",
+          "email": "harsh.w.modi@jpmorgan.com"
+        },
+        {
+          "name": "Rachit Agrawal",
+          "team": "India Financials and Property",
+          "email": "rachit.x.agrawal@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "APAC Banks",
+        "India Financials",
+        "India Financials and Property"
+      ],
+      "publish_time": "2026-11-01"
     },
     {
       "platform": "JPM",
@@ -137,10 +190,10 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Consumer"
+        "Consumer",
+        "China & HK Equity strategy"
       ],
       "publish_time": "2026-11-03"
     },
