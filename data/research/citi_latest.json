@@ -1,6 +1,88 @@
 {
-  "fetched_at": "2026-11-12T10:32:13.193683+00:00",
+  "fetched_at": "2026-11-12T22:32:20.992542+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30478359",
+      "title": "European Economics: Fiscal Policy vs. Higher Yields",
+      "summary": "A directional turn in European fiscal policy remains a building block of our growth outlook for the next few years, but we've revised our outlook for policy rates and EGB yields higher, with the constraining effects becoming more tangible as the debt stock has to be rolled over.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4MzU5",
+      "tags": [
+        "European Economics",
+        "Fiscal Policy",
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation",
+        "Politics"
+      ],
+      "publish_time": "2026-11-11 02:00",
+      "thumbnail": "https://ir.citi.com/AmULkpKeL1bJ58MWkyakIi8tC5XgtvBVi9oWMcKw7Yf8iuLrSdGJq6xrDusDBFIpHSi9qYq8GtFlgqyuzAqxKA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30479213",
+      "title": "Citi China Conference 2026: Key Takeaways, Pt. 2",
+      "summary": "We offer the second installment of key takeaways from our China Conference in Shanghai and Shenzhen, with notes on names including Anjoy Foods, China Northern Rare Earth High-Tech, Han's Laser Technology, Las Vegas Sands, Meitu, OmniVision and Sinotruk.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc5MjEz",
+      "tags": [
+        "Compilation",
+        "Corporate Events & Special Situations"
+      ],
+      "publish_time": "2026-11-12 11:51",
+      "thumbnail": "https://ir.citi.com/znMgiUrW1-txy-2kxldlN-iINxjhtkNeT-NL0RyFojE0neNF71y4_MAqSlEvg8fqARnG13ww0FOct1Tn9lT1mg%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30479076",
+      "title": "Robust UK GDP Suggests Stronger Case for a December Hike",
+      "summary": "UK third-quarter GDP grew a solid 0.7%, continuing a run of good growth, with more volatile monthly data also suggesting steady growth ahead. We currently expect rates to be held steady in December and raised in February, but the print suggests back-to-back hikes are now more likely.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc5MDc2",
+      "tags": [
+        "UK Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Economic Growth",
+        "Central Banks",
+        "Monetary Policy",
+        "Inflation"
+      ],
+      "publish_time": "2026-11-12 06:22",
+      "thumbnail": "https://ir.citi.com/Cknf8aCV9DyAHBGdkV0KzRQ6FGaE7chiYs6N-K9gzo47Wd51GGP6zt7aZbUvQ2vIsUB3Ztn2Fb1aiDDW0Xg9tA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30479116",
+      "title": "Turkey Economics: Targets Revised, Stance Unchanged",
+      "summary": "Turkey's central bank raised its inflation forecast for the end of 2026 to 29.5% and revised targets through 2028, even as domestic demand cools and underlying inflation slows. Persistent supply shocks are keeping upside risks elevated, warranting a continued tight monetary-policy stance.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc5MTE2",
+      "tags": [
+        "Turkey Economics",
+        "Economic Analysis",
+        "Economic Forecast",
+        "Inflation",
+        "Cental Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-11-12 08:13",
+      "thumbnail": "https://ir.citi.com/yQSflldDrd1zt47ypzjXSkuxkFhuBqWRBwUdBS1LXLwkq_8ZMsQPk9UnmLEpS7xjB6ZAL2ELjPJZvXrMpOK32A%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30478880",
+      "title": "Key Takeaways From Our 15th Annual FinTech Conference",
+      "summary": "Our 15th annual FinTech Conference spotlighted that FinTech appears to be entering its next phase, with AI usage moving from cost reduction toward revenue generation. Rising complexity is making scale, trust, proprietary data, regulatory infrastructure, and distribution more valuable.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4ODgw",
+      "tags": [
+        "Corporate Events/Special Situations",
+        "FinTech",
+        "FinTech Applications",
+        "FinTech Infrastructure",
+        "FinTech Services",
+        "Artificial Intelligence (AI)"
+      ],
+      "publish_time": "2026-11-11 23:21",
+      "thumbnail": "https://ir.citi.com/ksPqlk8SeZNMyiLa9We649tsRmmpUi-A2F6sio9omFfdQxX6XWE3WSyQYW8Ta7hLZLK_fVJYEypVswgqY7W5mg%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30478430",
@@ -468,67 +550,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30475977",
-      "title": "Global Macro Strategy: Midterms Reaction",
-      "summary": "While geopolitical and AI-financing risks will likely persist, we think investors have de-risked sufficiently and equities can rise. We prefer to express this view in European equities, which benefit more from oil prices' fall and are less exposed to a slowdown in the data-center buildout.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1OTc3",
-      "tags": [
-        "Global Macro Strategy",
-        "Elections",
-        "Trade Idea",
-        "Cross Asset Strategy",
-        "Artificial Intelligence (AI)"
-      ],
-      "publish_time": "2026-11-04 16:50",
-      "thumbnail": "https://ir.citi.com/OkZM9xUrzgXFmv6yqbKD9uO6Bjn1_o8PQroNOEZAih7lFFiMvn8Be4R_PQg-XOHWXW_PYPfFIR2EqCjFuY1glg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475959",
-      "title": "Global FX Strategy: The Day After the Midterms",
-      "summary": "Markets had their usual response to a blue wave: yields lower, USD lower, equities up. We'd be wary of seeing signal from these moves, as they could just be the typical historical response given expectations for less spending and the vol crush effect. We offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1OTU5",
-      "tags": [
-        "Elections",
-        "FX Strategy",
-        "Macro Strategy"
-      ],
-      "publish_time": "2026-11-04 17:43",
-      "thumbnail": "https://ir.citi.com/VlIN3Hqe2KsQINmYQwubPs2YoGxlnYH5StULgpwezl6k8vcan0vZvtnCXDG9YEls_ybT8yRvcVmIqLHGWGfq0A%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30476622",
-      "title": "UK Raises Rates, But We See Nuance in Its Decision",
-      "summary": "The UK raised rates 25 basis points, with a unanimous vote interpreted as making a December hike more likely. But we see the decision as more nuanced, and policymakers were clear that decisions will be meeting by meeting, shaped by energy prices and the outcome of wage settlements.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc2NjIy",
-      "tags": [
-        "UK Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-11-05 13:00",
-      "thumbnail": "https://ir.citi.com/JMhG73JctroBT_lkAsC32RVks7h4885XGeeE5oVM9Ajda00XAOFitpL2_gW0fsjU-AaZHRgYXLCnV1KzLMSFOA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30476066",
-      "title": "Oil Monitor: Potential Impacts of the Midterms' Blue Wave",
-      "summary": "The blue wave has added to momentum for a U.S.-Iran deal, leading oil and global gas markets to sell off, though the potential for renewed escalation remains. Brent oil prices fell to $95 a barrel, and TTF to 85 EUR/MWh at the time of this writing. We offer further analysis in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc2MDY2",
-      "tags": [
-        "Commodities Strategy",
-        "Geopolitics",
-        "Oil Monitor",
-        "Elections"
-      ],
-      "publish_time": "2026-11-04 22:34",
-      "thumbnail": "https://ir.citi.com/CtfYqf8PFpZsPG1XThGTyw8mlwdNVgQJbDDK4RZ0rnfzsX0_-2F854iFijQyUXMSvoumhiIIKtHd7iF8odJgxw%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30475483",
       "title": "Themes to Watch at Our 2026 China Conference",
       "summary": "Our flagship China Conference will be held Nov. 10-13 in Shanghai and Shenzhen. Our equity teams, economists and strategists highlight key themes to watch at this year’s conference, with our guide covering macroeconomic trends, policy direction, sector outlooks and investment ideas.",
@@ -540,91 +561,6 @@
       ],
       "publish_time": "2026-11-05 01:43",
       "thumbnail": "https://ir.citi.com/9XwWVXcY0x3BwKYrC_RjsCMV1bwwnVgY3VZleLQXZBSAv5WG0Un0YzPB06QmIrIXmYt5GawDkHy81jxrqPE6Xg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475633",
-      "title": "Middle East Oil & Gas: Headline Risks and Potential Playbooks",
-      "summary": "Eight months into the Gulf crisis, we note that MENA Energy hasn't seen a widespread de-rating despite significant challenges to asset integrity; and that where de-rating has occurred, it may offer downside protection in the event of a resolution as well as potential earnings leverage.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1NjMz",
-      "tags": [
-        "Integrated Oil & Gas",
-        "Oil & Gas",
-        "Geopolitics"
-      ],
-      "publish_time": "2026-11-05 00:00",
-      "thumbnail": "https://ir.citi.com/r8rk3MLWmgpOo8mWdU6ntBRfYDlE8Rm7voua6dYWdJRH5SJpDoNOMR5OG_E7dxaNYsomuf5brQ9mhdLewQEVqQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30476191",
-      "title": "U.S. Oil Services and Exploration & Production: Midterms Reaction",
-      "summary": "The midterms drove disparate responses across the Energy complex. We offer some perspective on the moves, starting with the observation that amid heightened crude volatility, it's important to focus on key secular themes including deepwater oil, international shale and international gas.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc2MTkx",
-      "tags": [
-        "Elections",
-        "Oil & Gas Equipment and Services",
-        "Artificial Intelligence (AI)",
-        "Energy Efficiency",
-        "Oil & Gas Exploration and Production"
-      ],
-      "publish_time": "2026-11-05 06:00",
-      "thumbnail": "https://ir.citi.com/YucQc9Z7fC69PVzNoq1Moem3WEsVdQHq_1gvaN2UmpCRAoK8nZWQuH5sTuSQahYG6rPow2FsfQp5Vh_AVJ0HEg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30476173",
-      "title": "We're Initiating Coverage of ATI at Buy",
-      "summary": "We initiate coverage of ATI with a Buy rating and a $229 target price, representing 28% upside. We think ATI's increasing OEM production and multiyear margin transformation are likely to fuel revenue and earnings growth above consensus in 2027 and beyond, and offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc2MTcz",
-      "tags": [
-        "Initiation of Coverage",
-        "Aerospace & Defense"
-      ],
-      "publish_time": "2026-11-05 05:00",
-      "thumbnail": "https://ir.citi.com/Zbhhls5CiEF__BsPBBwZeXR4_Qdm20OC4nfbQDCqFEw2YqdtUvnsOY_PKii6vbfK1n_hZo8ufCA4vi5XtC-lpA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475558",
-      "title": "We're Upgrading Coupang to Buy",
-      "summary": "We're upgrading Coupang to Buy, given likely sequential improvement in adjusted EBITDA; its developing offering business likely being less of earnings headwind in 2027; and analysis that suggests CPNG's share price is now near floor value. We offer further thoughts in this note.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1NTU4",
-      "tags": [
-        "Rating Change",
-        "Estimate Change",
-        "Retailing -- Broadlines"
-      ],
-      "publish_time": "2026-11-04 04:36",
-      "thumbnail": "https://ir.citi.com/BCfyVgaAEcyHVKITtFckTOWTx2s1-Z7RW1uvz6-QitMTUPDcTGbLJVgsuezTRsoTeQtpovrdnEllGYMt4OSPOQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30475722",
-      "title": "Brazil Pharmaceuticals: Here Wegovy Again!",
-      "summary": "At first glance, ANVISA’s approval of oral Wegovy in Brazil is clearly positive for GLP-1 adoption, potentially unlocking a pool of needle-averse patients while supporting treatment continuity. But as noted herein, we'd caution against fully extrapolating U.S. and UK trends to Brazil.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc1NzIy",
-      "tags": [
-        "Pharmaceuticals",
-        "Emerging Markets Consumption"
-      ],
-      "publish_time": "2026-11-04 08:22",
-      "thumbnail": "https://ir.citi.com/ZXBcyjFz-_r0RalUuLXR1EQx2KoqlCnJcSPmknVkleTNqhHhy7JLs9kF4MpEa8Pr_QoJ3O98PkQTbGxAXHyo0w%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30476289",
-      "title": "Japan FX: Is a USDJPY Downtrend Ahead?",
-      "summary": "With the midterms behind us, we expect a clear downtrend in the USDJPY to emerge over the long term, but note the risk of JPY weakness will continue to smolder in the short to medium term. In the near term, keys will be U.S. equities' performance and the impacts of the U.S.-Iran conflict.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc2Mjg5",
-      "tags": [
-        "Flows",
-        "Geopolitics",
-        "Japan FX",
-        "Elections"
-      ],
-      "publish_time": "2026-11-05 03:50",
-      "thumbnail": "https://ir.citi.com/c8Kllzag72fLdpg4w3B-1bf5Qzl3yO_k0r1In6TO0vKi3wzUIayN3QK29Z_eXhmpPDBeep7zM8iraw4m9iAjuQ%3D%3D"
     }
   ]
 }

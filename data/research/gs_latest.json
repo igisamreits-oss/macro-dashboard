@@ -1,6 +1,39 @@
 {
-  "fetched_at": "2026-11-12T10:33:13.559989+00:00",
+  "fetched_at": "2026-11-12T22:33:20.639690+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "78ed32c6-5715-4f4d-9b63-2a9510895b54",
+      "title": "Link REIT (0823.HK): 1HFY27 results inline - DPU likely to remain subdued in FY27-28. Upside hinge on further non-core asset divestment and allocation for share repurchases",
+      "summary": "Link REIT reported its 1HFY27 results at noon on Nov 12th followed by an analyst briefing later during the same day. Headline net profit of HK$796mn included (1) -HK$2.4bn property revaluation loss mostly attributed to i...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/12/78ed32c6-5715-4f4d-9b63-2a9510895b54.html",
+      "authors": [
+        {
+          "name": "Simon Cheung",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Alpha Wang",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Zhaoheng Chen",
+          "department": "Conglomerates",
+          "division": "Research"
+        },
+        {
+          "name": "Leah Pan",
+          "department": "Conglomerates",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Conglomerates"
+      ],
+      "publish_time": "2026-11-12"
+    },
     {
       "platform": "GS",
       "doc_id": "1340eb3b-988c-4cf2-96bc-ced994a677d6",
@@ -1220,39 +1253,6 @@
       ],
       "tags": [
         "Real Estate"
-      ],
-      "publish_time": "2026-10-27"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "c7ef6e5b-be8c-43fe-a944-dde9d44e9d45",
-      "title": "Phillips Edison & Co. (PECO): 3Q26 First Take: Core FFOPS beat and (smaller) raise with record renewal spreads",
-      "summary": "PECO reported Core 3Q26 FFOPS of $0.71, 3% above the GS/FactSet consensus estimates of $0.69, and +9.2% y/y. Economic occupancy reached 97.2% (+30bps q/q and +20bps y/y), while total quarterly leasing spreads were +16.2% and bad debt was only 71bps.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/27/c7ef6e5b-be8c-43fe-a944-dde9d44e9d45.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
       ],
       "publish_time": "2026-10-27"
     }
