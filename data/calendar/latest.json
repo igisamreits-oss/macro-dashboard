@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-11T22:35:21.138257+00:00",
-  "window_start": "2026-11-04",
-  "window_end": "2026-12-09",
+  "fetched_at": "2026-11-12T05:37:16.977572+00:00",
+  "window_start": "2026-11-05",
+  "window_end": "2026-12-10",
   "source": "schedule.yml",
   "events": [
     {
@@ -24,6 +24,13 @@
       "indicator_id": "boc",
       "time_kst": "23:45",
       "note": "EST"
+    },
+    {
+      "date": "2026-12-10",
+      "country": "US",
+      "indicator_id": "fomc",
+      "time_kst": "04:00",
+      "note": "SEP (EST)"
     }
   ]
 }
