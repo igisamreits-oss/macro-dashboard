@@ -1,6 +1,105 @@
 {
-  "fetched_at": "2026-11-13T10:33:11.618497+00:00",
+  "fetched_at": "2026-11-13T22:33:23.090020+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "f62be414-3643-4040-9f18-0773d93e1c44",
+      "title": "Vornado Realty Trust (VNO): 3Q26 Update: Robust leasing spreads on solid volume, but not flowing through to FFO",
+      "summary": "Following 3Q26 earnings, we provide earnings call takeaways, update our model and price target, and show valuation trends. See inside for details.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/13/f62be414-3643-4040-9f18-0773d93e1c44.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-13"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "1ea4081f-d3ac-4afc-be73-6da394591cd0",
+      "title": "Americas Real Estate: REITs: October '26 Office Update: Nationwide touring down y/y, but Class A & Trophy touring up in NYC and SF",
+      "summary": "We review the latest updates on (1) VTS office tour activity through October '26, (2) Return to office trends by market, and (3) San Francisco and NYC office leasing data.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/13/1ea4081f-d3ac-4afc-be73-6da394591cd0.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-13"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "8bbe1eb8-81cc-4aec-8199-83bf67b77db0",
+      "title": "Lineage Inc. (LINE): 3Q26 Update: Persistently lower trade volume and higher carrier costs creating '26 headwinds",
+      "summary": "We update our model following 3Q26 results, review highlights from the earnings call and our meeting with management, and highlight takeaways from a property tour in Chicago. See below for details, and here for our First...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/13/8bbe1eb8-81cc-4aec-8199-83bf67b77db0.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-13"
+    },
     {
       "platform": "GS",
       "doc_id": "78ed32c6-5715-4f4d-9b63-2a9510895b54",
@@ -1169,90 +1268,6 @@
       ],
       "tags": [
         "REITs"
-      ],
-      "publish_time": "2026-10-27"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "f3e5693a-90c9-4250-b2e8-1af03736ecbd",
-      "title": "Ventas Inc. (VTR): 3Q26 First Take: Strong investment momentum, but slight SHOP SS NOI miss",
-      "summary": "Ventas reported 3Q26 normalized FFO of $0.99 per share, vs. GSe/VA Consensus at $1.00/$0.98, respectively, driven by continued strong acquisition activity, partially offset by weaker than expected SHOP SS NOI growth (hig...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/27/f3e5693a-90c9-4250-b2e8-1af03736ecbd.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-27"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "f1c471ac-417f-487c-bdfc-a6cf0666b113",
-      "title": "Millrose Properties Inc. (MRP): 3Q26 First Take: Strong year-end guide, but focus on rental strategy",
-      "summary": "MRP reported core EPS and AFFO of $0.78/$0.80, in-line vs. GSe of $0.78/$0.80 and slightly above consensus at $0.77/$0.78. Management provided 4Q AFFO outlook of $0.82-$0.84, $0.83 MP, vs Gse of $0.80. The BOD also appro...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/27/f1c471ac-417f-487c-bdfc-a6cf0666b113.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-27"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "473dc887-262f-4876-a9be-07d7edce759c",
-      "title": "MORI TRUST REIT (8961.T): In line: ON Building re-leasing on track but early recovery in the Kansai hotel market somewhat uncertain; Sell",
-      "summary": "After the close on 10/23, the company announced its FP8/26 results. FP8/26 DPS of ¥1,850 slightly missed our prior forecast (¥1,862) but was in line. Management guides for FP2/27 and FP8/27 DPS of ¥1,800 and ¥1,810, respectively.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/27/473dc887-262f-4876-a9be-07d7edce759c.html",
-      "authors": [
-        {
-          "name": "Sachiko Okada",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Sayako Tominaga",
-          "department": "Real Estate",
-          "division": "Research"
-        },
-        {
-          "name": "Misato Okamoto",
-          "department": "Real Estate",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Real Estate"
       ],
       "publish_time": "2026-10-27"
     }

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T10:34:11.383919+00:00",
+  "fetched_at": "2026-11-13T22:34:23.867773+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -29,6 +29,35 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-11-06"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5534838-0",
+      "publication_id": "GPS-5540518-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5534838-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Masato Takahashi",
+          "team": "Economic and Policy Research",
+          "email": "masato.takahashi@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-11-13"
     },
     {
       "platform": "JPM",
@@ -101,9 +130,9 @@
         }
       ],
       "tags": [
-        "India Financials",
+        "APAC Banks",
         "India Financials and Property",
-        "APAC Banks"
+        "India Financials"
       ],
       "publish_time": "2026-11-01"
     },
@@ -147,36 +176,12 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Consumer",
         "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Consumer"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-11-03"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5509357-0",
-      "publication_id": "GPS-5518928-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5509357-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-10-30"
     }
   ]
 }
