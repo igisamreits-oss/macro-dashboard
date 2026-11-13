@@ -1,49 +1,6 @@
 {
-  "fetched_at": "2026-11-12T22:34:20.138869+00:00",
+  "fetched_at": "2026-11-13T10:34:11.383919+00:00",
   "items": [
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5514421-0",
-      "publication_id": "GPS-5517287-0",
-      "title": "Transition Talks",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5514421-0",
-      "authors": [
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Hannah L Lee",
-          "team": "APAC Equity Thematic and Sustainable Investing Research",
-          "email": "hannah.l.lee@jpmorgan.com"
-        },
-        {
-          "name": "Mark Strouse, CFA",
-          "team": "Clean Energy, Power Infrastructure, and Sustainable Investing",
-          "email": "mark.w.strouse@jpmorgan.com"
-        },
-        {
-          "name": "Rebecca Wen",
-          "team": "Asia Autos & EV Battery",
-          "email": "rebecca.y.wen@jpmorgan.com"
-        },
-        {
-          "name": "Parsley Ong",
-          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
-          "email": "parsley.rh.ong@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Asia Autos & EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Clean Energy, Power Infrastructure, and Sustainable Investing",
-        "APAC Equity Thematic and Sustainable Investing Research"
-      ],
-      "publish_time": "2026-10-30"
-    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5527239-0",
@@ -108,8 +65,8 @@
         }
       ],
       "tags": [
-        "India Financials and Property",
         "APAC Banks",
+        "India Financials and Property",
         "India Financials"
       ],
       "publish_time": "2026-11-01"
@@ -144,9 +101,9 @@
         }
       ],
       "tags": [
+        "India Financials",
         "India Financials and Property",
-        "APAC Banks",
-        "India Financials"
+        "APAC Banks"
       ],
       "publish_time": "2026-11-01"
     },
@@ -191,40 +148,11 @@
       ],
       "tags": [
         "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Consumer",
-        "China & HK Equity strategy"
+        "Consumer"
       ],
       "publish_time": "2026-11-03"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5512796-0",
-      "publication_id": "KAL-1-SAGTRQ5U",
-      "title": "Less-Than-Truckload",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5512796-0",
-      "authors": [
-        {
-          "name": "Brian P. Ossenbeck, CFA",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brian.p.ossenbeck@jpmorgan.com"
-        },
-        {
-          "name": "Grady Carr",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "grady.carr@jpmchase.com"
-        },
-        {
-          "name": "Brandon Wexler",
-          "team": "Airfreight & Surface Transportation / Shipping",
-          "email": "brandon.wexler@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "Airfreight & Surface Transportation / Shipping"
-      ],
-      "publish_time": "2026-10-30"
     },
     {
       "platform": "JPM",
