@@ -1,16 +1,9 @@
 {
-  "fetched_at": "2026-11-12T22:34:46.592279+00:00",
-  "window_start": "2026-11-05",
-  "window_end": "2026-12-10",
+  "fetched_at": "2026-11-13T04:54:06.959072+00:00",
+  "window_start": "2026-11-06",
+  "window_end": "2026-12-11",
   "source": "schedule.yml",
   "events": [
-    {
-      "date": "2026-11-05",
-      "country": "UK",
-      "indicator_id": "boe",
-      "time_kst": "21:00",
-      "note": "GMT"
-    },
     {
       "date": "2026-12-08",
       "country": "AU",
