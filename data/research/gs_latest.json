@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-13T22:33:23.090020+00:00",
+  "fetched_at": "2026-11-14T13:07:21.462167+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "5fcf769a-4560-460d-92c7-92d2ae5431ba",
+      "title": "Janus Living Inc. (JAN): Updating Estimates and PT Following 3Q26 Results",
+      "summary": "We update our JAN estimates and price target after updating our model for the company's 3Q26 results and the company's recent equity offering. Core FFO estimates came in above our and consensus estimates driven by strong...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/14/5fcf769a-4560-460d-92c7-92d2ae5431ba.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-14"
+    },
     {
       "platform": "GS",
       "doc_id": "f62be414-3643-4040-9f18-0773d93e1c44",
@@ -1229,39 +1257,6 @@
         },
         {
           "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-27"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "50e0f236-77a7-47e2-8024-d3fb58bc1c10",
-      "title": "Extra Space Storage Inc. (EXR): 3Q26 First Take: Strong Q prompts guidance increase",
-      "summary": "EXR reported 3Q26 core FFOPS of $2.17, +3.3%/4.3% vs. FactSet consensus/GS estimate of $2.10/$2.08 and +4.3% y/y. The beat to GS estimates was driven primarily by lower property operating costs and to a lesser extent lower G&A and interest expense.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/27/50e0f236-77a7-47e2-8024-d3fb58bc1c10.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
           "department": "REITs",
           "division": "Research"
         }
