@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T01:08:08.995339+00:00",
+  "fetched_at": "2026-11-15T13:08:16.747078+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -58,47 +58,6 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-11-13"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5515277-0",
-      "publication_id": "GPS-5537202-0",
-      "title": "National Stock Exchange of India",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5515277-0",
-      "authors": [
-        {
-          "name": "Madhukar Ladha",
-          "team": "India Financials",
-          "email": "madhukar.ladha@jpmorgan.com"
-        },
-        {
-          "name": "Harsh Wardhan Modi",
-          "team": "APAC Banks",
-          "email": "harsh.w.modi@jpmorgan.com"
-        },
-        {
-          "name": "Anuj Singla",
-          "team": "India Financials",
-          "email": "anuj.singla@jpmchase.com"
-        },
-        {
-          "name": "Shivansh Puri, CFA",
-          "team": "India Financials",
-          "email": "shivansh.puri@jpmchase.com"
-        },
-        {
-          "name": "Rachit Agrawal",
-          "team": "India Financials and Property",
-          "email": "rachit.x.agrawal@jpmchase.com"
-        }
-      ],
-      "tags": [
-        "India Financials",
-        "India Financials and Property",
-        "APAC Banks"
-      ],
-      "publish_time": "2026-11-01"
     },
     {
       "platform": "JPM",
@@ -176,10 +135,10 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Consumer",
         "Head of China Equity Research and Co-Head of Asia TMT Research",
         "China & HK Equity strategy",
-        "Consumer"
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-11-03"
     }
