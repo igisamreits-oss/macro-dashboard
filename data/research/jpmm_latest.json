@@ -1,6 +1,35 @@
 {
-  "fetched_at": "2026-11-16T10:34:09.643441+00:00",
+  "fetched_at": "2026-11-16T22:34:11.003248+00:00",
   "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5533358-0",
+      "publication_id": "KAL-1-75WX91VF",
+      "title": "Transportation & Logistics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5533358-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-11-16"
+    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5527239-0",
@@ -84,9 +113,9 @@
         }
       ],
       "tags": [
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Utilities & Renewables | Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-11-09"
     },
@@ -125,9 +154,9 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-11-04"
     },
@@ -172,8 +201,8 @@
       ],
       "tags": [
         "China Consumer Research",
-        "China & HK Equity strategy",
         "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
+        "China & HK Equity strategy",
         "Consumer, Retail, Media",
         "Consumer"
       ],
@@ -219,10 +248,10 @@
         }
       ],
       "tags": [
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy",
         "Consumer",
-        "Head of China Equity Research and Co-Head of Asia TMT Research"
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
       ],
       "publish_time": "2026-11-03"
     }
