@@ -1,6 +1,202 @@
 {
-  "fetched_at": "2026-11-15T13:07:16.645989+00:00",
+  "fetched_at": "2026-11-16T10:33:10.363886+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "40f67912-e602-41a9-8f84-ce429e5db8ad",
+      "title": "Essex Property Trust Inc. (ESS): 3Q26 Update: Adjusting Estimates and Price Target",
+      "summary": "We are updating our ESS estimates to reflect the company's 3Q26 results. Our updated estimates take into consideration revised 2026 guidance, management commentary, and in particular reduced JV income (increased JV inter...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/16/40f67912-e602-41a9-8f84-ce429e5db8ad.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "8a128c5b-4e3c-443a-bf40-6161837ac7ce",
+      "title": "Mid-America Apartment Communities (MAA): Updating estimates and price target for 3Q26 results",
+      "summary": "We revise our MAA estimates after updating our model for 3Q26 results. Our estimates shift based on updated guidance and the flow through of 3Q26 SS results. Our Core FFO estimates shift up by 0.3%/0.3% for 2026/2027, an...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/16/8a128c5b-4e3c-443a-bf40-6161837ac7ce.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "31bbbe9a-4aa2-456c-8312-c65ece7c6249",
+      "title": "UDR Inc. (UDR): Updating estimates and price target for 3Q26 results",
+      "summary": "We adjust our UDR estimates after updating our model for 3Q26 results. The shifts to our estimates primarily relate to updated 2026 guidance, the flow through of 3Q26 results, JV results, and management commentary. Incor...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/16/31bbbe9a-4aa2-456c-8312-c65ece7c6249.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "fa5ece02-1944-475b-82e1-c266175b72c7",
+      "title": "Omega Healthcare Investors Inc. (OHI): Updating Estimates for 3Q26 Results",
+      "summary": "We are updating our OHI estimates to reflect the company's 3Q26 results and increased 2026 guidance. Our new AFFO estimates are now 0%, 0%, and +1% vs. Visible Alpha consensus in 2026, 2027, and 2028. The shifts to our e...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/16/fa5ece02-1944-475b-82e1-c266175b72c7.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "7d84708d-4c9e-4053-a253-1ae8e9eadce5",
+      "title": "Ventas Inc. (VTR): Updating 3Q26 Estimates and Price Target",
+      "summary": "We are updating our VTR estimates to reflect the company's 3Q26 results & increased 2026 guidance. The primary driver of our Normalized FFO estimate changes relate to slightly lower SS SHOP NOI growth assumptions partial...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/16/7d84708d-4c9e-4053-a253-1ae8e9eadce5.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "c0ab8e7e-61f0-4366-9692-b3e9af6d6698",
+      "title": "Invitation Homes Inc. (INVH): Updating estimates post 3Q26",
+      "summary": "We update our INVH estimates to reflect the company's 3Q26 results. Our estimate shifts are due to the combination of 3Q26 results, and increased FFO guidance. Our 2026/2027 Core FFO estimates are in-line with Visible Alpha consensus.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/16/c0ab8e7e-61f0-4366-9692-b3e9af6d6698.html",
+      "authors": [
+        {
+          "name": "Julien Blouin",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Ryan Treais",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shikhar Gupta",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-16"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "eb052fe5-69f7-43ac-ad3e-6b913d46d4e7",
+      "title": "Australia and New Zealand: ANZ Outlook 2027: Paying the RBA Speeding Ticket",
+      "summary": "A year ago, we warned that firming inflation and resilient demand risked Australia “accelerating towards an RBA speeding ticket”. Five RBA hikes in 2026 have since imposed a hefty “speeding fine”, which we expect to slow...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/15/eb052fe5-69f7-43ac-ad3e-6b913d46d4e7.html",
+      "authors": [
+        {
+          "name": "Andrew Boak",
+          "department": "Asia Economics",
+          "division": "Research"
+        },
+        {
+          "name": "Will Maher",
+          "department": "Asia Economics",
+          "division": "Research"
+        },
+        {
+          "name": "Oscar To",
+          "department": "Asia Economics",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Asia Economics"
+      ],
+      "publish_time": "2026-11-15"
+    },
     {
       "platform": "GS",
       "doc_id": "5fcf769a-4560-460d-92c7-92d2ae5431ba",
@@ -1044,227 +1240,6 @@
         "REITs"
       ],
       "publish_time": "2026-10-29"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "9260eb4b-0e67-4633-9265-bd00dd7631cd",
-      "title": "Broadstone Net Lease Inc. (BNL): 3Q26 First Take: In-line 3Q; Investment outlook moves higher",
-      "summary": "BNL reported 3Q26 AFFO/share of $0.39 (+5.4% y/y), in line with GS/FactSet consensus, and reaffirmed 2026 AFFO/share guidance of $1.55-$1.57. The midpoint implies 4.1% y/y growth and is in line with GS/FactSet FY26 estimates.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/28/9260eb4b-0e67-4633-9265-bd00dd7631cd.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "1fbf81f4-04b2-4128-82cc-07a17f5c6ced",
-      "title": "Americas Real Estate: REITs: MAA/INVH: Both Miss on New Lease, and MAA Lowers Outlook",
-      "summary": "INVH and MAA reported mixed 3Q26 results, with the key divergence coming on guidance and the underlying drivers. INVH’s in-line blended leasing spreads and lower expense outlook supported a modest increase to FY26 Core F...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/28/1fbf81f4-04b2-4128-82cc-07a17f5c6ced.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "4288cfa9-146e-42f7-83bb-f70b806901a6",
-      "title": "Brixmor Property Group (BRX): 3Q26 Update: Leasing strength and occupancy gains reinforce growth outlook",
-      "summary": "Following BRX’s 3Q26 earnings, we discuss highlights from the earnings call, and update our model and price target. We revise our estimates marginally and, when including these changes, estimate average FFO growth of 6.0% each year through 2028.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/28/4288cfa9-146e-42f7-83bb-f70b806901a6.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "0d6d3a15-c49e-4f13-9f77-c8ebdffdd69e",
-      "title": "Kilroy Realty Corp. (KRC): 3Q26 Update: 2027 setup includes solid leasing, but headwinds from capitalized interest, refi, and low retention",
-      "summary": "Following 3Q26 earnings, we update our KRC model and price target, and highlight key takeaways from the earnings call.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/28/0d6d3a15-c49e-4f13-9f77-c8ebdffdd69e.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "8606917a-c56a-4748-b966-0e522dfc3a02",
-      "title": "BXP Inc. (BXP): 3Q26 First Take: Another beat-and-raise quarter; 2nd generation net rent spreads up HSD",
-      "summary": "BXP reported 3Q26 FFOPS of $1.89, +5.2%/+4.7% vs GS/FactSet consensus of $1.80/$1.81, and +8.6% y/y. BXP raised its FFO guidance such that the midpoint shifted $0.05 higher, or +70bps, (+0.4% vs our estimate) implying FY FFOPS growth of +2.97%.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/28/8606917a-c56a-4748-b966-0e522dfc3a02.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "83b01055-0ea1-480e-a30e-0f1b76f1e449",
-      "title": "Public Storage Inc. (PSA): 3Q26 Update: SS slowly improving supplemented with external growth",
-      "summary": "Following PSA earnings, we discuss highlights from the earnings call and update our estimates. Management provided details on move in rates, churn, market performance, and recent acquisitions, including NSA and PS Canada.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/28/83b01055-0ea1-480e-a30e-0f1b76f1e449.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-28"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "cffde40b-8bad-4d23-9c1f-e2caea26d3fe",
-      "title": "Essex Property Trust Inc. (ESS): 3Q26 First Take: Strong renewals, partially offset by softer new lease",
-      "summary": "ESS announced 3Q26 Core FFO of $4.00, slightly below Gse/Cons of $4.01, but above 3Q guidance MP of $3.99, driven by in-line same store revenue growth, better than expected expense growth and strong renewals partially offset by lower new lease rate.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/27/cffde40b-8bad-4d23-9c1f-e2caea26d3fe.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-27"
     }
   ]
 }

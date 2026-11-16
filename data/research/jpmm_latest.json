@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T13:08:16.747078+00:00",
+  "fetched_at": "2026-11-16T10:34:09.643441+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -61,39 +61,123 @@
     },
     {
       "platform": "JPM",
-      "doc_id": "GPS-5519494-0",
-      "publication_id": "GPS-5537202-0",
-      "title": "Muthoot Finance",
+      "doc_id": "GPS-5522783-0",
+      "publication_id": "GPS-5542201-0",
+      "title": "China Gas Utilities",
       "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5519494-0",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5522783-0",
       "authors": [
         {
-          "name": "Gaurav Khandelwal, CFA",
-          "team": "India Financials and Property",
-          "email": "gaurav.khandelwal@jpmorgan.com"
+          "name": "Michelle Wong",
+          "team": "APAC Utilities & Renewables | Sustainable Investing",
+          "email": "michelle.wong@jpmorgan.com"
         },
         {
-          "name": "Anuj Singla",
-          "team": "India Financials",
-          "email": "anuj.singla@jpmchase.com"
+          "name": "Alan Hon",
+          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
+          "email": "alan.hon@jpmorgan.com"
         },
         {
-          "name": "Harsh Wardhan Modi",
-          "team": "APAC Banks",
-          "email": "harsh.w.modi@jpmorgan.com"
-        },
-        {
-          "name": "Rachit Agrawal",
-          "team": "India Financials and Property",
-          "email": "rachit.x.agrawal@jpmchase.com"
+          "name": "Parsley Ong",
+          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
+          "email": "parsley.rh.ong@jpmorgan.com"
         }
       ],
       "tags": [
-        "APAC Banks",
-        "India Financials",
-        "India Financials and Property"
+        "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "APAC Utilities & Renewables | Sustainable Investing"
       ],
-      "publish_time": "2026-11-01"
+      "publish_time": "2026-11-09"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5524788-0",
+      "publication_id": "GPS-5542201-0",
+      "title": "China A-shares Thematic Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5524788-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Chloe Liu, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "chloe.x.liu@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "China & HK Equity strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
+      ],
+      "publish_time": "2026-11-04"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5524796-0",
+      "publication_id": "GPS-5542201-0",
+      "title": "China Apparel and Beauty",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5524796-0",
+      "authors": [
+        {
+          "name": "Qian Yao",
+          "team": "Consumer",
+          "email": "qian.q.yao@jpmorgan.com"
+        },
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Carson Fan",
+          "team": "China Consumer Research",
+          "email": "rong.fan@jpmorgan.com"
+        },
+        {
+          "name": "DS Kim",
+          "team": "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
+          "email": "ds.kim@jpmorgan.com"
+        },
+        {
+          "name": "Latika Chopra, CFA",
+          "team": "Consumer, Retail, Media",
+          "email": "latika.chopra@jpmorgan.com"
+        },
+        {
+          "name": "Jessie Xu",
+          "team": "China Consumer Research",
+          "email": "jessie.j.xu@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "China Consumer Research",
+        "China & HK Equity strategy",
+        "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
+        "Consumer, Retail, Media",
+        "Consumer"
+      ],
+      "publish_time": "2026-11-04"
     },
     {
       "platform": "JPM",
@@ -135,10 +219,10 @@
         }
       ],
       "tags": [
-        "Consumer",
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
         "China & HK Equity strategy",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy"
+        "Consumer",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-11-03"
     }
