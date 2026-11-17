@@ -1,6 +1,50 @@
 {
-  "fetched_at": "2026-11-17T10:32:12.621952+00:00",
+  "fetched_at": "2026-11-17T22:32:27.574765+00:00",
   "items": [
+    {
+      "platform": "Citi",
+      "doc_id": "30480320",
+      "title": "Citi China Conference 2026: The Paradoxes of Chinese Consumption",
+      "summary": "We hosted Steven Barnett, former IMF Senior Resident Representative, at our 2026 China Conference. He sees China's low consumption share as reflecting an exceptionally high savings rate, not a low household income share, and identifies consumption as a rising policy priority.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDgwMzIw",
+      "tags": [
+        "China Economics",
+        "Corporate Events & Special Situations",
+        "Consumer Spending",
+        "Economic Analysis",
+        "Fiscal Policy",
+        "Economic Growth"
+      ],
+      "publish_time": "2026-11-17 04:10",
+      "thumbnail": "https://ir.citi.com/BCmQHCiXZUOa-v2i78Qod4z66S_0Q0t8q6eYGQw1lHcUjbEvBbKO3XrpT9HvUlz53TtbI564F4prYx4oaWIktA%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30480251",
+      "title": "Brazil Equity Strategy: Earnings Wrap-Up",
+      "summary": "Brazil's earnings season proved constructive overall, with 40 of 72 Ibovespa names posting positive earnings surprises and 32 beating on revenue. Importantly, analyst sentiment deteriorated only marginally after the country's elections and sits near the top of its historical range.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDgwMjUx",
+      "tags": [
+        "Emerging Markets",
+        "Equity Strategy",
+        "Elections"
+      ],
+      "publish_time": "2026-11-16 20:13",
+      "thumbnail": "https://ir.citi.com/wAM03I-bbPR7XDQ2ZGD85rRFv8na4SJ1Ajncj5kOosP0-gmlCfJD7kEwg2oPrIigumhU5lSQIbkfXuXdWYi0Sw%3D%3D"
+    },
+    {
+      "platform": "Citi",
+      "doc_id": "30480216",
+      "title": "Equity Markets Positioning Model: Conviction Remains Uneven",
+      "summary": "Global positioning improved during the week, but the quality of flows differed materially across regions. In the U.S., much of the recovery was driven by short covering rather than new long flows, suggesting investor conviction remains limited. We offer further analysis in this note.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDgwMjE2",
+      "tags": [
+        "Model Portfolio",
+        "Equities Markets Positioning Model"
+      ],
+      "publish_time": "2026-11-16 17:03",
+      "thumbnail": "https://ir.citi.com/ZFAjLdMY-9S6jN09aNP3asI9g_PXETZnl5aisvTPsvOewaxZqcqJA4rNRsCkwjmXGZ8OO_4BmMqc0WoPinRKAA%3D%3D"
+    },
     {
       "platform": "Citi",
       "doc_id": "30480205",
@@ -372,23 +416,6 @@
     },
     {
       "platform": "Citi",
-      "doc_id": "30479284",
-      "title": "European Rates Weekly: Are € Rates Still a Good Hedge?",
-      "summary": "We argue that the old asset-allocation posit of cheaper equities/richer rates is likely to be reinstated if oil prices correct persistently below $80. We also look at the 5y5y €HICP swap, and turning to SSAs we present our 2027 benchmark supply forecast for €, $, and £ markets.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc5Mjg0",
-      "tags": [
-        "European Rates Weekly",
-        "Flagship",
-        "Trade Idea",
-        "Macro Strategy",
-        "Central Banks",
-        "Monetary Policy"
-      ],
-      "publish_time": "2026-11-12 18:36",
-      "thumbnail": "https://ir.citi.com/KRFlW-4yWmC260nyQc9w-TMobuGsX3f3d1z4HVkoanxXFfRiOUyv5wPsbBz3t7Q0_rtoAg3ORyKaCe_251ifag%3D%3D"
-    },
-    {
-      "platform": "Citi",
       "doc_id": "30479235",
       "title": "Emerging Markets Strategy Weekly: A Mixed Environment",
       "summary": "We still worry a lot about supply/credit dynamics on the AI debt front and how that could drag on equity valuation in coming quarters. We still believe parts of the U.S. economy are feeling the pain from recent higher nominal rates: It's not a cliff, but a sign of a weak-ish patch.",
@@ -475,6 +502,23 @@
     },
     {
       "platform": "Citi",
+      "doc_id": "30479284",
+      "title": "European Rates Weekly: Are € Rates Still a Good Hedge?",
+      "summary": "We argue that the old asset-allocation posit of cheaper equities/richer rates is likely to be reinstated if oil prices correct persistently below $80. We also look at the 5y5y €HICP swap, and turning to SSAs we present our 2027 benchmark supply forecast for €, $, and £ markets.",
+      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc5Mjg0",
+      "tags": [
+        "European Rates Weekly",
+        "Flagship",
+        "Trade Idea",
+        "Macro Strategy",
+        "Central Banks",
+        "Monetary Policy"
+      ],
+      "publish_time": "2026-11-12 18:36",
+      "thumbnail": "https://ir.citi.com/KRFlW-4yWmC260nyQc9w-TMobuGsX3f3d1z4HVkoanxXFfRiOUyv5wPsbBz3t7Q0_rtoAg3ORyKaCe_251ifag%3D%3D"
+    },
+    {
+      "platform": "Citi",
       "doc_id": "30478430",
       "title": "U.S. Economics: Whipsawed by Waller",
       "summary": "In just one day, Fedspeak combined with another hot core CPI reading led to a substantial repricing in near-term rate hike expectations. Overnight, comments from Governor Waller explicitly put the possibility of a 50-basis-point December hike on the table. We consider what may lie ahead.",
@@ -519,119 +563,6 @@
       ],
       "publish_time": "2026-11-11 07:00",
       "thumbnail": "https://ir.citi.com/Z05bmO_25pMe_62zf_fQMg5T12mc1fkGJQNxE1h6ZhF7ZSMbYKPSmNdv_h-4pvEB38-iEIx-lYAZZu03KbZpYQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30478312",
-      "title": "CPI Shows Signs of Possible Pass-Through as Energy Prices Fall",
-      "summary": "Core CPI rose 0.296% month over month in October, another stronger-than-expected print. Strength in the details may reflect pass-through of higher energy costs. We continue to expect a 25-basis-point December hike, but risks of a 50-bp hike have risen.  We offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4MzEy",
-      "tags": [
-        "U.S. Economics",
-        "Economic Analysis",
-        "Economic Forecast",
-        "Central Banks",
-        "Monetary Policy",
-        "Inflation"
-      ],
-      "publish_time": "2026-11-10 10:51",
-      "thumbnail": "https://ir.citi.com/jPIxmSQ4SilTR_Wq98c7ORDUwAuggEuUHrZZkNE0johO8hbxqfGC7VVjFV0I-pOCQW9lCq8-1Bbz4y86VF_8XA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30478089",
-      "title": "North America Transportation:  Fundamentals Look Strong",
-      "summary": "Transportation earnings were broadly strong, with mostly upbeat outlooks, helped by supportive supply-demand fundamentals. Yet many stocks remain range-bound and well off 52-week highs — an attractive entry point, we believe, into year's end and 2027. We offer further analysis herein.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4MDg5",
-      "tags": [
-        "Results Read-Across and Call Backs",
-        "Theme Investing",
-        "Trucking",
-        "Shipping",
-        "Motorways",
-        "Airports",
-        "Transportation",
-        "Logistics -- Air & Surface",
-        "Railroads"
-      ],
-      "publish_time": "2026-11-10 16:00",
-      "thumbnail": "https://ir.citi.com/bVhDZEQxJHZdFGtjZKJmMeLggoDFQdbC4SU3h9MJU28Kpc9sAt3Lo6P3JFt7ipfIa-xVLB3P9YFaP_gl52iZIg%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30478021",
-      "title": "NVIDIA Investors Will Focus on Multiple Topics",
-      "summary": "We expect a modest EPS beat from Nvidia, with higher sales offset by lower gross margins due to HBM price increases. We review topics of likely interest to investors, including the question of long-term leadership stability. We trim our target price for Buy-rated NVDA to $285.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4MDIx",
-      "tags": [
-        "Earnings Preview",
-        "Target Price Change",
-        "Semiconductors"
-      ],
-      "publish_time": "2026-11-10 05:00",
-      "thumbnail": "https://ir.citi.com/7fwq_5r2TJFyLNBeIbH1Esc098b_p5quyOk2wimvXojFFqkbdJ4CPdjDH4SDYsNnJYFjHDANc6xmAocarilJnQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30477819",
-      "title": "Essential Energy: Imagining a Post-Conflict Oil World",
-      "summary": "In a post-conflict oil world with prices in the mid-70s, Global IOCs could offer 7-8% free cash flow yield and, for a time, 4-5% in real growth. This all-in return looks comfortably above the sector's cost of equity and could help begin to reverse the group's 10-year secular de-rating.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc3ODE5",
-      "tags": [
-        "Geopolitics",
-        "Integrated Oil & Gas"
-      ],
-      "publish_time": "2026-11-10 00:00",
-      "thumbnail": "https://ir.citi.com/VWY6bRusXcDx2bD0KrnOiA1QICqP5cfkhYkODUNB_cNQEeONZcR6uEIW2rf2K4nqDTT8l01eqnl_Z9CZxTCTkQ%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30477918",
-      "title": "Deep Dive: What's Ahead for Estée Lauder in China?",
-      "summary": "We offer takeaways from Estée Lauder's Capital Markets Experience and conduct a Deep Dive into its business in China and Travel Retail. We reiterate our Buy rating and raise our target price to $132, as we see meaningful progress under EL's Beauty Reimagined strategy.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc3OTE4",
-      "tags": [
-        "Deep Dive",
-        "Household & Personal Care",
-        "Target Price Change",
-        "Estimate Change"
-      ],
-      "publish_time": "2026-11-10 05:00",
-      "thumbnail": "https://ir.citi.com/roGSWsFmR408XJniZK0i-Y13DhwkUlr2YY6_2HXIE2BxIcTTW-zWNFTA3v5T6LON5KmW-iCj_rE5cptVV68PvA%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30477798",
-      "title": "Mexico Telecom: Diversification, Dividends and Consolidation",
-      "summary": "Our Deep Dive into Mexico telecommunications sees strong competitive dynamics as likely to persist in a decelerating market, thus intensifying the impacts and compounding the effects. As explored herein, we expect cable market consolidation to become an industry theme.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc3Nzk4",
-      "tags": [
-        "Deep Dive",
-        "Estimate Change",
-        "Target Price Change",
-        "Emerging Markets",
-        "Cable & Satellite TV",
-        "Telecommunications",
-        "Telecommunications Operators"
-      ],
-      "publish_time": "2026-11-09 18:15",
-      "thumbnail": "https://ir.citi.com/rzGUwmyqkK8Khj6PlTkjQiowgn9s0fNdV0mATzwBJx1SH56-0eLkKcqRVuoQ1K6v9AyiCeLZFLrRFhqLwm5z3Q%3D%3D"
-    },
-    {
-      "platform": "Citi",
-      "doc_id": "30478150",
-      "title": "China Economics: AI Exports Stay Strong But Trade Headwinds Build",
-      "summary": "China’s export engine remained resilient in October, with AI-related products driving another month of strong growth. We see the near-term trade environment as staying supportive, but headwinds could intensify in 2027. We expect export growth to slow toward 8%, and note trade-policy risks.",
-      "link": "https://www.citivelocity.com/rendition/eppublic/documentService/ZG9jX2lkPTMwNDc4MTUw",
-      "tags": [
-        "China Economics",
-        "Trade",
-        "Artificial Intelligence (AI)",
-        "Economic Analysis",
-        "Supply Chains"
-      ],
-      "publish_time": "2026-11-10 04:01",
-      "thumbnail": "https://ir.citi.com/12j73_l7gyr-58fptgq3wXmFxC4NrLT_sh2N_dqe_Do_n_mgmPaR8P97ZtHxDCHEOOfy6Q3FBFoUr39bQT4CgA%3D%3D"
     }
   ]
 }
