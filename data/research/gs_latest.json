@@ -1,6 +1,34 @@
 {
-  "fetched_at": "2026-11-16T22:33:10.377655+00:00",
+  "fetched_at": "2026-11-17T10:33:14.055892+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "6c252aca-3d1c-4093-a76f-16076ec6c730",
+      "title": "Japan Real Estate Investment Corp. (8952.T): In line: EPU/DPU growth targets raised on accelerating rent increases; Buy",
+      "summary": "After the market close on 11/16, the company announced its FP9/26 results. FP9/26 DPS of ¥2,561 missed our prior estimate (¥2,709) by 5.4%, but overall results were broadly in line. FP3/27 and FP9/27 guidance for DPS is ...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/17/6c252aca-3d1c-4093-a76f-16076ec6c730.html",
+      "authors": [
+        {
+          "name": "Sachiko Okada",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Sayako Tominaga",
+          "department": "Real Estate",
+          "division": "Research"
+        },
+        {
+          "name": "Misato Okamoto",
+          "department": "Real Estate",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "Real Estate"
+      ],
+      "publish_time": "2026-11-17"
+    },
     {
       "platform": "GS",
       "doc_id": "40f67912-e602-41a9-8f84-ce429e5db8ad",
@@ -1181,39 +1209,6 @@
       "title": "VICI Properties Inc. (VICI): 3Q26 update: Funding sources and uses in focus",
       "summary": "Post 3Q26 earnings results, we update our model and include highlights from the earnings call such as: acquisitions (sports), other capital allocation (share buybacks, build to suit), funding (FCF, loan repayments, asset...",
       "link": "https://marquee.gs.com/content/research/en/reports/2026/10/29/204a2372-02f8-4924-a4dd-2e0ac9954e1c.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-10-29"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "d0c3371b-b89d-44d5-aee6-bd881020c816",
-      "title": "Extra Space Storage Inc. (EXR): 3Q26 Update: Recovering SS but limited acquisitions and developments",
-      "summary": "Following EXR earnings, we discuss highlights from the earnings call and update our estimates. Management provided details on demand (SS revenue, move in rates, market performance), supply, external growth (acquisitions,...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/10/29/d0c3371b-b89d-44d5-aee6-bd881020c816.html",
       "authors": [
         {
           "name": "Caitlin Burrows",
