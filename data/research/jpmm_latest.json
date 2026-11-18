@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T22:34:27.161819+00:00",
+  "fetched_at": "2026-11-18T10:34:11.187621+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -113,52 +113,11 @@
         }
       ],
       "tags": [
-        "APAC Utilities & Renewables | Sustainable Investing",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
+        "APAC Utilities & Renewables | Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery"
       ],
       "publish_time": "2026-11-09"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5524788-0",
-      "publication_id": "GPS-5542201-0",
-      "title": "China A-shares Thematic Strategy",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5524788-0",
-      "authors": [
-        {
-          "name": "Erin Zhang, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "erin.zhang@jpmorgan.com"
-        },
-        {
-          "name": "Chloe Liu, CFA",
-          "team": "China & HK Equity strategy",
-          "email": "chloe.x.liu@jpmorgan.com"
-        },
-        {
-          "name": "Tim Huang",
-          "team": "China & HK Equity strategy",
-          "email": "tim.huang@jpmorgan.com"
-        },
-        {
-          "name": "Rajiv Batra",
-          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-          "email": "rajiv.j.batra@jpmorgan.com"
-        },
-        {
-          "name": "Alex Yao",
-          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
-          "email": "alex.yao@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Head of China Equity Research and Co-Head of Asia TMT Research",
-        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
-        "China & HK Equity strategy"
-      ],
-      "publish_time": "2026-11-04"
     },
     {
       "platform": "JPM",
@@ -200,11 +159,52 @@
         }
       ],
       "tags": [
-        "China & HK Equity strategy",
-        "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
-        "Consumer",
+        "Consumer, Retail, Media",
         "China Consumer Research",
-        "Consumer, Retail, Media"
+        "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
+        "China & HK Equity strategy",
+        "Consumer"
+      ],
+      "publish_time": "2026-11-04"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5524788-0",
+      "publication_id": "GPS-5542201-0",
+      "title": "China A-shares Thematic Strategy",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5524788-0",
+      "authors": [
+        {
+          "name": "Erin Zhang, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "erin.zhang@jpmorgan.com"
+        },
+        {
+          "name": "Chloe Liu, CFA",
+          "team": "China & HK Equity strategy",
+          "email": "chloe.x.liu@jpmorgan.com"
+        },
+        {
+          "name": "Tim Huang",
+          "team": "China & HK Equity strategy",
+          "email": "tim.huang@jpmorgan.com"
+        },
+        {
+          "name": "Rajiv Batra",
+          "team": "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+          "email": "rajiv.j.batra@jpmorgan.com"
+        },
+        {
+          "name": "Alex Yao",
+          "team": "Head of China Equity Research and Co-Head of Asia TMT Research",
+          "email": "alex.yao@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "China & HK Equity strategy",
+        "Head of Asia and Co-Head of Global Emerging Markets Equity Strategy",
+        "Head of China Equity Research and Co-Head of Asia TMT Research"
       ],
       "publish_time": "2026-11-04"
     }
