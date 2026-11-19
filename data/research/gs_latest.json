@@ -1,6 +1,105 @@
 {
-  "fetched_at": "2026-11-19T10:33:06.441842+00:00",
+  "fetched_at": "2026-11-19T22:33:33.280327+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "83069f0c-c736-4c30-bb81-7781733f5d03",
+      "title": "Real Estate: REITs: NAREIT Management meeting takeaways: PSA, KIM, GLPI, EPRT, SAFE",
+      "summary": "On November 17 & 18, 2026, we hosted meetings with REIT investors and management teams, including KIM, EPRT, PSA, GLPI, and SAFE. See inside for key takeaways from these meetings.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/19/83069f0c-c736-4c30-bb81-7781733f5d03.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-19"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "4b1dfd73-259e-4ce4-a52d-8170f64211fa",
+      "title": "BXP Inc. (BXP): NAREIT Management meeting takeaways: Occupancy ahead of targets; GM Building in focus",
+      "summary": "On November 18, 2026, we hosted a meeting with BXP management and investors. Key topics included occupancy targets and the leasing pipeline, 2027 expirations and early renewals, Weil Gotshal and the GM Building refinanci...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/19/4b1dfd73-259e-4ce4-a52d-8170f64211fa.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-19"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "fc5521e7-0650-4e72-b53c-e83bb8e32c68",
+      "title": "First Industrial Realty Trust (FR): NAREIT Management meeting takeaways: Leasing spreads & development starts in focus",
+      "summary": "On November 17, 2026, we hosted a meeting with First Industrial management and investors. Key topics include tenant demand, leasing spreads, rent growth, developments, and data centers.",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/19/fc5521e7-0650-4e72-b53c-e83bb8e32c68.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-19"
+    },
     {
       "platform": "GS",
       "doc_id": "2fa85311-a446-4010-bd5b-998d026cd701",
@@ -1138,100 +1237,6 @@
         },
         {
           "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-11-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "d5d146b0-6863-4600-93a8-0065d229a7b1",
-      "title": "Omega Healthcare Investors Inc. (OHI): 3Q26 First Take: Beat & raise; accretive portfolio actions and investments",
-      "summary": "OHI reported a 3Q AFFO beat and raised 2026 AFFO guidance, but we see the bigger positive as the significant acceleration in capital deployments and accretive portfolio actions taken (triple net to SHOP conversions and S...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/03/d5d146b0-6863-4600-93a8-0065d229a7b1.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-11-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "7d26d8ab-74d2-48fb-b037-823cdf59ec6f",
-      "title": "Kimco Realty Corp. (KIM): 3Q26 Update: Continued strength in SS with additional upside from capital recycling",
-      "summary": "On 10/29/26, KIM reported 3Q26 FFO/share of $0.47, 2.2%/2.6% above GSe/FactSet consensus of $0.46. KIM also raised its 2026 FFO/share guidance to $1.84-$1.86, versus GSe/consensus at the time of $1.84/$1.83, reflecting 3...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/03/7d26d8ab-74d2-48fb-b037-823cdf59ec6f.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-11-03"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "eb9deae7-646a-42be-823b-38f99419c019",
-      "title": "Vornado Realty Trust (VNO): 3Q26 First Take: Leasing economics improved in 3Q",
-      "summary": "VNO reported 3Q26 Core FFOPS of $0.65, which is 0.3%/3.8% above the GS/FactSet consensus estimate of $0.65/$0.63. The small net variance vs our estimates was driven by offsetting line items, including somewhat lower cons...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/03/eb9deae7-646a-42be-823b-38f99419c019.html",
-      "authors": [
-        {
-          "name": "Caitlin Burrows",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Jeremy Kuhl",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Harrison Slater",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shailee LNU",
           "department": "REITs",
           "division": "Research"
         }
