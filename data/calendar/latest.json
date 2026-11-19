@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-19T22:31:43.177872+00:00",
-  "window_start": "2026-11-13",
-  "window_end": "2026-12-18",
+  "fetched_at": "2026-11-19T22:34:59.619765+00:00",
+  "window_start": "2026-11-12",
+  "window_end": "2026-12-17",
   "source": "schedule.yml",
   "events": [
     {
@@ -37,13 +37,6 @@
       "country": "EU",
       "indicator_id": "ecb",
       "time_kst": "22:15",
-      "note": ""
-    },
-    {
-      "date": "2026-12-18",
-      "country": "JP",
-      "indicator_id": "boj",
-      "time_kst": "12:00",
       "note": ""
     }
   ]
