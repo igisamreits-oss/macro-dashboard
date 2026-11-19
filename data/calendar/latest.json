@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-18T22:34:46.520278+00:00",
-  "window_start": "2026-11-11",
-  "window_end": "2026-12-16",
+  "fetched_at": "2026-11-19T05:45:58.604852+00:00",
+  "window_start": "2026-11-12",
+  "window_end": "2026-12-17",
   "source": "schedule.yml",
   "events": [
     {
@@ -24,6 +24,20 @@
       "indicator_id": "fomc",
       "time_kst": "04:00",
       "note": "SEP (EST)"
+    },
+    {
+      "date": "2026-12-17",
+      "country": "UK",
+      "indicator_id": "boe",
+      "time_kst": "21:00",
+      "note": ""
+    },
+    {
+      "date": "2026-12-17",
+      "country": "EU",
+      "indicator_id": "ecb",
+      "time_kst": "22:15",
+      "note": ""
     }
   ]
 }
