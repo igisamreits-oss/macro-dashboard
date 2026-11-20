@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T22:34:32.488756+00:00",
+  "fetched_at": "2026-11-20T10:34:14.016726+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -29,35 +29,6 @@
         "Airfreight & Surface Transportation / Shipping"
       ],
       "publish_time": "2026-11-16"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5527239-0",
-      "publication_id": "GPS-5530680-0",
-      "title": "Japan",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5527239-0",
-      "authors": [
-        {
-          "name": "Ayako Fujita",
-          "team": "Economic and Policy Research",
-          "email": "ayako.fujita@jpmorgan.com"
-        },
-        {
-          "name": "Takuho Morimoto",
-          "team": "Economic and Policy Research",
-          "email": "takuho.morimoto@jpmorgan.com"
-        },
-        {
-          "name": "Masato Takahashi",
-          "team": "Economic and Policy Research",
-          "email": "masato.takahashi@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "Economic and Policy Research"
-      ],
-      "publish_time": "2026-11-06"
     },
     {
       "platform": "JPM",
@@ -113,9 +84,9 @@
         }
       ],
       "tags": [
-        "APAC Utilities & Renewables | Sustainable Investing",
         "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Asia Energy & Chemicals | Asia EV Battery"
+        "Head of Asia Energy & Chemicals | Asia EV Battery",
+        "APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-11-09"
     }
