@@ -1,6 +1,46 @@
 {
-  "fetched_at": "2026-11-20T10:34:14.016726+00:00",
+  "fetched_at": "2026-11-20T22:34:06.576956+00:00",
   "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5543464-0",
+      "publication_id": "GPS-5551145-0",
+      "title": "2027 U.S. Biotech Outlook",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5543464-0",
+      "authors": [
+        {
+          "name": "Jessica Fye",
+          "team": "Biotechnology - Large Cap",
+          "email": "jessica.m.fye@jpmorgan.com"
+        },
+        {
+          "name": "Anupam Rama",
+          "team": "SMid Biotechnology",
+          "email": "anupam.rama@jpmorgan.com"
+        },
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Brian Cheng",
+          "team": "SMid Biotechnology",
+          "email": "brian.cheng@jpmorgan.com"
+        },
+        {
+          "name": "Priyanka Grover, Ph.D.",
+          "team": "SMid Biotechnology",
+          "email": "priyanka.grover@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
+      ],
+      "publish_time": "2026-11-20"
+    },
     {
       "platform": "JPM",
       "doc_id": "GPS-5533358-0",
