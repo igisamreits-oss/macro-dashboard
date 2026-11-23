@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T10:34:11.331751+00:00",
+  "fetched_at": "2026-11-23T22:34:10.214970+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,8 +36,8 @@
         }
       ],
       "tags": [
-        "Biotechnology - Large Cap",
-        "SMid Biotechnology"
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
       ],
       "publish_time": "2026-11-20"
     },
@@ -127,37 +127,6 @@
         "Economic and Policy Research"
       ],
       "publish_time": "2026-11-13"
-    },
-    {
-      "platform": "JPM",
-      "doc_id": "GPS-5522783-0",
-      "publication_id": "GPS-5542201-0",
-      "title": "China Gas Utilities",
-      "summary": "",
-      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5522783-0",
-      "authors": [
-        {
-          "name": "Michelle Wong",
-          "team": "APAC Utilities & Renewables | Sustainable Investing",
-          "email": "michelle.wong@jpmorgan.com"
-        },
-        {
-          "name": "Alan Hon",
-          "team": "Head of APAC Utilities & Renewables | Sustainable Investing",
-          "email": "alan.hon@jpmorgan.com"
-        },
-        {
-          "name": "Parsley Ong",
-          "team": "Head of Asia Energy & Chemicals | Asia EV Battery",
-          "email": "parsley.rh.ong@jpmorgan.com"
-        }
-      ],
-      "tags": [
-        "APAC Utilities & Renewables | Sustainable Investing",
-        "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing"
-      ],
-      "publish_time": "2026-11-09"
     }
   ]
 }
