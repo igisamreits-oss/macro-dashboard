@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T13:08:18.035852+00:00",
+  "fetched_at": "2026-11-23T10:34:11.331751+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -72,6 +72,35 @@
     },
     {
       "platform": "JPM",
+      "doc_id": "GPS-5544626-0",
+      "publication_id": "GPS-5551268-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5544626-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Masato Takahashi",
+          "team": "Economic and Policy Research",
+          "email": "masato.takahashi@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-11-20"
+    },
+    {
+      "platform": "JPM",
       "doc_id": "GPS-5534838-0",
       "publication_id": "GPS-5540518-0",
       "title": "Japan",
@@ -124,9 +153,9 @@
         }
       ],
       "tags": [
+        "APAC Utilities & Renewables | Sustainable Investing",
         "Head of Asia Energy & Chemicals | Asia EV Battery",
-        "Head of APAC Utilities & Renewables | Sustainable Investing",
-        "APAC Utilities & Renewables | Sustainable Investing"
+        "Head of APAC Utilities & Renewables | Sustainable Investing"
       ],
       "publish_time": "2026-11-09"
     }
