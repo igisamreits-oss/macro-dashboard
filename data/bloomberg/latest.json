@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T22:31:21.132829+00:00",
+  "fetched_at": "2026-11-24T10:31:12.249405+00:00",
   "stats": {
     "total": 80,
     "success": 80,
@@ -388,7 +388,7 @@
       "consensus": null,
       "release_date": "2026-11-20",
       "actual_release_date": "2026-11-23",
-      "next_release_date": "2026-11-23",
+      "next_release_date": "2026-11-30",
       "next_release_time": "22:00"
     },
     "uk_gfk": {
@@ -528,74 +528,74 @@
       "as_of": "2026-11-20"
     },
     "uk_pol_sonia": {
-      "value": 3.9837,
-      "change_1d": -0.0004,
-      "as_of": "2026-11-20"
+      "value": 3.9847,
+      "change_1d": 0.001,
+      "as_of": "2026-11-23"
     },
     "eu_pol_estr": {
-      "value": 2.444,
-      "change_1d": 0.003,
-      "as_of": "2026-11-20"
+      "value": 2.443,
+      "change_1d": -0.001,
+      "as_of": "2026-11-23"
     },
     "kr_pol_cd91": {
       "value": 3.39,
       "change_1d": 0.0,
-      "as_of": "2026-11-23"
+      "as_of": "2026-11-24"
     },
     "sg_pol_sora": {
-      "value": 1.466,
-      "change_1d": -0.0378,
-      "as_of": "2026-11-20"
+      "value": 1.6151,
+      "change_1d": 0.1491,
+      "as_of": "2026-11-23"
     },
     "hk_pol_hibor3m": {
       "value": 3.3886,
-      "change_1d": 0.0386,
-      "as_of": "2026-11-23"
+      "change_1d": 0.0,
+      "as_of": "2026-11-24"
     },
     "se_pol_stib3m": {
-      "value": 2.188,
-      "change_1d": -0.012,
-      "as_of": "2026-11-20"
+      "value": 2.207,
+      "change_1d": 0.019,
+      "as_of": "2026-11-23"
     },
     "us_be_10y": {
-      "value": 2.1366,
-      "change_1d": -0.0243,
-      "as_of": "2026-11-23"
+      "value": 2.1371,
+      "change_1d": 0.0005,
+      "as_of": "2026-11-24"
     },
     "uk_be_10y": {
-      "value": 3.155,
-      "change_1d": -0.03,
-      "as_of": "2026-11-23"
+      "value": 3.144,
+      "change_1d": -0.011,
+      "as_of": "2026-11-24"
     },
     "eu_be_10y": {
-      "value": 1.265,
-      "change_1d": -0.015,
-      "as_of": "2026-11-23"
+      "value": 1.266,
+      "change_1d": 0.001,
+      "as_of": "2026-11-24"
     },
     "de_be_10y": {
-      "value": 1.9095,
-      "change_1d": -0.0148,
-      "as_of": "2026-11-23"
+      "value": 1.8951,
+      "change_1d": -0.0144,
+      "as_of": "2026-11-24"
     },
     "fr_be_10y": {
-      "value": 1.94,
-      "change_1d": -0.031,
-      "as_of": "2026-11-23"
+      "value": 1.943,
+      "change_1d": 0.003,
+      "as_of": "2026-11-24"
     },
     "au_be_10y": {
-      "value": 2.214,
-      "change_1d": -0.035,
-      "as_of": "2026-11-23"
+      "value": 2.218,
+      "change_1d": 0.005,
+      "as_of": "2026-11-24"
     },
     "jp_be_10y": {
-      "value": 1.803,
-      "change_1d": -0.039,
-      "as_of": "2026-11-20"
+      "value": 1.732,
+      "change_1d": -0.071,
+      "as_of": "2026-11-24"
     },
     "se_be_10y": {
-      "value": 1.923,
-      "change_1d": -0.006,
-      "as_of": "2026-11-23"
+      "value": 1.918,
+      "change_1d": -0.005,
+      "as_of": "2026-11-24"
     },
     "us_mort_30y": {
       "value": 7.28,
@@ -607,37 +607,37 @@
     "fomc": {
       "rate": 4.0,
       "consensus_rate": 4.25,
-      "implied_1y": 4.5263,
+      "implied_1y": 4.5055,
       "next_meeting": null
     },
     "ecb": {
       "rate": 2.5,
       "consensus_rate": null,
-      "implied_1y": 2.9043,
+      "implied_1y": 2.898,
       "next_meeting": null
     },
     "boe": {
       "rate": 4.0,
       "consensus_rate": null,
-      "implied_1y": 4.639,
+      "implied_1y": 4.6419,
       "next_meeting": null
     },
     "rba": {
       "rate": 4.85,
       "consensus_rate": null,
-      "implied_1y": 4.803,
+      "implied_1y": 4.7843,
       "next_meeting": null
     },
     "boj": {
       "rate": 1.25,
       "consensus_rate": null,
-      "implied_1y": 1.63,
+      "implied_1y": 1.6075,
       "next_meeting": null
     },
     "boc": {
       "rate": 2.5,
       "consensus_rate": 2.75,
-      "implied_1y": 2.9755,
+      "implied_1y": 2.965,
       "next_meeting": null
     }
   }
