@@ -1,6 +1,72 @@
 {
-  "fetched_at": "2026-11-24T22:33:11.070330+00:00",
+  "fetched_at": "2026-11-25T10:33:12.139132+00:00",
   "items": [
+    {
+      "platform": "GS",
+      "doc_id": "71ffa759-1f59-4170-bd46-93b8eec92600",
+      "title": "Lineage Inc. (LINE): USDA Check-In for October '26: Strongest month of YoY growth for all warehouses since December 2022",
+      "summary": "Given investor focus on LINE’s occupancy and inventory trends, we review October USDA data (released on 11/24/26), compare the results with historical patterns, and assess how 2026 seasonality is developing. While monthl...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/24/71ffa759-1f59-4170-bd46-93b8eec92600.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-24"
+    },
+    {
+      "platform": "GS",
+      "doc_id": "9df881b2-3fb9-4770-80dd-a678f56d32ad",
+      "title": "SL Green Realty Corp. (SLG): 3Q26 Update: Leasing volume and pricing going well, but there are various other line items driving the bottom line",
+      "summary": "Following 3Q26 earnings, we update our SLG model and price target, and review takeaways from the earnings call. We flag that while we expect SS NOI growth to accelerate in 2027 as a result of leasing success, there are v...",
+      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/24/9df881b2-3fb9-4770-80dd-a678f56d32ad.html",
+      "authors": [
+        {
+          "name": "Caitlin Burrows",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Jeremy Kuhl",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Harrison Slater",
+          "department": "REITs",
+          "division": "Research"
+        },
+        {
+          "name": "Shailee LNU",
+          "department": "REITs",
+          "division": "Research"
+        }
+      ],
+      "tags": [
+        "REITs"
+      ],
+      "publish_time": "2026-11-24"
+    },
     {
       "platform": "GS",
       "doc_id": "a27a6f6d-f338-4160-96e2-d8a18a6b1266",
@@ -1182,62 +1248,6 @@
       ],
       "tags": [
         "REITs"
-      ],
-      "publish_time": "2026-11-04"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "fe933a7b-4692-4a5b-8207-16e0582599bd",
-      "title": "American Homes 4 Rent (AMH): 3Q26 First Take: Lower taxes and solid operating update drive guidance raise",
-      "summary": "AMH announced Core FFO of $0.50, beating GSe/Visible Alpha consensus of $0.48/$0.49 by +3.2%/+2.8%, driven primarily by lower-than-expected same-home expense growth (from lower tax expense growth, as we noted in our 3Q P...",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/04/fe933a7b-4692-4a5b-8207-16e0582599bd.html",
-      "authors": [
-        {
-          "name": "Julien Blouin",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Ryan Treais",
-          "department": "REITs",
-          "division": "Research"
-        },
-        {
-          "name": "Shikhar Gupta",
-          "department": "REITs",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "REITs"
-      ],
-      "publish_time": "2026-11-04"
-    },
-    {
-      "platform": "GS",
-      "doc_id": "f4f4b3df-b019-46f2-b0ec-23ead5b29beb",
-      "title": "Australia and New Zealand Economics Analyst: NZ Election Preview: Too Close to Call",
-      "summary": "New Zealand’s 7 November election appears too close to call. Our Monte Carlo simulations of recent polling lean slightly towards a Labour-led outcome, while prediction markets slightly favour a continuation of the current National-led government.",
-      "link": "https://marquee.gs.com/content/research/en/reports/2026/11/04/f4f4b3df-b019-46f2-b0ec-23ead5b29beb.html",
-      "authors": [
-        {
-          "name": "Andrew Boak",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Will Maher",
-          "department": "Asia Economics",
-          "division": "Research"
-        },
-        {
-          "name": "Oscar To",
-          "department": "Asia Economics",
-          "division": "Research"
-        }
-      ],
-      "tags": [
-        "Asia Economics"
       ],
       "publish_time": "2026-11-04"
     }
