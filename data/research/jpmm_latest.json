@@ -1,4 +1,173 @@
 {
-  "fetched_at": "2026-11-27T10:34:08.267582+00:00",
-  "items": []
+  "fetched_at": "2026-11-27T22:34:33.103862+00:00",
+  "items": [
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5543464-0",
+      "publication_id": "GPS-5551145-0",
+      "title": "2027 U.S. Biotech Outlook",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5543464-0",
+      "authors": [
+        {
+          "name": "Jessica Fye",
+          "team": "Biotechnology - Large Cap",
+          "email": "jessica.m.fye@jpmorgan.com"
+        },
+        {
+          "name": "Anupam Rama",
+          "team": "SMid Biotechnology",
+          "email": "anupam.rama@jpmorgan.com"
+        },
+        {
+          "name": "Tessa T Romero",
+          "team": "SMid Biotechnology",
+          "email": "tessa.t.romero@jpmchase.com"
+        },
+        {
+          "name": "Brian Cheng",
+          "team": "SMid Biotechnology",
+          "email": "brian.cheng@jpmorgan.com"
+        },
+        {
+          "name": "Priyanka Grover, Ph.D.",
+          "team": "SMid Biotechnology",
+          "email": "priyanka.grover@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "SMid Biotechnology",
+        "Biotechnology - Large Cap"
+      ],
+      "publish_time": "2026-11-20"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5556323-0",
+      "publication_id": "GPS-5559836-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5556323-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Masato Takahashi",
+          "team": "Economic and Policy Research",
+          "email": "masato.takahashi@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-11-27"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5533358-0",
+      "publication_id": "KAL-1-75WX91VF",
+      "title": "Transportation & Logistics",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5533358-0",
+      "authors": [
+        {
+          "name": "Brian P. Ossenbeck, CFA",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brian.p.ossenbeck@jpmorgan.com"
+        },
+        {
+          "name": "Grady Carr",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "grady.carr@jpmchase.com"
+        },
+        {
+          "name": "Brandon Wexler",
+          "team": "Airfreight & Surface Transportation / Shipping",
+          "email": "brandon.wexler@jpmchase.com"
+        }
+      ],
+      "tags": [
+        "Airfreight & Surface Transportation / Shipping"
+      ],
+      "publish_time": "2026-11-16"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5544626-0",
+      "publication_id": "GPS-5551268-0",
+      "title": "Japan",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5544626-0",
+      "authors": [
+        {
+          "name": "Ayako Fujita",
+          "team": "Economic and Policy Research",
+          "email": "ayako.fujita@jpmorgan.com"
+        },
+        {
+          "name": "Masato Takahashi",
+          "team": "Economic and Policy Research",
+          "email": "masato.takahashi@jpmorgan.com"
+        },
+        {
+          "name": "Takuho Morimoto",
+          "team": "Economic and Policy Research",
+          "email": "takuho.morimoto@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Economic and Policy Research"
+      ],
+      "publish_time": "2026-11-20"
+    },
+    {
+      "platform": "JPM",
+      "doc_id": "GPS-5541956-0",
+      "publication_id": "GPS-5559681-0",
+      "title": "APR vs. Pop Mart: A Tale of Two Viral Success Stories",
+      "summary": "",
+      "link": "https://markets.jpmorgan.com/research/open?documentId=GPS-5541956-0",
+      "authors": [
+        {
+          "name": "Tae Wook Kim",
+          "team": "Banks and Healthcare",
+          "email": "taewook.kim@jpmorgan.com"
+        },
+        {
+          "name": "Jihyun Cho",
+          "team": "Banks and Healthcare",
+          "email": "jihyun.cho@jpmorgan.com"
+        },
+        {
+          "name": "Jessie Xu",
+          "team": "China Consumer Research",
+          "email": "jessie.j.xu@jpmorgan.com"
+        },
+        {
+          "name": "Sylvia Hu",
+          "team": "China Consumer Research",
+          "email": "sylvia.hu@jpmorgan.com"
+        },
+        {
+          "name": "DS Kim",
+          "team": "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
+          "email": "ds.kim@jpmorgan.com"
+        }
+      ],
+      "tags": [
+        "Banks and Healthcare",
+        "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
+        "China Consumer Research"
+      ],
+      "publish_time": "2026-11-19"
+    }
+  ]
 }
