@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T22:34:33.103862+00:00",
+  "fetched_at": "2026-11-28T13:08:13.176444+00:00",
   "items": [
     {
       "platform": "JPM",
@@ -36,8 +36,8 @@
         }
       ],
       "tags": [
-        "SMid Biotechnology",
-        "Biotechnology - Large Cap"
+        "Biotechnology - Large Cap",
+        "SMid Biotechnology"
       ],
       "publish_time": "2026-11-20"
     },
@@ -163,9 +163,9 @@
         }
       ],
       "tags": [
-        "Banks and Healthcare",
+        "China Consumer Research",
         "Co-Head of Asia Pacific Consumer Research and Head of Asia Gaming/Leisure Research",
-        "China Consumer Research"
+        "Banks and Healthcare"
       ],
       "publish_time": "2026-11-19"
     }
